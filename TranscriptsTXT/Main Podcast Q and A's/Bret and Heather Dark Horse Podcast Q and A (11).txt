@@ -1,0 +1,322 @@
+Bret 0:00
+Hey folks, welcome back to the Dark Horse livestream sort of podcast q&a section. With this is a video in which Heather and I are going to speak into the camera and record the answers to the questions that you filed over Super Chat. The reason that we are not doing this live is that we have experienced the most bizarre and spectacular set of seemingly unrelated technical glitches all in a row. It's hard to fathom, we've had three separate computers fail seemingly independently.
+
+Heather 0:32
+And so we know we had that many computers in the room. Well, there you go.
+
+Bret 0:35
+Now you do. Yeah. As a stopgap measure, we have decided to take up drinking like any adult would in a circumstance. So cheers. All right, I feel better already. Okay, so we are going to address I
+
+Heather 0:54
+no longer have this up because your skin's so keep talking for a minute while I find this
+
+Bret 0:59
+talk. Yeah, I'm speaking into the camera. And I'm saying things that are, you know, here's the thing. I am wondering, in light of the spectacular set of technical glitches, if we should get out of the live stream business all together, and I should take up Instagram modeling to substitute for the income,
+
+Heather 1:18
+like whole body or hand model or any particular thing gotten
+
+Bret 1:22
+that far was just kind of thinking that through. Okay, all right. Something to think about? For sure. For sure. For sure. For sure. Yes. All right. Okay. And I apologize for that image to those of you watching at home.
+
+Heather 1:33
+Oh, well, I mean, last time, you put in everyone's head, the idea of Sam Harris and a French maid outfit. I did. And now it's you as an Instagram model. Awesome. Certain? I think that's fine. Okay. Fair enough. It's fine for me. Okay, so I was actually going to start by addressing a question that came in in the last live streams q&a about why India and other Southeast Asian countries have apparently such lower rates of COVID-19. And infection by SARS, cope two than one would normally expect. So I'm gonna just start by reading you, I can find my list here. And list of possibilities that's been that was in print sent to us by our friend Keiko. It's not it's still a newspaper article. I haven't found anything written in the scientific literature about this. But here's a list of six possibilities that I'm just going to fly by you. And let's see, let's talk a little bit about what you think of each of them after I read all of them. Great. I suspect we will have similar responses. So why does India and other Southeast Asian countries but especially linea, India have lower than expected rates of COVID-19. warmer and more humid weather protection offered by the old TB vaccine, that's the BCG vaccine, which we've talked about before here. More people in India will have had the BCG vaccine of all ages, then it's only people above a certain age, I don't even know what in the US that would have had BCG. Potentially better immune response among those in the Indian subcontinent, compared to people say in Europe or the US a weaker strain of the virus in India, more effective and earlier, physical distancing relative to when COVID-19 was first spreading to these countries. So this, again, raises this question of, if it didn't get to India until say, late March, at the point that the rest of the world had mostly figured out what was going on. India was in a much better position to watch and to put in place, social distancing, and lockdown measures that looked like it was at the same time as other countries, but was in fact laid up earlier relative to when the infection hit their country. And then finally, lower testing numbers as compared to the rest of the world, which is both true but seems by all accounts to be insufficient. So it is a partial explanatory, but not wholly explanatory of the lower than expected rates of COVID-19. Any reactions?
+
+Bret 4:04
+Yeah, well, first of all that list is Are any of the mutually exclusive? I don't think so. I don't think so. So we're looking for a set that explains the discrepancy between the numbers we see and the numbers that that we expect,
+
+Heather 4:21
+and it's also not not only a nun, not only are none of these mutually exclusive, but I don't think this is likely to be an exhaustive list.
+
+Bret 4:28
+Right? I would say I'm doubtful about the issue of warmer and more humid I see that invoked periodically. I've heard it invoked over Florida. But then there's Guayaquil. Exactly Yeah, and Guayaquil is remains a a terrible situation and suggest that at least if there is any benefit to warmer and more humid that it's really limited.
+
+Heather 4:53
+And to the degree that we can control for geography, as we were trying to do in the first part of this livestream. Like come You're in Norway and Sweden or Sweden and Denmark. Quito, Quito and Guayaquil, being Ecuador's Largest cities keep those altitudes, close to eight 9000 feet, and Guayaquil is in the lowlands close to zero feet in altitude. Quito has a far less severe situation on its hands than Guayaquil, and there may well be other factors. But certainly, the warmer lowland climate of gakyil seems to have been if anything, anti protective rather than protective.
+
+Bret 5:27
+Yeah, I would say India is also tremendously diverse in terms of its climate, certainly have as places that matter that description. But anyway, it's easily tested, because the variation ought to give you a consistent pattern if that's what's causing it.
+
+Heather 5:43
+I wouldn't say in response to that, though, that while I doubt that war, more and more humanism explanation, it might be that that is a proxy for people being outside. And that being outside more may well be protective. And that also may be explained to her with regard to Florida.
+
+Bret 6:01
+Yeah, in fact, I was speaking to our friend Dave was in Florida was asking about what I thought might be going on there. And I said that very same thing. But it may be that it leads people to be outside. All right, the TB vaccine. This also seems like it ought to be pretty easy to test especially, I think we've talked about it on the podcast before that, in places where this old test or this old vaccine was used, there are certainly people who've arrived more recently and haven't had it and you got to be able to test populations against each other and figure out what fraction of the pattern is accounted for exactly. But I'm basically favorable to the idea that there's some interaction based on what I've seen, potentially better immune response, again, easily tested. I'm dubious. But it is not impossible.
+
+Heather 6:50
+But But why? Right? Like why why would we expect people on the Indian subcontinent to have a better immune response, then Germans or Americans or Japanese people? Yeah,
+
+Bret 7:02
+I mean, I guess I wonder a little bit whether it stops at the border with Pakistan.
+
+Heather 7:06
+Yeah. Although a lot of Southeast Asian countries and I guess India, South Asian, but South Asian and South Asian countries seem to have a lower than expected rates.
+
+Bret 7:16
+Okay. See, weaker strain of the virus. possible. But doubtful would be very hopeful of the answers on this list. Maybe the best in the sense that it's functioning in some sense, as a vaccine, creating more herd immunity with less illness. But
+
+Heather 7:37
+if if, if there's a weaker strain, whatever Exactly. That means, having it provided immunity against all the strains.
+
+Bret 7:45
+Yeah. I find it doubtful button. Okay. more effective in earlier physical distancing. Relative to when COVID-19 was first spreading, this is likely what we're testing numbers, as you said is true, but probably inadequate. Yep.
+
+Heather 8:03
+Yep. All right. Okay, so that's, that's where we're at on India. Let's go to your Superjet questions. in smaller font, and a slightly smaller font. I'll try to increase the size once we're done with this one, considering Brett's academic interest in cultural evolution with Dawkins, could you discuss eo Wilson's work and your opinions of his positions on consilience and his controversial book, the social conquest of Earth? Well, I do not know the social conquest of Earth. That must be a relatively recent one. I haven't even heard of it.
+
+Bret 8:34
+I haven't read it. I'm aware of it. Let's say Wilson is a complex figure. He is one of the Great's when it comes to ant biology. He was an early pioneer in sociobiology, though he is much resented for having gotten credit, because he published a book under that name. In my opinion, late in his career, he has gone a little bit off the rails, in part because of a long standing resentment against against bill Hamilton, who got credit for kin selection, and he's embraced group selection of which I am not a fan. I do believe there is a resolution to the group selection versus kin selection debate, which has yet to be explored fully. And obviously, nothing is as we expected, but David Sloan Wilson and I were scheduled for a fall meeting on stage somewhere, my guess is at this point, we should do it online instead. So David, if you're out there, let's consider that. Let's,
+
+Heather 9:37
+let's hope that we are back interacting in real life and in real time, by the fall. I'll drink to that, I will jump to that as well. So I'm going to jump around where we will answer all the questions this time because there aren't that many of them. And because you all put up with so many technical problems here. So this one And sort of in keeping with the last question, while at academia Did you ever get caught up in the clashes against evil psych, against adaptation ism and humans by Golden Rose and I would say Lewington on one side versus eo Wilson, pinker, Dawkins and the others. It's an interesting list of characters. James SC has listed here. And this, this could be the subject of an entire series of podcasts. Anything you want to say,
+
+Bret 10:24
+yeah, in some sense. This was the water we swim in that the laboratory, the dick Alexander laboratory that we were both members of was very much at the heart of this debate. And I at Dick's memorial service some months ago, that a year ago at this point,
+
+Heather 10:48
+I guess it was last summer maybe.
+
+Bret 10:51
+A friend reminded me of an incident that I had completely forgotten where Stephen Jay Gould had come to lecture at Michigan. And I had thoroughly embarrassed him I did something that I sort of became known for, I figured out what the devastating question to ask was, and I delivered it to him. It was cool, not London, because London came to London came to and there was a whole different episode with Bloomington. But no, it was golden this case, I'd forgotten the whole thing. But in any case, yeah, it was one
+
+Heather 11:23
+of it's one of your strengths. Right is listening and waiting and figuring out exactly the right incisive question. So as to be simultaneously respectful and pointed?
+
+Bret 11:35
+Well, I mean, the thing is, there's a question that needs to be asked. And what happens is, either the person on the other end, understands the question and deals with it head on and has a good answer, which, you know,
+
+Heather 11:46
+so delightful. It's exactly what everyone wants. Yep. Or,
+
+Bret 11:50
+or they fumble and reveal that they were hiding something that they knew was a weakness in their argument, etc. So anyway, yeah, it's, it's very important stuff. I will say, I don't think either side had it right. arc we are. We come from the lineage of kin selection this, but I am persuaded that the kin selection list actually had an error that they were doing the logic, right. But they didn't extrapolate from it far enough. And that much that we trip over now is the result of the fact that they see that they've got the logic, right. But they don't understand that that doesn't mean that they missed the extrapolation. So anyway,
+
+Heather 12:29
+that is exactly some of what you were hoping to talk about with David Sloan Wilson on stage. But I would also say the question also asks, sort of at a less granular level, what about clashes against adaptation ism in humans, which could be read as the kind of stuff that we saw firsthand in our undergraduate experience working with Bob Trevor's one of the other great, you know, perhaps the greatest living evolutionary biologist. And he was constantly battling, and we would hear about these battles with the people, including some of the people we ourselves were taking classes from, who didn't actually believe that you should be talking about things like sexual selection, or reciprocal altruism, or female choice or male competition, when it came to humans, even primates in some cases. And so it's really extraordinary that in the sort of in the early 90s, you had people teaching, biological anthropology and other sort of, you know, the, the evolutionary underpinnings of what it is to be human, who were saying things like we shall not discuss sexual selection.
+
+Bret 13:34
+Yeah. And in fact, now that I look at it, because yo Wilson has come late to the group selection side, I'm actually misunderstanding the question that's really being asked which is more in the realm that you just described where a backlash against adaptation ism in humans resulted in this. This creation of factions and you're right, Lou Hinton's absence from the list is conspicuous and a problem because Lewington the famous geneticist was a major player in disrupting the understanding of how human evolution works.
+
+Heather 14:09
+Yeah, with his and Gold's paper at the spandrels of sammarco spandrels
+
+Bret 14:12
+of samridhi 283 thing. Yeah, so now that you raised the issue of that paper, I realized that I made a little video about the spandrels of sammarco when we were in Italy, and I should dredge that footage up and I should put the video out
+
+Heather 14:28
+Oh, you should Yeah, for one thing, Venice may be underwater at this point, right? You may never travel again. The Romans making me cough. Okay. Echo asks, if not in contact with another human or animals emanations. Can we catch a virus by being exposed to cold weather only? Do we host latent viruses waiting for cold weather immunity is slow mode to replicate?
+
+Bret 14:50
+No and yes, you cannot the viruses don't come out of nowhere you have to contact a particle which like everything else will have come from an Sisters, however, you can pick up a particle of certain kinds and have it wait for a moment that is advantageous to it by some program that it has inherited.
+
+Heather 15:13
+What is the evolutionary purpose of female choruses having migrated outside the vagina? Does it enable bigger group cohesion is inter female sexual play always present in species where it occurs? We can rely on echo to always pack a lot of questions into a single question.
+
+Bret 15:29
+Yeah, very efficient in this case. Echo. I assume echo is male, I guess I don't know, has introduced the concept of migrating clitoral SS. Yep. Which is quite an image, frankly.
+
+Heather 15:44
+Yeah, it's one of the best ones to be introduced in this in this podcast, and
+
+Bret 15:48
+that's fine. Yep. It's high on the list at this point. So all right, I don't
+
+Heather 15:53
+know. You know that that suggests that clitter his position relative to the Jana was ever anywhere else. And given the homology between female and male. I don't know why we should expect that it was ever internal and certainly in other, you know, other mammals, it's always where it is relative to the two structures or where they are relative to one another. I don't think anyone has ever asked where ilizarov, clitoral is or if they have that they can't actually solve a cat. So the origin is in mammals. So there's there's the lizards don't have. They have a different origin of penises and they don't have vaginas. birds have something else entirely. Just have Quakers. mammals have origin of penises and vaginas. And so it's always just where it is. I don't think they're migrating.
+
+Bret 16:51
+Yeah. What's the situation in hyenas? heavily modified external male like
+
+Heather 16:58
+male like even, like hard to distinguish males from females if you don't know exactly what you're looking for if you're not a hyena, sexual dimorphism expert. Very enlarged. Female clearances in spotted hyenas look like penises. Not so much in the other species of ins but specifically, I think it's cute acuta
+
+Bret 17:25
+spotted hyenas which have a strong degree of sex role reversal. Yep. All right. So anyway, we fumbled around the question. You fumbled around the clearest question. Oh, boy. Yeah. So anyway, yeah, I don't think that's a very good answer. I would be inclined to look a couple things up and possibly return to this question. I think there's a lot to be known that I don't know off the top of my head about what it means for other mammals to have a clitoral because obviously, most mammals don't have sex for pleasure, as far as we can tell if you do and so there's a question about what the structure is, or it might be something that's homologous but not functioning the same way?
+
+Heather 18:08
+Well, I but furnishing vanishingly little is known, given that it was very recently before most medical and scientific professionals acknowledged that it was real, and that female orgasm was real.
+
+Bret 18:20
+I have acknowledged this from the beginning. I know you
+
+Heather 18:22
+okay. But the idea that anyone is out there looking for this in other mammal species, when it wasn't even believed to be real universally in humans? Yep. Really? I'm likely. Yes. bonobos would be a good first choice to go looking to go
+
+Bret 18:39
+yes, they would almost certainly have they didn't fight. necessarily, but and bonobo professionals would be early in the acknowledgement. I would imagine. I would, I would think, yeah, yeah. But in other species, their version of patriarchy might be suppressing the information.
+
+Heather 18:55
+We should look at lemurs who suffer from no patriarchy at all right? male dominance and lamers we should Yeah, we should see what they have written about it. Good. Yeah. All right. Okay. The room is beginning to manifest. My 12 year old seeing this pow, boy,
+
+Bret 19:11
+oh, wow. I'm gonna take back everything we just said.
+
+Heather 19:15
+I'm gonna move this late a little bit later. So it's not quite such a such a counterpoint. Yep. Do you think that hybridization between species is a big contributor to genetic diversity? I have often wondered about this. Never heard it discussed. But I'm not a biologist. I love the podcasts. Thank you.
+
+Bret 19:32
+I got to respond to you. All right. So here's the thing, hybrids happen a lot more than we think. They don't always do. Well, sometimes they do really well. And there's a question about what we even mean. So in other words, if you take a cladogram that involves a lot of forks, which is sort of the Assumption cladogram being an evolutionary tree and evolutionary tree, and you zoom in, you will find that at some level, what you really have is a net. You don't have bifurcations Are those hybridization events? Well, no, you know, if you, you know, become fond of some person, you know three towns over and you made across some line that's larger than the usual distance. It's not a hybridization event. And the thing that hearts Your question is that we do not have a good definition for species. So I would say we have this funny little predicament. I've become enamored of the idea, I think I'm the inventor of the idea. speciation is a good concept species is a bad concept. Another one would be genetic is a good concept. gene is a bad concept. So these are places where something happens, we have a process that takes something that was once clearly not two species, and eventually turns it into something that clearly is two species. But in between, there's a lot of gray and all kinds of things occur. So what I would suggest is, hybridization happens at levels that are so low, we don't call it hybridization, and so late that we, you know, look at it and say that's just an anomaly like ligers, you can make a lagger. But lions and tigers don't encounter each other in the wild. So it's obviously just a curiosity. But we have every other version of this so.
+
+Heather 21:21
+So it raises, it raises questions that we could speak for an entire academic quarter semester about at some level, and the main one being what is a species and what therefore the lines between them. But one, one thing that you didn't raise, I think is that this is going to be really different in different clades. So vertebra, so what happens when you have an evolutionary tree branching. And then occasionally, some of those branches come back together to meet one another. It's called reticulation articulation event. And you see a lot less articulation, coming back together hybridization, if you will, invertebrates, then you do even invertebrates and certainly then in plants, or mushrooms or single celled organisms, either with nuclei or not. So you have all sorts of articulation events over in plant space, all sorts of hybridization events, and there are some clear and known biological reasons for this. Things like plants don't have what's called a segregated germline. They don't have separation of the basically the sexual line from the non sexual or somatic learn the soma,
+
+Bret 22:24
+which also affects the way they send nest for people who are following that thread of the conversation. Yep,
+
+Heather 22:29
+yep. And then there are a number of other biological reasons why you would expect reticulation or hybridization, loosely synonymous terms, articulation and hybridization to be more common in plants than they are animals, for instance. And vertebrates, it being extraordinarily rare at this level that we like to think of speciation happening is true. But then there's also this truth that it's happening all the time at this really close up really short timescale level. And not at all between, you know, rhinoceroses. And that's not just because of the size difference. But there's some sort of intermediate level of genetic distance where things could happen, it could work, but it's unlikely to for any number of reasons most of the time.
+
+Bret 23:14
+So I would also point out that this plays into the discussion that we've had in a couple places, including on Joe Rogan, about the different level of enthusiasm for casual sex, as between males and females.
+
+Heather 23:26
+So this is about the rhinoceroses and the bats.
+
+Bret 23:28
+No, no. In that case, I think it's a bit of a stretch but but from the point of view, in species in which males invest nothing in offspring, their willingness to hybridize will be greater, because they have less to lose. In other words, if they fertilize a female from a different species, and that tends and it ends up being a negative from the point of view of the offspring, they haven't lost very much from the female's perspective, they will have lost a great deal. But the final thing to have in this piece of conversation is that there is a very interesting phenomenon called hybrid vigor. Now hybrid vigor is especially visible where we have things like purebred strains, purebred strange, that's human beings, pure breeding something and then taking two pure breads and combining them and finding that the combination actually has extraordinary capacities. Now in part this will be because the breeding of a purebred line will result in really bad compromise so
+
+Heather 24:34
+they're Yeah, they're effectively it's very much akin to immune suppression. We're all walking around being immune suppressant, let's boost our immune system. Actually, let's, let's get it back to baseline.
+
+Bret 24:42
+Yep. Right. But so in this case, human breeding you will maximize some character at the cost of a lot of other things. And then if you combine two things in which you've maximized different characters, you'll regain some of the value that you lost. The final thing I will say is that when I was actively working on bat This is a subject we should come back to that when I was actively working on bats, it was surprising how often I would end up with a bat in the hand that did not fall out as one or the other that hovered between two known species. And the conclusion, not just mine, but also Charles Handley, who was curator of mammals at the Smithsonian, and one of my mentors, he concluded that many of these were, in fact hybrids. And the the idea is that the hybridization happens more than we think. But because it doesn't tend to stick, we don't know about it. So anyway, there's a lot to your question. It's a good one.
+
+Heather 25:38
+Yeah. And so this is a little bit related, maybe to some of how you just answered but another one from Echo, study and mosquitoes. studies on mosquitoes show positive genetic correlation between male genital length and female brain size, possibly linked to increased female cognitive ability to avoid male coercion. It's not politically correct. Can you discuss? So I mean, it sounds like the possible hypothesis that echo was alluding to is that this is sort of an arms race, that as male genital increases, female brain size increases in order to avoid coercive reproductive events. And, and you have an arms race, I don't that's certainly only one of many possible explanations, and I don't, I'd love to see what the study is to see if this is actually true. But I'm
+
+Bret 26:28
+wrestling with the idea that mosquitto cognitive ability is somehow important
+
+Heather 26:33
+is you know, I would I'm struggling with the idea of male genital lengthen the mosquito, frankly, all right,
+
+Bret 26:39
+I'm gonna try not to take that personally. In the mosquito, I don't know. You're struggling with the concept of male genital length? I
+
+Heather 26:45
+don't mosquito. All right, um, have you seen any research or data around the efficacy of vitamin C and D and preventing treating SARS Cove to
+
+Bret 26:56
+a little haven't delved into it enough. But I see people talking about vitamin D as a promising thing. I have no idea with whether this stands up to scrutiny or not yet it's on my list of things to look into. But I will say that things that we have thought were promising have turned out not to be and some of them are counterproductive. Maybe vitamin D is going to go this way. But
+
+Heather 27:16
+C D is mentioning. Yeah, we do
+
+Bret 27:19
+have this anomalous and seemingly very important fact about outdoors. That's certainly consistent with vitamin D being important.
+
+Heather 27:29
+That's right. And at this point, because this is so fast moving, and we have incomplete and often flawed data coming in. It's really hard to understand the distinction. But you know, as the question actually is explicit about, it asks about preventing and treating, and there will be some drugs which will be effective in one and not the other. Right. And we know this from malaria, for instance, we know this from all sorts of things. So it's quite possible that getting enough vitamin C, or let's let's call it vitamin D, let's getting enough vitamin D, is preventative against getting but once you get it, no amount of vitamin D is going to help you in the course of the disease. Yeah, making that up. I don't know if that's true. But it's it's quite possible that something would be effective, somewhat effective in preventing you getting it but then not effective in treating and once you got it.
+
+Bret 28:19
+I think I also recall that iron is one of these things, that an iron deficiency makes you vulnerable. So having enough iron makes you resistant to various things. But during certain infections, iron levels in the blood crash, and it's probably an adaptation, where the body is denying iron to pathogens that utilize it. And this could actually be relevant to SARS. cov. Two as we talked about an early live streams, there seems to be a connection with hemoglobin.
+
+Heather 28:49
+Absolutely. My 12 year old is seeing this podcast the first time says this is boring. By the second time she was laughing at Brett's jokes in the q&a. Now she's a fan. Thanks for the podcast. This is from Eric Knight, who asks if we can give a shout out to Jay and Casey. Absolutely. Jay the 12 year old fan. We are honored. Casey i think is Kansas City.
+
+Bret 29:09
+Yeah, I'm just a fan that also likes my jokes. I think this kid's gonna be okay.
+
+Heather 29:15
+You think so? Yeah, I do. I will say that when I think of Kansas City, I think of my time there when I was about 12 visiting an aunt and uncle and cousins and going waterskiing there. So I actually have fond memories of Kansas City. Thank you for that. Last time you implied that recombination of viruses is rare, and that this is evidence of it being lab made. But isn't this how we have new flu strains also couldn't recombination occur and a third animal
+
+Bret 29:43
+recombination of viruses is not rare. Flu in particular has a known mechanism for this in which different components are exchanged. I know the part of the last livestream you're talking about in which I said that I did not mean to imply that it's rare, but what I'm doing But I didn't mean to imply was that the particular hybridization event would require these two strains, which were in very different creatures to have found themselves in the same cell of a particular creature. Not saying it couldn't happen. In fact, what I really want is for a wide open discussion to occur, in which we consult the people who know pangolins, the people who know Ryan Yellowfin baths, and we find out whether the ecology provides any situation in which this might normally occur. My guess is, to the extent that those experts exist, they would know a lot about the ecology that could tell us what to make of the fact that we've got a spike protein seeming to come from a pangolin and the rest of the genome seeming to come from a rhino ofit bat, maybe it means nothing, maybe it means something. But I do not mean to imply that viruses do not find ways to recombine. But coronaviruses are not like flu virus.
+
+Heather 30:59
+There seems to be a huge, huge mismatch between the severity of the corona pandemic and the social cost imposed by lockdown, those who protest that draconian measures are stigmatized, despite the obvious cost. So there's no question there. You know, we have a somewhat different position, that the severity is a mismatch for the lockdown. And of course, a successful lockdown is successful, unnecessary lockdown will inherently look like it was somewhat unnecessary. And there's really very little way to tell the difference unless you have well controlled situations in the world where some locked down and some didn't. And we talked a little bit about this. In the first part of this livestream, where Norway was Norway versus Sweden. Norway did lockdown and has an order of magnitude, close to fewer deaths than Sweden, which didn't do lockdown. But, you know, it's you talking about the severity and stigma, I think we're beginning to get stigma on both sides. Frankly, I think this is becoming an almost explicitly political problem. And it's that's diabolical. That's not that's not the way they should have gone. And yeah, of course, it's going that way.
+
+Bret 32:08
+Yeah, it's it's a disaster. Frankly, we are all in this together. And at the moment, we're all in it together at the same level of lockdown more or less, at least within the US. And the relaxation of the lockdown is going to put us at odds with each other in a very dangerous way. But we couldn't be stigmatizing people. As we said in the first half of this.
+
+Bret 32:33
+The discussion has to be had out in the open. Oh, one more thing I want to say on that.
+
+Bret 32:41
+Before you conclude that this was an overreaction, you need to look at places like parts of Italy, New York City, Guayaquil, and the question is, those places where it feels like an overreaction? Did we avoid that? If you can avoid being Guayaquil or New York City or parts of Italy? It was worth it. And the danger that what we don't know about this virus has left us all vulnerable to finding ourselves in such a situation is very great.
+
+Heather 33:13
+Yeah. Chris Thompson writes the streams is such a pleasure and many thanks from Shetland. Thank you. Thanks, Chris. Is Scientific American compromised? Who can lay people trust for science info, Matt writes, and he has a link to a Scientific American blog, which is proclaiming that fat is not the problem fat stigma is so this sounds like exactly the same style of article that I was talking about a few livestreams ago that came out of wired. Yeah, Scientific American is compromised. Now. This is one of their blogs, and they've they've gone off the rails and their blogs for a few years. Now. There was there was some stuff few couple, one or two years ago about the non duality of male and female. And, you know, that's obviously an appalling position for a so called scientific journal for the layperson to be taking. Who can lay people trust? Unfortunately, it's about figuring out how to do first principles thinking and from there looking for the people who you think are making sense. checking their logic, constantly, constantly, constantly. And then at some point, some people I hope we, for instance, will start to earn your trust legitimately enough that you don't have to fact check or logic check every single thing that we say, but you kind of have to do it from first principles with every new person and source that comes into your into your feed.
+
+Bret 34:43
+Yeah, trust networks may be the answer. Yeah,
+
+Heather 34:46
+actually, that's that's right. Yep. Craig writes, I understood your point regarding the lesser of two evils. But oh, so do you also support rent choice voting, RCV and nonpartisan blanket primary And BBP
+
+Bret 35:02
+rank choice voting, yes, nonpartisan blanket primaries probably, I must say, I'm so dismayed at the two parties that we've got that one needs to step beyond that in order to figure out in a normal universe of parties, would you want primaries within party and all of that. But at the moment, what we've got is two parties that have fallen over, under closely related spells. And we either have to free them, which is seeming very unlikely, or replace them, which I think is more possible than others do. But But yes, in general, solutions that alter the voting landscape to restore the democratic force. makes good sense.
+
+Heather 35:51
+Okay, I'm going to ask the next question. Have you begun to answer it, then I'm going to get up and let the cat in? Because he's yelling, alright. Do you have any insight into the possible adaptive function of panic attacks and runaway anxiety responses or anxiety disorders in general?
+
+Bret 36:07
+Yeah, I believe that I do. And what I would point out is that, and there's more to come on this topic soon. But your dream architecture involves analogs of these things. And the question of whether they find themselves out of place during your waking life is I think, important. More on that later. But yes, I do believe what you're looking at is a case of something that is adaptive in a different context showing up in a place where it is maladaptive. That appears to be a cat. Hello.
+
+Heather 36:48
+Have you heard of COVID syndrome yet? Actually, it's written sort of in piratey. Is Have you heard of COVID syndrome yet?
+
+Bret 36:54
+Have you heard of Yeah, I haven't. I have not either.
+
+Heather 36:57
+Thanks to both of you. We appreciate the rational voices. Thank you, cat. Okay, this next one is written not entirely in English, and I don't know really what it means. I'm going to try to read it Brett, but I'm not sure how to one shouldn't we have better anti rust tract? cancer? adaptation adaptations? Okay, breathing fire smoke for half. So number 10, to the six years. To also please talk to Peter atea or Sinclair, David Sinclair, David Sinclair. Okay, on any podcast. Okay, so the second part is just talk to Peter. Tia, who's got an excellent podcast. I don't know David Sinclair. Yeah. Do you understand the question enough to rephrase it? I think I said, Okay. And
+
+Bret 37:47
+I must say I, you know, I've heard, I think you may be Sam Harris, who has a riff from a number of years ago on the dangers of fireplaces being equivalent to smoking cigarettes.
+
+Heather 38:02
+Yes, that's right, actually. Yeah. That matter that comes out of fireplaces. Yeah.
+
+Bret 38:06
+And I, I believe him but I must say I had the same question, which is human beings have an awful long history of affiliation with fire, close
+
+Heather 38:15
+affiliation, doors, those tend to be outside,
+
+Bret 38:18
+they do tend to be outside. So I don't know the answer of the question. It's certainly worth addressing it could be that differences in type of would matter a great deal that things for which we have ancestral preparedness would be superior. But I don't know it's certainly a question. All right. Things have gone off the rails. Not only are the computers malfunctioning the cats are malfunction while the cats were
+
+Heather 38:53
+being fed by one of the children and the cat who was logged in here with us was not interested in hanging out with us if
+
+Bret 38:59
+he could have food. I see. Yes. Okay.
+
+Heather 39:03
+I understand that neither the Bakersfield doctors or MD is but our osteopaths, I was shocked when I read this. I looked it up. We cannot show you what I found because our tech support as a pentane shows a building he's left the building. But it's not true. They are both they are both MD is. I will say to that the seams that that struck me is super surprising because my admittedly limited and anecdotal experience with MDS and deos osteopaths is that osteopaths in general seem much more likely to adhere to a scientific approach to problem solving to diagnostics to thinking through what all the possible variables are that are feeding in and to be much less likely to be conclusion driven than they are hypothesis driven. So if these guys if a couple of osteopaths had created that video that would be shocked. To me, and it turns out it's not true in this case. All right, might have better name than motivated reasoning be used to denote evasion of that logical process in favor of a chosen conclusion.
+
+Bret 40:12
+I don't know motivated reasoning works for me. I think it contains exactly the allegation. Yeah. Inside the the term. But if you've got a better term, offer it for sure. Yep.
+
+Heather 40:24
+I feel like we already talked about Wilson's work and cultural evolution didn't wait. Oh, is this a slightly different question? Well, the earlier so I was the same. No, it's the same, I think it probably came in on a different stream, just the case.
+
+Bret 40:39
+So it does ask about consilience. And I will just say, in general, consilience is kind of a cool idea. I believe it is implicit, really, in the scientific approach. In other words, science proceeds from the belief that all of these things ultimately distilled down to some story that works across all scales. So maybe it's not as radical as it sounds. Should the humanities take a scientific approach? Of course they should. Guns, Germs, and Steel, is an excellent demonstration that history needs a scientific approach to be done properly. So anyway, basically, at the level of consilience, to the extent that I at least understand it, I would say cautiously in favor of roughly that approach.
+
+Heather 41:22
+Absolutely. So we've got three more questions and a couple of comments, which I don't think need to be said out loud here. But we said that we would read everything so let me just start with those tests. Someone said Super Chat was giving errors apparently it wasn't. And set encoder to broadcast keyframes every two seconds. That looks like some tech advice. We have received. Some some promising tech advice, so thank you for that. Okay, last few questions. If I'm banned from normal chat for lowbrow trolling, can I still super chat? Apparently you can.
+
+Bret 41:57
+This is the test that hypothesis. All right.
+
+Heather 42:01
+So what are the type one and type two error values for the tests? Okay, so this is going to be a question about false positives and false negatives. They vary. They vary quite a lot. I actually haven't I have not heard the numbers for the antigen test for the so called molecular tests, the PCR tests, these are all synonyms, antigen, molecular PCR tests, those aren't synonyms in any other realm. But in this case, they are I have not heard the numbers for false positives and false negatives. For those. I've been, we've been more focused on the serology tests, which are the antibody tests. And they are ranging in the 95 to 99% for both positive false positives and false negatives. But they have very different specifics, depending on the particular test. And I don't think I have much more to say beyond that. Final question, what is the adaptive advantage of using language, copying information from speakers to listeners or speakers benefit by influencing listening behavior? Or listener behavior? Excuse me?
+
+Bret 42:59
+Well, I would say, this is the perfect place to invite you to our Princeton talk tomorrow, where we will talk about closely related issues that are involved in consciousness and culture, both of which take advantage of language in an extreme way. And I can say that, we believe the answer we will deliver tomorrow will be one you haven't heard and will be hopefully, fully satisfying.
+
+Heather 43:27
+So that will be on April 29, at 4:30pm. Eastern, for those who haven't heard us talk about it before, but if you're if you're seeing this, not within the first 24 hours of us posting it, it will be posted by Princeton, sometime after the live stream the zoom webinar. So it will be available for you to go see. And then we will also be talking about this a bit. Not so much focusing on language, but a bit the model of culture and consciousness in the book under gathers guide to the 21st century, which will be out in about a year, assuming that the entire world does not continue to go off the rails. big assumption.
+
+Bret 44:09
+It is a big assumption. Yeah, I wouldn't make that assumption at this point.
+
+Heather 44:12
+To the entire world, not continuing to go off the rails. All right.
+
+Bret 44:15
+There it is signing off.
+
+This transcript was generated by https://otter.ai

@@ -1,0 +1,325 @@
+Heather 0:00
+Hey folks do that last five minutes. Yes,
+
+Bret 0:02
+we'll read through the last five minutes where we were saying incredibly important things to you, but you weren't hearing them because of technical difficulties. So let's first say, welcome to this first live stream of the Dark Horse podcast. I'm here with Dr. Heather hying. I'm Brett Weinstein.
+
+Heather 0:22
+Let me do what I did last time. And say, we are we're both PhDs in biology, but we're not medical doctors. So we're going to be talking about the evolutionary implications of what we're going through both biological and social, but we're not providing medical advice. Okay.
+
+Bret 0:37
+We, I would say there might be some medically relevant things, but if we offer to do surgery on
+
+Heather 0:42
+you, you could politely decline and definitely not surgeons, despite having some life skills,
+
+Bret 0:46
+right? Oh, yeah, considerable knife skills. Alright, so let's talk a little bit about why we're here. We obviously collectively are facing some sort of crisis. They're seeing
+
+Heather 0:57
+audio and video not hooked up, not linked up, Zack.
+
+Zack 1:01
+Well, I, I've heard from some people that that is on their end, and they just need to relate. Can somebody really
+
+Heather 1:10
+see Brett and not Heather, there's a lag.
+
+Bret 1:14
+Can you reload the page and see whether or not it fixes the problem?
+
+Zack 1:28
+Well,
+
+Bret 1:32
+apologies, folks.
+
+Heather 1:36
+This is uh, this is the first time from the studio we've recently moved the studio to our house expecting for a number of reasons but expecting to be stuck in place sheltering in place for a while here in Portland, Oregon. So this spread, just finished putting up the cedar that you see in the background last night around midnight, I think, installed the cabinets and the butcher block behind us sometime yesterday, the day before. That's going so fast, I can't really read it. Some people seem to think it's working fine. Now,
+
+Bret 2:08
+this is fine. Let's try. No looks like it's an awful lot of people. If you are having trouble with the leg winning
+
+Heather 2:15
+out the network isn't in an ideal state right now. So we will this will be up this will be up beyond the live stream. And we'll be out as a dark horse podcast as well. Okay, let's, let's hope that this is working. And I need to project as always, apparently, and get down to some content.
+
+Bret 2:35
+Okay, so I'm gonna try to ignore all the comments about the lag, hopefully, you can ignore the lag. What our plan to do here is to discuss elements of this crisis. And it seems that there are two crises unfolding and an interesting interaction between them. We have obviously crisis related to COVID-19. And its spread and all of the measures designed to flatten the curve, then we also have a crisis unfolding, as people are recognizing that the society that we live in is structured in a potentially fragile way. And the problem is that these two crises interact rather directly. Not only is the virus causing the fragility to show in the system, but it robs us of many of the measures that we would ordinarily potentially use to, let's say, rescue ourselves from a depression, there are many kinds of stimulus that just simply won't work. If you have people being told to stay away from each other. There's lots of things you just simply can't do.
+
+Heather 3:42
+Let me add that I saw some of you were asking in the responses to our tweets about this, for discussion of game B in light of what's going on, which Brett has talked about in other contexts, and to the fourth frontier, which is a concept that Bret innovated. And we've both been writing about in a book that we are writing. And this is this is probably not the hour or so that we'll be talking about that but we hope to be back every, every few days. And so we'll get to talking about that at some point. So
+
+Bret 4:12
+just just to clarify, fourth frontier, is my attempt to bootstrap a kind of game B project. Game B was a collaborative effort amongst a number of people, including Jordan green Hall and Jim Rutte. So anyway, we can we can return to that topic later at the moment. What this crisis is doing is it is revealing some of the things that those of us who gathered for game B, were concerned about the things that brought us together was a recognition that our system simply was both inviting crises and unable to deal with them, which we are now seeing in living color.
+
+Heather 4:50
+And the problem with the moment that this particular moment, March 24, is that increasing in urgency and volume is the idea that you can Save Grandma, or you can save the Dow. And this is a really an important way of framing the issue. And we somehow have to both combat the virus and not take worldwide economy on the way but but preserving the fragile systems that have been created explicitly anti fragile ways is not necessarily the route to doing so.
+
+Bret 5:26
+The other thing to realize is that this crisis or this pair of crises is it is revealing a core element that has been missing from our political dialogue, which is effectively that our system cannot help but optimize for economic efficiency on short timescales. It's simply what it is built to do. And essentially, you've got a two sided coin economic efficiency on short tides timescales is on one side of that coin and fragility is the other side, you will produce fragility to the extent that you optimize economic efficiency on short timescales. And so that's where we've landed. And if there is a silver lining here, it is that if we come through this crisis, okay, maybe we can learn the lesson that it has to teach us about what we've been doing wrong and restructure. So this can't happen again,
+
+Heather 6:26
+it actually reminds me of something that one of our graduate school professors once said to us, he was he was watching squirrels, berry knots, and sort of laughed at them, and suggested that squirrels are dumb. They're stupid because they bury so many more knots than they ever dig up in a normal year.
+
+Bret 6:47
+It was the acorns actually,
+
+Heather 6:49
+nuts Not, not acorn nuts, acorns. And of course, this is this is wrong, and is exactly the sort of short sighted thinking that is causing us to panic right now. That squirrels, bury acorns for the worst year that they might encounter. And those that don't will benefit short term, and will then probably parasitized, those who don't bury enough for the 10 year winter, the 100 year winter, the 1000 year pandemic, whatever it is, so did we, in fact, either individually or by city, or by nation, state or globally, bear enough acorns to deal with us? We certainly hope so. And maybe we can learn enough from what's going on right now to both survive the pandemic and the economic fallout.
+
+Bret 7:41
+Alright, so we're sure we head
+
+Heather 7:43
+well. So we were, I apologize, I can't remember what we said before, when we thought we were streaming. And since we've been streaming, we had wanted to talk about some of the underlying biology, and how to interpret some of the advice that's coming out in real time from the media and the government with an evolutionary lens so you can make decisions for yourself, and also some of the societal impacts, both of which are evolutionary. So maybe we want to start with some of the biology.
+
+Bret 8:10
+Let's start with some of the biology. Let me just pause here. Hey, Zack, if you were to switch to the other audio source on the camera, would they sync?
+
+Zack 8:21
+They're saying it's getting better. Okay, getting back, pretty sure that the YouTube thing is online. That's fair enough.
+
+Heather 8:28
+So Zach is our 15 year old son, who was also our tech support.
+
+Bret 8:33
+Okay, so we were going to talk about the biology and you have a number of things that you've got on the list of biological factors, maybe I would say something overarching. Go for it first. The virus is not trying to kill you. That's going to sound odd, it sort of seems like viruses are built to do such things. And that. That's why we have such a big problem. But it is important if you're going to think about things like viruses to realize that they are optimized to do exactly the same thing that the rest of us are, evolutionarily speaking. And while in school, you may have learned that fitness is the same thing as reproduction. This is not the correct way to think about it. creatures, all of them are trying to get into the future, and they are trying to get as deeply into the future as they can.
+
+Heather 9:26
+This is true even though a virus isn't technically a creature,
+
+Bret 9:29
+I actually would differ a little bit on this point. I don't want to get stuck here. But I think when somebody says, You know, I drove to the market, the fact that they had to use a car to do it does not mean that they didn't actually drive to the market. And so anyway, viruses are a very interesting evolutionary phenomenon. They may indeed be genes that have escaped from the kinds of creatures that they parasitize. And then they periodically I mean, a virus is just an informational molecule, either DNA or RNA, wrapped in a coat that does some work to get it in into a cell. But basically, that code either integrates into the genome or reverse transcribes and then integrates into the genome, and it instructs the genome, the decision
+
+Heather 10:23
+being if it reverse transcribes, it's called a retrovirus. And if it, if it codes into the genome directly, I don't think I'm using the right language. It's just called a virus, among which there are many kinds of viruses, including, for instance, coronaviruses.
+
+Bret 10:37
+So these codes, find their way into the genome, and then they hijack the cell for their own purposes. And their own purposes are they create more virus in a form that it can infect more creatures. And this, this process frees them from a lot of the constraints that something like a bacterium would have if it was on this mission, because basically, they've shed all of the machinery necessary for life, and then they borrow it wherever they go. But if I can return to this point about the viruses not trying to kill you, viruses, like other creatures, or parts of creatures are trying to get as deeply into the future as they can get. What what creatures do we see, we see the ones that have gotten this far into the future. So getting into the future is a complex puzzle. reproduction is one part of that puzzle. But it is not the only part you can reproduce a lot and fail to get into the future.
+
+Heather 11:34
+So we we could understand that best by understanding global collapse such that even though an individual still survive, there was no chance of them persisting into the future beyond 20 years or so with all of the supply chains and systems that were dependent upon gone. We are not parasites, by the usual definition of the word. But viruses require a host, I think it must be that all known viruses, although neither of us are biologists require a host, to to be active. And so a virus that kills its host, and has no way of transmitting to a new host is a failure as a virus. And no virus just like know anything wants to be a failure in this regard. And you know, we're using Watson such in this sort of evolutionary shorthand, there's, of course, no consciousness ascribed to viruses, but a virus that kills its host and is then stuck in that host to die as well. As has not succeeded in its viral mission.
+
+Bret 12:28
+It behaves as if it wants is basically when we say that a creature wants that's what we mean it behaves as if it wants. So the other thing to say though, is the virus doesn't even want to make you sick. Ideally, a virus would make you minimally sick so that you did an effective job of spreading it to the extent that you are, you know, comatose somewhere, you're not interacting with other people. So there are parasites that actually do want to knock you flat. So malaria, for example, or yellow fever, are transmitted by a mosquito that has much more access to you if you're unable to swat them away. But a virus,
+
+Heather 13:09
+I would say that even within malaria, and no one came here to hear about malaria, I'm sure, but there are four different species of malaria right, there are four different Plasmodium species. More than that, but there are four different malarial Plasmodium species, two of which are very common, one of which tends to leave you walking around and hides in your liver and comes back out and then you're infectious. And it's 5x. And then one, falciparum tends to go to your brain and kill you, and that's called cerebral malaria. So even within, you know, a genus of a totally different parasite of Plasmodium that is that causes malaria. There are wildly different strategies,
+
+Bret 13:46
+but even even the the Vive acts, the one that leaves you walking around at the point that it's most transmissible, you're not walking around, so it comes in waves, so it recurs and it'll knock you flat leaves you vulnerable to mosquitoes and be transmitted, but something like Coronavirus or the flu, have an interest in you being functional enough that you spread them around. Now, this is why I raised this point. Not only is this virus not interested in making you sick, it can't help it make you sick. But there's a tendency over time for viruses to evolve in the direction of being less troublesome,
+
+Heather 14:28
+as indeed we've seen with many of the other known coronaviruses which cause the common cold. They tend to be irritations in daily life, rather than causing what saris Cove to is causing.
+
+Bret 14:41
+Now, in the case of this virus, it has just met humans, presumably for the first time now I believe that there is still debate about what creature this emerged from pangolin is a possibility baddest funny is a stronger possibility. And really, by Whatever mechanism even if somebody was playing with this virus in a lab and it escaped but they had ultimately gotten it from bats this has implications and I don't know by
+
+Heather 15:09
+this again, by this has implications What you mean is there is no history shared between humans and this virus. That is that is that that this you're talking about?
+
+Bret 15:20
+I mean, I mean something more than I very much want to know what creature this came from. Even bat isn't good enough. Bats are not interchangeable. Now, probably, if this came from a bat, it came from a rhino Lofa bat, which would be a gleaming insect devoran, an old world gleaning insect of ore, and probably cave roosting. Now the reason that that matters is if you think about it, the virus has to get spread in the creature that it is native to. Now if you're a bat, and you're a gleaning insectivore word, you're not encountering a lot of other gleaning. insectivores gleaning means you're picking large insects off of plants and things
+
+Heather 16:04
+as opposed to Hawking where you're catching stuff in midair.
+
+Bret 16:07
+If you're a gleaning insect before then you are not running into other bats, you don't have close contact with them while you're out for it. They don't call any wrist No, you do have a close contact with them when you're asleep during the day. And so the question is, if this virus came from a bat, and was transported into humans by some mechanism, either a wet market or a laboratory then does that predict anything about the way in which it is transmitted between humans in other words, does it regard night as the time to be transmitted? Because bats are active during the night and we are active during the day and it registers activity does it have some other
+
+Heather 16:53
+well it would be the opposite Wouldn't it if if your story about the bats is true if it's if it's simply based on photo period?
+
+Bret 17:01
+No, no, this is my point. It could be that it's registering information about what time of day it is. It could also be the bats have a signal. This is the active nono because we're the opposite circadian rhythm is right, exactly. And so we know that this virus is highly transmissible inside the home. Part of the reason may be that our dormancy takes place inside the Harman that the signal is causing it to emerge at those periods of time. It may also be transmissible by for example, you know, I wonder about waterborne transmission. I know it's possible for it to live in water, but the caves in which these bats would be likely to roost often have water flowing through them. That's what tends to form these caves. And so anyways, there's
+
+Heather 17:46
+as long as there were a couple of good segues there, but let's at least go to how to how do we currently understand this particular virus to be transmitted with the understanding that everything that we know about this virus is very new, and some of it is likely to end up being wrong? But what we think we know now is that yes, we as we all know, it's aerosolized to coughs can hang in the air for a couple of hours, which is kind of alarming. Clearly, it goes through fecal contact to wash your hands and don't lick butts basically. And perhaps blood to Okay, so that's, that's a possible mode of transmission as well. And that's out of this. There's so many new articles here. We can maybe post it in the notes afterwards. Or if you want to put it up Zack, you can but the Xang at all 2020. But we don't need it. It can remain on surfaces for a long time, copper is historically understood to be this remarkable, antimicrobial, so it only sticks around on copper for four hours, up to 24 hours on cardboard, up to nine days, maybe on hard surfaces, like stainless steel and plastic. So what does that mean? If we know those things about transmission, you know, how should you behave when you get a package at your door? Or, or you know at what you do with your doorknob and such? Well, one thing that's true, is that saying that a virus could remain active and therefore transmittable on a stainless doorknob for nine days does not mean that if there was virus on that doorknob at the point that someone coughed on it, or touched it with active viral load on their hands, that there is just as much risk at that moment as there is nine days out. There's going to be a decay function associated with it. And so yes, you could, you could possibly get this virus from touching some kinds of surfaces over a week after they've been contaminated. But it's still less likely the farther out it is. You want to add to this
+
+Bret 19:47
+yes at the moment. So again, I want to focus in on this point. This virus just met us it's doing a bang up job of spreading we are deploying countermeasures. The job of the virus from its perspective is to get into the future to the extent that we deploy a countermeasure that frustrates it in its quest to get into the future, it is in search of some alternate modality. And so almost all of the variation in these, this particular virus will be lost, almost all of it is going to be in strains that are dead ends. Occasionally, one will discover something. And at the moment, I think it is fair to say that COVID-19 uses airplanes the way malaria uses mosquitoes, right? To airplanes are transmitting the thing between populations, and we've seen that be highly effective. And now we've seen travel has been shut down, very wise move. But what will it do next? And more importantly, is there something about the way we deploy countermeasures that can successfully corral the virus evolutionarily, I don't see enough people thinking about this.
+
+Heather 21:06
+So the we hear means both at the individual level and the population level, let me just jump in and correct I misspoke earlier I said that it can be aerosolized, and there's actually no evidence that aerosolized is but it is air in airborne droplets that can apparently hang in the air for up to a few hours. So
+
+Bret 21:24
+the distinction being it will not blow off a dry surface into the air, but it's certainly in the air, right? It's certainly in the air and actually, highly likely mode of transmission are droplets. Yeah.
+
+Heather 21:37
+So point isn't I mean, there's so many things to get to, but maybe some, you know, this, this gets one place this gets us to is some of the rumors and innuendo that have spread. One of which is since let's see, in February 5, The New York Times said don't wear masks. It's not helpful. On February 29, the US Surgeon General said don't wear masks. And that's patently insane. Right now. So this is Thank you, Zach. This is the new york times for brief fifth, and then the, you know, three weeks later. And of course, time means everything in this in this crisis. The surgeon general, the US Surgeon General says don't wear masks, clearly, in part what they were doing. If, if they knew what they were doing at all was prioritizing public health over individuals. And thus, understanding that we had a perhaps global but certainly national lack of supply of personal protective gear. They were trying to get people from stockpiling masks. But it is it's gross negligence, frankly, to advise people for this long that masks would do no good. So you know, Brett tweeted out a couple days ago, and is now now wearing in his tenant to be wearing a bandana. You know, can Is it possible that's actually not effective in any way from blocking the inhalation of droplets into the nose or mouth? Of course, it's going to be effective, will it be as effective as an n 95? And 99 or 99 mask? Probably not?
+
+Bret 23:16
+Well, it depends. It could be more effective for you in particular, a couple senses, because so actually, I'd like to go through this in detail, but the bandana functions, right? I'll tell you a little bit about my sort of method of using it. But the fact is, I actually do wear it, I wear it, when I go out. And medical mask, I'm might considered wearing that too, if I even had them. But the fact is, this is just something that I can deploy. And I know I know how to wear it in a way that it will of course, catch droplets, I don't know, if you compared them head to head in a controlled test, whether it would be as effective as a mask, maybe not. But my guess would be as in all complex phenomenon, there's going to be diminishing returns here. And this is going to be highly effective, even if not quite as effective. And certainly if you don't have mask, as most people don't, it's a countermeasure worth deploying.
+
+Heather 24:14
+Absolutely. Anything else to say about masks?
+
+Bret 24:18
+Well, let me let me give a sense of how I've been managing this. I've been doing a lot of stuff out in the world. Heather and I moved to Portland recently, we were pretty well prepared when we lived in Olympia for, you know, some breakdown systems, the breakdown of systems, but when we moved, we lost a lot of the stuff that we had been accumulating. And so anyway, as this crisis has unfolded, it has been necessary for us to bootstrap some sort of mechanism for continuing to be here, you know, in light of various different crises. If the light stays on and the water stays on and the gas stays on, it's one level of crisis. If those things were to fail, it's very different. But in any case, I've had a lot of reason that I felt that I had to go out into the world. Also, Zach, our son, and I had to rescue all the materials for the Dark Horse podcast to bring them back here. So we spent four, late nights dismantling the studio and bringing all the elements here. And that required going into a space where people were working and so well, but
+
+Heather 25:29
+to be fair, you were there between about 10 and two in the morning, each four consecutive nights, he specifically chose a moment when it would be easier to to break down the studio and move it into the truck. And also when there would be very likely no people around,
+
+Bret 25:43
+right. But my assumption is that the the space might well be compromised. Absolutely. So here's what I want to get to. When we're home, our assumption is that it's, it's not that there are going to be zero viral particles here, there are a couple places we can talk about where viral particles might get through the door, they're very unlikely to infect us, you're talking about our hand, I'm talking about our house. And I think that this is actually something that everybody needs to seek to do that, if you think about the, the cognitive load of some noise in the background, if there's an air conditioner running, you don't even know that you're hearing it. But as soon as it goes off, you feel the sense of relief, like oh, my goodness, because you're spending all of this processing power, just getting rid of the noise of the air conditioner. The viruses like that, you just feel Jeopardy all the time, to the extent that you can't sit down anywhere and be sure that the surface is clean, you're constantly on alert. And this is really stressful, which actually ironically makes you more vulnerable. So figuring out how to get your house or your apartment or wherever it is that you're staying safe enough that you can actually relax there is probably a health issue and an important one. So what we've been doing is, when I get up in the morning, I take a bandana and I ordered 25 of them from Amazon weeks ago, knowing where we were and where we were headed.
+
+Heather 27:21
+And weeks ago, many, many weeks ago, it was already impossible to buy masks of any sort local, even just a handful.
+
+Bret 27:28
+So when I get up, I take a bandana and I put it on, even though I'm in the house and I know it's safe here, but I just want it on so I don't have to go looking for it. You don't you don't walk around the head and walk around the house like this. But to fit it, I tie it on like this. So I'm sure I've got the right fit. And then I just pull it down around my neck if somebody comes to the door. Now admittedly, even ups doesn't stick around the door any longer. So I haven't in practice had a lot of encounters with people. But even if somebody were to come to the door, it's right there. And I don't have to think about you know, going to get it. And actually with there were some workmen here and I did use it with them. But if I go to get some supplies or something, I'll drive with the down, then I'll pull it up before I go into some place. And I'll put on these safety glasses that have my reading prescription underneath. Now these also aren't going to be 100% effective, but they do have some coverage from the sides. And the idea here is that any droplet I encounter if I walk through something a cloud that somebody has coughed out, could it get my eye? Sure, is it likely to know because it has a very complex path to get past my glasses. So I walk around like this, I actually have some cloth gloves, I forgot to bring them here but I have some cloth gloves that I have multiple sets of I got them very cheap at a hardware store. Now they're not protective. It's not like a nitrile glove. But it does mean if I touch things that whatever gets on them gets on them, and then I can take them off. And as soon as I get back to the vehicle, I sanitize my hands before I start touching the steering wheel and all that. And then I you know, pull this down.
+
+Heather 29:08
+And anyways, you're done being out for the day. Excuse me, as soon as you're done being out for the day you launder everything. Yeah,
+
+Bret 29:15
+as I walk through the door, I drop my clothes in the laundry room, and I go take a shower. And this serves two important functions. One if I've encountered virus if it's in my hair because I walked through a cloud of it and didn't know this gets me back to baseline where I can again, not infect me or my family. And it means that I can again feel that here I'm safe, right and that's just an important factor. And you know if I've only been briefly out and I don't feel like my clothes are compromised and I'm working, I'm not touching things other people are going to touch. If I left by clothes on, I would still shower before I went to bed. Right so bed is a place I'm absolutely not going to, you know, drop some virus under the pillow and get it into my eye or into Heather's eye. So anyway, it's a it's a method for both preventing infection and it won't be 100% effective but I bet it's highly effective and also for just creating a zone of psychological safety where we spend most of our time Yeah. Got more to say
+
+Heather 30:30
+on masks now. I think we're good. I think you know there's there's a lot else is a lot to get to so you know, on the on the subject of rumors and innuendo. Recently, this is you know, putting a hairdryer up your nose is not going to cure Coronavirus. I think the Florida health official who advise that has apologized since but just in case you were wondering, no, that's more likely to kill you probably. And all chloroquine is not the same. So do not, do not imagine that if you hear a report that suggests that the chloroquine which is and I guess it's hydrochloric one as well, which is an anti malarial prophylaxis, it works against buybacks bought falciparum to go back to that, and I guess it's used for lupus and rheumatoid arthritis as well. That drug which is already used in humans. Is not it may it may be useful against COVID-19, maybe in combination with zithromax azithromycin, as it's sometimes called, maybe in combination with something else. But just because you find what is it cork and phosphate on your aquarium cleaner does not mean that you should take that a couple of people in one person died, one person is in critical care from that. So
+
+Bret 31:46
+yeah, am I right? zithromax does not have any activity against the virus as far as we know. But the pneumonias that often travel with it are liable to be.
+
+Heather 31:57
+I don't know, I don't know if it's the cocktail of zithromax and some form of chloroquine. That is thought to be effective or not. I'm not sure about that.
+
+Bret 32:07
+I think it's I think the max is is strictly about the
+
+Heather 32:12
+denomination. Yeah, yeah. Well, so it's a widespread antibiotic that is used specifically for respiratory infection. So could be Yep. Maybe we should talk about tests. Yeah. And, and, and people being symptomatic, and not symptomatic, and maybe go into before we go society go into the personal story. Sure. I think I think that may be the right, the right segue. Okay, so an article in The Financial Times, which is now paywalled. Um, so we can't show it to you suggested, I think it's today that half of Brits might already be infected. If true, that's actually really good news. Right, that means the case fatality rate is it's still being reported is way higher than it actually is. It does not mean that this isn't that we that we don't need to be in quarantine until we have widespread testing, so that we can know. But that If true, it's great. But how do we know if it's true? And
+
+Bret 33:13
+I'm so glad that the explanation is what you said, because I thought when you said it was really good news that you meant finally, we've got the Brits, right where we want
+
+Heather 33:21
+Yes, I'm still holding a grudge all these hundreds of years later that my people were here then but right. Okay, so once infected, even if you were asymptomatic when you were infected, and it's clear that one of this viruses strategies, and again, we're using strategy, as this is this known term, that does not imply any consciousness, but it's simply effective evolutionarily. One of the viruses strategies is to spread through asymptomatic carriers. So it seems that likely everyone, whether or not you become symptomatic, or not, who ends up infected with us has some period of time before they are symptomatic, during which they can transmit it. So everyone who ends up with this thing appears to be an asymptomatic carrier at some point. And those people who get sick can then and you can then think about where they were they were and perhaps contact those people. But those people who never got sick in the absence of widespread antibody testing, technically known as serology testing, will never know. And this you know, if it's true that half of Great Britain is already infected. This is probably how write that it's just been spreading far. Well, we know it's spreading fast, but it was spreading far earlier and more easily than we had any idea of. So once infected, if, if you recover as the vast majority of people do, although some percentage of people who recover How will almost certainly have long term lung and respiratory issues. You're almost certainly immune. Now there's one report coming out of the Taiwan times Zack, do you have that up Um, that was tweeted at me yesterday. And I can't find any other evidence of this. There's one report coming out of the Taiwan times sometime in February, I think maybe it was January, suggesting that repeated infections actually looked to be more and more risk of being fatal. But these were initial infections that were very bad. And something that's unclear from the report, if it's the drugs of those people were already on or the drugs that they were being given to treat the infection caused heart damage, which then meant that a second infection caused an immune response. Basically, the antibodies themselves were working against the body. Now this would be alarming and horrifying, if true for all sorts of reasons. And it would be a match for what we think is going on with dango, which is a like malaria, another trop mostly tropical. Always malaria, always mosquito vector disease.
+
+Heather 35:54
+So you can I think you can take that down, Zach, I'm sorry, I got distracted by the picture of the Coronavirus.
+
+Heather 36:07
+So it didn't in den game, it has been known for some time that if you get infected once, you tend to be okay. And if you give it a second time, it can, it can be fatal. And it seems that at low and maybe even intermediate antibody loads, antibodies being the thing that your body produces, that can then recognize future incidences of running into the pathogen in this case of virus, not in the case of dengue, it's not a virus, but in the future. At low and intermediate antibody loads, the inflammation that the antibody response can actually cause can cause something like respiratory distress that can kill you. So if this is true, it's super alarming. We don't see a lot of evidence that this is true, but that's something to to consider. That said, all the other evidence that I've seen suggests that if you've had it asymptomatic or not, you now have immunity, at least for a spell.
+
+Bret 37:03
+So for a spell is likely to mean immune to the version of the virus that you've already encountered. Because your immune system recognizes it so quickly that you, you don't get sick a second time. One correction, there are two things that the body produces that will recognize a pathogen. On reinfection. One of them is antibodies. The other one is the receptors on the T cells. Oh, yeah. But neither here nor there really. Okay, so where were
+
+Heather 37:36
+we? Oh, so I guess there are there are two types of tests that we need to be widespread. Widespread, easily available, cheap. And, and quick turnaround. So what we know in the US, and it seems like almost everywhere in the world with some important exceptions, like tiny countries like Iceland, there are not enough tests with the CDC is calling molecular versus serology tests, I find this language confusing, because it's all molecular tests, but the so called molecular tests are testing for active infection. So we need a lot more testing for anyone presenting with symptoms, or, for instance, we just ran into yesterday that apparently, in nausea, loss of the sense of smell, in the absence of other symptoms seems to be associated with being a so called asymptomatic carrier of this thing. So if you've experienced the loss of smell, or a partial loss of the sense of taste, which is of course largely smell, it could be that you are carrying this thing, we need tests to test for active infection, to allow those people who have to be treated.
+
+Bret 38:45
+I think you could say that more strongly. If in this context, you had a sudden, sudden, unexplained loss of the sense of smell, it is highly likely that you are infected, and therefore you should take extreme measures not to pass it on and to ensure that you do what's necessary to recover. So anyway, you should behave accordingly. If you've got some other reasons, you've lost your sense of smell different, different analysis, but were you to lose it, it would be a very strong indication.
+
+Heather 39:17
+Absolutely. So those are the so called molecular tests, and they're the tests that we're hearing almost exclusively about. But what we also need is widespread, abundant, easy, cheap, or free serology testing, which I prefer to call antibody testing, because antibody is a word that most people have heard of serology isn't so an antibody tests test for whether or not your body has already created an immune response to the virus, which would indicate that it's been exposed that you have had it whether or not you had symptoms, and that if we're right about those who have had it are now immune for a spell. You are now immune. Now imagine if, if this epidemiological report reported in the Financial Times is right and and what was it 50% Yeah, 50% of people in Great Britain have already had it. How useful would it be to know if you are in that 50% or not, and you can be put back to work right away. We can get we can get economies running, by knowing whether or not people have heard it or not.
+
+Bret 40:19
+So that actually means the Brits have us right where they want us. Yeah,
+
+Heather 40:22
+I think I think that's right. Yeah. This is actually probably this is the bread. So you heard it here first.
+
+Bret 40:30
+And last night?
+
+Heather 40:32
+Yeah. Okay, so, astrology testing, antibody testing is also potentially quite useful. There's a technique being pushed through an ad of Johns Hopkins, now being pushed the regulations to pull plasma, from people who test positive for the antibodies, which can then be used in only a couple of patients. So it wouldn't you couldn't use the plasma of one person who has had recovered from COVID-19 and use it to treat hundreds of patients. But you know, about one to two ratio, you could use it to at least potentially confer partial or temporary immunity to healthcare workers, or potentially to boost response in the very sick. So this would
+
+Bret 41:13
+be akin to the use of gamma globulin in malarial context. Yeah. So these are antibodies to a particular antigen. Yeah. So did you say the serology test has the advantage of being able to tell you that you were exposed, even if you're no longer sick, if you've defeated the virus, internally, it will still register positive, which is both good and bad,
+
+Heather 41:37
+because you can, in fact, it will not register a positive for some number of days after you've been infected. So your antibody load climbs, I think it was something like 14 days after you were at your sickest if you were symptomatic. And so this really shows are actually more accurate, a week or two out,
+
+Bret 41:56
+which makes perfect sense, because the reason that you get sick in the first place is that your immune system doesn't know the formulas and counting, encountering a novel phenomenon. And it takes time for it to figure out molecularly what that phenomenon looks like. And so if you test for the antibodies to the virus, and your system has never seen that virus, it's going to take, you know, days to a week for for the test to register a positive because you just simply don't have antibodies yet that are specific enough.
+
+Heather 42:23
+Exactly. And let me just be clear also that these mullock, the so called molecular tests, which tests for active infection, and the antibody tests, also known as the serology test, which tests for prior exposure, and yourself having created an immune response within your body, molecular tests, antibody tests, actually will not work at the same moment in infection. So there are some number of people on the planet right now who have not been exposed who will pet who would test negative for either of these things. There's some people who have active infection right now, and would test positive for Molecular tests, but not yet positive for astrology test. And then there are probably far more people actually, who have been exposed who have recovered, many of whom may not even have known there were sick, who would test positive for an antibody test, a serology test. But serology tests are not being done yet. We don't have that one number I saw suggested five or six weeks yet before they're widespread, they they are likely the solution to both the economic and the health crisis. And they're not the complete solution. But they are a big part of the solution. So they're a key piece. So So let me just say that I'm not able to see the whole stream as it's going by, of course. But when you hear numbers like well, you know, Seattle tested or New York tested, and 90% of the people that they tested came back negative, that does not mean that those 90% of people that they tested have not been exposed and have never had it. That what that means is that they aren't currently infected with with this Coronavirus. So I
+
+Bret 43:56
+saw somebody made the right distinction in the chat, the way to refer to it and probably how we could refer to it with each other is antigen versus antibody. Right? Let's go you're testing for the antibody, you're testing your the fact of your immune system having understood what it's up against the antigen
+
+Heather 44:13
+being pathogen, antibody being our response to pathogens,
+
+Bret 44:17
+the antigen, our molecular signatures that are particular to the pathogen, so your own cells will have these viral markers on them as a result of being infected. All right. Shall we talk about our here I
+
+Heather 44:32
+guess so we definitely want to get to talking about society. What how much time are we in at this point? sec. Yeah, okay. Well, well, we will we will be. We're gonna continue a bit here, but we will be back again in a few days as well. So, boy, I haven't practiced how I tell the story. I'm going to be as brief as possible and if people want more details, maybe
+
+Bret 44:55
+actually if Can I introduce her, okay, so a few days ago, now. Maybe a week ago, that's a week ago at this point, Heather came to me and said, I have a hypothesis for you. Is it possible that I already had COVID-19, she had been quite sick with something we took to be flu. And at the time, I said, there's almost no chance that you had it because it was so rare in the US at the time, that the chances of having encountered somebody with it, virtually ruled it out. That said, there were other things about what Heather had, which then Zach, our son picked up that matched so well, the set of symptoms and the let's say the level of sickness that both Heather and Zach had was quite alarming. In fact, I thought about taking Zach to the hospital at one point he just sort of seemed to have lost. I was a joke at the time, because we thought he had the flu and would certainly recover. But he seemed to have lost his will to live. He was just completely flattened. So anyway,
+
+Heather 46:13
+yeah, let's let me let me walk through a little bit of why I've also sort of checked my logic against a couple of public health friends. And they agree that this is almost certainly and I we can't know, we don't know, because there is no antibody testing available to us yet. But I was in LA, where it seems that it probably was present earlier than anyone is saying. It is clear that we have been. data has been kept from us. And we've probably actively been lied to by many sources from the beginning of this thing. So I was in LA between February 6, and 11th. I came back that night, started coughing and was sitting on the couch with Breton or two boys and commented, that's a weird cough. Why am I coughing So, suddenly, middle of the night, I'm coughing more and more, and I'm feeling wretched. We are lucky enough to be in a situation in our house where we have a spare bed with a guest bed. But I just gotten home and I don't want to wake up bright up in the middle of the night and say you need to you need to switch bedrooms. So Brett spent a night sleeping next to me when I was coughing or the time I got up while I'm I'm really really sick. And and I cancelled the couple of plans that I had for the day. And I was just flattened, totally flattened for the day coughing, the only thing that was that seemed likely to do any good for me was to sit in a hot bath, which I did for hours on end. And otherwise I was lying in bed. Brett went to dinner with the people we'd had plans with that evening, having since moved out of the bedroom and effectively. We're lucky to be able to quarantine each of us if we need to within the house. So actually
+
+Bret 48:00
+I want to return to this maybe next time. But this has been policy in our house where we treat infectious diseases very seriously because just the for a number of reasons. But anyway, when somebody's sick, one of us is sick. We separate so we don't sleep next to each other.
+
+Heather 48:19
+But you spent a night sleeping next to me and because Brett was out that night. I Rouse myself barely and sat with our two boys as they ate dinner. And I took my temperature at that point. And it was 102 I don't know Okay, yeah, I really I really am sick. I thought I broke the fever that night it certainly felt like it. But when I took my temperature again 24 hours later was still 102 Meanwhile, the coughing can go on for half an hour at a time. The only thing that seems to relieve the pain and the pressure at all is is hot steam. Lemon honey tea, which you made for me and bad this unshowered No, no throat environment which is rare for me when I get sick, no stomach, no sneezing, coughing fever. And I'm I'm an extremely healthy, active 50 year old woman and female is somewhat protective against this. And also being in good health with no underlying conditions. My age being really the only thing that I know of that puts me at some higher risk. There's there's more to that story. And I'll say one more one more detail here about my experience. But I also want to say that two days into me being sick, Zakat sec, he's 15 years old. He is an extraordinary health. He has no underlying conditions. None of us are on any pharmaceuticals. And he's he'd never get sick. And this boy was flattened and he had 104 degree fever. He's coughing, and Brett almost took him to the hospital.
+
+Bret 49:54
+This was before we had any thought of it being COVID night yeah,
+
+Heather 49:57
+we don't have any reports of hospitals. For people under 20, I think and here is an incredibly healthy 15 year old who was totally flattened by this thing for four days. So here's one other thing that I think is relevant for people if they think they might have this because I've seen glimmerings anecdotal stuff, otherwise to this effect. I've still got this cough. And this is like five weeks later. That 96 hours now almost to the hour, like four days exactly after beginning to get sick. On the 15th. I was in the shower, and I had this sort of step function improvement in health, like and I am not all the way better, but I feel like I'm going to live and I didn't ever think I was going to die. But I Wow, do I feel like okay, I've just rounded the corner and in a way that usually you don't with sickness, you feel like a little better when you wake up, maybe. But this really felt like a step function. And so that was the evening of Friday the 15th No, Saturday, the 15th we had postponed dinner plans with a friend, a former student who was in town in part to see us the day before, for the day after on the 16th. And I woke up on the 16th just feeling so much better, like Okay, good, we can go see debt. And I struck the bed like okay, you know, maybe maybe we're gonna give it a couple more days before break and come back in but feeling much better. And let's get these new sweater sheets off here. Zach was by now doing a little bit better. He was still sick, but we felt okay to leave him home alone, while Breton I and our younger son went to have dinner with our friend. At dinner, I started coughing so furiously that I had to leave the restaurant and I stood outside coughing for 10 minutes. And this happened twice more. And I thought I What, what the hell is this is unlike anything else I've ever experienced. And it was hard to walk back to the car. And by the time we got home, I had stripped the bed, but the laundry hadn't been ready. So I hadn't made the bed. Brett and I were trying to make the bed and I I couldn't I actually could not stand up, I fell to my knees. And then I had to lie down and I could not do it. And I don't know if it was that night or the next night. So Brett did not sleep next to me that night, of course. So Brad finished making the bed and it was either in middle of that night or the next night that I woke up. Like for the only time during this really actually feeling like I was going to die. And like I was I was unable to get birth. The alarming thing about this, and it only happened once and I obviously did not die. But the alarming thing to me about this is the having felt so much better. That I went out into the world that I thought I was over it that I went out into the world and potentially exposed not just our friend, but a whole restaurant full of people because I thought I was better. And you know, as soon as I was coughing, I extricated myself,
+
+Bret 52:53
+again, there was no thought that this was COVID-19. We're a herd of COVID-19 at this point. When we emerged from the Amazon, there was thought to be one case in Ecuador. And so it made the news in Ecuador. And that was our first encounter with the whole concept. Yeah, this
+
+Heather 53:10
+is late January, we've been in the Amazon and internet free Field Station for a couple of weeks. And we came out we heard about it. And we we've been tracking it since then. And it really was a week ago that I put together. You know what, at some level, given how much misinformation disinformation there is out there about what this is, where it's been, when it's been and how bad it's been. Why do why is the only thing that isn't a match for what I've experienced. And what this is, is the timing. But la in early mid February, could could well have been a source.
+
+Bret 53:49
+Well, and you know, within two days of your having floated this idea that maybe it was COVID-19 and my having dismissed it. Evidence emerged. Oh, you didn't dismiss it? Well, no, I dismissed it on the basis that it was so unlikely you would have contracted it. Yep. That then, two days later, evidence emerged that in fact of our great many more cases in January than we had understood and suddenly everything fell into place. So we don't know that you had it. But it does seem likely. And then that raises a question about me and our other son, exactly, Toby. I felt I have historically been pretty susceptible to respiratory illness. And when you guys got sick, I felt certain that I was going to get it and I was extremely careful. But it struck me as very unlikely that I would be able to be careful enough in the same house as the two of you as sick as you were and not get it. And we actually had a little celebration at the point that we were 14 days from our first exposure from know from your Both being recovered. Because at that point, we were pretty sure somehow Toby and I had avoided it. Now at this point, let's say it was COVID-19. We don't know whether Toby and I had it, and we're asymptomatic
+
+Heather 55:16
+and going out into the world, right?
+
+Bret 55:20
+I have type O positive blood. And type O blood is protective. So it's possible I didn't get it because my blood is protective. It's possible I had it and was asymptomatic. But this is a good way
+
+Heather 55:35
+Hold on, let's just flag that. That type O blood, there's a there's a paper out, sack I don't know, if you want to put it up, you don't have to is this at all 2020 paper that suggests that. And this was out of China, this was in Chinese hospitals, I think that people with a, b and b blood types had about the expected risk of susceptibility to COVID-19. People with type O blood had lower than expected risk of people with type a blood has slightly higher. And it's those those are statistically significant results. But they aren't extreme. It's not the people with type O blood never get it or the people with type a blood always get it. This is somewhat protective.
+
+Bret 56:19
+So to go back to your earlier point about testing, we are now stuck in a situation I mean, you can see we think that there's a decent chance that everybody in our family has had this already, which would render us largely protected. You can see how careful we're being anyway, though. I mean, the thing is, we're taking no chances were taking this very seriously, even though we now are doing so with the thought that maybe even if we do encounter it, we won't come down with it. But how useful would it be to know that we were past COVID-19? To the extent that there is concern out there and there's this meme, which I haven't encountered yet, I've been too busy to be spending any time doing even the due diligence I should be doing online, but to the extent that people are now recognizing a trade off between, you know, protecting the elderly, and protecting the economy, for example, how important might it be to know who it is who is past this and can actually be helpful and you know, intervene where others would fear to tread?
+
+Heather 57:32
+So if it's if if it is, if it has been spreading through the US on the other weird countries for several months, there are a lot of us who have it and didn't know, and could be usefully contributing to the economy and to our own individual
+
+Bret 57:48
+success. And I mean, let's say, you know, one of our parents got sick, right? If our parents got sick, we could not afford to go into their space to take care of them. Or we would have to think very carefully about how to do it. Because we would be putting other people at risk, should we contract it? You know, so it's a very tough puzzle. But if we know that we've had it, then it's the obvious thing to do. So anyway, there are a lot of predicaments that could be resolved, if we simply knew were in the progression of this you are you vulnerable Are you past it. And so anyway, the complete failure of our governmental apparatus to deliver us both quality information and tests capable of telling us in which category we individually are, is is inexcusable. Those are the things that allow you to navigate this intelligently and and it's just unacceptable that we have know that that
+
+Heather 58:54
+is, that's what we need, we need data we need, we need to know, to, to the degree possible, where all of us stand with regard to past infection, obviously, current infection. But all all of the discussions about testing almost in the media and from the government are about tests that are only looking at current infection. And you can't use those to restart the economy. The people who are so sick that they are now being tested, since they're in such short supply, are not going to be the ones going back to work anytime soon. You have a whole lot of people, and we have no idea how many we have no idea on what order of magnitude number of people there are, who are now, almost certainly recovered, were asymptomatic, have antibodies are immune, at least for some time and could be back at work. That does not mean that we can release quarantine, that we should not be sheltering in place all of these things for now. Because without the information, loosening up the strictures that we're all living under now would be commas.
+
+Bret 1:00:00
+All right. Other things you want to include here
+
+Heather 1:00:02
+are more to say, but maybe we should say we'll be back in a couple days, what's up? One hour? An hour? Okay? Unless I mean, we could do. Let's do it. Let's Let's skip the Society for now. Let's go. Let's go back to there. Do you want to do you want to do that now? f society only said, No. So what's your what should individuals be doing now? And we'll talk a little bit more about the societal impacts in such in a few days, couple few days. Yes, we need to be socially distancing. And if, if you can, when you're out, be wearing masks be wearing eye protection, that sort of thing. But that does not mean stay in your home. And some number of people live in conditions where they can't socially distance and leave their home. And that is hard. And I don't have the answer to that. But most most people do not live in that situation. If you can go outside, you should go outside. Having the sun on your face is healthy. Viruses don't like sun, vitamin D is good for you. It's an antiviral itself. being outside especially if you can manage to be in nature is going to be good for you. If the weather permits, when you're inside, open windows get across breeze, it is actually known and zacky might put up the Hobday 2019 paper. Thanks to Mike Mars on Twitter for first alerting me to this fresh air is actually understood to be healing. Now we know this both from lower rates of tuberculosis and hospital rooms with openable windows on more than one wall. And from SARS one, which now this is SARS to what we're living through right now from SARS one. There were I believe it's lower transmission rates of SARS, one in hospitals with cross ventilation and specifically not mechanical cross ventilation, but natural cross ventilation. So if especially if you're living with people who aren't 100%, careful, but even if you are, if you can open windows, when you're inside at least some part of everyday to get cross ventilation. Get moving, stay active, get plenty of sleep, stay hydrated, eat whole real food, including and this is the thing that maybe you won't have heard pursuing cravings, so long as they're not for you know, Cheetos or ice cream. But pursuing cravings involve real food just like we're advised to do when pregnant, that the body will tell you often what it needs by saying, I really want that. Well, the experience I had in the wake of this thing that Zach and I had that may or may not have been COVID-19 I was joking with Brett Well, you know, now I got scurvy, I could not get enough citrus. And you know, for a week or two afterwards just ate you know, eight or 10, tangerines and oranges a day. So if your body is saying I really crave citrus right now, go get yourself some citrus. And hopefully you have it in your home already. And if you have to go out, do a big shop and trying to go out more than once a week, etc. But if you have cravings that involve real whole food, and especially if they aren't for things that you always want, pay attention to those, there's a good chance that they're for real.
+
+Bret 1:03:13
+Yeah. No. So there's clearly a psychological danger. That shelter in place is good epidemiological advice. It has many consequences. Most of us are not. You know, cabin fever is a real thing. And it is going to compound the problem. So Heather is right. You're the outdoors are your friend if you can stay away from other people. I mean, six feet isn't you can certainly have a conversation with somebody. Peter Bogosian and I went bird watching the other day. But it's a it's it's definitely an important thing to consider, which is how are you going to keep yourself feeling like you're not just simply cooped up hiding from an enemy outside your house? In some ways, we've got tools that are at our disposal that are extremely valuable. I mean, how much more isolating would this be if, you know, the internet resources were not available to us. And in fact, I think there's an argument to be made, that our ability to interact with each other over the internet offers some relief here, because there are lots of things that we can use to substitute for the kinds of interactions that we would have in person outside of this epidemic. So anyway, consider what those might be. I'm thinking of starting something like a campfire, a virtual campfire, where people gather using some sort of streaming service in order to just stay in sync with other people and to brainstorm ideas for what to think about what we're saying. thing. But anyway, there's lots available to us.
+
+Heather 1:05:02
+Just one more thing. We saw a number of questions that we haven't addressed both. Certainly we missed almost everything that stroll to the stream here. But that we saw on Twitter. One question that I saw come up several times was the status of the book that we're writing. So let me say that we we turned in a first draft on March 8, and it's due out in spring of next year. And it is a hunter gatherers guide to the 21st century and had this kind of thinking around you know, what to eat, what to do, how to be including up to society level stuff, which we'll begin to get to a little bit in our next live stream.
+
+Bret 1:05:44
+Yes, and with any luck, if you order a copy, it will come with a bottle of isopropanol alcohol.
+
+Heather 1:05:49
+By then hopefully there will not be a shortage of ISO propyl alcohol.
+
+Bret 1:05:55
+Alright, so let us sign off here for this episode of The Dark Horse podcast live and we will address our technical issues and return in a couple of days.
+
+Heather 1:06:09
+All right. All right, guys.
+
+This transcript was generated by https://otter.ai

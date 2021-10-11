@@ -1,0 +1,466 @@
+Bret 0:10
+Hey folks, welcome to the Dark Horse podcast live stream our 71st I believe Dr. Heather Hyang
+
+Heather 0:17
+71st, which is prime
+
+Bret 0:21
+prime again, I didn't see that coming. How could I have missed it?
+
+Heather 0:23
+It's there's always more coming.
+
+Bret 0:25
+There's always more coming. Okay. Before we do anything before we get to anything else, I just want to say for those people who are watching this on YouTube, we are aware of the situation with my hair, the need for a haircut, we have a small team of people working on solutions to the problem.
+
+Heather 0:44
+And I'm not on the team apparently. No, no, I've,
+
+Bret 0:46
+I've kept you out of it so far, if if needed, we will call you and I think I appreciate that. For those of you who are listening to the audio only version, my hair is perfect. All right. Yeah. All right. I just thought I'd mentioned that at the top. So you know, there was no misunderstanding about where things stand.
+
+Heather 1:04
+Excellent. So today we're going to be talking a little bit about trees, and mood and their effect on mood and lock downs. And specifically, schools being closed and sports being out. And their effects on lockdowns and some about some council culture going on and music. And we might get to polar bears. And you've got a few things to say at the very end of the hour that will save
+
+Bret 1:32
+save for that I think very, very well with where we're where things are. Yeah,
+
+Heather 1:36
+we would just say as as usual, please consider supporting the podcast supporting us at either of our Patreon where you can find access to the discord server and, and access to longer private conversations. So without further ado, shall we should we embark on talking about trees in nature? Yeah, let's do that reason, nature and mood. All right. So there's this, this article that came out on the very last day, I think, although I'm not now seeing that of last year, called urban street tree biodiversity and antidepressant prescriptions by Marcel at all. And the very first two sentences of the abstract Actually, I'll just read those growing urbanization is a threat to both mental health and biodiversity. street trees are an important biodiversity component of urban green space, but little is known about their effects on mental health. So the the very short version of what they found is that people living within 100 meters 300 plus feet, or so of, of what, what are called street trees. This is a term of art, I guess, in urban planning where you know, trees on that strip in front of, you know, between between residences, and or sidewalks and streets. People whose homes are within 100 meters 320 or so feet of street trees have marginally lower antidepressant use. But if you control for socio economic status, which is to say, if you look only at those people with lower socioeconomic status, you actually we actually find this this paper finds a remarkable and this is, you know, this is correlative, of course, a remarkable apparent effect on antidepressant use. And so specifically the line is, indeed, I don't know where it is in the paper, but I haven't my notes here, indeed, under high density of street trees at 100 meters or closer, individuals with low socioeconomic status had a similar probability of being prescribed antidepressants as individuals with high socio economic status. So that, to me, is kind of staggering, that everyone who thinks about these sorts of things knows and is well established in a robust substantial and rigorous literature that socioeconomic status is correlated with health outcomes, right? That the richer you are in general, the healthier you are, and of course, there are lots of exceptions to that. But there are concerted efforts, good faith, careful, concerted efforts to try to figure out how to break that that it's, you know, it's very hard to, to, to break poverty. And of course, there are many people trying to do that as well. But there are an additional set of sort of public health efforts to try to figure out what, you know, if poverty, what can we do to try to ensure try to make sure that being poor does not inherently make you unhealthy. And this finding suggests that simply living fairly close to trees May May seriously reduce the risk of at least this one measure of health, which is mental health, which is depression.
+
+Bret 4:54
+So let me help unpack this here. This is a paper I have not read. So I'm going to just A riff off of what I'm hearing and see if I can make sense of it. The point is that actually is and so there are obviously multiple levels of entanglement here and statistics are the tool for untangling which thing is actually correlated to what and if done in the context of a proper hypothesis, it allows you to assess what might be causal. And what we have here is an indication that socioeconomic status, which is known to have a positive effect on mental health, that can be seen in being less likely to be prescribed drugs for depression,
+
+Heather 5:37
+as understood as as found in other pieces of research. That is not the research that these people did. That is
+
+Bret 5:43
+a process of research already established, that if we then look within people associated low socio economic status, that living within was at 100 meters, 100 meters of trees, actually results in them catching up to levels of high economic well being.
+
+Heather 6:04
+So with regard to not being prescribed antidepressants at as high rates, as you would expect, simply by virtue of their socioeconomic status, which suggests I will just want to caveat here is that this research did not set out to did not hypothesize socio economic status, being a differential variable going in they, they knew, of course, that low socio economic status is tends to be associated with with worse health outcomes. But upon looking at their data, they saw a marginally significant result with regard to proximity to trees, and not being prescribed antidepressants at higher rates across all across all demographics, actually, but when they then parsed it out by socioeconomic class class status, that result became highly significant.
+
+Bret 6:56
+So for the large fraction of our audience that is deeply interested in the philosophy of science, they will spot right away, then that what has happened here is that this paper in testing one hypothesis has made an observation which leads to the next hypothesis, which is now in need of its own test in order to know whether it is scientifically supported. And so fascinating, though, that what they appear to have discovered suggests the following model, which is, there is something that causes a breakdown in normal function, if we imagine that depression is in some ways a breakdown of normal function, or at least depression, that is, to the extent that it results in a prescription, that that is a dysfunction. And that that dysfunction is triggered by something in the change of socioeconomic status from high to low, and that it can be regained by proximity to trees alone is fascinating, which doesn't say it's the only thing that would do that. But it does say that it's something that we would see now, of course, the thing I'm fascinated by maybe maybe the paper addresses it is that some part of us knows that tree lined streets are good. That's why they are in the rich neighborhoods. And that is why they are very rarely found in impoverished neighborhoods.
+
+Heather 8:19
+It's actually interesting. Um, one thing they do so this this research was conducted in Leipzig, Germany, and there is similar but not exactly comparable research that's been done in London, that came to the same conclusion. But it was, if I'm if memory serves that research was different, and that they were looking only at the aggregate as opposed to very, very much particular households that are living within proximity to street trees and depressant use. But so that, you know, there's a there's a growing weight of evidence that finds this. And there is the widespread expectation. And I still believe it must be true in many places that richer neighborhoods tend to have more trees, but at least in their research, at least here and leaps, like they didn't find that they actually did not find that the lower income neighborhoods had fewer trees.
+
+Bret 9:06
+Okay. But that may, I've I will be shocked if it cannot be demonstrated in the US that the wealthy neighborhoods are much more likely to be tree lined or the density of their tree lining is greater or whatever it is, for lots of different reasons. For one, I mean, we could probably list a dozen reasons that that should be so one, people's positive association with trees causes the houses on those streets to be more expensive, which means that people of higher socioeconomic status can afford them. The fact that the tax base is somewhat local, is is going to mean that there are more resources to do something that actually costs more like maintaining trees, rather than simple pavement. So there are lots of reasons that you would expect that correlation now what the heck are the trees? Okay, sorry, gone. Well, just that you would expect to find them on the fancier streets for laughs and because there are lots of reasons we have to be careful here, that there's not some to correlate and this has very little to do with trees well that's a possibility
+
+Heather 10:04
+it is a possibility one of the ways that this research differs from all but a couple of pieces of research that came before is that there's been a lot of talking about green space about the value of green space about being near you know, either wild nature semi-wild nature parks etc. And they specifically looked at street trees which in their language as an advantage in that they can be retrofitted into neighborhoods that even though you're right then of course takes you know some doing to plant them and then some maintenance and that especially if you're planting the wrong species of trees that would require a lot of irrigation or something in order to keep them going, you know, once they're past sapling stage, that they would be less likely to persist in neighborhoods where there weren't a lot of resources, but
+
+Bret 10:53
+well that I guess well so what I would love to know is one prediction of this if if the if the correlation is due to causation then you would expect that neighborhoods in which trees had been added that you would see a difference in prescription historical prescription rates over that time that would be a great result that
+
+Heather 11:14
+that would be at what's called a matched pairs that would be a match pairs experiment experimental design which would allow you to specifically say Aha, we see a decrease after a decrease in antidepressant prescription after the addition of trees as neighborhoods I
+
+Bret 11:30
+will say a couple couple other things one intuitively this result by probably sounds more right to you and me then it deserves on its merits because because this is a complex set of phenomena in which trees are labeled to be correlated to dozens of other things and therefore it could be something else that's lurking in the data and this would evaporate if you tested the tree hypothesis directly right. This is more intuitive to you and me because you and I have some kind of I would argue unnatural level of need for this I think you and I would accept a huge decrease in quality of life to live in a place that you know look right out the windows
+
+Heather 12:16
+that is to say our values are such that other other changes in quality of life that other people would rank more highly as important to them we would accept so long as we still have the trees out the window Yeah, or you know, or I would say any of this is you alluded to this early early in this conversation but there will certainly be ecosystems in which some cities are where trees isn't the thing right like it's it may well be that all humans would you know would enjoy seeing a tree but if you know tree lined streets on owl in LA, for instance, are a different phenomenon because la happens to be in a place that doesn't really natively have much in the way of trees and so you know, I would I would predict that access to some sorts of things that would actually be relevant and natural outside of your window would do something similar and you know, the obvious thing is is water Yeah, right. You know, coastlines, rivers, creeks, lakes ponds any of that and of course as as it is you know as well well established those pieces of real estate of course are always are always belonged to people with higher socioeconomic status.
+
+Bret 13:32
+Well, I want to come back to the question of whether or not we might be on the cusp of a change here as a result of wet Corbin has forced us to learn probably should have known anyway but but I do agree I think trees are certainly if the model that you and I are going to Intuit from this is right, them trees are a proxy it's one of dozens of things that could work and almost certainly not the best of them. Right?
+
+Heather 13:55
+So what do you what do you what do you think that
+
+Bret 13:59
+because well, personally, I would guess that there is something about the static pneus of trees and steep trees are not perfectly static, especially deciduous trees are you know, dynamic at one time scale, and you know, trees blow in the wind and all of that, but that there are lots of things so if I just take myself as a model, right? It's cool to see trees out the window, right? But it's like 100 times as cool to see squirrels in the trees right. So the the the dynamism of animals outside that raise questions at a different timescales. You know, it's positive. Imagine I've imagined it as a Sudoku like effect on the mind if you pay attention to the squirrels
+
+Heather 14:40
+Sudoku like effect that's an interesting phrase. All right. So I I'm with you on that, but I actually suspect that specifically squirrels and trees might be a negative for a lot of people. You know, we've we've joked about, you know, wanting more squirrels, you know, kind of wanting squirrel monkeys. You know, even in temperate trees and such a no, we're not gonna go introducing species where they don't belong. But I think that that many people especially dyed in the wool urbanites Can, can accept the grace and beauty of a tree and get a little freaked out by something that scurrying around in it.
+
+Bret 15:21
+I think squirrels evokes something different for people. But anyway, I'm sure there are some people who
+
+Heather 15:26
+I know there are some people who don't like squirrels. There may be and you know,
+
+Bret 15:31
+people who are trying to feed birds often don't like squirrels for other reasons. But
+
+Heather 15:36
+this is different. You're not hanging out with all the urbanites who really don't like it when things run around. They're not people.
+
+Bret 15:41
+Right? I guess that's true. But, but I would also argue that there's something there isn't under appreciated disaster in light pollution and noise pollution. And so what we don't what we don't remember until it's absent, is how different things are mentally when you can't hear a road. Right?
+
+Heather 16:09
+I was actually so I, as you know, I did Greg Ellis's, the responded podcast yesterday. And it's not out yet. But we were taught he and I were talking about exactly this, the the value of a night sky, where you can actually see the Milky Way. and the value of a soundscape where you can actually hear the birds, or the creek, or whatever it is, but it's not the cars or the honking or the or, rather, the anthropogenic thing,
+
+Bret 16:33
+which we learn to tune out. I mean, yes, not perfectly. And you and I are very sensitive to it. Because we often go to places where, you know, we go to great lengths, it turns out that I mean to take two examples, or three examples, the Field Station, la Silva in sarapiqui, Costa Rica, you can hear trucks on the road, which is very sad, because in many ways, this is a quite intact piece of forest in which you'll see all of the, you know, including things that require undisturbed habitat, like you know, bushmasters are still there. So it's really very intact for us.
+
+Heather 17:12
+And it's probably one of the two most important fields, straight field stations, the neotropics that have established a lot of what we think we know about neotropical ecology. And so the proxy, the fact that you can hear the row that it's so close, you know, renders those data that research, at least at least all that research warrants an asterisk at some level,
+
+Bret 17:35
+right for anything where that might be a relevant factor it is important to consider but I would say if we compare this to your primary field site in Madagascar, nosey mangabey, the island off of the island of Madagascar, by virtue of the primitiveness of the civilization on land there, obviously cars driving around, but they're far from on Madagascar on Madagascar, nosey mangabey. So the point is, there's the occasional boat that comes by, but it really is insulated from those kinds of things. Not flying over, you do occasionally see stuff fly over fly in
+
+Heather 18:13
+there, occasionally there at least, you know, it's been, gosh, it's been 20 years at this point, but I mean, just because it's right at the western edge of the Indian Ocean, there's just not a lot of
+
+Bret 18:25
+reason to fly over it. I was gonna compare this to BCI, where I did my fieldwork, which is a very first world first rate Field Station by virtue of the technology available for science but by virtue of the fact that it's in like a tune in the Panama Canal, it is insulated from the noises of the outside world with an interesting exception.
+
+Heather 18:48
+The boats plenty of planes flying overhead on plenty
+
+Bret 18:51
+of planes. mbci boats go by in the canal. And the weird thing, maybe not so weird sonically. But it's weird that the difference is the Stark is that you've by and large don't hear them during the day and at night, the sound travels much better and maybe you're also more attuned to it, but there is the sense of like, you can see the boats going silently by on the day. And then at night, you actually hear them you know, for
+
+Heather 19:15
+God is there going to be something about the the coldness of the air and the amount of water
+
+Bret 19:22
+that is held and so I believe so. And then I was doing
+
+Heather 19:26
+been maybe also sensory. So what else you were tuned to that you that are hearing gets gets ratcheted up at night when our eyes can't do as good a job? Yes, doing a doing sensor interpretation of our environment.
+
+Bret 19:39
+That's true, but because I was very much interested in this pattern while I was there, I listened very carefully when I saw ships go by seemingly silently in the day to see if I could find the noise and in general, not so there. I think there's definitely a physical thing. But I wanted to compare all of these things to tip a teeny in Yasuni, where we've spent time my recollection As the first week in tipa Tini we literally did not see a single plane fly over and it's certainly way too remote to hear anything else right and so the idea of a place on earth where actually you don't see any evidence of anything from the outside yeah is a level of insulation
+
+Heather 20:21
+I mean there's there's a way in which nosy man could be in my field site in Madagascar is is more about but there's also a way in which it's less that it is five kilometers at the moment given where the sea levels are now from the mainland of Madagascar in the town of Maren sutra and Martin cetera is itself not connected by road for much of the year because the roads get washed out on the regular every year and so and you're the it's it's not a it's not a giant town but it's a town with a regular grace market which is the most race and color most of what people charcoal are. Most people are buying if they have any money at all to buy things. And you know, it's five five kilometers away the vast majority of people don't have any way to get there. You know, they're always on on most days, at least in the late 90s you would see a pirogue or two or you know, one of these dugout canoes with a fisherman who was out for the day getting fisheries family and very occasionally you get a spice book coming by because this is this is where a lot of the world's vanilla is grown in the in the much wall peninsula and a lot of a lot of clubs as well and so you have these mala Ghazi spice boats who are who are interested in stopping it, nosey mangabey on the way down the coast acts as one of the bigger court the bigger ports and that's that's definitely a strange strange thing from the outside world when you get a bunch of usually naked sailors but they have these bouts that smell like vanilla and clothes. What What are they doing?
+
+Bret 21:58
+Right yeah. Okay, so back to the paper though. Yeah, the the the point I wanted to make is that I bet there are a bunch of things that have a calming calibrating effect on the mind that you know that just simply at base remind you that you are somehow embedded in nature and that you can get very involved in the human stuff but the other thing you know, is wonderfully indifferent to your social concerns, right? And so, you know, Brooks, the sky animals that surprise you and essentially pointed towards questions about what they're up to and why they're doing it now and and all of that and I realize most people aren't consciously tuned into those questions but I do think part of what's being measured here is anything that suggests that connection to that other thing is probably good and it would be interesting to know how much it's you know, trees are the thing because I don't know because they're capable of being in any habitat and all but
+
+Heather 23:03
+yeah, are you also horizon line that tells you that it's you know, that most of us find sort of a twinkling horizon pretty in a way but especially a Jagga horizon that suggests mountains that doesn't have lights on it brings to mind a very different sense of like that there if I could get there i'd you know, I would I would I would be in nature and you know, here in the Pacific Northwest where we've not only got these these lines of mountains running all the way from BC from British Columbia down to California, but they're punctuated by volcanoes. And so you know, here we can we have depending on where you are in in Portland you can see hood and Adams and Helens and you know farther north you also get you also get Mount Rainier and farther north Baker and I know I'm forgetting at least one but you know, these really these just iconic and Mount St. Helens isn't that beautiful anymore because it blew its top in what 19 8081 one of the two but the rest of them you know in a in a line appear it's the Cascades and then emerging from the top of a mountain range is this is this volcanic volcanic cone I go that tells me something about what's out there and it's not any it's not us. Yeah, it's not us. Not us.
+
+Bret 24:24
+Yeah. If there's one thing we don't control, it's volcanoes. Sure. Yep. All right. So are
+
+Heather 24:31
+we going somewhere else? No,
+
+Bret 24:32
+no. Okay, so
+
+Heather 24:34
+let's see there are a few of the things I wanted to say about this paper. Here's another quote that Zack I'm just reading off my my screen so don't show it. Another component of dos by which they mean how many trees and how close so they looked they were also interested in not just whether amount of trees you know, proximity to any trees, amount of trees and also they were looking at what's called species richness. Which is to say diversity of trees, tree species. Another component of dos is to understand for whom urban green space has the strongest effect, certain people are at greater risk for depression. In Germany. Again, this is just where the research was done. In Germany, women, people with low socio economic status and unemployed people are at greater risk for depression, and are more likely to be prescribed antidepressants. Previous research has investigated whether exposure to greenspace could be protective against or moderate, or, or moderate health inequalities. So this, the whole paper causes a person to think about depression. But this specifically caused me to think about depression because I thought well, okay, separately, it is known that women are more prone to depression than men. And let's just let's table that discussion for the moment about why that might be. But the other things that were here were, or was it low sales, people with low socioeconomic status, as we've already been talking about unemployed people? Well, if we imagine that depression as something that has been in humans for a very long time, and has complexity and has variable cost, is in fact adaptive, under what conditions and you know, not to say that there aren't pathological forms of depression that really create problems for people. But you know, what conditions under what conditions might feeling depressed, be adaptive, sufficient to cause you to change your conditions, if you have any control at all over them, and thus, create an environment in which you would no longer have cause to be depressed? If you are of low socioeconomic status, if you have low unemployment, and another one was, they just looked at personality characteristics of optimists versus pessimists, like, well, if if you're apparently if you have a pessimistic view on the world, you are more likely to be prescribed antidepressants. That both seems obvious, and also a little bit backwards, because maybe you have a pessimistic view on the world. Because your opportunities suck. Because you haven't been you know, you you haven't been able to find or the world has not provided you an ability to make opportunities with which you can change your environment.
+
+Bret 27:14
+So I want to argue that this is a place for the dichotomy, we very often have things where we name something based on the pathological Yes, right. And so I think there is there is a an adaptive state here, and I think Randy Nessie has done wonderful work in this area, and people ought to look him up if they want to understand it. But the basic point is, if you, you know, just simple biological predicament. If you have no prospects with which to enhance your position in the world, then what you can do is you can minimize what you're burning of what you've got, right? So not being active in the world, not being out spending money, not being out wasting calories, whatever you're doing might be the right thing. Now, does that feel good? Does it looked good? Probably not. The pathological version then becomes, you know, paralytic depression or depression that is uncorrelated to what prospects you might actually have that blinds you to them or something like that. But we should be careful not to assume that the entire landscape is just a malfunction, when it almost certainly isn't. I did want to go back and correct one thing though, I have also heard and read that women are somewhat more prone to depression. And I've always thought that this was incorrect that it's really it's it's playing different roles that men are too busy causing women to become depressed. And so it's like a yin yang relationship.
+
+Heather 28:35
+So the way you would test that experimentally is to look at straight women versus lesbians.
+
+Bret 28:41
+Yes. And what would we find if we did that? Do you have any idea?
+
+Heather 28:46
+This is this is your game, man. I just gave you another shovel. All right,
+
+Bret 28:52
+well, I'm gonna go check with a bunch of lesbians and see if I come up with anything useful on this stuff. Get back to me. Yes, I will. Of course.
+
+Heather 29:01
+Yeah, I mean, like the question, the sex differences in various so called mood disorders is an interesting topic, but just not one that I'm prepared to go into any depth today. Let's see, there was at least one more thing that I wanted to talk about here. Oh, that they they're using this proxy for for depression, which is antidepressant use, right? And that's a one way a great proxy because it doesn't require self reports. It doesn't have mood of you know, and and then assessing with people you don't know at all with whom you don't have a long standing clinical relationship, for instance, whether or not they are in fact depressed. And so it's you know, it's it's quantitative, it's actually a pretty good simple metric. And those are fairly hard to come by. Just like measuring. You know, having databases on street trees is not perfect overlap for how many trees there might be what if people have trees in their backyard? That does That doesn't get counted by this. But it's it's a pretty good simple proxy. But it does raise this issue of are antidepressants helping. And you know, we're again, I want to we're gonna do this in some more depth at some point. But I will say that I think there are very, very, very few people for whom antidepressants do seem to help. Not just right away, but persistently. But there is abundant evidence that antidepressants are themselves causal of many problems, that they are themselves addictive, such that it can become impossible to get off of them and have have anything like a coherence in your moods and, and life going forward. And that they, you know, as we've talked about a little bit before on here, this idea of there are a whole bunch of people walking around with a chemical imbalance in their brain is about as ludicrous as suddenly in the 20th century, all human, you know, a majority of mostly mostly rich humans started needing orthodontia because our teeth are all terrible,
+
+Bret 31:13
+because our because genes are driving our teeth to not be in the right position. Right, right. Yeah, I totally agree with this. And I want to point out that I think this work is effectively revealing a very, very general pattern. In other words, what are the chances that if you, you know, if the real question is, are modern living circumstances, healthy for people, right, and you zone in, or you zoom in on two characteristics? Here's an unhealthy thing. Depression bad enough that you need drugs for it, or you need treatment? Right? And here's a thing that we've gotten farther from trees, right? What are the chances, we just compare these two things that lo and behold, you will find that actually, trees may be playing a really positive role for people who live near him, right. And so
+
+Heather 32:09
+so you're like pick, pick almost anything that we historically always had a close relationship with and have less of a close relationship now. And another character that seems new to the 20th or 21st century in terms of something that people are experiencing, and one of them's going up on them is going down, let's see, if we move the one that was going down, up, we can't move the other one down, right.
+
+Bret 32:35
+And so my prediction, if you just propose the experiment without naming trees, or depression is you're going to find correlations, they will be very, very weak, because there are so many of these things, and they will all combine combined to make the effect. But what this particular thing is saying is either This is a special relationship, which I doubt, or that the point is, even a small amount of contact that you retain to your former self that lived in close proximity to trees, is enough to restore a sense of balance. And so anyway, this does point very much to the theme of our book, which really finished this week. Yep. And I should say, We finished it. This week, we are sitting here together, still more or less smiling each other. You did not so much as contact a lawyer about divorce, as far as I know, as
+
+Heather 33:35
+far as you know, that's fine.
+
+Bret 33:39
+All right. Well, anyway, I think this is a testament to something very
+
+Heather 33:42
+submitting it. The final the final draft to our editor, I did tell her that neither dishes nor marriages were broken. This is
+
+Bret 33:50
+wonderful. I mean, this, you know, this isn't just co authoring a book, you and I have survived our marriage has survived riding tandem bicycles together, we have lived in a tent together for four months. We we tandem kayaks, these are these are marriage killers right there. And
+
+Heather 34:08
+none of that was as hard as this.
+
+Bret 34:11
+I know. I'm really sorry. But in any case, in any case,
+
+Heather 34:15
+so even just for, for now, the vast majority of people watching who were like, why did he just take the hit for that, like I will say that when it's tandem kayaks or bicycles or sharing a tent, we are equally responsible for the problems and the the chaos, but the problems on this were not shared equally.
+
+Bret 34:37
+They were not shared. Okay. But in any case, the theme of the books, the theme of the book is about hyper novelty. That is to say all the changes that the world inflicts on us moderns. Yeah, and the consequence and I just want to point out that, in some sense, the lesson of this work about the trees is that something else has been driving The structures of our lives, we have been moved overwhelmingly into cities, we have been moved away from our families, we have been moved, we have been blocked from seeing the night sky, we have been forced to process noise that our minds must throw out in order for us to think straight.
+
+Heather 35:22
+We have been blue LED is in every room in our house blue LED is we sit
+
+Bret 35:27
+under fluorescent lights, every manner of distortion is there. And the point is a there are trade offs, right? Is there something good to moving into a larger population? Sure, you might find people whose interests match yours better, or with whom you're better positioned to collaborate just because it's a larger population, but at what cost. And so we never get to the at what cost, we see the value of doing this, that and the other. And we are finally finally finally beginning to recognize the massive cost of just simply not knowing that there was a connection, that actually your physical proximity to something like trees might have a major impact through no mechanism that we can specify on your sense of your own prospects in the world, right? That is an amazing fact. And if we ever got good at sorting out all of the various contributing factors, we might immediately be able to give the world a huge raise in terms of well being by simply reducing the negative impact, you could probably reduce the negative impact of most of these things. By 80%, for a very small fraction of the cost, you could keep most of the benefit. And wouldn't it be wonderful if we were less insane, because everything that we are surrounded by is at odds with us?
+
+Heather 36:47
+I do. I do. Like, again, the idea of retrofitting trees, I think one of the reasons that this research caught my eye this week was that, you know, unlike a call for, you know, 100 acre park in the middle of an extent, urban landscape, like where what else has to give a ton of stuff else would have to give unless there's already a park that just fallen into disarray. Whereas many, many neighborhoods have concrete that could be in his it's not free. And it's not even that cheap, but it's pretty cheap to put in street trees, compared to a lot of the other kind of green space that that many of us want.
+
+Bret 37:31
+Well, I agree with that. And part of the problem is that we cannot escape the sense that, you know, these are the cities, but these cities were put where they are, and it's constructed the way they are. Because something was prioritized over human wellbeing. Now at the time, we didn't understand as much about human wellbeing, and we couldn't, now we can and so in some sense, if you're, if you're scratching your head, how can we people are so broken, and so confused, and you know, and are in need of, you know, surgery and having tension put on their teeth, and, you know, all of these things? The answer is okay, well, this is all true for us, right? How can we not make it true for another generation, these people that haven't yet to be born haven't been hurt yet. And so going forward, we could reorganize things and the fact is, no city should look like this. You shouldn't be intermingled with with vehicles everywhere, right? The vehicles may be necessary, right? But there's a way to organize things so that the point is the vehicles get you where you need to go at a gross level, something else your own power, or something else that is not destructive, dangerous, and all of that transports you to the rest of the way you are surrounded by green you could imagine a version of a city that was much more hospitable and you know, it's it's terrible that we don't think in these terms.
+
+Heather 38:57
+I will say that our new hometown Portland, Oregon, does a really good job of us at least, at least on the west side, and I think much of the east side too, but the the West, the West Hills which is rolling or then then the flats on the east side of the Willamette have has a ton of parks and one of the things that I have done during the last year of lockdowns when we've both traveled less than I think I've been fewer places than I have in any other adult year of my life I I crave exploration and adventure and travel and you know, any day that I find myself standing someplace I've never stood before is is a win for me. And it's been harder and harder to accomplish while being in a city but not a city that we've lived in for very long. And so just even yesterday actually I had, you know, a half an hour after being somewhere before I had to get home to do this podcast. And so I went to one of the coffee shops that I like and then just you know this is you can use tech stuff Nature right I just googled up parks near me and that you know, x near me feature that everyone who uses Google I think no, on their phones knows exists. Probably usually you think, you know, gas stations near me or, you know, restaurants near me, but parks near me is wonderful. And I knew that there was this giant Park about half a mile away. But I know that park and that's not where I wanted to go, I wanted to see if there were a little pocket park near me. And there was like, you know, a 10th of a mile away. And so I walked through a residential neighborhood that I'd never seen before. And, you know, a couple dogs I'd never seen before, and ended up on a little park with, with Yes, a lot of trees and, you know, playground with even some kids playing Oh, my god, they're all masked, but okay. And, and that was that? I didn't know. And I wouldn't have doubt in that case, you know, I would never have driven down a series of little residential streets to a dead end road, absent being able to say parks near me, anyone. So that that is another way to sort of add value to your daily life, I think.
+
+Bret 41:05
+Yeah, absolutely. And I do think that parks, you know, obviously this didn't test parks. But parks works. Parks, parents love them. Sure. And they have the same effect on the mind for
+
+Heather 41:17
+sure. Just one more thing about two more things about this article before we move on. I had mentioned that they looked at species richness like okay, trees close, good. But how about diversity of trees, number of species of trees and leafs they found that didn't matter. Like it doesn't have an effect on mood. And it reminded me of something that Steve Harmon said to me the last time I saw him, which would have been early 2019. We talked a bit about Steve Harmon on episode 17. Actually, I know which one it was because Episode 17, back on May 23, of last year was when we talked about the Evergreen fiasco, because it was the anniversary. And Steve Herman died early and COVID. Not from COVID, I think. But he was a nearly founding member of the Evergreen faculty and an extraordinary naturalist and extraordinary ornithologist who had all of his students learn, for instance, the Grinnell journaling style for natural history. And I was actually I had just begun interviewing him. With regard to some of the wondrous things that evergreen had done early in its time when we were trying to talk, we were thinking about trying to figure out how to create a kind of higher ed that would be robust
+
+Bret 42:39
+to make that clearer, you and I were not part of evergreens founded, we were tiny children. So at a time, when you and I were talking about how now in the present to make higher ed more robust, you were interviewing Steve Herman about what he had seen back towards the founding of the
+
+Heather 42:56
+college in early 2019, which I thought I said,
+
+Bret 43:00
+Sorry, you can just know that the maybe it wasn't clear, I missed the I missed the 2019. Okay.
+
+Heather 43:07
+So, two years ago, or so I was with him in his, in his living room, in rural Southwestern Washington. And he said something to the effect of too many people don't know that there are a lot of kinds of trees. And when he said that, I thought, Oh, come on, like everyone knows, like, a difference between a pine tree and a maple tree. And he said, Yeah, kind of, but within gymnosperms, which is, you know, all the trees with needles, or people don't really know the difference. And, you know, probably most people know maple and oak, because they've got these really iconic leaf shapes, but also just because, like, we build things out of them, right, like, we know, the trees that have utility to us. And, and for him, he always like his, his style of education was really about, you know, drilling down on the, on the detail and having students really know you know, what species of bird that is and what species of plant that is. And from there, people were able to find their own meaning. And I think that is, you know, that's that's very rare, and I don't think it's necessary to get value. But it is something that that struck me that it's probably true that a lot of people don't actually walk around, noticing that there are a lot of different kinds of trees that just like there's
+
+Bret 44:27
+trees. Yes. And can you go back to the title of the article?
+
+Heather 44:32
+The article is urban street tree biodiversity and antidepressant prescriptions.
+
+Bret 44:37
+Yeah, so that title is actually wrong, because although they studied the biodiversity, they concluded that it had no impact.
+
+Heather 44:43
+Well, they, I mean, they, they looked at it and they that title doesn't say yeah, what the relationship
+
+Bret 44:48
+is, I agree, but it also does highlight something that they found no correlation with. So anyway, as to Steve's point, yep. And a title for either The project that educates people on this or a better title for that paper, what's it through? Yeah. I mean, right?
+
+Heather 45:07
+Absolutely. And to those six of you who got that reference, congratulations.
+
+Bret 45:11
+Well done.
+
+Heather 45:14
+Is the genus, the Latin genus for us? I think,
+
+Bret 45:17
+no, it's junipers. Yeah. user type of Juniper. No,
+
+Heather 45:20
+no, the death rider for us.
+
+Unknown 45:22
+Let's Texas Yes,
+
+Heather 45:24
+obviously, yes. And, okay, just just cut that this is interesting paper. So we're spending a fair bit of time on it. Even though a lot of these things are a little quote from the paper, this finding is supported by other studies that found abundance of a taxonomic group, but not its species richness, affects mental health and well being. So this had me wondering how many clades that might apply to so that what they're saying is, you get a lot of something around, and that makes you feel better, but it doesn't really matter if there's diversity of that thing. And I thought, you know, for a lot of people, and I think Steve, would, Steve Herman would resonate with this two birds, right, like a lot of people like, like the idea of birds around, but you know, I know, when I go out in the morning, and listen to the dawn chorus, I'm, like, you know, hundreds of the birds that Steve was, but I know that it is more interesting to me when I hear a diversity of birdsong and birdcall that I know are coming from different species, you know, and I and then I can infer about mixed foraging flocks about different behaviors. And like I can, I can sort of add, add to my model of what it is that is out of view about what is actually going on, as opposed to if I just heard you if I just heard crows, which I love, or if I just heard chickadees it's it's a, it's a more depauperate natural history, and therefore a more depauperate story that you could tell, but I don't think the same thing would hold like more, you know, more trees, but it doesn't matter if you've got a diversity of them. better mood, more birds better mood, more leeches, better mode. More sharks better. I don't think so. I don't think it holds for all kids. Well, what antelope improve your mood,
+
+Bret 47:04
+antelopes would would improve my mood. I'm gonna have to look at whether antelopes is how you say I think cantaloupe, it's it's antelope. antelope. I think you're right. But no,
+
+Heather 47:12
+we're actually to use our younger sons pluralization scheme, it might be a loop.
+
+Bret 47:17
+And yeah, that's good. You're right. Now, I'm not so sure about this. I think actually, it does hold across clades. And this is admittedly an anecdote, but we will return to this. Earlier this week. Actually, yesterday, I was in a, I was enjoying the sun, I was out in a local nature reserve, sitting. And I detected that I was being bitten by a mosquito. And I looked at it in horror, and I realized it was a type of mosquito I've never seen before. And so that made me feel good. And then I killed it. And I felt even better. So yes, it elevated my mode.
+
+Heather 47:55
+But that actually, that runs counter to this, you, you were interested in the richness of the species richness of the mosquito of the local mosquito populations, but not in the quantity.
+
+Bret 48:05
+No, I was interested in vanquishing this mosquito. And the fact that it was a novel foe made me even happier.
+
+Heather 48:14
+Excellent, okay. And then just one more line from this paper, which is referenced to a different paper. Indeed, the most common way people experience nature is through a window. So I find this sad. But it also helps explain why they got the results that they did, that street trees, that proximate within being within 100 meters of a tree, you've been having your home with 100 meters of trees, is, is predictive of being less likely to be on antidepressants. And, you know, mostly people are experiencing whatever nature they're experiencing through a window. I'm sure the benefits would be higher, if they were actually out in the air with all of their senses attuned and all of this, but amazing that the benefit can be can be gotten simply by viewing it through a pane of glass.
+
+Bret 49:13
+Yeah, that is amazing that they that the effect persists, even through that low bandwidth channel. Yeah, and I will say, I think part of you know, part of the problem is that people lose, you know, you know, at one level, it's really dumb, it's pretty easy to go out and access nature. On the other hand, if you kind of don't know where to go in order to encounter nature that's actually worth looking at. Yeah. Or you don't know how to interact with it because it didn't happen to be a feature of the way your family did things or whatever. It's not that obvious. And it's, you know, it's a pity but it's something we need to consider, which is, well, how do you onboard somebody into this process that it is simply assumed, you know, we all know where to go and what to do, and we're choosing not to
+
+Heather 49:59
+that saucon Valley speak meets nature
+
+Bret 50:04
+that hurt taking it back. Yeah. To in. I did.
+
+Heather 50:15
+I didn't mean to stop you in your tracks there.
+
+Bret 50:17
+Yes. All right. I will I will think more carefully bore before speaking in the future and even after that, right.
+
+Heather 50:26
+All right. Um so before before we go on to talking about Mumford and Sons, what do you want to talk about some? I want to read just a couple of sections from this remarkable very long pro publica piece that came out. And we'll link to it as we as we do to the main things we talked about in the in the show notes such that people can read it themselves. So this is about basically suicides and young people under strict
+
+Heather 50:57
+lockdowns. And let me say, hold on. And I don't know where it went. Oh, there we go.
+
+Heather 51:10
+Here we go. If you could show my screen, Zach. Thank you. So this is published just a few days ago, Alec macgillis in pro publica, and it comes under the title. The last year what the pandemic cost teenagers with the subtitle in Hobbs New Mexico, the high school clothes and football was cancelled. Well, just across the state line in Texas, students seem to be living nearly normal lives. Here's happened demick school closures exact their emotional toll on young people. So Zach, if I may, for a moment. I'll read one section from just from my screen, and then I'll have you give it back in a minute, sec. So and the quote and the psychological stress that the pandemic has produced for so many Americans of all ages, is unlike so many more acute crises that we might experience in life, said Nick Allen, a professor of Clinical Psychology at the University of Oregon, quote, this is quoting Nick Allen, there's a difference between a stressor that makes your life unpleasant and intolerable. And a stressor that takes away good things. He said, for a lot of people, the stressor that COVID represents is one that takes away good things. You can't go to sporting events, you can't see your friends, you can't go to parties. It's not necessarily that you're experiencing abuse, although some maybe what's happening is that we're taking away high points in people's lives that give them reward and meaning that may have an effect over time, the initial response is not as difficult as something that's stressful. But over time, the anhedonia the loss of pleasure is going to drive you down a lot more, which I think is critical. And then I want to read three paragraphs from near the end. In which the author let me just set it up. First, the author is visiting the teacher, the favorite teacher of a young band, a young man named Cooper, who was apparently healthy and well adjusted and beloved, and he was a star quarterback, and he committed suicide. And it was stunning to everyone, like people did not believe it when they heard his name. And he was not the first and Oh, just a little bit been by way of setup that New Mexico has been in sort of extreme lockdown for almost a year at this point and has shut down schools and most school sports and all of this was just over the border. here where this is happening in Texas. The government has mostly let local jurisdictions decide, decide as as they want to. And so let's see this last Here we go. Let these three paragraphs my last visit in Hobbs that's the town in New Mexico was to the home of Jennifer Espinosa Cooper's favorite teacher. When I entered her bungalow, Espinosa friendly woman her 40 said that I should feel welcome to take my mask off because she had already been through a serious case of COVID-19 several weeks earlier. This startled me but not nearly as much as what she told me next. But soon after her own illness, her partner of 18 years Ava died of what it strongly resembled COVID-19. Those initial tests come back negative. He had been away from Hobbs at the time working an oilfield job in Odessa, Texas, and a co worker he had shared a truck with litter tasted tested positive. He died on November 30, at the age of 49. Before she could see him and then Cooper, the quarterback had died a week later. It had been a terrible month and had left her uncertain about the best course for the hub schools and sports teams. As the school year started, she had been among the majority of teachers who are willing to return to classrooms. This anomaly been confirmed for her she saw how poorly the remote learning was going. Not only did most students leave their cameras off, some wouldn't even turn on their microphones. I can't see them. I can't even hear them. She said they didn't want to talk. But then she herself had gotten the vibe As she wasn't sure where at severity had hit home even before her partner's death, she had swung the other way on reopening. Now Cooper's death was making her reconsider again, if it would prevent another Cooper than definitely yes. She said, we just have to weigh the good and the bad. Do we fear everyone coming back and possibly getting COVID? Or do we fear losing another student more? You had not heard that before?
+
+Bret 55:24
+No. Makes me think a lot of things. And it's hard for me to separate it from what the world looks like, as people are experimenting with, you know, returning to it as spring is donning here in Portland and
+
+Unknown 55:40
+the
+
+Bret 55:43
+A, this has always been a trade off. And frankly, we have dealt with it very, very badly, we have dealt in black and white terms across the board, right? And this, you know, you have, for example, a continuum invulnerability by age, right, that ought to be having a dramatic effect on the way we think about things such as school, it ought to be having a dramatic effect on the way we evaluate the costs and benefits of a novel vaccine. And yet, we are not in this mindset. It's like you're either on board with the vaccine, or you're not or euro, you know, you're casual about the virus, and you want schools to open in spite of the hazard. Or you're, you know, paranoid. Yeah, right. And it's never been this way.
+
+Heather 56:35
+You're either you're either in favor of avoiding the virus or in avoiding economic disaster, you can't you can't be interested in both. It's not allowed by the conversation.
+
+Bret 56:46
+It's not allowed by the conversation. And any of us who are trying to do this carefully know that it is the conversation, it has always been the conversation, and to the extent that the conversation is ruled out in favor of a choice between two things that are can't possibly be right. We are, you know, we are setting ourselves up for disaster. And I will say, you know, I have we have been pointing to this from the beginning, we have been, we've been right about a lot. But I think we have been this is the thing that we are most right about, and I've been most consistent in trying to alert people to the danger is that they are blocking themselves off from normal human interactions. And that is only going to accelerate the process of us going insane. And that you as an individual have a certain amount you can do, right? A lot you can do. But it involves figuring out how to, you know how to reduce the harm of the trade off itself. Right. So for example, yesterday, I saw a group of young people gathered in a way that young people do not typically gather, they were they had clearly all written their bikes somewhere, which was nice enough to see young, young, how late teenagers, they had written their bike somewhere. And they were decidedly sitting in a circle in which they were socially distant, and they were being teenagers together.
+
+Heather 58:14
+Sex, what mixed sex they were.
+
+Bret 58:17
+I would say it was two thirds voice, but it wasn't. But anyway, the point is, there's a, there's a, there's a way and it's out there and all you need to do is be tuned into a finer level of detail about what this threat is and how it works and how it doesn't work. And the point is, okay, hey, there's a loophole right? How do we use that loophole?
+
+Heather 58:41
+You know, there's, there's a way for those of us in the Northern Hemisphere, again, almost after many months of ever colder wetter, worse weather right so you know, we happen to be having a couple of just glorious days here in Portland and it's you know, it feels now for those you know, for those of us just in the Pacific Northwest, like the weather has turned not such that we're about to hit those, you know, two and a half months of glorious perfect weather that everyone else wishes they had, which won't come until like, you know, maybe mid July, but that we are now hitting that intermittent phase where it's not just going to be you know, really wet and cold with you know, occasionally a sun break, but you know, we're going to increasingly get more and more days like that the ratio of beautiful days as it gets warmer and warmer and warmer and bluer and bluer and bluer today is that you wouldn't really be sitting socially distance outside is going to go up.
+
+Bret 59:38
+Well, but still, the loophole isn't. It's great, go use it. The loophole is make dopamine while the sun shines like that, you know, we were we were warning people before winter. Winter is coming and yes, that's a joke, but it's also not a joke. And I think the thing is what you want you know, it's Like you have a an account, and the account is drained as you are isolated from the things that actually calibrate you and matter, and that is filled up every time you are able to go participate in those things. And the fact you know, we didn't know if the failure of COVID to transmit outdoors would endure, we still don't know. But so far it seems to have so far today. So as long as it indoors, the point is, how weird that 98% of the space on your in your city 98% of the space is probably safe, right? And you're not thinking of it that way. And in fact, I'm stuck when I go out and I use our Rails to Trails bike path, and I see there for lots and lots of people, something like half of them are wearing masks, whether they're biking, or walking, or whatever they're doing. And I don't know for sure some of them, you know, if two people are walking side by side and they don't live together, then maybe they're doing it because they're you know, it's probably more caution than I think it's necessary given the evidence about outdoors. But there's a defense of it. On the other hand, if you're riding along and you're not riding with anybody, then the point is, well, you're not making as much vitamin D as you'd be making, right, you need more sun exposure, you need a break from the sense that everything is about COVID at all moments. And the fact of something touching your face is can't be mentally healthy.
+
+Heather 1:01:27
+I will. So we've talked about this before. And it was last summer, the last time that we were biking together, but you've been on your bike a lot. And I think the four of us, you me and our boys were out on a different different trail system coming back from sort of deep, Southeast Portland at one point. And we also saw a lot of people on bikes with masks, and we're wondering what that's about. And I think I think there's effectively no chance that if you are biking alone, you can get COVID Yeah, if you're not masked, and so the wearing masks on bikes is, you know, I, I agree with you that it is going to be unnecessary. But that if you are biking hard, if you are breathing hard, and you pass someone close, it is it is more likely than if you weren't breathing hard that you could transmit it to that person.
+
+Bret 1:02:25
+It's one factor. Yeah, out of many. And I would love to know whether anybody at all has actually contracted COVID from such a scenario, right? And if it is, if some have it's a tiny fraction, and how much better off would how much more bike riding would get done. And therefore how much more sanity would be retained. If people weren't feeling like they had to do it in in, you know, active COVID prevention mode. Yes, but But anyway, the, the question I have, so I have the sense I look at these people, and I have this erg because of the kind of person I am and have been all I have this urge I want to talk to each of them. And I want to say, Do you know that you probably don't need to be doing that, right. And of course, that would be a disaster many, many times, and sometimes it would get a proper response. But I The problem is I think we're involved in a story out there. And the story is the good people and the bad people. And you can recognize them by their masks. And therefore, the point is, you wouldn't want to take advantage of the fact that you don't need the mask under many outdoor circumstances, because then you would signal you're part of the bad people. And nothing's worse than that. And so what I'm hoping is it somehow those of us who get this and those of us who get how much harm there is from masks when you don't need them how much advantage there is and feeling normal about anything at all during COVID. Right, given all of that what we need is some sort of signal that I'm not wearing my mask now. But it isn't because I don't take that as very, very important, right? I want something you know, I feel like I should be wearing something. So I'm a COVID Hawk, but I'm not wearing my mask that's not needed here. Right. And of course, that's too much, but but somehow we need to create that culture of people who do get the danger, take it very seriously. And maybe that's even why they're out on a given day that because you need the normalcy in order to retain your sanity in such such crazy times.
+
+Heather 1:04:21
+Indeed, well, lots lots more to say about the tensions. And, you know, to have to have the words, the story of this teacher whose partner died of COVID and whose cherished student died of suicide within a week of one another due to the political measures put in place to prevent COVID is remarkable. And you know, maybe maybe we'll just let that set you up for now I agree. I didn't we did detour. But I know. But it's it's now your turn to talk about it. cancelation? Well,
+
+Bret 1:05:01
+I think we're gonna skip that. I think in light of of all we've talked about, I don't think it belongs here. We can talk about it another time. Okay. Was there more on our list? Because I do have a
+
+Heather 1:05:13
+you had, it was possible you're consistent with polar bears, but it's not necessary. And then you had just a couple of things at the very end. You wanted to say
+
+Bret 1:05:21
+Yep, okay. So maybe we should move to polar bears.
+
+Heather 1:05:23
+Polar bears. I let me see. Let me pull it up. I did not fully prepare on this one. Here we go Zachary. published an animal behavior this last week, I think, polar bear foraging on common eIder eggs, estimating the energetic consequences of a climate mediated behavioral shift. Okay, that's, that's all I got. The this is just another piece of new research. And an idea is a duck to see duck. And most people will be surprised to hear the polar bears eat duck eggs.
+
+Bret 1:06:07
+I know that I am quite surprised.
+
+Unknown 1:06:08
+Yeah. So you're just like, you would need to eat a lot of them exactly. So
+
+Heather 1:06:13
+just from the conclusion, our results indicate that a small number of polar bears can gain energy in late June and early July by foraging uncommon either eggs when marine foraging opportunities are no longer available. While our results suggest that some bears can profit energetically from foraging on eggs, the overall contribution that bears that either eggs make to an entire population appears small, reinforcing the importance of seal hunting on ice, the overall persistence of polar bears. So the main message here is that as sea ice melts, and polar bears can't go out onto it, in order to find the breathing holes of the seals, which are their usual diet, they have to look to other things. And one of the things they're looking to is duck eggs of all things, which Yes, they'd have to eat a lot. And indeed, optimum optimal foraging theory predicts, and they find that early in the season, when there are a lot of eggs, the bears, a few bears managed to make a profit of metabolic profit off of the eggs. But the, the longer the bears are there and the fewer the eggs there are, the more pointless the effort gets, because they spend more resource searching for then the calories would return if they find them.
+
+Bret 1:07:28
+So there's some ambiguity here because marine foraging behavior has two meanings, right as the one you described. And it also can mean in the case of polar bears, foraging on Marines,
+
+Heather 1:07:38
+yes, which we don't know them to do, at least in this particular place. They're
+
+Bret 1:07:42
+very nutritious, but they're also somewhat dangerous to hunt. And so it has not been a widespread behavior. And polar bears, as I
+
+Heather 1:07:49
+understand it, Marines fight back more than duck eggs do.
+
+Bret 1:07:52
+That is almost I mean, you know, what do the data
+
+Heather 1:07:55
+say? Very good question. Right? You'd have to create an experiment. Of course, of course, you might want to do an observational study for that. Yep. All right.
+
+Bret 1:08:05
+Well, it's interesting, I have long wondered what is going to happen to the polar bears if warming continues?
+
+Heather 1:08:12
+Well, it was I mean, one of the things this proposes and you know, of course, anyone who's thought deeply about ecology knows this, but that there will be cascading effects right that you know, the either eggs or other marine other other eggs of mass nesting birds, that happened to live within the range of polar bears are not likely to be able to sustain a functional polar bear population for very long, but but the polar bears will eat them until they're gone, which means you'll have those populations crashing as well. And you know, having having crashed those populations, the bears will move on to something else until they can't find enough to eat at all. And they just, they just die. Well, I
+
+Bret 1:08:53
+don't know if you'll remember this. I advanced a hypothesis many years ago, which I still believe likely. Having advanced it does not mean I believe it is likely but in this case, I advanced it and I believe it is likely even though others will regard it as reason to dismiss me, which is that I think there's a real chance that polar bears will effectively disappear into brown bears. Yeah, if the habitat that they are adapted to is no longer available, and that in fact, there may be a mechanism for such things that would involve the collection of adaptive discoveries over in polar bear space by brown bears. That would manifest as effectively regarding the the exotic looking bear as sexy, you know, that the brown bears might find the the polar bear that knows the things about how you deal with the poles when they're frozen,
+
+Heather 1:09:54
+or or the other way around, in which case now we know one of the gifts that the polar bears who are finding the brown bear Sexy would bring duck eggs. duck eggs Yes. as a as a little nuptial gift
+
+Bret 1:10:06
+right a delicacy sure no yeah it's like it's actually scale wise it's like caviar it's
+
+Heather 1:10:15
+excellent yeah that's that's all I got on polar bears
+
+Bret 1:10:19
+All right, well that was great. I'm you know, nature is just amazing. Am I wrong?
+
+Heather 1:10:25
+You're not wrong I'm
+
+Bret 1:10:26
+not wrong. All right. So I think the we've got two orders of business left to to take care of one is a corrector actually,
+
+Heather 1:10:33
+actually, sorry. Why don't we show the thumbnail picture for us just to wrap that up before you do your tours? Okay,
+
+Bret 1:10:38
+sure.
+
+Heather 1:10:40
+So did you send it to someone else? Yes,
+
+Bret 1:10:41
+I did. And I have I have a couple in a sequence.
+
+Heather 1:10:43
+I have Itzhak here on my screen if you want to show it If that's easier no Zach once you
+
+Bret 1:10:47
+show the sequence
+
+Unknown 1:10:50
+okay. So
+
+Bret 1:10:55
+longtime viewers will know that I've been keeping track of a pair of bald eagles This is actually not one of them this is from a second pair that I've now figured out where they live and have been watching them and I'm learning a tremendous amount about watching eagles and how they behave because you actually pick up a ton just simply spending spending the time so this is this is yesterday I was lucky enough to have one of the Eagles fly directly overhead here is actually that eagle on its return trip and this is actually right in you know it's not downtown Portland but it's not far from it's a little pocket nature reserve by the Willamette River
+
+Heather 1:11:39
+you're on the east side here though. Yep, yep,
+
+Bret 1:11:41
+and here the animal is landing This is not the tree that it has its nest in this is an adjacent tree that seems to be a common pattern they have a tree where they like to hang out and look around and then they have the tree where the nest itself is maybe that's to you know these animals are about to lay eggs if they eggs aren't already laid and then they'll hatch soon and obviously there's a danger of alerting other animals to where the nest is because the eggs or the chicks could be poached but in any case, really fun to to be watching animals that are you know not just passing through and getting a glimpse of them but getting a sense of what their life is like and spending enough time to see those patterns
+
+Heather 1:12:28
+beautiful beautiful alright we'll be our our thumbnail for this week this last one yeah. And then you had
+
+Bret 1:12:35
+Yeah, I've got a corrections and the correction is I much to my embarrassment said the wrong thing about who the Mighty Quinn the song The Mighty Quinn was by I said the Beatles and I asked Yeah, that's not a very good quality picture but here's a picture of Manfred Mann and it's I don't know if it's a single or an album that is titled Mighty Quinn But anyway, here's man for man and the famous version of, of the Mighty Quinn, that we all know those of us who know it is indeed man for man.
+
+Heather 1:13:18
+Are they even covering it? Yes, they were. Now
+
+Bret 1:13:21
+but they were not covering it from the Beatles. They were covering it from Bob Dylan. Bob Dylan was the author and apparently the story is that Bob Dylan wrote it and recorded it as a basement tape. And Manfred Mann released a cover of it before Dylan's was ever heard publicly I think and so in any case we associated with man for man even though it is a Bob Dylan creation but I will say the reason that there's in some ways no excuse for terrible I feel I don't usually do this I don't very careful about music I'm I treat lyrics very carefully. And having casually accused the Beatles of invoking the word Eskimo feels terrible, but I will point out they not cover it as well. I find no evidence that they did I looked doesn't mean there isn't some cover of it out there. But it's at least not a commonly heard one. But I will point out in this photographs that you're gonna put the photograph up in this photograph, the gentleman on the far right has clearly borrowed john Lennon's glasses. No doubt why I made the error that I did. So
+
+Heather 1:14:31
+yeah, apparently you couldn't count.
+
+Bret 1:14:34
+I thought that was Pete best on the farm. I see. You know, it's been a while since I've seen Pete and didn't recognize that man. All of us like him. But anyway, yes, I thought that was Pete best And anyway, apology over. Excuse delivered in such as it is. Alright. Sorry. Yes. All right. And the final thing was, oh yes. I have Have not too surprisingly not heard from Abraham x. Kennedy, who I very much want to come to Darkhorse and talk to me about his framework for anti racism, which I believe is incorrect. And I believe you should talk to me about it. If he wishes to defend it, it's far better than doing what he seems to be doing is he is not responded to Coleman Hughes, I would actually expect him to take up that offer more readily than ours. But nonetheless, I would like him to come on dark horse. And the reason is this, I believe his framework for anti racism, his claim that there is only racism and anti racism and not racist is not a category that that claim is demonstrably false. Many people have said so but I believe it is demonstrably false at the level of a logical proof that is so compelling that he will in the aftermath of the delivery of that prove have no choice but to either acknowledge that his framework is wrong or ignore it, because there's no argument he could deliver that will counter it. Now I would like to invite him if he truly believes in his framework, we don't know if he does but if he truly believes in his framework, I believe the right thing to do is to come and face that critique and then we'll have it out and I promise to be you know, my usual self I will listen to what he has to say if he's right I will acknowledge that he's right and that's a big win for him. So in any case, next week if we have not heard from from candy I will deliver that proof and I believe everybody will agree on hearing it that it has to be right it's that simple and that clear.
+
+Heather 1:16:38
+So promised for next week in in less and less conversation was candy is in the works by them. Yeah, unless we've heard from him. All right. Well, we have I guess a few announcements as usual. We're going to take for those of you tuning in on YouTube a 15 minute break and we'll be back to answer your questions that you have posed in Super Chat afterwards. Please again, join us at one or both of our Patreon is on either of them need access to the discord server. And on mine access to to our monthly private q&a is and on Brett's to our comm a couple of to our conversations that are not recorded but that are wonderful, active been going on for a few years now. Right with some regulars and a few new people. Yep. And we have we have merchandise for sale at store dot Darkhorse podcast.org we do intend to get some new stuff out soon. Please consider emailing Dark Horse dot moderator@gmail.com with any logistical questions about anything you've said here and you can find clips I imagine soon there will be clips from your conversation which I'm sure was amazing. I have not listened to it yet with Jordan Peterson, which went up last week on the clips channel on darkness podcast clips on YouTube soon. And I have I have taken to recommending that you, you know love the people who you should be loving and eat good food and go outside and in light of today I want to add you know, be barefoot and be outside barefoot, and dig in the dirt with your hands and get your actual hands dirty and you know feel feel what the earth and the water of the Earth has to offer and don't just experience it. If you can if you live in any situation where you can don't just experience it through through shoes on through gloves, but you know actually actually revel in the thing that is this planet that we live on. Be barefoot. Eat duck eggs. Awesome. All right. Well
+
+This transcript was generated by https://otter.ai

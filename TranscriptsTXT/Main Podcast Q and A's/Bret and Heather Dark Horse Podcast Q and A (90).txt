@@ -1,0 +1,406 @@
+Bret 0:06
+Hey folks, welcome back to the 90th Dark Horse podcast live stream Q and A segment. Are we that make you that's your cue and then we'll come up with an ad to go with it.
+
+Heather 0:23
+All right. So we really only have an hour today because as Brett mentioned in the last hour, he's gonna go catch a plane. That's why we're doing this early today. So I know I got a question from the discord server this week and my email, everything about my computer is failing. So I, I do have another one on the way. Another computer on the way. Which one I will hurl this into real trash bin, I guess. So Zach says he's going to give it to me, because I can't find it anywhere. So we're going to start with a question that apparently came in last week at the very end, and we didn't see here we go. I cannot find anywhere online that Dr. Robert Malone is the inventor of the mRNA vaccine. Could you please direct me towards a source that confirms his status as the inventor of the mRNA? In fact, I found only different versions of the history of the mRNA with different inventors every time which in of itself is strange. And that involves Dr. Malone. I absolutely trust you though. Also is the mRNA a discovery or an invention? Well, there's a word they're missing, right? Like mRNA. Yeah, we have discovered mRNA. The, and I think Dr. Malone has clarified that he invented the vaccine delivery platform, right? And so that is that is an invention. Yeah, using discovered parts from nature, and also using some engineered things which are a creation.
+
+Bret 1:49
+Yeah, so that was my crude understanding. But the basic idea is the environment outside of the cell is hostile to Renegade RNAs running around. Probably because they are indicative of something gone wrong, either a pathogen of some kind, or some cell has burst and random messages are floating around
+
+Heather 2:08
+all these rnases rash. So that's how it's pronounced. All these things that cleave RNA and pardon. Yep.
+
+Bret 2:15
+So in any case, the invention is the mechanism to convey an RNA message past the cell membrane into the cell where the ribosomes then do the natural thing that they do when they find these trends, these transcripts and translate them into protein. So anyway, that's the invention. I think there are two good sources. One is Dr. Malone site itself in which he covers the question of the invention and he provides the evidence he's got like patents and such right, yeah, exactly. And papers and things. And the other is that I believe, why am I blanking? I do Alexandros Marino's Marino's has done an analysis because there was pushback on whether or not Malone was the inventor and I believe that there's a thread on Twitter if it will take some searching but I believe he has analyzed the question and
+
+Heather 3:11
+Alexandros Marino's on Twitter or Robert Malone. And this is at so his site at rW Malone MD comm which I think somewhere I'm not sure where all it's going to be. But you say he's going to have the Yep, the the list of the papers and the patents and such which. Yeah, reveal his place in the story. Right. All right. So I don't know I don't remember how to use this platform. Here we go. Next question. Can you please discuss the lipid nanoparticles in the vaccine? as well, I have heard humic and fulvic acid is good at enveloping viruses and not allowing them to replicate. Is this a possible supplement to look at to include in the protocol to retard the effects of COVID-19? If you get it? Thank you so much. Your work is greatly appreciated. With regard to the second part of the question. Never heard of either of these don't know anything about it. Yep. But the first part of the question, can you please discuss buildup of nanoparticles in the vaccine?
+
+Bret 4:18
+I can't say very much, except that my understanding having asked the question of Dr. Milan and others is that the basically every cell has a phospholipid bilayer that delineates the inside of the cell and separates it from the outside of the cell. And because it has these fats, basically by coating, the mRNA excuse me, the mRNA
+
+Heather 4:42
+AC is on again. coughing Yeah,
+
+Bret 4:46
+my coding the mRNA. In these lipids, it causes the basically globule to join and deliver the mRNA into the cell while protecting it while it's in the end. additional space from these mRNA aces? I don't know much more than that. It's obviously
+
+Heather 5:07
+I read the question as well no, actually, maybe that's right. I read it as potentially like, What? What are they? What's the risk? And yeah, this is something that we've we've talked about before that the presence of lipid nanoparticles is an additional novel thing in these vaccines compared to the say, the dino vector virus, adenovirus vectored vaccines, like j&j and Astra Zeneca, which don't involve the lipid nanoparticles. And so we don't know what effects they might have. But, but it's possibly will have side effects.
+
+Bret 5:43
+Yeah, it's possible. Yeah, I think there's nothing to say except precautionary principle says you're doing something novel to cells and it may have an effect. Yep.
+
+Heather 5:55
+All right. Next question. As the binary and highly political language around vaccination took hold, I feel like some generally accepted facts were lost in the noise. Development of effective vaccines for respiratory viruses has been a highly challenging enterprise. It's one attempted vaccines for Coronavirus, has had significant issues with efficacy and safety to eradication of COVID-19 has fairly weak parallels to eradication of smallpox and polio. Did positive momentum lead to an unrealistic expectation of the vaccines? Yes, and I but I would just add the positive momentum was created by some number of forces. Yes. And we didn't happen into positive momentum, I don't think
+
+Bret 6:38
+right. And I think the things that are most troubling are, this never amounted to a policy that had the potential to eradicate the vaccine that was sort of left imply, I mean, eliminate the virus. So say that, again, that the vaccination policy, the technology in the vaccines, and the deploying of those vaccines under the emergency use authorization, never, as far as I can tell, stood a chance of driving the pathogen extinct. So somebody needed to lay out, this is a stop gap, because there's another set of vaccines coming down the pike that does have that potential, or this is going to be used in conjunction with these other mechanisms. And together, they might drive it extinct, or there needed to be more knowledge meant, hey, actually, we have no intention of driving the 16. Or even if they did, let's give them the benefit of the doubt, even if they had even if they had the intention of driving an extinct, it didn't have the capacity. And therefore the analysis for both the individuals and the public health analysis is very different than the strong implication that, hey, if we can get above 70% vaccination, then are not drops below one. And then we're on a path to extinction for the virus. And anybody who blocks us from getting to 70% is the obstacle to us moving on permanently from COVID, which was the implication and just simply it can't have been tricked,
+
+Heather 8:01
+right? That is, that assumes no viral evolution. Among other things. It assumes
+
+Bret 8:07
+it assumes no viral evolution, it assumes that places that can't be reached by the vaccines don't exist, or somehow stop interacting with the rest of the world. And so it just simply wasn't in the cards, and we were supposed to infer it. And that's the thing that is is so disturbing and infer what we were supposed to infer that the vaccines were the end of the pandemic and all we needed to do was get on board and that would happen.
+
+Heather 8:32
+Yeah, well, I think I mean, I think certainly, that's the inference that was trotted out in, in the messaging, right, whether or not the I don't, I can't remember seeing someone, you know, some credential the person who's speaking here during the pandemic as a scientist or, or a doctor saying that but you know, probably has happened, you know, you can get people to say just about anything, you know, some people will say just about anything,
+
+Bret 8:57
+right. But I guess my point would be all right, compare the implied but unstated, hey, let's get to 70% Why are immunity What Will that do? are not drops below one extinction is in the offing, right? That's the implication, compare that to what we've said, which is, hey, you're not going to get there. You're certainly not going to get there globally with these vaccines. So at the very least, you need a composite you need people's natural immunity from having been exposed to the virus that's a you know, the fact is was a very painful thing that all of these people got sick and many died, but the upside is that they have immunity that's actually robust and broad. This
+
+Heather 9:37
+is not the form of immunity you want. You want buyers the risks are incredible. But if you had the disease, you have this immunity.
+
+Bret 9:44
+But if you were to add that immunity to vaccine based immunity to medicinal therapeutic immunity, like ivermectin, then you might be able to especially since ivermectin Really can reach all of the places that the vaccine can't get to. Right? You really could potentially have this, of course, where there such a thing as a pandemic profit here, that will might look very frightening to them, because it means that this giant new market, which, you know, this offers an opportunity to create new products indefinitely in the future, that market might dry up. So anyway, I don't know that there are such people, but it certainly would fit the approach we've seen pretty well.
+
+Heather 10:29
+Yeah. I don't know that we can do anything with this, but I'll go ahead and ask it. As a social worker, I was exposed to an unknown toxin in a client's home. This led to sudden onset asthma, severe chemical sensitivity and a paralyzed vocal cord. I've been told there is some connection to the vagus nerve. Can you please speak to any part of this confounding problem?
+
+Bret 10:54
+Wow. So it sounds like it's permanent?
+
+Heather 11:00
+Yeah, I don't know. It's it's not it's not clear from here. That's awful. There are increasingly there are there is a recognition of vagal involvement, Vegas nerve involvement in a number of a number of conditions that i think i don't know why i don't know what happened. But I feel like the vagus nerve is getting sort of renewed attention. It's the point that I was learning about, it's just one of the 12 cranial nerves. And it's just, you know, it's it's along with all of its all of its associates, but it seems rather more central for a lot of human things.
+
+Bret 11:37
+What? Because it's such a serious topic, I cannot make any of the obvious puns downstream of the vagus nerve. So we will just leave them implied, and you can write them at home as you like.
+
+Heather 11:51
+Well, I mean, I guess one of the things that is true is that what happens with the Vegas nerve doesn't seem to stay with the Vegas.
+
+Bret 11:58
+Excellent. Yeah. Let's leave it at that. Okay.
+
+Heather 12:02
+Yeah. Do you have anything to add to this one?
+
+Bret 12:04
+No, I don't know. I mean, obviously, there's something frightening if in fact, it was a chemical, like transient chemical exposure in a client's home, and it has resulted in this permanent addition. That's, that's frightening. Yeah. But, you know, I can't say anything beyond it. Yeah,
+
+Heather 12:21
+there's just and, you know, part of part of what we talked about in the book. And indeed, we talked with specifically, there's a section on smells and how smells used to used to present evidence that you were near something that was dangerous to you, if you got if you touched it, and in the modern environment, some spells themselves, just smelling them, can be the toxin. And this seems to be what you're exposed to. But so that is now true, that's a effect of hyper novelty. But it's also true, that the diversity of things that are being produced in labs and you know, sold on store shelves and brought into people's homes, is just extraordinary, and almost none of it is vetted with any kind of safety measures that I at least would like to be saying.
+
+Bret 13:00
+So actually, let's explore that a little bit. The reason that hyper novelty creates this problem is that things that your ancestors would have been exposed to that were very dangerous, it's very likely that you would have a visceral reaction of some kind, very often olfactory, you would find them disgusting smelling, or in some way would dissuade you from interacting. So when we create new molecules that your ancestors had no interaction with it's arbitrary molecule that's dangerous to you could smell good, you know, the way solvents in paint, let's say can sometimes smell pleasant, or could have no smell at all. And so the what we've got now is that sort of arbitrary map between how things smell and what it means and the inhalation itself brings these things in whereas smelling a dead fish. As far as we know, smelling a dead fish isn't dangerous to you, but it does cause you not to want to do any of the things with the dead fish that might actually put you in jeopardy, like try to eat it. Right? Sorry, just imagining
+
+Heather 14:02
+sleeping on it.
+
+Bret 14:07
+Right? Sleep Yes, any of those things,
+
+Heather 14:10
+rubbing it on open wounds.
+
+Bret 14:12
+emailing it to a friend. All right. There we have exhausted laptop excellent.
+
+Heather 14:23
+What's the deal was sweating. I made a comment about sweating like a horse because I know pigs don't sweat and received unexpected pushback. Please give complete evolutionary history for 50 bucks. Well if you guys I don't know. So sweating and then it's about like sweating within particular animals. And I think you know, everyone, everyone knows that. I don't know. I don't know if pigs don't sweat. I don't know that. There are different ways of dispersing heat. Right? They're there and mammals have a few of them and in other other clouds have have others but not sweating at all. isn't something I knew, you know, we know that for instance, cats and cats and dogs, sweat out their paws. At least cats do I think that's true of dogs as well. And you know, you can imagine if you if you're covered in fur, especially if you're covered in a thick coat, sweating is not going to be nearly as effective because part of what it is, is putting, putting liquid on the surface of your skin, such that any breeze at all, effectively, effectively brings down your surface temperature, which can help bring down your let's say, evaporation, it's the evaporation but then also what you get. I think this is usually considered a separate thing, but it's usually in concert with sweating is vasodilation Yeah, and so you know, you get you basically get your your blood being more exposed closer to the surface of your skin such that you can radiate more heat, whereas you get vasoconstriction when you're called so that you know this thing is you know, this basically your the radiator, that's not most of what your blood is doing. But it effectively is a radiator throughout your body. You want to keep that as close to your core as possible. When you don't, we don't want to lose heat. And you want to put that as close to your surface as possible when you do want to lose heat. And so basic relation and sweating tend to go in humans hand in hand. Yeah.
+
+Bret 16:13
+My guess is they always go hand in hand. Yeah, that is exactly how radiator works. Except that it's using evaporation rather than than wind to call the fins the radiator. But
+
+Heather 16:27
+well, but that's that's the sweating, the the blood circulation isn't using No, but they're part and parcel. The idea is, yeah, but I think but they really are different.
+
+Bret 16:35
+I don't think so I think this, this works exactly like a heat pump in a house. And the basic point is, the heat generated in your body is carried by the blood to your surface, it is then reduced in temperature by the evaporation off your surface, which will be enhanced by any wind that blows away the boundary layers, because if there's no wind, let's say you were sitting still sweating, then what would happen is you would build up a vapor boundary layer around you, which would reduce the rate of evaporation so that yes, wetness just sits on your skin. So this is why, for example, if you're working really hard at high altitude, you know, when we used to hang out in the Sierras, right? You're at high altitude and you're hiking, right, except like where your backpack is keeping the sweat on your back, you tend to actually be pretty dry, it's not that you're not sweating, it's that the tendency for it to evaporate off your surface is very, very
+
+Heather 17:29
+high. Right? Right. But that's not that's that's when but that's also the right
+
+Bret 17:33
+the dryness and the low pressure. So anyway, any of all of these things, a one of the things that probably has a lot to say about who sweats and who doesn't, is, you know, you've as you pointed out further is going to create a boundary layer problem that makes sweating less efficient. But there's also question of whether or not you can afford this mechanism in order to cool yourself right, you would need access to water in order to make it a reasonable thing to do because you can dehydrate from basically sweating. Yeah,
+
+Heather 18:02
+I think also the turbinates that the you know, these the bones inside, especially the carnivores among mammals that you know, the the final phylogenic group that is the carnivores, they didn't have these big noses. And, like a prop Sure. And, you know, we tend to think of that because it's in the nose that's entirely about smell and enhancing the ability to smell and in fact, you know, in fact, it is let's say, you can see in the side they're all now they're just hard I'm gonna drop on my computer, all those bones inside the nasal cavity are the turbinates and they provide a tremendous amount there's a, there's a cat here and there a tremendous amount of surface area, which of course in the living animal those are covered in, in flesh, which includes not just sensory receptors in the form of smell receptors. And so yes, animals with big long noses with lots of permanent turbinate bones on which to put lots of those receptors do tend to smell better. They throw away to make that clear smell more effectively smell more effectively than those with smaller noses. But those terminals also you know, covered in flesh are vascularized which means they have circulatory vessels in them and so you'll get like, more rapid breathing as well when an animal is hot. And that that's basically increasing airflow across the across the vascular tissue across what
+
+Bret 19:33
+Well, I was going to add something I think that's Yeah, no, but
+
+Heather 19:35
+Okay, so, so so you weren't gonna correct me but like this, this is just this is absolutely true and not right. not new to anyone. Unfortunately, I imagine it's new to a lot of people. But certainly, it is understood that the more when animals get hotter, if they have more nasal space, they will tend to be breathing faster, shorter breaths and that that is going to increase the efficacy of shunting heat out of the basically the circulatory system out into the air.
+
+Bret 20:07
+And in a parallel to something that we talked about in the book, which is the difference in body shape between dwellers. Very hot landscapes who tend to be lanky in order to radiate heat dwellers of Arctic landscapes, who tend to be rounder to preserve heat. The terminates in mammals, marine mammals in the Arctic actually have an elaborate counter current exchange Mecca. Yes, that's right functions exactly the reverse of what you were just saying, which manages to recapture heat that would otherwise be lost to the environment based on the direction of circulation.
+
+Heather 20:46
+That's beautiful. Yeah. So not a complete evolutionary history for 50 bucks, but I think you got, yeah. I mean, you got to look at a skull. This is a little, little heartbreaking, but how can I go about being in a relationship with my girlfriend? who shares a completely different stance on vaccines? COVID, etc. I'm a 25 year old male. And we don't know, it doesn't matter. who's who. Right? Well,
+
+Bret 21:12
+this one's easy, isn't it? Oh,
+
+Heather 21:14
+I don't know. Okay, go for it.
+
+Bret 21:16
+I mean, look, we're in the situation all day, every day with all of the people who are decent and reasonable on this topic, which is that I mean, frankly, I've been having discussions where we talked about the situation of what the evidence does, and doesn't say, and nobody asks anybody, whether they're vaccinated, because it's in material, the point is the the, we are united in being interested in finding out what is true. And it's sometimes it's relevant that you are, or are not on one side of this, but basically, look, if you've got a strong relationship, then, you know, look each other in the eye and say, I love you. And, you know, just recognize that this is not a clear cut situation, reasonable people find themselves on both sides of this issue. The important thing is that you'd not expose each other to danger, but needing to write, but
+
+Heather 22:13
+I think what you just said reasonable people can find themselves on both sides of this issue. Or rather, I think what you mean is that there are reasonable people on both sides of this issue. line that we are being fed by the mainstream media and by Team Blue, is that that is not true. And so if you are, if you are in that camp, you are likely being told that if you are in the other in the other camp, and I hate the framing of it being two sides, but then you can't be reasonable, and you are putting me at risk, and you're the enemy, right. And so you know, what you just said, will, will work, but it may require like a deep coating first.
+
+Bret 22:57
+Yes, and no. I mean, look, I hate to say this, but there are certain discoveries about another person that will make it impossible to go forward. If it is true, that the person that you are partnered with is going to find your understanding of the evidence, and therefore your conclusion about your own health and well being to be immoral. If that's their position, then either they can be reasoned with and get over it, or they can't, in which case, haven't you just found out something about the character of that person? I mean, really, we're talking about a situation in which the evidence is unclear. And those who claim it's clear are clearly saying things that any reasonable person can understand are not sensible. That ought to cause us to give each other a break. To the extent that somebody has the opposite reaction, to the extent that somebody finds themself embracing some authorities attempt to demonize some fraction of the population that is not convinced of their safety in light of some piece of advice. That's very frightening. And, you know, I mean, I we've said it before, there's something terrifying about the fact that we now hear public health authorities inducing citizens to declare some fraction of the population effectively unclean and pathological. And write it I don't think this makes any sense for if vaccine variants are the result of selection in the vaccinated, the vaccinated are not at fault, right. To the extent that vaccine hazards showing up in the various database caused people to be unwilling to expose themselves to vaccine A nation, that doesn't mean that the unvaccinated are at fault. It means whatever it is that left us with a signal in the various database that is frightening. And that does not tell us what that signal means or explain anything about it. That thing is at fault. And we got to stop going after each other. Right? And I really I my sense is, we're all in this together except people who don't get that we're all in this together. Yep.
+
+Heather 25:34
+There are a number of these I just don't know what to say. I moved across the country right before COVID for a good job at a public university. And now fear that I will eventually be fired for no job. Do you see the potential for class action? advice for that path? Many thanks. It's too early to know what's happening. Certainly
+
+Bret 25:52
+no advice. You know, there are going to be causes of action in various places and and then in other places, you're going to find that that path has been blocked by legal obstacles that have nothing to do with, you know, your actual moral rights. Yep,
+
+Heather 26:13
+that's right. Let's read one and Daniel shmotkin Berger talked about designing social technology. Sounds like a likely hobby of Brett's Are there any social tech prototypes you can unveil here from the militant moderate?
+
+Bret 26:28
+Well, so you can certainly look up game B. Game B is kind of a prototype of prototypes. Many of us who were involved in game B, see that game B is a concept, meaning game B is a replacement for our current system that is competitively superior to our current system such that it displaces it rather than having to win over hearts and minds. And lots of us who have seen that as a foundational insight or a fork in our social code, are involved in one project or another that we hope produces some kind of game B, and frankly, only one of them has to work. So there is game B as the general concept. And then we in our book, begin to describe something we call the fourth frontier, which is a version of the game be universe. And I don't know, I guess, if you're interested, I would tune in to those kinds of conversations. Daniel is a good place to go to and the more people we have involved in thinking about what we might do for the next phase of civilization, the more likely we come up with something that's really worthy of us.
+
+Heather 27:56
+Observing possible add, slash breakthrough and COVID expression assumption that the Vax may be spreaders to the vaccine bakst. It appears that the Vax degrades could early Vax medical folks be vector of spread variant to Vax and unboxed? Yeah, I think this is this is what we've been talking about.
+
+Bret 28:15
+Yeah, very hard to follow all the twists and turns
+
+Heather 28:18
+out, yeah. Again, we should not be pointing to individuals, but was a technology that was imperfect. And the policy that's that introduced it pretty slowly throughout all the populations where it was introduced, in conjunction likely to create the selective pressure to enhance the view to not produce new variants but enhance new variants in terms of their frequency in the population. Yeah, almost certainly. So this is, again, this is based on really, you know, not just basic evolutionary thinking which Okay, you know, a lot of facts and ologists and virologist and such maybe don't have any background in that, although, frankly, that's not okay. You know, vaccines are in intentionally related to,
+
+Heather 29:21
+to evolution. I don't know, I'm so frustrated by all of this. Yeah,
+
+Bret 29:26
+it's very frustrating. I would say there. There are two things implied in the question, which are distinct. One is the issue of variants and yes, people who have been vaccinated and have a breakthrough case, pose a danger not only to other vaccinated people, but to unvaccinated people. And, you know, what we have been saying, which I think is should be obvious, is that there's an interplay, right? It's not that the unvaccinated play no role in that it's not that the vaccinated play no role in that there's an interplay between them now there are other categories right? Do you've got within the unvaccinated you've got people Who are naturally immune? As far as we know, because they've had COVID, you have people who have protected themselves with ivermectin, the degree of protection is going to depend on what protocol they've used. And it's going to depend on things that we can't nail down precisely yet, because there's not enough information.
+
+Heather 30:15
+But I suspect it's me, I suspect that the degree of protection is going to hinge in part on the presence of comorbidities. I've not seen that anywhere. But you know, the only the closest thing I've seen, I've been talking about comorbidities for a while now. But is, you know, that, that the deaths that really bad outcomes from COVID, are almost always in concert with comorbidities. And the more you have, the more likely that is to be true. But I suspect I'd like to see some data on this, that actually contracting it at all is, is going to be more likely, though, if you have comorbidities
+
+Bret 30:53
+could well being. But in addition to the issue of variants, and who gets infected and who is protected, and by what mechanism, the other thing that is mentioned in there is antibody dependent enhancement. Yep. Which is a separate question. And the question, we have seen numerous cases in which there is a phenomenon in which the immunity that one has to a given virus actually enhances that virus's capacity to infect and harm that individual. And we do not know that this has taken place here, it is quite plausible that it could take place with respect to this virus. And so those who understand this issue are looking for a signal for this, there are signals that could be interpreted that way, it is not clear that they should be interpreted that way. So this is this is a question on which many people's fate hinges, but they don't know it. So these two things can go. I think we are seeing variants, it's quite clear that the vaccinated are exerting a selective pressure on the virus that is causing these variants to have enhanced fitness. Right? That is distinct from whether or not the virus infecting a person who has been banned by the way ad could happen through natural path, and it could happen through a vaccine path. And the point is the antibodies themselves would provide a mechanism for the virus to infect cells that could not otherwise access. And it's a very concerning phenomenon, but we shouldn't leap to the conclusion that it is out there, we should just be very alert to the possibility that is out there. And we should be very careful not to be misled about that hazard.
+
+Heather 32:41
+I don't know the study, barn stable. Massachusetts study said that 69% of the population was faxed population backs. I'm just trying to understand the acronyms that you use. 69% of the population was faxed, peevy population faxed, and 74% of cases were from the vast vaccinated cases. If the vaccination makes you less susceptible, shouldn't the population Shouldn't the proportion of the population that's facts be greater than the portion of cases that were from the vaccine? Shouldn't PV be greater than VC? I'm trying to read this. So it makes sense to people while also trying to make sure I get the math right and translate this. But in this case, I mean, these numbers are really close 6974. And without knowing anything more about the numbers, we don't know if those numbers are actually close enough to be essentially identical. We can't do the statistics based on percentages. But But yes, like the logic is right here. If if the Vax makes you less susceptible to the disease than you would expect, I think,
+
+Bret 33:50
+Hmm, well, all else being equal, which is a condition certain not to be met. Can
+
+Heather 33:58
+we just say what the thing is, though, therefore, before doing the caveats, I think that all else being equal, we should expect that if the vaccine makes you less susceptible than the population, the percentage of the population that is vaccinated should be greater than the percentage of cases that are among the vaccinated.
+
+Bret 34:26
+I'm gonna have to sit down with a piece of paper to figure out what it is but we could correct the numbers. If you had equal numbers of vaccinated and non vaccinated equal percentage of the population and the those two groups were randomly chosen, then you would expect a smaller percentage of the vaccinated population to turn up positive given equal testing. And there are several assumptions in there that are sure not to be met. Yes. How likely are you to be tested?
+
+Heather 34:53
+Yeah, well, and the first thing is, you know, especially especially given the rollout Anyway, here. The US The rollout was to people who are at high risk first, right? And so we have among the vaccinated more of the people who are at higher risk of contracting and having bad outcomes from the disease. Therefore, we might expect that in those unfortunate people who are vaccinated and get and that they may be simply continued to be more susceptible than a person who was already healthier. Who got vaccinated as well, but it's not. Again, it's not vaccinated versus unvaccinated that there are these other other characters that that should should be brought in Dr. dekhte, what the outcomes would be
+
+Bret 35:38
+and one thing that I think we don't know anything about, I've never seen it discussed is what fraction of the quote unquote unvaccinated are people who had COVID and therefore decided, because their cost benefit ratio as they understood it would have been different may have decided, in other words, decided what not to be vaccinated. Okay. So if, obviously, if you had a disproportionate number of naturally immune people in the unvaccinated group that would distort this calculate
+
+Heather 36:18
+would also drive the percent vaccinated, the cases from vaccinated cases to appear to be higher than they are thus reducing the signal of the effectiveness of the vaccines, because in the unvaccinated camp, are people with actual real immunity from having had COVID? Right? That's Yeah, that's true.
+
+Bret 36:37
+So yeah, so what you would want is you would want somebody to sample and figure out the answers to these questions so that you can correct for these biases so you can say, you know, what are the percentages if we exclude people who know that they have go who are who strongly believe that they have COVID? Because those people may have made different decisions about vaccines, right? Yeah, that kind of thing. Absolutely.
+
+Heather 36:59
+That's good. Add it to your fuck you money, stay positive and keep up the good work please. Thank you.
+
+Bret 37:11
+we're nowhere near fuck you money we are it? No, thank you money.
+
+Heather 37:19
+Not today. In Episode 88, you talked about aging aging. Aging isn't a thing is not that I know, aging and longevity. Therefore I would like to know if you're familiar with David Sinclair's research thoughts on an Amen and the concept aging equals lost info on the apogee now until a marriage is a result not guys, I know you've talked to this before. But yeah, this puts me in a little bit even in both Russian and German social in
+
+Bret 37:46
+German, which goes puts me in a little bit of weird of a weird spot, because in my long ago paper, my 2002 paper, that's when it was finally published. I mentioned What if I had to do it over again, I would call epigenetic entropy, which I call histological entropy. Right? It means the same thing. It's a loss of information from the systems that tell tissues, what genes to transcribe, in order to make their phenotype. And so anyway, I'm fond of the idea that this is an epoch an epigenetic failing due to a breakdown in the information. I am less hopeful than Sinclair about the utility of this information and its capacity to engender therapies that will be meaningfully useful in terms of reversing this process. So maybe maybe that's it.
+
+Heather 38:48
+Since people are no longer allowed to be wrong online, are now banning misinformation. Can we ban the media political complex for its many lies, and hoaxes? Hold them to their own rules?
+
+Bret 38:59
+Well, you know, I mean, this is I don't want to get on another rant. But, you know, I was watching Biden tell people that if they get the vaccine, they won't get COVID. Yeah, right. This is flat out misinformation coming from the top. Right. And the point is, we just have it's asymmetrical. It's
+
+Heather 39:23
+so what seems to be true. Is it the vaccinated have a lower risk of getting the disease but that, that protection begins fading pretty quickly, pretty quickly, right? So fully vaccinated isn't two weeks out from your final shot into perpetuity? It's like fully vaccinated is like right then and then you know, months later, you're a little bit less protected. Two months later, yeah, than this. I mean, I was I was shocked at the point Pfizer, psycho, six months kind of not protected anymore. You probably need booster. Six months, six
+
+Bret 40:00
+months? Yeah. Wow. Pretty damn short. Yeah, it's pretty damn short and the protection is pretty damn narrow. Yeah. And so yeah, this is you know, this is terrible because for one thing all the people
+
+Heather 40:09
+who got sorry, but all the people who got vaccinated early who were able to get vaccinated early in this like, are not fully protected at this point.
+
+Bret 40:18
+And we don't really know what that means. We don't know what that means. That could mean a lot of things. We don't know what that means. And we don't know what happens. You know, what does your third shot and your fourth shot mean, you're talking about? You're talking about an immune system that is now primed by your prior vaccinations? Right? It is the it is a different immune system than the one that your first vaccination encountered.
+
+Heather 40:40
+You can't jab the same immune system twice.
+
+Bret 40:44
+I think I regret that you said that, but it's pretty good. I mean, yeah. Right. I think it's the word jab that throws me Yeah, sorry. I
+
+Heather 40:54
+don't I don't like it either. Yeah, I
+
+Bret 40:55
+have the sense that some very clever marketing person came up with this because it kind of feels feels edgy.
+
+Heather 41:01
+Yeah, yeah, no, you're right. You're right. Yeah. You can't shoot the same system twice.
+
+Bret 41:06
+Shoot. Yeah, that. Never heard that before either.
+
+Heather 41:09
+Present tense of shot, right? Yeah,
+
+Bret 41:11
+you cannot.
+
+Heather 41:15
+Yeah, it's just not gonna be as pithy No, anyways.
+
+Bret 41:19
+You can't piss off pith off the same immune sit now? Well, you're kind of pissing off your immune system. Yeah, antagonizing it with a, a, like a Why don't you just like, I don't know, when people and train dogs to attack by having somebody with a suit of something. Anyway, I think we have now gone completely off the rails. Last question. But what tech?
+
+Heather 41:50
+were okay. We'll go there next. I had had the wrong setting set up in my sub stack. And so I've now got, like 1500 emails, most of which are of no, no consequences thereafter. So where did you send it to? sec? I don't see it.
+
+Heather 42:19
+Okay, yeah. Yeah, well, then that's my that's my website address. Yeah. Except, yeah, there's a ton from Oh, it's from it's from Yeah, okay, here we go. Yep. Oh, that's why I couldn't find it came from a different person this week. And so when I went searching for it, anyway, no matter.
+
+Heather 42:48
+Your intelligence, so this comes with a graph, which I don't know if we see. But I don't show anything yet. Because I don't want to inadvertently show any addresses or anything. The question is, your intelligence ability to detect complex topics made a surprised at how easily you followed the whole food narrative uncritically an intriguing but simplistic hypothesis that cannot agree with the attached mortality data. Similarly, Sam Harris readily accepted inaccurate characters of your code vaccine critiques, which ally with his bias, are podcast still good media for exposing each other's blind spots. that's a that's a mixture of things well, so you can show this just briefly This is the data that they're showing is life expectancy by age in England and Wales 1700 2013. This is a graph based on data that I don't, I can't, I have no idea how it was generated. Our world and data is the source. But I have spent literally zero time with us. So I'm being asked to uncritically accept a graph, as opposed to having spent time with a couple of papers that looked over the data from I think, I think the references to the mid Victorian era diets that we were talking about two episodes ago,
+
+Bret 44:04
+anything about what that graph even purports to represent.
+
+Heather 44:08
+Just that life expectancy continues to climb. That that there that there? So the paper in question that we were talking about, I think is what it's a reference to was that from 1850 to 1880. In England, that there were actually that that lifespans were higher, and that people were healthier and taller. And I remember that paper and all of this, and, you know, this maybe doesn't suggest that. You know,
+
+Bret 44:42
+but I was gonna have to look at it well, but I can't even see it. Oh, my say,
+
+Heather 44:46
+you know, maybe, but also the point of the paper was in part, the climb that we have seen to the extent that there is one that's significant and A big part of the argument in the paper was there hasn't been a significant improvement was that we are basically trading off one form of mortality for another. And there were, you know, there were data and arguments in that paper, and they were referencing other papers, which I looked at, whereas this is a graph based on I don't know, I don't know what and it makes no, it makes no assessment about what the cause of death is. And so the argument No, and, and, and, and it was based not on a on a whole food diet. But you know, we have we have decades of thinking about diet and food, and so there was hardly an uncritical assessment there.
+
+Bret 45:34
+Yeah. Now what I want to I'm beginning to understand what this graph is sorry, I'm beginning to understand what this graph is. And I want to know a lot more about what it's graphing to, because to the extent that you have things like
+
+Heather 45:49
+x axis, Zack, you should be showing this what we're looking at it
+
+Bret 45:53
+to the extent that you have accidents, or even I mean, I guess bacteriological disease is going to intervene here in some way that arguably counteracts the point that we were making in that previous thing. But I think without knowing what the causes of death are here, this may or may not have an implication. Yep.
+
+Heather 46:19
+All right, Zach, if I may, thank you. All right. Next question. So these are just in all sorts of interesting orders. What? I don't know anything about this, what do you know about the COVID-19 vaccine being produced by medicago? With the assistance of Glasgow? No idea, no information at all. I'm just gonna scroll down, try to pick up some COVID questions before we move. We only got 15 minutes left, but then we're going to try to get some that aren't COVID here, how many people who got faxed and then cut and then cut COVID were given a placebo and that they were protected but actually worked? I don't know. Any. I mean, the trials, the trials that have trials, some people were given placebos, I believe, I mean, not placebo controls. But I don't I've not heard of this being a thing that's happening.
+
+Bret 47:12
+The allegation that his people after authorization, were given placebos. Yeah.
+
+Heather 47:19
+That's that's brand new to me.
+
+Bret 47:25
+I can't imagine how that would be.
+
+Heather 47:26
+Yeah, I don't I don't see even I can't even figure out what the incentives would be to be doing that.
+
+Bret 47:32
+Be malpractice. Yeah.
+
+Heather 47:35
+But of course, there's a lot of that. So two questions here. could you address URI Dagens? Alright, follow up slide deck, in response to your critique, I found his new counter analysis quite compelling. And then another one, apparently, that's referring to what he did on rebel wisdom. I haven't seen it. You know, we just spent a long time putting out a long written analysis of what we understand the data say, and we're not going to continue to engage in frankly, bad faith critiques from actors who insist on trying to draw our attention away from all the important wells that we're trying to do.
+
+Bret 48:15
+I'm going to I'm going to push back a little bit.
+
+Heather 48:19
+I don't know that on what I just said, yeah.
+
+Bret 48:21
+I don't know that we know that Dagon is involved in bad faith. I think he's being extremely reckless. And he's also being a total dick about it. But he probably believes what he's saying, and probably is motivated in all of it by the belief that it's about saving lives. So I would say bad faith requires that he knows he's saying things that are untrue, rather than just being reckless, but What I don't get is daikon was thoroughly discredited by the Alexandros thread, and by our analysis, right? This was nonsense, right? These critiques were really low quality, they reported wrong things about what we said about what others said and concluded. So why in the scientific literature, right, so why are we expected to respond repeatedly? Yeah, my sense is when somebody has been as thoroughly discredited as they can has been sorry, we need a better interlocutor before we're expected to respond to it.
+
+Heather 49:35
+Yeah. Any better skeptics? Yeah. This is from someone whom we respect a lot. So I'm gonna ask the question, but I don't quite understand it. Okay. Is pedophilia software based I was about human software, okay. So it's perfectly a software based. It seems to be used to break young people's respect for themselves and weaken their ability to resist corruption. Question worth enhancing in a totalitarian spirit? So I think I think what this is coming from is like, is this on the rise is like, people who are actually suggesting that this should be one of the most egregious things that people can possibly engage in being crowded out increasingly, by those who are saying, Yeah, maybe you just should accept this. It's completely reprehensible and disgusting. But it does potentially serve to break, break further break, reality and internal locus of control, and a moral sense that if
+
+Bret 50:45
+you know whom, in adults who are not involved in this discussion, just seeing this discussion happening or
+
+Heather 50:51
+think, you know, you know, frankly, potentially everyone, but in any one of these cases, as soon as you are forced to a seed to something that isn't true, or isn't right, sow the seed to something that isn't true men or women. Ah, once you've said that, you're just like, in a different spot, right? Once you've once you've been forced into a position that that turns out wasn't the position that you thought it was, perhaps you're in a different spot, and it's harder to get back to the position that you were in. And with regard to to this once you have been forced to entertain the idea that you and I've heard people I respect and I've been shocked to hear people I respect say, Oh, it's been said that pedophilia is just their sexual orientation like no, yeah, no, don't go there. Don't go there. That is horrifying. Well not go there.
+
+Bret 51:39
+This is horrifying, because it psychologically cripples people. It cripples them when they're children, and they carry it for life. So that is why this topic is permanently beyond what reasonable people will entertain. Yeah. But with respect to the question, I still think the question is too vague. Is pedophilia software based? I think we know that it is at least partially software based, because we know that people who have been abused as children often go on to abuse that suggests that it is an acquired characteristic. I think what the person who asked the question is asking is it is the discussion of it amongst people who presumably aren't involved in it. And that may well have something to do with authoritarianism. Yeah, arguably, totalitarianism. But I think the basic point is yes, this is something we all agreed is completely beyond the pale until very recently, where people have been exploring this question publicly as if there's something to be discussed. And, you know, I don't know, I know. James Lindsay has pointed this out. I haven't followed closely his argument here. But But yeah, I do. I do think we are in danger effectively, of watching things that we thought at least we will never have to entertain that question. We are now watching these questions in entertained in polite company. And that's a very dangerous sign about where we are.
+
+Heather 53:19
+How do you guys deal with high pressure speaking events? TED Talk, Joe Rogan podcast, any psychological tricks, advice? So I mean, you've done more of these than I have, but I think, frankly, getting up and talking at length for hours on end in front of college students for 15 years did it. Right, it just,
+
+Bret 53:38
+yeah, I mean, so I think there are two things
+
+Heather 53:42
+as much as 25, or 50, or 75. College students isn't the same as you know, an audience of millions. But
+
+Bret 53:48
+right, but it works. But it works. It works over time. I would also say I used to tell students that all right, I have the sense that there's some the number may very well be different for each person. But there's some relatively small number of instances in which you get up in front of an audience and speak that you have to go through before it's in any way comfortable. And let's say it's 25. But most people in their lifetime maybe get to 19 or 20. So they never get the sense that actually Okay, you do kind of get over that, right. So the answer is what do you do? you force yourself to do it, and then you figure out how to evaluate it without you want to dwell just exactly the right amount, right? You want to stop dwelling on your errors at the point that it's no longer useful.
+
+Heather 54:41
+Yeah, and it's I mean, I, if you'd asked me at 16 or 18 or 21 if I was going to end up comfortable and actually enjoying talking to people I would have said, No, Hell no, no way. No, no way. But you start doing it and, and and that that's it. Right there. And in fact, that's part of why I always, you know, it's harder the more students you have, but I tried to have students present at least a couple of times during each 10 week quarter to everyone. And that's, you know, if you have a lot of students that takes up a whole lot of class time, and it you know, it eats up, it eats up some what else you can do with the curriculum, but just even getting up, you know, knowing Okay, you got five minutes to tell everyone, you know, where you are in this quarter long project. And, you know, we're looking at everything, and we're, and I'm going to be honest with you, right? Not, you know, not just the content, and your conclusions, but the design of the slides and how you present and whether or not you, you know, looked some way that was drawing attention to how you look, as opposed to what you were saying, you know, all of these things. And you have students who had us over many quarters, therefore, just got a lot of experience of getting up in front of their peers and saying stuff that was different from their experience on social media, for instance. Yeah, it helps. Structural biochemist here after several math challenges to Darwinism recently, is there a way to save the theory of evolution from the ash heap?
+
+Bret 56:13
+Could you repeat that
+
+Heather 56:14
+structural biochemist here? After several math challenges to Darwinism recently, is there a way to save the theory of evolution from the ash heap?
+
+Bret 56:21
+Yeah, absolutely. Now, I only think I know what you're talking about. But so I have been arguing that there is a problem with Darwinism as it is currently presented, this is leaving open the door to challenge this to Darwin, Darwinism itself is false. But in fact, the cure for these things is the recognition that there is a layer of Darwinism that is not well recognized. That explains the enhanced power of Darwinism to generate adaptation. So the way I've said this before is the story in the bio one on one textbook, that you have random mutations and selection, which alters genes that then results in the change in form of creatures that turns a shrew like animal into a bat. That story can't be right, because the difference between a shrew and a bat is not housed in the shape of its proteins, right? That's not to say proteins have no impact on it. But it's to say that a random process that tried to turn a shrew into a bat, by working at the molecular level, in this way, doesn't really add up, right? The difference between a motorcycle and a pickup truck is not inherently chemical, there are chemical differences. But that's not where the information is. So what I've argued is that there's something called explore modes, and explore modes, which are we cover pretty good introduction to them in in our book, explore modes are mechanisms whereby selection reduces the search space so that the search is more efficient for forms that are viable. And so the long and short of it is yes, the solution to the problem that you're pointing to, if it's the one I think you're pointing to, is more in better Darwinism. It is not to consign Darwin to the ash heap of history because Darwin wasn't wrong. The mistake that you're talking about happened after Darwin.
+
+Heather 58:30
+Okay, we got four minutes. There's four questions here that I really want to get to. Okay. Let's see if we do it for minutes. Yeah. If we take eight minutes, maybe we'll call it okay. I think I think you'll still catch your plane. We'll see which one of our senses suffers the most from modern life, how to improve it? So I'm going to spend hours on this question. And I don't think we can do it quite so quite so simply as which one suffers the most. But my sense is that the one so we are being targeted on all of our senses, by by the modern environment and by advertisers in particular. But maybe the one that is sort of cryptically the most affected. I'm going to cheap here. The ones are the chemical senses, which is smell and taste. And because we are being gamed in our smell, by things like deodorants and, and perfumes, okay, but specifically the odors being put into products that would otherwise smell incredibly foul because of what it takes to make them and so you have these synthetic odors that nominally smell good to cover the foulness. That means that we cannot use and as we as we alluded to before, we cannot use our sense of smell as we used to be able to use it to drive us towards healthier actions. And the same thing with taste we're having our long ago. selection for Sweet and for Amami and for salt, gamed by the ability to cheaply and quickly add them to processed foods such that those things that taste good aren't anymore those things that are rare or good for us. I think,
+
+Bret 1:00:14
+yeah, I would just say all of them are worst affected. Maybe if I had to break one out, I would actually say it's the, the ability, the sound, the ability to hear things that there's so much in our environments You are so constantly filtering out the noise, whether it's the hum of light bulbs, or, you know, cars on the highway, that, you know, next time, you're somewhere where you can't hear any of those things. And it is actually pretty hard to get to where you can't hear any of those things. But next time, you're somewhere that you really can't hear any of them. Take a moment to listen, right? It's a very different planet.
+
+Heather 1:00:51
+So we've already failed to do this and anything like short, but I reminded of the last time that we were in the Amazon in January 2020. And it's super, super remote, super deep. There's no roads. But some number of miles away even though super deep, super remote. All of this is unfortunately a new oil, oil platform oil oil platform. And we were on this oxbow lake of Watson at one point and we suddenly heard the sound of machinery and in part because it's so flat, and there's so much less else that you're hearing. We could hear whatever had ramped up the generator or something yeah, for many miles away as an oil platform in the middle of this extraordinarily large expansive, you know, wildly diverse habitat on our most diverse habitat on earth. And there it was, you know, I am a white male, US high school biology teacher in an urban predominantly black area. critical race theory is encroaching here. How can I battle this to ensure the best education, best education for my students? It's, you know what, actually, I'm gonna, I'm gonna see if I'm gonna afford that question in the next session, so that we do it a little bit more. Okay, so we're gonna get, we're gonna see that one. Next one. So we're gonna just answer two more here. Thoughts on quesiton. It's an easy to find supplement that is a zinc ion a four, by chance, we were just talking about this this week. In general, we are a fan of getting what you need through your diet, rather than through supplements, but in a an era of pandemics. There are things that you can use that are useful, C and D and zinc being being among them. And yes, sink is often not bioavailable in the forms that we take it in, especially when not as part of your diet. And yes, quercetin seems to be a thing that facilitates the uptake of zinc.
+
+Bret 1:02:50
+Yeah, I think there are things that seem to be low cost and have the potential to be useful. And it's very hard to know when you take them whether they're doing anything for you, right.
+
+Heather 1:02:58
+And finally, if you had to choose one type of domestic animal to live with, what would it be? And why?
+
+Bret 1:03:06
+It's a little hard to answer that question here with kitty cat sitting on the table. Well,
+
+Heather 1:03:14
+I will say that I think this is a question on which we might actually end up having different answers. That's why I asked it.
+
+Bret 1:03:21
+I actually prefer two different creatures for two different things. I prefer hanging out with kitty cats. They're very Yes, perfect, good. They're very lovely company. And they're also utterly fascinating to think about what they're thinking. And I prefer to do stuff with the dog if you're gonna go, you know, the dog can keep up with you on your bike and can go for a hike with you and loves to go to the river and swim. And so anyway, it's I think it divides for me between,
+
+Heather 1:04:02
+you know, you're cheating. That's awesome. I mean, I agree with you. I think most people who like both, would maybe they wouldn't have that framing. But yeah, I do. We've talked about this a lot. I grew
+
+Bret 1:04:15
+up with dogs, not cats, but I'm really not a one or the other person. I really appreciate both species for different things. Yeah,
+
+Heather 1:04:25
+yeah, I agree with all that I grew up. My brother had a dog but I had a cat earlier. So I grew up with cats and we had to for a little while. But yeah, if I absolutely had to choose, I would choose cats.
+
+Bret 1:04:38
+All right. Yeah. I said you did. You said you won't but okay. And he didn't know what you said he No, he
+
+Heather 1:04:43
+doesn't. And whereas if Maddie was in the room for die was in the room, she'd be she'd be crushed. she'd love me just as That's why, yes. she'd love me just as much no matter what. And I don't I don't understand. I don't understand. There's no nothing you can do as long as you're decent to your dog that changes how they feel about you very marvelous people. They are. Alright. Well I think we've reached the end because you got to like, throw your stuff in a bag and get on a plane go. We let's see, I've already closed my notes, notes for the day. We join our Patreon, please and consider becoming a free subscriber at my new substack which is natural selections.substack.com you'll get an email with each new post every Tuesday and sometimes more often than that. There is a tip jar Odyssey that you can use to give us tips in library as blockchain or Fiat American dollars currency. You can get our new Goliath t shirts at store dot Darkhorse podcast.org. If it doesn't have the words on the back, it's not the real thing. Right? email questions logistical questions like hey, I have we got a box of mangoes this week from a fan who grows mangoes they were fabulous. They are famous we just picked them up yesterday and that person knew where to send them by asking Darkhorse moderator@gmail.com for the address of our live appeal box and an address for your peel box where you can send packages and we ask that you if you if you are willing to subscribe to all four of our channels the two on YouTube Brett Weinstein's main one and Dark Horse podcast clips and the two similarly named ones identically named ones I think on Odyssey anything else to say?
+
+Bret 1:06:38
+I don't think so. I think it's time to close out with
+
+Heather 1:06:42
+with the good two the ones you love and get outside. No. Wow, I screwed it up. Try go to the ones you love and eat good food and get out side be well, everybody
+
+This transcript was generated by https://otter.ai

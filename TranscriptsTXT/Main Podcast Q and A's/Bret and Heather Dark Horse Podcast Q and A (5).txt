@@ -1,0 +1,586 @@
+Bret 1:31
+Welcome back fans of the Dark Horse podcast
+
+Heather 1:35
+I forgot to get drinks.
+
+Bret 1:36
+We forgot to get drinks
+
+Heather 1:37
+next time.
+
+Bret 1:38
+All right now, we are here to follow up on our live stream that just ended by answering your super chat questions which have been collected for us in a spreadsheet, which you can't see. But we can there's some good questions in here. I'm looking forward to Shall we get right to it?
+
+Heather 1:55
+Let's do it. Yeah, you want me to read them? Yeah, if you wouldn't, right. Can you talk a bit about viral load, please? It is known that the amount of viral load is and the amount of viral load is important in case of measles, chickenpox, polio. Could it also be the case with COVID-19? Thanks. Yeah, we talked about this a bit in our last or maybe maybe a third live stream. I'm not sure which one. But we specifically talked about it seeming quite possible that viral load does in fact, repetition of exposure increases the chance of getting infected. And dead viral load increases the chance of becoming very, very sick. There are some, you know, possible caveats, which is for instance, that health workers have other extenuating factors like tending to be overworked, stressed, sleep deprived, etc. Sure, wearing blue, which is that'll be the topic of the next live stream now wearing blue can create create issues. Yeah, so I mean, I think was livestream three that we talked about
+
+Bret 2:58
+that. Yeah. So I think we effectively know that viral load is playing an important role. The real question is why? You know what part of the system is being overwhelmed such that somebody who's had a low exposure might have a much more mild disease or an asymptomatic one. And, anyway, that there's a mechanistic question to be answered there, which will tell us a lot once we know the answer. Anyway, yeah, so stay tuned.
+
+Heather 3:25
+Good. Say a virus circulating inside a species is lethal to some rivals, or predators? Would rivals turn away from shared habitat and predator from prey?
+
+Bret 3:35
+So I think this is a restatement of a question that was asked last time that you really couldn't quite parse, couldn't parse. And I spent a lot of time thinking about what that question might have meant. And I realized, not only did I understand what the question was, but that I had once a long time ago, asked Bob rivers, our undergraduate adviser. The very same question. Really? Yes, I had asked him the very same question. So the question basically was, could you be infected with something that would work to your benefit by dissuading things that might eat you from wanting to so my example years ago was pigs and trick analysis to the trick analysis be preventative and Bob's response was that he'd love to see an analysis whereby it could work, but that it almost certainly wouldn't work for reasons of group selection, which I didn't understand his answer at the time, because that was a new concept to me. But
+
+Heather 4:29
+he made an argument in which he says no, because arguing
+
+Bret 4:34
+effectively, he was arguing that the mechanism that I was asking about would constitute group selection. So without getting into that madness, right now, let us just say that the problem for a mechanism like this where a creature takes on a virus that maybe it tolerates well, but its predators won't and thereby its predators. decide not to eat it. The problem with that is that the best Of all goes to the creature who gets the benefit of predators not eating that type of animal, but doesn't have the virus. So there's a question about how you would provide an honest advertisement that you actually had the the illness that the predator didn't want to mess with pathogenic malaria and mimicry. Yeah. So anyway, I think it doesn't work. But it's not to say it, that there's not some system in which some analog of this could work for reasons that we would have to dispel
+
+Heather 5:29
+it would have run counter to Hamilton Zook style analysis as well, in which females are imagined the hypothesis is that females are looking for potential mates for for males, as potential mates who have low pathogen load and who have some external indicator some phenotypic indicator of that low pathogen load. So these would be really competing hypotheses, you wouldn't you wouldn't find both within the same population.
+
+Bret 5:53
+True, although I think implicit in the model would be that whatever the particular pathogen was, had such a little negative effect, that females would have no reason to care about it, actually. So anyway, I think the answer is no, it doesn't work. But it doesn't mean that something in the ballpark couldn't work in some system. Yeah.
+
+Heather 6:15
+You too, are God's sense. Well, thank you. But the world is missing a voice from your esteemed crew, Jordan Peterson. is sparse tweets of late don't sound like his voice and people are dubious about their authenticity and his physical health. Yeah, he's he's, he's doing much better. And he has been quite sick. And he is alive and healing. And I don't think it's really our place to say much more than that. But I think the world will be hearing more from him soon.
+
+Bret 6:42
+Yeah, I can say we're worried about him, obviously, with what he's been through in the last year. He is vulnerable here. And I think it's very important that he not come in contact with COVID-19. But we do hear that he is getting better on the men
+
+Heather 7:02
+and in touch with him.
+
+Bret 7:05
+And if you're watching, Jordan, hello, we miss you. We need your voice. And we will be thrilled when you're ready to to return to the public eye.
+
+Heather 7:16
+Indeed. All right, really appreciate you to making the effort to do this. It's fascinating. Thanks and be well, thank you. hydrocortisone, vitamin C and thymine were used successfully to treat severe sepsis and septic shock. Most SARS Cove to die of it, it being sepsis and septic shock. Apparently, any thoughts? Thank you.
+
+Bret 7:37
+I'm doubtful about that claim.
+
+Heather 7:38
+I am too. I've heard and I haven't I haven't actually heard the claims about hydrocortisone or thymine before. I've heard indicators that vitamin C. as a as a well known and somewhat well understood, I think antioxidant has been somewhat useful in treatment and my anecdotal experience, which has prompted me hearing a bunch of other people's anecdotal experience of people craving citrus, when they have been sick, is suggestive that there might be some some mechanism by which vitamin C is useful in staving off or in healing after infection. And again, like I don't I don't know for sure that I had it, but it seems quite likely that I did. I don't I haven't heard you know, hydrocortisone is an anti inflammatory. And we know, we think we know that one of the things going on with extreme cases of COVID-19 is inflammation where there ought not be inflammation. So there's at least a simple possible relationship there. thymine, I just don't know enough about firemen to
+
+Bret 8:46
+what about the question of sepsis? Have you heard that most people who are dying of COVID-19 die of sepsis? No, not that's the part I'm really dubious about him. And I think the rest of the question is dependent on that claim being right. So I think it is, yeah. If there is something to that claim, show us what we haven't seen yet. We may, we may have just overlooked it.
+
+Heather 9:08
+Yep. And you can probably by tweeting something at one or both of us is the best way to try to show us that. You've talked about the limited ability of tissues to self repair. Do you think there might be a limit to the number of times dendrites in the brain can self repair after being damaged by alcohol? So there's again an assumption in this, that dendrites in particular being damaged by alcohol consumption. Obviously, a lot of things are damaged by alcohol consumption, but I had not independently heard about dendrites. Yeah,
+
+Bret 9:37
+I've heard it I'm not sure how valid the claim is because the problem is, in dendrites we're talking about the, the extensions of the cell body of a neuron. And these connections are basically the circuit, the map of the way neurons are connected to each other. So each neuron in
+
+Heather 10:00
+Brain the point of the circuits that then end in in termina that synapse into
+
+Bret 10:04
+Yeah, so you have a cell body with dendrites taking inputs. And then you have an axon, which extends off the cell body. And then it leads to these these termini, which then interface with
+
+Heather 10:18
+I thought it was the other way around, I thought dendrites were the endpoint, but no matter the
+
+Bret 10:22
+dendrites are on the on the cell body, and But anyway, the point is the interactions between the, the dendrites and the other cells to which they're connected, are effectively a data processing mechanism. And so the loss of a dendrite isn't inherently good or bad, because the loss of a dendrite has to do with changing the interface between the the neuron and other neurons. And so in other words, dendrites being lost is part of how the brain gets wiser and more effective. Other dendrites being lost would be a loss of function. But you can't say one way or the other, whether it's inherently it's not inherently good or bad. So
+
+Heather 11:04
+So let me just say, this reminds me of, you know, there are a lot of kinds of programmed cell death. And obviously a dendrite is part of a cell. But in early development in humans, for instance, you know, we have hands that are highly webbed, and then you get this a pop, tells us yeah, in which we lose our webbing. And this is not you know, that loss of tissue could be viewed by someone who doesn't know what the hand is ultimately going to look like as a problem, but it's actually quite the intention, you know, quite quite the goal. So loss of tissue is not inherently
+
+Bret 11:37
+failure, it's necessary in some cases, but in this case, a you don't have the reason for dendrites to have the same limitation on the amount of replication they can do. Because there's no danger of your there's no dendritic cancer, where dendrites proliferate so much that you can't think or function. So there's no limit that's necessary on dendritic growth. Also, the simple fact of there being present or absent isn't, isn't inherently good. And so anyway, I think the answer to the question is no, there's no reason to expect an analog in neuronal tissue of the the limitations on cellular replacement that occurs in the rest of the body. And indeed, the the programming of the brain is really about how the neurons are wired primarily, rather, you know, which cells connect to what, rather than the growth of new neuronal tissue. Good. Okay.
+
+Heather 12:37
+Is it possible the ratios from studies using long killer mice might still hold some validity? Since the controls are also long telomere mice?
+
+Bret 12:45
+Somebody is paying attention? The answer is yes. In some circumstances, it depends really what's being tested, there's no question that there are many purposes for which a long telomere mouse may be a perfectly valid study organism. And then there are other purposes for which it's an absurd study organism and you have to be then there are purposes for which we do not know, many purposes for which we do not know. And so anyway, yeah, sure, there are going to be cases in which the fact of both groups having long telomeres negates the negative impact, and there gonna be other cases where it accentuates something and renders a paradoxical result. But we can't know how any of this functions until we figure out what the state of the mice is, when it changed if it changed by what means it changed. And we, as far as we can tell, that work isn't being done, or at least it's not being acknowledged. So we have a huge problem. But no, it won't be across all studies. Oh, everything I wanted to say is, we saw earlier in the livestream that proceeded this question and answer, we were talking a little bit about the question of the blood of people who've had COVID-19 being used to treat people who haven't had it and having some sort of positive effect, and that we didn't know whether that positive effect was from antibodies that were successfully repelling the virus or whether it could be a simple matter of having intact hemoglobin molecules in viable blood cells that were replacing defective ones. This is a case in which you don't even know which control to run, right? So do you want is the control? People who've never had COVID-19, right? Or is the control plasma versus blood? So anyway, there's a rich question here about what the proper control for the experiment is, which is entirely contingent on which question you're asking. Okay.
+
+Heather 14:55
+Could humanities technological acceleration be framed as an evolutionary response to a near extinction An event, such as the one proposed by the younger Dryas impact hypothesis, the Clovis comet, thanks for all the streams. So the younger Dryas impact hypothesis. So this this question, I think, does not hinge on this, but it suggests something from 12 30,000 years ago, that is thought to have been a comet or asteroid that may have been dispersed already before impacted and there are many, many sites around the earth that impacted may have caused a long winter climate change, possibly the end of the Clovis culture number, a number of possible effects, both biotic and abiotic, across the world, which, you know, in, in that case, presumably did change, you know, the end of the Clovis culture in the new world would have opened up lots of niche for other expansion, you know, adaptive radiation of the humans who were in the new world at that point, for sure. But I think this question is asking about our technological acceleration right now, I think, and you know, this this moment, potentially, SARS. gov to being read is a near extinction event, or maybe the Cold War or any, you know, any number of things since the Industrial Revolution, perhaps,
+
+Bret 16:16
+well, let's just say there are a lot of ways that this can work, it's very hard to take a system that seems to be functioning, and to argue for a radical shift, which is where we find ourselves at the present, we have to shift the way our system functions, because our system literally cannot continue on this way. There's just simply not enough of the resources that we are exhausting for us to keep doing this. So you've got cornucopia ins, who think we'll come up with something. And then we've got people who know that that process isn't reliable, who are saying, well, it doesn't matter that things are going reasonably well, we have to change the way we live. And the sooner we do it, the better, very hard to make that argument. You know, this, we're running up against the problem of people like Steven Pinker, pointing out that it's never been better here. And the truth is, in many ways, it has never been better. But that doesn't mean it's sustainable. And so if it's not sustainable last
+
+Heather 17:12
+year, sorry, until the last two months, most people in weird countries had never imagined what it might be like to go to a store and have empty shells.
+
+Bret 17:20
+Yeah. So anyway, this is a long way of saying that, among the many mechanisms through which a catastrophe of one kind or another can promote change that's positive, is that it opens people's eyes. So if people can now understand that the system that we are living in, is hyper fragile, and that that means you can't just look at how easy things are on your average day, and infer anything about how long it will go on. Now we can have a discussion about how to shore up the system, and to reasonably change it so that we can continue living as we do for, you know, 200 500 1000 years into the future. That's a discussion that's much more possible in light of COVID-19. And frankly, as I've said before, this could have been, we're not out of the woods, but this could have been much, much worse, right? And so anyway, there is as horrifying as this is, there is a positive aspect, which is that we are all now awake to the fragility of the system in a way we just simply weren't a couple months ago.
+
+Heather 18:22
+That's right. The steel man podcast, since every percept, thought, sensation, etc, is experienced in consciousness. And there's no capacity to go outside consciousness to validate a physical substrate. Why don't we talk about the hard problem of materials?
+
+Bret 18:40
+Why don't we talk about the hard problem materials? I think it's because if we talked about the hard problem of materialism, nobody would want to talk to us. I think that's because we're social creatures. We Intuit that if we go down that road will be very lonely.
+
+Heather 18:53
+Although to be fair, I feel a little bit that way about people who want to talk about the hard problem of consciousness, you feel that way about them as well. So we're not really answering the question, but we can see for sure that those organisms who are not sharing their conscious thoughts and sensations with us, but are manifesting in the world and doing things are experiencing their world materially, or engaging the world materially whether or not they have consciousness and whether or not they can share that consciousness with us. So the hard parts of this is, I can't remember what it's called this idea. That is gaining some traction in some circles that consciousness proceeds. Oh, yeah, world, whatever it's called.
+
+Bret 19:32
+It's pan. psychism.
+
+Heather 19:34
+Yeah, I think that's right. This, this feels like, I can't tell if it's ask asking in sort of nine good faith. I think all of the steelman podcast questions are in good faith. But is it a Is it a jab at Pan psychism or is an attempt to get us to engage it? I'm not sure I think neither of us take it seriously enough to one Okay.
+
+Bret 19:55
+Well, I would say in my experience, you can recognize heterodox thinker Because if you come up with something that's called the hard problem in a quadrant that they are interested in, they'll tell you, that's not a hard problem, then they'll tell you what they think the answer is, and they'll say the real hard problem is and then they'll point to something else. So I think this is a classic example of that. It's a move I've made myself I should say,
+
+Heather 20:19
+Do I need to wear a mask, if I just go for a walk in my neighborhood and don't come within 10 yards of anyone? I don't. And it certainly breathing fresh air is very good for you. I know that, you know, if you are on narrow trails that are sometimes frequented by runners and runners are less likely to be wearing masks. And they are they should they have a higher responsibility to be wearing masks and a higher vulnerability, they have both a higher vulnerability, but they're also much more likely to spread what they've got to other people because they're experiencing greater respiratory activity. And so if you are if you are likely to be sharing trails with runners, and not all the runners in your in the area are likely to be masked, you might need to mask to be careful. But I mean, on the walk that I took with our dog this morning, you know, there's plenty of space to get away from people when you do run into them. And neither I nor the dog, were wearing a mask,
+
+Bret 21:17
+I would actually say I mean, I realize I'm going to get annoying by continuing to raise the same point over and over again. But that's part of the virtue of this solution. Right? You put it around your neck, you don't put it up. But if somebody is coming the other way, maybe you do, or if you're walking up behind somebody, because you're going to pass them, you're passing through a cloud of what they've exhaled. Now, that said, this is a, we have to have a kind of adult conversation about this, I think a lot of people are carrying around the model, tell me what it is, that will make me perfectly safe. And then I'll do it. That's not what you should be thinking. The fact is, you know, you could wear a diving bell, that would be safe, right? But you're not going to wear a diving bell. Frankly, all of us could be wearing the kind of respirators that one wears when you're applying paint. We're not doing it, it would provide greater protection. But the point is, the cost of wearing such a thing is so high, that it's not in the right place, you're much better off managing the risk at some tolerable level. And basically, my point about the bandanas is it's a very tolerable level, you can wear it, you don't have to have it up, you can put it up on the fly, it doesn't broadcast a medical message. So anyway, there's a lot to be said for it. And if it needs augmentation, let me show you this. Some of you will know what these are. These are shop towels, right? shop towels, there was never a run on these things. If you take a shop towel, and you feel
+
+Heather 22:58
+that you're in a city to buy these, when you couldn't buy paper towels, yeah, if you're
+
+Bret 23:01
+in a situation that's maybe more hazardous than going to the grocery store, you can put a shop towel in here, fold it right back up, and put it right back on and now you have a much more effective barrier. So anyway, I think the bottom line message is figure out how the stuff is transmitted, you're not going to have a perfect model, because none of us do. But if you have a decent model, then you can answer your own question. If you're going to go walking, when nobody else is out, you probably don't need anything but the cost of having a bandana or something else around your neck that you can pull up when you do encounter somebody. I mean, a, it sends the signal every time I go out. People look at me and I look at them. And I can tell that we're kind of thinking, are you being irresponsible? Or are you being careful. And so anyway, even just having the object that tells them I didn't do this lightly, right. I'm going out and I'm being deliberate about it. Is is important.
+
+Heather 24:06
+And that is a that is a physical visual indicator in the way that the masks that my mother has made for me that I am now wearing when I'm out. I put them in my pocket before I wear them, you know until I run into a situation when they're still fresh before they are have been used or needed. Being laundered and not visible. Which means that if I were to see any when you're when I'm driving when I'm driving to the store and not visible, and it doesn't do the same job.
+
+Bret 24:34
+Yep. It doesn't. But you know, I think I guess one of the things that I'm seeing is I'm seeing people experimenting. Yep. And that, you know, it took weeks but people are now showing up improvising and they're discovering what works. And so anyway, it's a good question. But I would say understand what the argument is about how this is being transmitted, and then be rational, right? It's this is You know how the virus infects a cell? That's a highly technical question how the virus gets into your lungs? That's not a highly technical question. So that's the question that you're faced with when you when you go out
+
+Heather 25:12
+good. Figures indicate a much lower rate of infection and also lower death rate from COVID-19. And countries that still have a BCG vaccine program for tuberculosis. Why do you think that is? This? We saw this briefly in between the two live streams? And I don't I did not assess whether or not the claim is true, that there are lower, you moved at lower rates of infection and lower death rates in countries that still have this vaccine. But this is this older TB vaccine, the one that leaves like a circular mark. And so here, here, I cheated. I looked it up. The only one that we did this for, that we managed to see in between these. And without knowing if this claim is true. I will say that there is apparently reported in science in the last couple of weeks. For countries that are ramping up to explore whether or not this vaccine which seems to can convey that's not quite the right word. Not just specific immunity for TB, but a wider immunity may actually be effective against the novel Coronavirus. So that speaks not at all to mechanism, except that there is some kind of more general immunity that this very old vaccine seems to seems to convey. And it is actually in it in research phase right now.
+
+Bret 26:40
+So I would add a caveat here, though, which is the fact even if the fact is true, as stated, it doesn't suggest in this case, that the TB vaccine is causal of the differential likelihood of infection. It could be in fact, it sounds plausible enough. But the problem is, if this is a holdover vaccine, then surely the countries that still use it, are united by more than just the simple use of that vaccine, they will be probably socioeconomically similar, they will have similar decision making mechanisms and budgets per capita for for medicine and all. So you have heard that correlation does not imply causation. When people claim that it drives me crazy, because correlation does imply causation when there's a pre existing hypothesis that connects the two but in the absence of a pre existing hypothesis, correlation does not imply causation, which means that the pattern that the TV TB vaccine seems to be correlated with greater immunity to COVID-19 is an observation, that observation is now in need of a test.
+
+Heather 27:55
+And it's and the tests are being rolled out It looks like and I would say that
+
+Bret 27:59
+there are other tests, which we could figure out very quickly. Which would be if you do a pairwise comparison of individuals who don't live in those countries who did have this vaccine versus didn't have this vaccine. Well, within
+
+Heather 28:15
+those countries, either way, pairwise pairwise within country within culture within broad socio economic and cultural experience, did and did not have the vaccine. Yep. What are what are the outcomes?
+
+Bret 28:26
+That's true. So I hadn't, I had assumed everybody was vaccinated in these countries. But even if that's true people who have immigrated in would maybe not have had them. And we could compare those two populations. But anyway, the prediction is, if the vaccine is causal, then it doesn't matter where you are, the presence of the vaccine will be protective, and the absence of the vaccine will cause you to be vulnerable. And we should be able to read that actually, very, very quickly without running a new experiment just by simply finding individuals who are otherwise similar. And comparing the two populations.
+
+Heather 28:58
+This is about collecting numbers that already exist. Yeah, yeah. Where does darkness go when you switch off the light? I think this means I think there's a typo. Where does darkness go when you switch on the light? Right? In which
+
+Bret 29:12
+case I think I've got this go for it. It goes behind you. Am I wrong about that? It goes behind you where you can't see it.
+
+Heather 29:20
+But what if I'm looking behind you?
+
+Bret 29:22
+Oh, then it goes behind both of us.
+
+Heather 29:24
+Whose dream is this?
+
+Bret 29:26
+would have to be mine. Alright, where are we? Yes. Dr.
+
+Heather 29:32
+Weinstein, go back on Joe Rogan. I thought you're going to point out your brilliant telomere discovery. But we but you mentioned the Biden paradox. No matter love you and Dr. Heinz discussions, we need solutions. Thank you both.
+
+Bret 29:42
+Thanks. I don't know how to answer this. Yeah, yeah.
+
+Heather 29:45
+Could you outline your approach to game be the only elaboration of the concept of unable to find online is Daniel shmotkin burger on the portal?
+
+Bret 29:52
+Well, I can say this I this isn't the right place to try to do an elaborate thing. But game B is the idea that our system because it so fragile requires a change, but I have called a revolutionary change without revolution. And that that would produce a safe, sustainable, fair alternative system that is non utopian utopianism being the road to hell. In order to get there, it would have to be competitively superior to our system. In other words, this is not something that could be imposed from above, it would have to be something that effectively caught on because it
+
+Heather 30:33
+worked for people, it wins within the strictures of gaming. Right, right,
+
+Bret 30:37
+it is superior to game a and game a is terms. Beyond that, I would say I don't think anybody including me should be providing game B proposals. I think the idea is that game B is an idea. It's a concept of sort of the minimum requirements of a design, and then all of us ought to be free below that level, to propose something that might reach those objectives. I have laid out a basic version of this in my fourth frontier talk, you can look that one up online, it's on your website, it's on the website, the fourth frontier thinking has come a long way since then. So there's more to say about what a fourth frontier world might look like,
+
+Heather 31:25
+which is, it's also that's also the final chapter of our book is fourth frontier, fourth
+
+Bret 31:29
+frontiers, final chapter of our books. So stay tuned. It's an important conversation. But that's really what it is at this point. And I'm interested to see as many people who understand the necessity of a game B world, and the kind of game theory that would go into architecting such a thing, I'm interested in hearing as many of these proposals as possible, likely if there is a viable way forward, it will involve elements from the best proposals, and there'll be sort of a chi Merrick. Game be proposal ultimately, that's what I'd love to see.
+
+Heather 32:03
+And there's not going to be a blueprint or a roadmap that's going to be receiving the adaptive Foothill in order to climate peak, we can
+
+Bret 32:10
+navigate there, we can't spell it out beforehand. Okay, where are we?
+
+Heather 32:15
+Would you consider doing a thorough online biology class? Greetings from Norway?
+
+Bret 32:20
+That is the only kind of biology class we would consider thorough, thorough, yes, yeah. Whereas
+
+Heather 32:25
+I read that and thought, I, I'm not sure I would do thorough just like I never want to write a general biology textbook, but biology through various evolutionary lenses, yes, perhaps? Yes. For the
+
+Bret 32:40
+I would say we would do a thorough we would be interested in doing a thorough class probably it's not thorough biology class, because frankly, that's impossible by is the largest subject by virtue of the unparalleled complexity in biology relative to every other field. So it's impossible to be thorough, but you can pick a topic and do you know what we understand so far kind of thing?
+
+Heather 33:04
+Is urine sterile? If you haven't, yes? Is the short answer on that one? If you have no means to disinfect the hands, would urine work in a pinch? Thanks for the videos be well, no, no. So I would I'm going to go first. No, urine is sterile. But no, it's not going to disinfect your hands. It being sterile doesn't mean it's a disinfectant. It's soap and alcohol will disable the virus for different reasons. But urine being itself sterile just means that it doesn't have the capacity presumably to infect you with anything new but it doesn't mean that it can disinfect you
+
+Bret 33:39
+so the difference being between sterile and sterilizing.
+
+Heather 33:43
+Yeah, that's right actually.
+
+Bret 33:45
+So the reason that I'm a little hesitant about saying anything so clear is that I believe that the salt at least in urine actually does have the capacity to to do some sterilization and I believe the the mass sigh who are herders in in East Africa,
+
+Heather 34:12
+extra who mostly eat meat and milk. Yeah, I mean, blood and milk.
+
+Bret 34:16
+Well, they, they eat me, blood and milk is a famous beverage they drink but in any case, I'm I'm really hoping I didn't get the particular culture wrong, but I think it is the mass I who do utilize the urine of their cows to sterilize their hands. Now it doesn't say that it works against any particular virus, but my guess would be
+
+Heather 34:42
+so like before, before they're milking the cows, maybe something like that.
+
+Bret 34:46
+I don't know if I'm recalling it correctly. The cow is peeing. And that's an opportunity to go sterilize your hands. So, I mean, it's in a very dry habitat. Yeah, so the water is limiting water is limiting. Opportunity strikes when it does,
+
+Heather 35:01
+you haven't used it to smackdowns? Yeah. You know, if you have no means to disinfect your hands when you're in work in a pinch. One of my responses is if you're in a situation where that is really the issue, I think it might be better to drink rather than use it to clean your hands.
+
+Bret 35:19
+Wow. Yeah, I'm not gonna touch that literally or figuratively. But I would say this, you have other options with respect to sterilizing your hands? So for example, if I was caught really with no, if I thought I had touched COVID-19, a concentrated
+
+Heather 35:41
+size the virus SARS, cov. Two, yeah, yeah.
+
+Bret 35:45
+If I thought I had contacted it, and I didn't have any water, I would probably seek, you know, if there was sand, that'd be great. Right? You can desiccate the virus into oblivion, you can physically rub it so that the particles would stick to the sand and drop away. Dirt could be used to work, there's a lot of richness in dirt that could be used to bind things. Now it does have a lipid surface layer, the virus, not dirt. So the lipid is nonpolar, which means it's not going to be as effective at sticking to a lot of the organic materials in the soil. But nonetheless, if you were to get your hands really dirty, and then rub away that dirt chances of the virus remaining both on you and intact enough to function I would imagine are pretty darn low.
+
+Heather 36:41
+And after having rubbed your hands thoroughly in dirt for a while, you're less likely to touch your face with them.
+
+Bret 36:47
+That is true. And that's the other thing is I was gonna say is if I thought I had contacted it, I would do what I could to dislodge it to gum up the surface of the virus. And then I would be very careful about not touching any part of me that could be infected. And at some point, I'd encounter water or the thing would no longer be viable by virtue of the amount of time Oh, also UV light. Go outside. sunlight. That's a really good antiviral in this case.
+
+Heather 37:19
+Yeah. Although it takes a while It seems How long? I don't know. And the type of UV that is most effective doesn't get through our atmosphere. So UVC is the is the most quickly acting viral destroyer.
+
+Bret 37:35
+All right, it'd be interesting to know how long one had to expose their skin to sunlight in order to to effectively neutralize the virus.
+
+Heather 37:43
+I agree. I've seen conflicting accounts. Wonder what circumstances would it actually be beneficial for a virus to kill the host in order to get into the future further?
+
+Bret 37:56
+Well, let's take a model. It's not a virus. It's a prion but the disease Kuru was transmitted. This this is a prion that creates a encephalopathy in the brain that was transmitted. I think, the story is that it was transmitted to women who were ceremonially preparing bodies of the dead, and I think eating brains. This is Papa New Guinea, Papa New Guinea. And so anyway, obviously, in the case of this prion, the fact that it was resident in brain tissue and that the person needed to die and have their brain consumed in order to be transmitted to the next person, death is a part of the strategy. And actually, we know a lot of stories. Quarter ceps fungus is transmitted
+
+Heather 38:53
+on Oh, yeah. So there's a whole slew of fungus that spreads by infecting often ants. Yeah, is it and causing them to behave in such ways as a bunch of hymenoptera, ants, ants, bees and wasps, and causing them to climb into the canopy. And then as their body becomes totally infected with the quarter steps, the spores basically emerge from the corpse of the body and maybe it's picked up by birds, which then shut it out, and then they spreads into more. Yeah, after in something so complicated story, but I think I think in that case to spread, the host does end up having to die again, not a virus to fungus.
+
+Bret 39:36
+Yeah. So I think I think what we can generally say is that if there is a plausible route for a pathogen, to get from one critter to the next critter that involves death, nature will have found it multiple times. Just don't underestimate the creativity of the evolutionary force because it finds it's like water it finds The cracks and so I don't have a viral example. But that's not to say we couldn't come up with one.
+
+Heather 40:08
+Yeah. When will we know if the virus spread through aerosol? Why did they tell people using a mask isn't effective if there are no data? Why do you use only water to clean vegetables, but use a soap forehand? So there's three questions. When will we know if the virus is spread through aerosol? I think we do know this now. And in fact, I think in the very first livestream I said it did. And then I saw a comment because it's the only live stream where we were actually seeing the comments. And I was reminded, oh, no, we don't think it does well, as of this week or so now, we think it does. And we being you know, the scientific and medical establishment, thinks that does spread through Arizona. So that's one thing.
+
+Bret 40:45
+I'd also say, if I heard that it didn't spread through aerosol, I would strongly suspect something was wrong with data. Just the simple fact of this being closely related to common cold viruses, the fact that it's resident in the lungs, there are all kinds of reasons to think that aerosol would be the obvious way for this to be transmitted.
+
+Heather 41:04
+Yeah. Why did they tell people using a mask isn't effective if there are no data? I feel like we've beaten that one a lot. We've talked about a fair bit. We know it feels unconscionable, but it happened. And why do you use only water to clean vegetables? But use a soap? For hands? It's a very good question.
+
+Bret 41:22
+Well, I must say my behavior on this front has changed. And it's hard for me to remember. But we buy organic fruits and vegetables. And so in general, I've been very cavalier about washing them because by and large, what's going to be on them isn't a hazard. In the case of COVID-19, I'm very much aware that these things have sat in a supermarket where people are walking, they're touching them, they're coughing. And so my assumption is that that's a very highly likely place for me to encounter a virus that I didn't know was there because I didn't go out you know, for example, so every piece of fruit that I eat now I wash it with soap,
+
+Heather 42:01
+so well if it's if it's an apple, for instance, but if it's citrus, it's it comes with its own casing, right so do you wash the dress as well,
+
+Bret 42:09
+I I'm not as religious about it, but I'm close because to touch it and peel, it runs the risk that I will you know, just like there's no salmonella inside of an egg, but the shell salmonella will get into the egg as you break the shell, I would say it's the same, it's the same thing. So I would say that, you know, soap is your friend, in this case, soap, your washing machine, your dishwasher, all of these things are mechanisms whereby you can easily sterilize whatever COVID-19 you have on whatever it is out of existence. And in the case of fruit, it's a pretty are fruit and vegetables. It's you know, if you're cooking the vegetables, it's probably not that necessary.
+
+Heather 42:50
+I mean, this is I do a lot more cooking of vegetables and you do so I've been preparing, you know, peppers, which are boys love fresh. I washed peppers, not in hot water, because if you're eating fresh peppers, you don't really want them to have been heated, but I do wash them and so cucumbers and appealing, which I normally wouldn't necessarily be you know, always peel, cauliflower. It's gonna be cooked in the oven for a long time, you know, or fried, whatever. But if it's going to be if it's going to experience high heat for long periods of time, you don't need to bring soap to it. But if you're going to be eating it raw, yeah, you really need to think about it. And the question is, is exactly right. Yep. Where are we? I don't know. Does Oh, here we are. Does this hemoglobin hypothesis explain why certain blood types appear to be more at risk?
+
+Bret 43:43
+Good. Well, yes, it involves virus entering? Well, actually, it cannot. I hope I'm right about this. But I've got to be, it cannot reproduce itself. I don't think it can reproduce itself in red blood cells because red blood cells are enucleated. So it's the hemoglobin? Well,
+
+Heather 44:06
+this raises a question, which I'm sure I should know the answer to. But how do red blood cells? They're produced by other tissues. So they're not mine didn't undergo mitosis? Correct?
+
+Bret 44:17
+So they're produced by other tissues? And then ever Yeah, yeah, they can't. In mammals in it's different in birds. But the point is, because they don't have a nucleus they are not doing, I believe they do not have any of the machinery necessary to do the viral work. And therefore the invasion of these cells to get to the hemoglobin molecules must be some other process unfolding. So anyway, I think the answer to your question is it potentially plays in we don't know how, but it is certainly worth thinking about the antigens on the surface of those cells. That's where the Abo Blood groups and the rhesus factor come from, that those things might be critically important in terms of how the virus gets into those cells.
+
+Heather 45:11
+You mentioned you had things in place for the collapse of systems, what were they also, what worries you more COVID-19 are a heightened cold war with China. I don't remember what the mention of having things in place for the collapse of system, I
+
+Bret 45:26
+said, we've been caught a little off guard, because when I moved, we didn't take a lot of stuff with us. You know, the problem is, we didn't take a lot of stuff with us. We also live in different circumstances here in Portland than we did in Olympia. And so some of the stuff wasn't relevant, some of the stuff changed in priority. But to give you one example, that maybe will satisfy him, we had a pretty deep stock of air powered tools. The thought about air power tools was that in the absence of electricity, which drives the compressor, you can drive the compressor with something like a bicycle hooked up to the, to the pump, with a belt, we got rid of that stuff, because we have no place to put it. But that meant that whatever planning was based on air powered tools, is no longer viable. On the other hand, the kind of collapse that requires you to be using air powered tools to solve problems, that's a pretty deep level of collapse, that we're not seeing anything remotely like it in this circumstance, at least not yet. So it doesn't come up, but it could
+
+Heather 46:30
+cause you more COVID-19 are a heightened cold war with China.
+
+Bret 46:34
+I must tell you, I'm worried about a heightened cold war with China, I'm worried about a hot war with China. I'm worried about all sorts of things. Let's just be clear about this COVID-19 is a human tragedy, the costs ongoing could be very, very large, especially if we can't figure out how to benefit and it just starts to circulate annually or all the time, that's going to be very bad for us. On the other hand, there does and we have to be very careful to distinguish between pre symptomatic cases and non symptomatic cases. Some of the pre symptomatic stuff are people who haven't gotten sick yet, but they will. And some of it is people who don't get sick, I may have been one of those people, maybe I had it when Heather had what she had, or maybe I didn't. But the fact that many people seem to get COVID-19 and do not get symptoms says that if this thing got completely out of control, it would still leave a large fraction of the human population intact, the tragedy would be immense. But in terms of the threat it poses to us. It is not an existential threat in and of itself. On the other hand, the chaos that it could cause. For example, a war of one sort or another with China hot or cold, could become an existential threat without too much difficulty. And so that worries me more because the there's no limit to the downside.
+
+Heather 48:17
+I agree. Made diseases diagnosis idiopathic. My dad has a very low cholesterol man had a massive four artery blockage. Do we know how the percentage of idiopathic COVID cases young, healthy, good lung health compares to other diseases? So idiopathic is just fancy medical speak for we don't know what causes it? Basically? I don't think I don't know. I don't think Brett knows. And I don't know if we know how the percentage of COVID can I'm not sure this is exactly what idiopathic means here. But you know how the percentage of cases in which you have no underlying conditions, and you're young and you're healthy, and you're fit. how that compares to other diseases, you just have to control for a lot of stuff you have to control for. I mean, maybe the comparison is flu, really, you know, you can't compare it to something like cancer or Parkinson's or you know, there's just a lot of diseases that you couldn't compare to, because because there are too many things that are different.
+
+Bret 49:22
+So I must say, I'm not sure exactly what the question means. But I would say there is an awful lot of territory that remains largely unexplored about managing whatever circumstance you're in. Right? managing your circumstance can mean lowering your likelihood of being infected, it can mean if you are infected, lowering the degree to which you are symptomatic, and the degree to which you spread it to others. And really, the dire thing is that you kick over into that third category that we talked about in the live stream, where you need intensive intervention because Probably you are starving of oxygen. And that's stressing all of your, your tissues at once. And you know, it could compromise your heart, your lungs. But in any case, we know that people who end up in that third category are in very dire straits. Where is the high quality wisdom on? Should you become sick? How do you stay out of that third category? How much do we know about that? And I must say, maybe somebody knows. But the information has not percolated to me. It's all been focused on the epidemiology, how you avoid getting infected in the first place. And the information hasn't been all that great there. But I would love to know about the how to stay out of the crisis category.
+
+Heather 50:46
+Yeah, I mean, I've seen some numbers around, it's more people than you think who are young or have no underlying conditions who end up hospitalized or very sick. What the thing here that I have no idea how to do is compared to what diseases, you know, what would be the right comparison to make here? Yeah. Next question. Are there any beneficial viruses that is beneficial to us? God, there must be, why wouldn't why wouldn't there be at some level in which the strategy is, is one of effectively collaboration in which they they win and do and so do we? I can't think of any at the moment, though.
+
+Bret 51:23
+I think part of the problem here is that if they were beneficial viruses, you might not know that they were viral. In other words, if if a virus was benefiting us out unambiguously, it might find that it became integrated into our germline genome, and then you might not know that that gene had moved horizontally into into that position. There might be ways of figuring it out. But my guess would be to the extent that such things have evolved, we will be late to find them because we will think of them as as our genes rather than genes that came to us in some way.
+
+Heather 52:03
+Get this, so just this is a comment. This is a link to a sponsored article on how each CQ is hydroxychloroquine and z Pak that Supermax also known as Meissen are able to cure the CCP virus, which is not what it's called SARS Cove to what we're referring to here. It has to do with the fact that the virus is attacking the hemoglobin and red blood cells. Okay. Check out that like, what can we expect from the covid 19? outbreak, given the experiences with the Spanish flu? Can we expect to see another outbreak equal or worse when the next flu season starts similar to 1918? Quite possibly, but no guarantees. We talked a bit in, I don't know, maybe livestream too, about the possibility of seasonality. The idea being so I don't know a ton about the history of the flu in the years in before 1918. But for sure, floo existed in humans for many, many, many years before that, whereas the distinction here is that we're dealing with an enemy, a virus that has no history with humans, and we have no history with it and has no history with us before six months ago. So there is no history of patterning evolving such that okay, it's going to disappear in the warmer months and come back in the cooler months or could be the opposite. It could you know, there could be any number of types of cyclicity. But it our relationship with it is so new, that it's very hard to predict what might happen.
+
+Bret 53:37
+It could have had a relationship with its prior host that would produce a kind of it's not clear how that would work. Yep. A couple points there. There is some evidence that the Spanish Flu was made worse by was it early onset treatments? aspirin possibly. I didn't, I didn't know that. Anyway, we were seeing an echo of that in this epidemic. It's worth thinking about
+
+Heather 54:06
+although in this epidemic, there's no I've seen no compelling evidence that aspirin has been thought to be dangerous, but the other insights the newer assets, things like ibuprofen, and such worth have been thought no one is officially making this claim at this point, but have been thought to be a bad combination with regard to sickness. What's our scope to
+
+Bret 54:29
+I've seen the non aspirin and Said's claimed to do damage on the basis of evidence that I actually find compelling. I've seen the same argument made for avoiding aspirin, but I've seen zero evidence that it's actually known to do harm. It's
+
+Heather 54:43
+just listed in with the other ones because it's, it's in this category. And I mean, this is this is a problem with this type of thinking where it's like, oh, I have a category and I have evidence that all these new drugs may cause harm. I'm going to put the other thing which is a much older drug ended up in into that list, because it fits in this category that I have. Yep. In fact, aspirin. You know, aspirin is very old. It it. It comes out of is it willows? Yeah. It's something which willow bark. Yeah, it. It is derived from something that humans have been using as a medicinal for 1000s of years, which is far different from a drug that was dreamed up in a lab within a few decades.
+
+Bret 55:29
+And the dosages again, I hope I'm getting the story, right. But the dosages that were being used around the Spanish Flu were super high, absolutely, astonishingly high, and therefore probably destructive in their own right now. Let's see, oh, what can we get out? So the other thing about Spanish flu is it's flu. And flu has this mechanism for switching components. And so because this because Coronavirus is functioning in a different way, they're also RNA, but non retroviruses, they don't have they don't have the capacity to switch up antigens in the same way that said they because of what we talked about in the live stream, and the fact that they appear to have this error correction mechanism, which we are arguing is something that could be turned on or turned off. It's possible they have some other mechanism. But really, I would just I guess what you said up front is probably the right answer of the question. We don't know that they will have seasonality, there's reason to think some seasonality will emerge from people's change in behavior. But there's very little reason to think that the seasonality will emerge from it being wired to go dormant during the summer, the way other things seem to be
+
+Heather 56:51
+okay, I think we need to speed it up. We got I don't know how many more questions we have Zack, but we're gonna start trying to answer these much more quickly. Okay. So does the error correcting mechanism? So is the error correcting mechanism a good thing or bad thing with regard to how we deal with COVID-19?
+
+Bret 57:10
+Oh, it's probably a good could go either way, it's probably a good thing. Yes, it probably stabilizes the virus so that it is not rapidly changing, which means that it lower rate of mutagenesis so easier to target, if we can get a vaccine that functions against it, it will not morph out from under us, it will remain steady. So that's why if it could turn that mechanism off, it might evade but
+
+Heather 57:36
+that also it's an error correcting mechanism. That's what we currently think it is. What else can it do? You know, can it can it? Is it is at a multi part factory that can produce all sorts of things besides fixing mutations? Who knows? I don't know. If we got rid of influenza, would people without immunity to it die if it came back? Some people would as some people die of influenza every year as many people die of influenza every year. But would it be more?
+
+Bret 58:07
+I certainly suspect so. Yeah, probably because you have a series of encounters with the flu. You have you have a head start on chasing it down when you get infected.
+
+Heather 58:19
+Yeah, it'd be boring eradicating it completely, would make a reintroduction potentially more deadly. Yes. Yep. My interpretation of masks don't work is that it is false. Literally false. But metaphorically, true, regular people with masks will still rub their eyes are the equivalent, reserving the supply for professionals is important.
+
+Bret 58:39
+Yes, and no, I think the thing is, I've seen so much this year where people are essentially arguing that that complexity is something normal folks can't handle. So we have to dumb stuff down. I don't think this is true. I think we're now watching people level up. And the fact is, they could be weeks ahead of where they are, if we had been straight with them up front. So I certainly don't think we know that people couldn't handle the raw truth if we simply gave it to them. And frankly, I think it's immoral to assume that they can't and to deliver them. These kinds of fictions. This is not 1000 years ago, this is modern times we have the internet, we can talk each other through this, let's be honest with each other about where we are, what works, what resources are too limited, where they should go and what the rest of us should be doing. And let's do it now. Yeah,
+
+Heather 59:37
+so I'm going to come back to the next question. But two questions later is actually relevant to this. So I'll just go there seems at the spread and culture is where masks of the social norm has been significantly mitigated. It may be spurious Of course because there are other correlated factors but I think this is right. And we have not even begun to untangle all of the other factors yet but but it it's Seems like a good initial observation anyway. So the question before that was can you talk more about cats on COVID-19? Yeah, so we were going to I don't have the article with me here today but piece came out sometime in the last week, we can have suggesting that it's not SARS. cov. Two is not transmissible to dogs, although you have independently found two cases of dogs on might have had it. Yep. But the cats and ferrets apparently. Can, can get COVID-19. And then more recently, yet we have this case of the Tiger at the Brooklyn zoo, some some Zoo nuts, I forgotten which I can't remember York zoo is some new york zoo. And that's about all we know. At least that's that's about all I know, at this point, is that unfortunately, it seems that two of our domesticated partner animals can get it potentially from us and potentially then, within within each other, you'll spread it to each other.
+
+Bret 1:01:09
+So I think this is really to be expected. Yeah. The fact is, these coronaviruses seem to live in bats and find their way into other creatures. And what that says is that they are generalist when it comes to what, what sorts of animals that they can make a profit with. So anyway, we should expect it what I haven't seen is that cats or dogs have been then spreading it to people.
+
+Heather 1:01:36
+Yeah, we haven't seen in that direction. We haven't seen that asymmetry. Yeah, I mean, it's not to say it's not possible, but we haven't seen any evidence of that.
+
+Bret 1:01:42
+Right. And so that will be a very positive thing. If that's not a common mode of transmission.
+
+Heather 1:01:47
+Yeah. Seems at this row. I already read that one. Should we petition public parks to be reopened? Do you think the closure of public lands and parks is an example of tyranny on the part of the executives who have issued these closures? Well, I've been pretty clear how I feel about this. I think public parks should be reopened. I understand that. There are a lot of people who don't know how to behave themselves once they go out on mass, and they've been cooped up. But that that being able to experience being outside, and in landscapes that are that have fresh air and sunlight and nature and and animals, besides humans to experience is going to be absolutely critical in terms of being able to last psychologically through these this quarantine and lockdown. Is the closure an example of tyranny on the part of the executives? I wouldn't use that word, but I see why it's being used. I think it's overreach, I think it's confusion. I think it is misunderstanding what the point of social distancing is, I think it fails to recognize that, that there is an effective viral load, and that being staying away from people, and presumably, you know, especially if, like, like we said earlier, if you're on trails that are narrow, and you may run into someone who's running the other way, they should be masked. And it would be better if you could be masked in response. weeks ago, I was in the hundreds acre park near our house, and three guys ran past me with no masks on breathing heavily. And I thought that's, that's not good. Like that is that is not what you want when you're going out into nature. But other than that, what I saw mostly was a lot of people, mostly older who were outside enjoying the landscape, and presumably they're not now and that is 100%, making them more at risk of getting sick from other things, and making them more at risk of falling into psychological disarray as well.
+
+Bret 1:03:51
+There is tyranny. I don't think the park thing is it. There's other stuff legislative stuff that, yes, much more credibly tyrannical. But this is another opportunity. Why aren't we talking about how we can go back to using parks and public lands safely? Frankly, people are talking about our predicament almost full time, we can talk about how it is that one uses a park in the situation. Maybe there's no trash collection, maybe you carry out what you bring in, maybe there's a certain number of feet, you need to stand in the park. And it isn't what we can infer from the supermarket. But why aren't we having the discussion?
+
+Heather 1:04:27
+Yeah, there are enough of us with experience in the back country, who know who know how to inform others of things like leave no trace. And it's not to say that it will be perfect and one thing I will say is that on these walks that I've been taking with the dog, I have seen an unfortunate uptick of finding piles of dog poop that were not left by our dog because I we clean it up. So that seems like a failure that is happening now that I never would have run into, you know, three months ago. People would have always cleaned it up and somehow that was socially enforced. It no longer exists. But it seems to me that people are absolutely magical. And yes, we should have our parks reopened without explaining exactly. Next question without explaining exactly what the fourth frontier is, please answer the following. Is it a laid out plan or more of a thought experiment? And can all encompassing plan be developed from our doesn't have to evolve? So I think we went there, right? Yeah,
+
+Bret 1:05:21
+it is. I think the core insight of the fourth frontier is that we cannot describe it in advance, what we can do is algorithmically navigate to it. So one needs to spell out something that is viable, but the attempted to make it precise, upfront, would Doom it. So it's not a thought experiment. It really is about where we all ought to go together, how we how we architect that system, but it will not be done from a blueprint, it will be done as a matter of navigation on what we would call the adaptive landscape.
+
+Heather 1:05:57
+If laowai 86, a YouTuber whose content is mainly focused on China is correct. And I don't know who this is. So that's a that's an F. What do we do if this was something released accidentally or purposefully by Wu Han and the Communist Party of China? Should China face any repercussions? And how? It's a big question? I think
+
+Bret 1:06:17
+that's very different if it was purposefully versus accidentally. Yeah.
+
+Heather 1:06:21
+It's a lot of questions. I think maybe we'll probably come back to that. We've touched on this before. But we,
+
+Bret 1:06:29
+I mean, if it was purposely done, its mass murder. Yeah. Right. If it was accidental, then it is obviously something that must never happen again. And we have to navigate it. But it's just the two questions aren't even in the same boat.
+
+Heather 1:06:43
+If it was accidental, it could have it could have happened. And I won't say just as easily because there are different structures in place in different countries. But it could have happened in any country that has virology labs, which is certainly how most most industrialized countries, if not all industrialized countries on the planet, things can escape what they need, they need not to and yet, they still do.
+
+Bret 1:07:06
+I used to handle bats as a matter of my graduate work. I don't think those bats are particularly likely to to house a human transmissible virus that could cause a pandemic like this as a result of the fact that they were roosting in small groups under leaves, rather than in caves, where the epidemiology is different. But nonetheless, every scientist who's handling wild animals is running some risk of transmitting this stuff to the human population, how we navigate that so that it doesn't happen again from some other source. That's a very valid question, but people are handling animals, and that's putting humanity at risk. And we need to figure out how not to overreact but to deal with those potential conduits so that humanity is protected from this happening.
+
+Heather 1:08:02
+So we're gonna try to speed it up. How many more do we have? Oh, my God. Yeah, we need to go faster. Okay. We were
+
+Bret 1:08:17
+there. Okay, we're gonna have to go faster as a result of the number of questions we've been asked.
+
+Heather 1:08:23
+Is that the one we're at the one you've got highlighted? No. Okay, thank you. What is our path forward through this as a society? Can we hope for the end of capitalism and what might a better system look like?
+
+Bret 1:08:33
+The problem is, you're not gonna be able to define capitalism. Can you hope for the end of markets? No. Can you hope for the end of a predatory system that is increasingly ruled by rent seekers? Let's hope so. Because if we can't we're unfortunately doomed by the product of what they do.
+
+Heather 1:08:51
+Good? Does human muscular weakness relative to similarly sized mammals, along with linguistic and toolmaking capacity imply that we are designed in quotes to transcend biology through synthetic upgrades of our biological functions? No,
+
+Bret 1:09:06
+no, although the two things may travel together, we became very clever apes that can wield tools rather than muscle and at the same time, so the two things co evolved Yeah,
+
+Heather 1:09:18
+we are we are not fastest or the best climbers or the best swimmers or the best anything but we are extraordinary journalists. generalists, who have begun to expand outside of our physical bodies, long since begun through linguistic toolmaking, consciousness, lots of other things. And we are therefore experiencing upgrades. But we are transcending and they are not necessarily synthetic. Next question, since our use of animals causes the vast majority of pandemics extreme damage to the planet, depletion of resources and unimaginable suffering, is it time to start mostly live Animals alone. It's too simple. It's It's too simple a solution. We've addressed the question of wet markets in an earlier live stream.
+
+Bret 1:10:12
+Well, and you know, we have animals with which we have a very long history, we know what diseases they carry, we understand how to manage those diseases. And these creatures are have effectively become our partners. And I know lots of people think it's mean to eat animals, but the fact is driving them extinct isn't better. So we should be limiting the amount of animal meat that we eat because it's environmentally destructive. But should it be zero? No, there's no reason to for it to be zero. It's not a healthy diet. It's much easier to be healthy if you eat some meat. And so there is a rational middle ground here. And the extremes, neither of them are rational.
+
+Heather 1:10:53
+Yeah. Are we doing better by cows? Or bison? No cows, by almost every metric. Some anecdotal reporting on the type of Coronavirus death includes references to people being fat, obese or unfit? Low vo two max of obese people related to hemoglobin hypothesis question mark.
+
+Bret 1:11:17
+Yeah, yep. Good. Well, basil, harder to pump oxygen through a abnormally large body. Yes, yes, the simple answer your question.
+
+Heather 1:11:28
+Any theories? And why we haven't heard anything definitive on patient zero? What advantages could be had from withholding that information?
+
+Bret 1:11:35
+They would be hypotheses, not theories. But we've heard a little bit about the possibility of patient zero woman who seems to have disappeared from the lab in Wuhan. I can't imagine why it would be worth without her
+
+Heather 1:11:51
+body disappear. Or Well, look, she wasn't an employee of the lab in Wuhan she was at
+
+Bret 1:11:58
+this story could be nonsense, I'm not in a position to assess it at all. All I can say is I've seen the claim that there was a woman working in this laboratory, who many people take to be patient zero, and that she disappeared, her data was scrubbed from the website. I believe the government claims that she's alive and well and doing fine and but there's no evidence of her. Again, I don't know if that's a garbage story I've been fed or not. But what I do know is there does seem to be a connection between the lab in Wuhan and the studying of these viruses that is very hard to ignore. The wet market connection seems tentative, the more you try to chase it down. And so there does seem to be a very likely explanation, which is that this thing escaped as a result of a lab that wasn't sufficiently careful. And maybe the CCP wishes us not to understand that. And so the cover story being a wet market requires that there was no patient zero in the lab. Maybe that's it. But yes, withholding the information. Is criminal. The release the accidental release would not be but hiding the information that would allow us to figure out what actually happened is certainly tantamount to a crime if it isn't actually one.
+
+Heather 1:13:29
+Yeah. You two are exactly the kind of people that I want to hear from at a time like this. Thank you for doing it. Thank you. If I had a time machine and went back 1000 years, would my immune system be prepared for all of my ancestors history of viruses? And I'd be a superhero? Or would I be completely unprepared for that errors? viruses? Great question. That's a great question. It would be neither extreme. There are there are certainly new things that have emerged that you wouldn't be that that you were prepared for now that you wouldn't need preparation for back then. But there are presumably also be older viruses that have either been extirpated or have changed so much that your modern antibodies wouldn't do a good enough job on dealing with the older ones. Yeah,
+
+Bret 1:14:12
+I actually think it's kind of likely that, you know, especially with there having been bottlenecks in the human population, that some infections will have been lost. Yeah, and they might function like a truly naive population encountering smallpox, right? So
+
+Heather 1:14:27
+a superhero with a few kryptonite. Yeah. Thank you for doing these. If you have time and want to laugh, check out our last video on televangelists and COVID-19. What are your thoughts on them?
+
+Bret 1:14:42
+They are highly unlikely to be an effective remedy.
+
+Heather 1:14:47
+Non scientific question I'm a former academic Can you speak to your vision of hope for alternative scholarship and educational forums and forums. This is this is something we've spent considerable time especially in the last Last year, a few years thinking about AI not sure that we can do. It's just don't think we have time right now.
+
+Bret 1:15:08
+We're overthinking education and under thinking it at the same time, the fact is, it's a normal thing we're built to do it. And our system that is designed to deliver education in an economically efficient fashion, is obscene. So we need to remember what education is for. It's supposed to teach you how to think not what to think. And we need to build a system that's capable of doing that, which means it's a system that has to acquire and protect the kind of minds who are actually in a position to educate other people how to think independently, which is not something that our current system does, well, often it does the opposite. So I think the question, in some sense, if we have the courage to see why our system doesn't work, it's a question that almost answers itself. What do we need in an educational system? We need a system that educates, and it's not that hard.
+
+Heather 1:16:05
+And in the final part of your answer to that you wrapped it back into scholarship, right? That it's too often, we have two tiers in the modern academic setting, there are people who do research and are mostly freed from teaching. And we have people mostly either adjuncts at our one's research universities, or people who are at liberal arts colleges, who are mostly teaching and who aren't continuing to contribute no ideas, and that that division is toxic to a functional system of higher ed. Thanks, professors. Thank you. You're welcome. is a scenario of long tail of bear mice bias and drug research negated by human trials coming after, if not why?
+
+Bret 1:16:47
+Absolutely not. The reason is, because when you test things on mice, you are trading on the following idea that pathologies that emerge after a long term exposure to a drug will be mirrored by pathologies in the mouse. If you give higher quantities of the drug, you will see those pathologies early in a mouse. If you then move on to human trials, are you going to follow those humans that you've administered this drug for the next 50 years in order to figure out whether their lifespans are shortened? And are you going to hold the drug off the market for those 50 years? No, you're not. So in effect, our system is built to use mice as a proxy for long term hazards which those mice, at least in their long telomere form cannot do. And then to use humans in order to discover critical short term hazards. So what I've said repeatedly is, our system is actually pretty good at spotting very short term critical hazards. And it is very bad when it comes to long term hazards that are basically hidden by noise.
+
+Heather 1:17:56
+Right? Can someone address the baby boom, that was that will result from this pandemic? The virus kills the non breeding population. More, more than younger people, but not exclusively, of course. And then density. I'm not sure what the lessons means, but I'm not sure what how to address the baby boom, that will address so it will result
+
+Bret 1:18:18
+there's a question about a baby boom, the baby boom that we call the baby boom happened, presumably because people had held off reproducing during World War Two and then accelerated the production of kids afterwards. It is not clear to me that that's the frame of mind that people have at the moment, there's a question of what frame of mind they ought to have, and a question of what frame of mind they do have. But I am not, I don't think it's a simple prediction that there will be a baby boom in the aftermath. I do think we need to think about the interaction. depending upon how many people are killed by this virus, and how many people are compromised. It predicts very different economic futures coming out of this crisis. And it would be worth thinking about what those futures look like and how we might prepared for them.
+
+Heather 1:19:13
+is x 52 the last one? No, okay. 54 Okay, all right. So I'm gonna go I'm gonna go 52 up and then down to 54 because I can't see those. Watch America first when Nicholas J. Fuentes Never heard of it, but I read it. Men store more than women do either, if you know if this reduces oxygen enough to account for the discrepancy in severe cases. PS breathing reduces the need to cough. I think snoring is often a kind of sleep apnea, which does indicate a imperfect functioning of respiration during sleep. Why men are more likely to have that particular form of sleep apnea. I do not know. But is is that may linked to the greater morbidities and fatality rates among men than women here
+
+Bret 1:20:06
+possibly men are in general more fragile as a result of a consequence of sexual selection. In this case you've got a particular pathology that is disproportionately associated with many it could be connected. But I would say there's there's a whole story that needs to be unpacked around apnea, orthodontia. oxygenation of the blood potentially. Now this virus and I don't think we know enough about it, but the connection between these things is bound to be interesting.
+
+Heather 1:20:38
+Good Now you got people wondering Yes, very good. Pamela Olsen again, thank you. She says thank you supporting you. How about a smile and handhold It is good to see people touching since we can't so this is the third time all right read still reading because he's dyslexic. Yes yet, Danny? Yeah.
+
+Bret 1:20:57
+Sorry. I didn't know when the handhold was supposed to start. All right. Okay,
+
+Heather 1:21:02
+good. Um, this is all very important. But where did you get that lamp? Hell yeah.
+
+Bret 1:21:08
+I have had that lamp so long and I love it. But now you all can love it. And it has secrets it has yet to tell. So anyway, yes. I got it actually
+
+Heather 1:21:19
+predates me in your life.
+
+Bret 1:21:21
+Is that right? Is it does that lamp came from a client I believe Duncan parking meter was a client of my father's and some wonderful person at Dunkin parking meter whose name I have unfortunately forgotten. Sent me that beautiful lamp and a genuine so that is a genuine antique parking meter. And he also sent me a modern parking meter. And I had one crazy afternoon. I'm a born tinkerer and I took the parking meter, the other one. And I removed one screws. And the thing blew into a million parts. And boy, I was sweating bullets about whether I would ever get the thing back together. I did get it back together and fully functional. But so where is it? I don't know. I've been wondering that. At what point did that one disappear? Feel like I
+
+Heather 1:22:15
+met that one too. But I don't. It's been a lot. It's been many moves. So I don't know see that.
+
+Bret 1:22:19
+I'm pleased that this one has survived everything we've been through and is now making its debut on the internet.
+
+Heather 1:22:26
+Was it in the vehicle that burned up with everything else we owned inside of it could
+
+Bret 1:22:29
+be Yeah, okay. That's probably actually what happened? No, no,
+
+Heather 1:22:33
+I was talking about this one. No, this one was not okay. Okay, so scroll down. We're done with this page, I think. All right, we, we have a couple more. Two more looks like, hold on. Two more questions. Can we develop herd immunity against COVID-19? Probably, we should not be trying to do that yet. The longer it is before vast numbers of people get it, the more likely the virus and we will have evolved a more stable relationship. And more likely yet is the likelier we are as humans to have developed effective medications to have understood what the mechanisms of action are to therefore know, for instance, what to do with ventilators and when maybe to have a vaccine, all of these things. So yes, herd immunity is hopefully a long term answer. But that does not mean that we should try to accelerate that process. That would be dangerous.
+
+Bret 1:23:32
+Yeah, I think we are developing it. But yeah, the problem is it comes at a very high cost at the moment. So anyway, some of us, you know, we may be immune as a result of you having it and
+
+Heather 1:23:43
+I may be having it. Yes. Yep. Okay, final question. What do you see happening to evergreen?
+
+Bret 1:23:51
+I don't know what that question means to what do we see happening at the moment is there you know, there was a state of the college address, in which the person in charge of the financial disclosure said they had about two years of reserves? He then says recently, yeah, john Carmichael number john Carmichael. Yes, I do. Yeah, well, john Carmichael said they had about two years left at the current burn rate before they would go under. He then gave a couple of reasons that he was hopeful the reasons were nonsense. Which makes sense. I remember john Carmichael sounds like him too. So anyway, I think evergreen is in dire circumstances This was before. Now it was actually during the early part of the epidemic. So I think what may have happened
+
+Heather 1:24:43
+with the Board of Trustees is scheduled a meeting which is widely thought to maybe be about declaring bankruptcy because many, many small colleges and evergreen is unique and being a think unique, at least very unusual in being a public liberal arts college. Most liberal arts colleges are private and For have a larger amount of money to depend on being public and liberal arts puts it at particular risk. Pulling the shenanigans to put it lightly that it pulled in 2017 puts it at great risk. And then the fact that COVID-19 is creating financial straits for across higher ed across institutions of higher ed means that this may well be the straw the floor, I think
+
+Bret 1:25:27
+it's, I think it's almost certain to kill the college. The problem, from my perspective, is that, in order for the world to get smarter, the consequences have to flow to the people who screwed up. And you know, too big to fail is a reasonable argument, because institutions that are of a particular nature, when they fail, hurt a lot of innocent people. But the people who steer them into danger should never be covered by too big to fail. In the case of evergreen, they bent over backwards year after year to preserve George bridges reputation, why he came there, he made terrible decisions, they came back to haunt us absolutely immediately. Would it have been so terrible to say, we do not have any confidence in this man's leadership? We wish him well. And to move on. No, they kept him on board through the end of his contract gave him some kind of bizarre statement about his wisdom and courage in the face of everything that he saw. And they sent him on his way. I mean, he's still in, he's still there. But he's,
+
+Heather 1:26:32
+he's got he's got to the end of the academic year
+
+Bret 1:26:34
+through the end of the academic year, at which point they're going to take him on as a teacher as they're furloughing other people. So that is in and of itself insane. But now, the pandemic is going to give them cover and they're going to claim that the college failed because, you know, there was a long term trend where they were losing students, which yes was true, but that long term trend had nothing to do with the cliff they hit as a result of bridges. Terrible management of the place. So level
+
+Heather 1:26:59
+don't get us started like this. Yes, this we do want drinks in front of us for right? We'll get brutally honest. And
+
+Bret 1:27:05
+it is five o'clock somewhere. Oh,
+
+Heather 1:27:07
+I'm sure it is back. It's
+
+Bret 1:27:08
+even five o'clock.
+
+Heather 1:27:09
+It's five o'clock here. Yeah. Okay, we hit one more question. And then and then we're done. Okay. Two potentially fatal viruses that become endemic and populations who gain near immunity or compatibility act as unintentional bio weapons for that population, which attacked potential adversaries,
+
+Bret 1:27:26
+guns, germs and steel. Is that story in spades? Yes. The fact is, when the Conquistadores came to the new world, they wielded smallpox without even knowing that they were doing
+
+Heather 1:27:41
+that their guns knowing full well what they were doing and wielded smallpox unintentionally. And in many ways, smallpox was the far more effective killer.
+
+Bret 1:27:48
+And what's more, if you think about what happened next?
+
+Heather 1:27:52
+Well, I shouldn't let me say they will add smallpox unintentionally at first later, they used it as a bio weapon.
+
+Bret 1:27:59
+I think those stories are apocryphal, okay.
+
+Heather 1:28:02
+They may have wielded smallpox as a bio weapon by giving smallpox infected blankets to be I think
+
+Bret 1:28:08
+that story is apart. I just said that i'm saying i they may have I know, but Okay, so anyway, I don't I don't think that necessarily had to happen. But smallpox, did some much of the heavy lifting of conquering the new world. And then the Spanish looted it, how much gold ended up in Europe that was actually New World gold and What effect did that have for centuries after on, you know, who ruled over home? So anyway, yes, it is. an unintentional bioweapon, as you say. Okay.
+
+Heather 1:28:46
+All right. Thank you. We back on Friday. We will see you Friday, Friday, Pacific time.
+
+Bret 1:28:52
+All right. Be well stay safe, everyone.
+
+This transcript was generated by https://otter.ai

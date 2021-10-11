@@ -1,0 +1,826 @@
+Bret 0:10
+Hey folks, welcome into the dark horse podcast live stream q&a 78 may 1 2021. Right? Did I get all that right? There was a lot of information. Oh, I should say I forgot I should have announced during the main podcast that we have a new Dark Horse discussion up with me and Jamie wheel. And so if you haven't checked it out, you should check it out. I just slipped my mind that we had another announcement.
+
+Heather 0:38
+So Jamie's new book is out. Right?
+
+Bret 0:40
+Jamie's new book is out after the rapture. And that's not the only clever turn of fate phrase in the book.
+
+Heather 0:47
+It's not no, so I have not listened to your conversation with Jamie yet, but he's terrific. We became friends with him a few years ago. And his his first book co authored with Steven Kotler is stealing fire. Yep. All right. It's excellent. Is that really the right? Is that the right title that I have, right? Yes, I think that's right. Anyway, it's excellent. I imagine this next one is too, so it's good.
+
+Bret 1:11
+You got to get past his thick Texas accent. But once you do, it's awesome. No,
+
+Heather 1:17
+he does not
+
+Bret 1:19
+have some kind of accent. I assumed it was Texas, because that's where I was talking to him.
+
+Heather 1:23
+Really? Okay. And for those of you who are concerned, the other two cats do still exist. We just decided not to tell them about the cream this week, because one of them was not having an easy time digesting it. So that's what's going on behind us. One very pleased Fairfax. Yes. First, we're going to start with three questions from last week. Move into questions from the discord server and then jump into questions from this week. One, do you see any opportunities to apply evolutionary processes to areas or problems not generally addressed in that way? For instance, Ai, education, business, government policy, etc? Do you see any obvious low hanging fruit?
+
+Bret 2:03
+Yes, it's all over the place. It's everywhere. Right problem is convincing people that it is but yeah, the fact and
+
+Heather 2:09
+this is a lot of what we do, right? Like I mean, frankly, this is the vaccinology and virologist going like you don't have any expertise. You're evolutionary biologists like, dudes, if you don't understand that viruses evolve? We got a problem. Yeah. And we do
+
+Bret 2:22
+have exactly that problem. Yes, yeah. Yeah, no, the low hanging fruit is all over the place. You know, it takes a certain amount of getting used to and you have to learn to think this way. But, you know, in essence, the vaccine and COVID evolution question comes down to, you want to create an uncomfortable evolutionary gap, you want to create an obstacle so difficult that evolution cannot cross it. And instead, what we seem to be doing is creating an easy jump, creating small enough steps to selection configure their way across them. And you know, if only we could make that point simply so that we didn't endlessly run into this sort of utopian thinking about solutions.
+
+Heather 3:09
+And you have actually explicitly made this argument with regard to AI. And an analogous argument anyway,
+
+Bret 3:14
+I and I've also made it in the context of fourth frontier solutions for governance, which is that you don't you don't want to give the corrupting influences a training course on how to corrupt better you want to give them a situation in which the attempt to corrupt the system is ruinous. And it's such a big setback that those who engage in it do not end up ahead, but behind
+
+Heather 3:39
+Yep. And discussion of fourth frontier comprises the final chapter of our book, which will be out in a few months. Okay, next question. Why is childbirth painful and dangerous? walking upright, big heads farming revolution, question mark. How will evolve considering diets? Best regards from Finland, you would love it here consider visiting one day. So there's sort of three hypotheses, three possibilities proposed here, walking upright, big heads, farming revolution. I don't think agricultural revolution has anything that made things worse, with regard to childbirth, with the possible caveat that if women are less active, certainly not being not being as fit makes childbirth more dangerous. But the first two things here that becoming bipedal, you know that that move from being quadrupedal to bipedal and changing hip shape in order to become stable. And not and not in women not having such wide hips that they become unstable, in combination with large heads as a result of our big brains, which is a big part of what makes humans human. That combination is is the thing that is usually described as why childbirth Humans is so much different and harder and more dangerous than it is for everyone else, really.
+
+Bret 5:04
+So I'm surprised to hear you say you don't think the agricultural revolution or at least the abundance of food has made things worse because it seems like babies are bigger. Yeah, I think they're going to be less scrawny butt heads aren't fatter. I've run into some fat heads in my dad.
+
+Heather 5:25
+I know we say that, but it's not actually what we mean. Right? I mean, it's possible that heads are also getting bigger, but you know, the, the less scrawny babies and, and, and longer babies won't make birth more difficult. It really is head diameter. Yeah.
+
+Bret 5:41
+Which is why birth has been moved earlier developmental sequence,
+
+Heather 5:45
+incidentally, actually, Bob Trevor's tweeted yesterday a new result, and I can't remember, maybe while you're answering something, I'll figure out a camera what species it was in. But that found evidence for genomic imprinting, in which maternally derived genes cause gestation to be shorter. And paternally derived genes, paternally imprinted genes cause gestation to be longer so you have so for, for everyone, rather than us having this private conversation here. Following from David Haig seminal work in the 1990s. The idea that genes are able to keep track of what parent they came from, and will have different incentives in terms of things like fetal growth, depending on whether or not they came from the mother, who is interested in the survival and success of her baby, but also in this survival and success of future babies. Or if those genes those alleles, came from the Father, who in a non monogamous species, at least, is unlikely to have any future kids with with a mother and so has only an interest in the maximum survival and success of that individual and not in the future reproductive output of, of the mother. So the idea that prediction then was that, that maternally imprinted genes maternally derived genes in fetuses would push towards smaller birth weights and shorter gestation times and such and the maternally imprinted or derived genes would push towards higher birth rates and longer gestation times and there's a piece of empirical research that that finds this That's
+
+Bret 7:22
+amazing. I did not catch that tweet, nor can I see that research yet. I will say you just blew right by that awesome argument in favor of monogamy one of my favorite arguments in favor my favorite breeding system of all time. I mean, it's good
+
+Heather 7:36
+just saying that cuz I'm sitting here.
+
+Bret 7:39
+I'm saying that because I found the right person, I'm sure monogamy is a pain in the ass if you end up with the wrong person, but having not ended up with the wrong person. I'm all
+
+Heather 7:48
+in favor. Okay. So what? What What did I blow past?
+
+Bret 7:51
+Well, no, no, you You said it, but I just like so fast. And the idea. So then it's multifaceted to the idea is the conflict between that fraction of the genome of the fetus that comes from the Father, the conflict between that fraction of the genome and the mother is much greater if the father is out of there, and therefore has no interest or little interest in the ongoing well being of the mother and has an interest in his offspring taking more than a chair. Whereas if you have a monogamous system where the next offspring is going to be his as well, he has a much more concordant interest and the fetuses have a concordant interest because the next offspring is going to be a full sib rather than a half sib reduces
+
+Heather 8:35
+sibling rivalry.
+
+Bret 8:37
+So does Yeah. Just a better system?
+
+Heather 8:40
+Just better? Yeah, I think it might have been horses. I'll look it up. All right. Yeah. Wait, so I'm not sure we finished though you were saying you were surprised that I wasn't didn't think the agricultural revolution would have had much to do with it. Because Oh, because of the the welfare Enos of the babies and we went to fat heads, and then we went to genomic imprinting. Got it?
+
+Bret 9:04
+See, we have just recapped the whole interchange right there.
+
+Heather 9:07
+Yeah. All right. Next question. If there was a less lethal ancestor virus, and it spread in an area near Wuhan in southern China, would you expect to see higher immunity in the same countries reporting very little spread of the current virus, for instance, China, Vietnam, Taiwan, I think Tw stands for Taiwan.
+
+Bret 9:28
+A left less lethal variant that spread beforehand? Well, first of all, I would certainly expect evidence of that. But yeah, you bet.
+
+Heather 9:36
+So I think the question is taking that part on like, suppose this, yeah, there's a less lethal ancestor virus and it's spread near Wuhan. If that were the case, would you expect to see higher immunity in the same countries reporting very little spread of the current virus? Definitely. So So I mean, I think the question basically is could we take what we actually see empirically in terms of countries that had low infection rates as possibly evidence not well, not not verifying, but possibly evidence in some, you know, light evidence in support of a hypothesis that there was something circulating.
+
+Bret 10:12
+Not exactly. So I would say I see no reason to believe this happened. But if we take as a hypothetical, what if it had happened? Would we expect this pattern? Yes, we do. See? Yeah. But no, I don't see the I don't see any evidence, any affirmative evidence of this at all. But yes, you can take it as a hypothesis, and then you would want what would
+
+Heather 10:32
+you look what would we look for, though, as as, as affirmative evidence or or falsifying? Really, although, you know, like, background, you know, antibodies in members of the population that didn't appear to have Yes, you
+
+Bret 10:48
+would want to know that a that the low rates were the result of immunity, but b we also know,
+
+Heather 10:53
+but that evidence may fade, because we see, you know, antibody titers fading so quickly with this damn virus.
+
+Bret 10:59
+Well, but you know, the thing is, what we have is immunological memory. And so the antibodies aren't durable, but the memory cells are okay. Yeah, yep. In any case, you would expect to see evidence of that, you know, I'm not sure we would call it even an epidemic if, let's say it was close to asymptomatic, but But in any case, you would expect to see evidence of that pathogen. And the problem is that we know that a lot of things, there's even cross reactivity between things like cold viruses and COVID. So that's a much bigger gap. So we will want to see something narrower than that. And as far as I know, there's no evidence whatsoever. All right, we also have Yeah, we we effectively have a point source in Wuhan, so that marshals against it.
+
+Heather 11:51
+This is a question from the discord server this week, where if you are on the discord server, as I imagine many of the people who are sticking around for these private q&a is are these these Super Chat q&a is are, but you get access to the discord server by joining one of our Patreon and then they vote on their favorite question for the week and ask it. This week's question is for the majority of our evolutionary history, survival was a challenge. This seems to have built us to endure hardship and struggle almost need it. How much does the lack of struggle required to survive in modern society contribute to current issues, mental health ideologies, polarization? And how can we guide people towards positive struggle? Like perhaps mastering a craft or getting a PhD or running a marathon?
+
+Bret 12:39
+I love it when questions answer themselves, you
+
+Heather 12:41
+know, I mean, the a lot of the questions that Discord server do that they you know, there's they're so thoughtful, and careful. And, and, and have the q&a both in there. Yep. Some Yes. But you know, but the question, the question that remains is How so? It seems to be asking, you know, would it be useful to guide people towards positive struggle? Yes. And, you know, how, how do we do that is, is maybe a harder societal question. Well, you start young,
+
+Bret 13:10
+the thing is, yes, you start young. And, you know, it's actually, in some ways, the same thing that we were addressing at the top with respect to analogies to evolution. So one of the things I would say is, there is a very tight connection between development and evolution, many of the patterns are quite analogous. And what you want is to provide a pathway that rewards the behavior that ultimately manifests in being good at struggling against things worth struggling against. And, you know, to the extent that you, you know, and this is in part why we end up so different from each other is that we happen to have experiences early on, in which something really rewarding happens on some channel. And that may be total luck the first time or the second time that it happens. But it may result in you feeling like hey, I wonder if I have an aptitude for that thing, and then you pursue it, and then you get frustrated when it doesn't work, and so you get better and better. And so the point is, for those of us who educate or for those of us with kids, the question is, can you architect the experience that causes the thing that turns out awesome in the end to be rewarding along the way enough that you stick to it and you get frustrated in a useful way rather than a dumb way?
+
+Heather 14:25
+And how do you how do you create an internal motivation system, an internal reward system, rather than you know, what, what of course, the government and the pharmaceutical companies and the media and advertisers and everyone who sells stuff wants which is to maintain an external motivating system which rewards with carrots and other delicious things and punish us with sticks?
+
+Bret 14:51
+Yes, less delicious sticks and carrots as your
+
+Heather 14:55
+dog no character still more delicious sticks, right?
+
+Bret 14:58
+Yeah, it's it's really like a flame. stick some level. But yeah, the. So I do think there was something to the for useful frustration versus stupid frustration
+
+Heather 15:14
+for sure.
+
+Bret 15:15
+And, you know, I know, in my own case, the object that doesn't work, I get frustrated that it doesn't work and I feel that I am obligated to figure out if I can determine what it is that doesn't work and get it to work, which then gives me a, you know, presumably a hit of dopamine, I feel the same way about photography, especially nature photography, where, you know, every aside from those rare dumb lucky instances, you know, the, the the machine, the camera is a bundle of constraints. And the event or the creature or the creature doing its thing is an opportunity. And there's definitely a sense of like, Can I figure out enough of the puzzle to actually get an image that I'd be interested in showing somebody into the machine, you know, and, and then there's the one I never thought I would care about, really, the change in the way cameras work, has radically changed the puzzles that you have to solve as a photographer, and some things that we used to care a hell of a lot about, I just, there's no reason to care at all. And other things, you know, are now obsessions. And so anyway, there's something about a love of puzzle solving, and then finding the puzzles that work. And one of the things I worry about is that, because that thing is liable to have been rewarded evolutionarily, we are built to find our passions and to figure out how to solve problems in them. But what happens when somebody comes up with a junk food solution to that thing, and it's like, oh, this video game is really visually compelling. And you know what, there are actual people in it, that you can, you know, banter back and forth with as you game, right? And it's like, wow, it's everything I want. But the point is, it doesn't train you to do anything useful. It doesn't train you to solve problems in some useful way. And so the point is, it's all up well, what do I really know, I don't care. But I think it's all opportunity cost. And the opportunity cost comes in the form of all of the things you could have trained yourself to do that later on would still be meaningful, whereas a game is going to disappear. And who cares that you're good at some game that doesn't exist anymore?
+
+Heather 17:35
+We could say a lot more about all of this question, but let's move on. Yep. After watching your discussion with Jamie Weil, I'm wondering if you're still pursuing a unity platform for 2022 or 2024.
+
+Bret 17:49
+Unity is alive and well. And in an invisible form, we are going to reboot it. It is not, however, inherently about elections. It is about the fact that there is in general policy that serves our collective well being that is not finding a place in governance, because our governance is so fucking corrupt, if you don't mind my saying so. So the point is start thinking about unity more broadly. Yes, winning elections is cool. And strategies for doing so is cool. But more broadly, think of all of the things that we would do if we were smart, that we're not doing because we've got corrupt leaders, and those things are really the heart of unity. And I think frankly, it's vastly more interesting than a narrow, electorally focused version of that thing. So anyway, let's think more broadly, and let's, let's have fun fighting the good fight. Cool.
+
+Heather 18:54
+What is your What is your philosophy on medical care for pets? Wait a minute. There were a few questions that were in two parts. And I was like, okay, maybe this wasn't a two part one. What is your philosophy on medical care for pets? That is cast aside? How do you evaluate whether to subject a pet to surgery or medical treatment?
+
+Bret 19:21
+Well, you want to go or should I go?
+
+Heather 19:23
+You can go Oh, I mean, we've we've done a lot of medical care for our pets.
+
+Bret 19:29
+Yes, we have. I would say this is a tough one. Because you know, I mean, the philosophies which are asking the man that's a good question, I would say at some level, I see you as taking on the responsibility of a creature worthy of care. And that in effect, because they are pets and because they don't live as long as people. You are hopefully in the position of Taking them on, presumably when they're young in general, and seeing them through their life. And basically, I think the right thing to do is to attempt to make sure that bad things don't happen to them. And that if they are jeopardized by pathology, that you make the right decision rather than this decision that is overly focused on your own horror and losing your pet. So, you know, keeping your pet alive is great when you can do it, and it's just a matter of money that you happen to have. On the other hand, I have to say that a couple times that we have had to put animals to sleep to euthanize them, I love them. euphemism, I don't know why he's dead. But I have had the sense of like, this is incredibly painful. But there is also a sense of, you know, I took care of you, you know, right to the end, I was there at the moment that you left. And, you know, and that that means that nothing terrible happened to you in the meantime. And I do think, you know, as you and I have talked endlessly about something awful has happened to veterinary care, yes, become predatory the way so called Deaf care is predatory, basically, because the emotions are so heightened, there's a business opportunity. And somehow we have to find veterinarians who will help us make the right decision rather than do what they do, which is a feed us a lot of stuff that's probably not good for the animal and probably not necessary and be push us towards intervening to prolong life. When that doesn't make sense to do.
+
+Heather 21:48
+Yeah. We am reminded of one of one of our cats who we ultimately did euthanize at the age of 17, or 18. I don't remember how old Sasha was. But within a year or so of the end of her life, so she was already quite an old cat. She had white years and she got cancer and your abs? No, no, our Yeah, on both years, and the vets wanted to lop off her ears. Yeah. And we said, No, we're not going to have this elderly cat whom we love live the last probably months of her life without years.
+
+Bret 22:23
+Yeah, without ears and being horrifying to people who encountered her. And it just didn't make any sense. Because she was, you know, at the end of her life one way or the other. Yeah. So anyway, yeah, I would say you do have obligations to your pet. And you know, nobody likes the idea of people who treat pets like objects and get rid of them at the point, they're inconvenient. That's how I find
+
+Heather 22:46
+them when they move. I mean, this is really, really a good indication of someone that you don't want to be dependent on for anything, right? To do that.
+
+Bret 22:54
+But, you know, there there has to be a balance struck. And really the thing is, you know, give your pet an excellent life. And it's actually in some ways, I think the most it's the most marvelous gift you can give a creature is a life, that's well taken care of, you know, that in which they have interesting things to do. But they don't have to worry about anything big, like starvation, or predation or anything like that. And, you know, we don't even give this to our kids, like, you know, we raise kids and they face trials and tribulations and that's part of life,
+
+Heather 23:34
+but well, they have to become independent in the way that cats don't.
+
+Bret 23:37
+Right, exactly, exactly.
+
+Heather 23:41
+Next question, as one who uses anonymity for political effect myself, that on Tifa dude, in the anonymous video, is tactically effective, but morally appalling, using people's IRA for Wheeler to do more harm than good, not realizing he's ushering in a fascist response. So no question there. But an apt comment.
+
+Bret 24:02
+Yeah, I totally agree with this. And, you know, I think it's, it is important to recognize that as much as that looked like anonymous, the message was not like anonymous. And, you know, we, one of the problems, and I think this is a problem that is true of anonymous is because of the nature of anonymous. It's a non organization, which in effect liberates anybody to put on that mask and deliver the anonymous message. There's nothing that can say, hey, that one doesn't speak for us, because what is us, right? So that's a problem. And in this case, we now see what that problem does is that somebody uses the style of anonymous to threaten the mayor of Portland and there's no one to say, Oh, that's that's not a real anonymous message because it was to say one way or the other. But yes, it is a serious problem.
+
+Heather 24:53
+Hello, a question that I've not seen talked about is if the Wu Han lab was studying the COVID virus, why does it appear? They've been a non player in terms of vaccine or other useful information.
+
+Bret 25:07
+Because they've been hiding under their desks trying to dodge responsibility. Yeah,
+
+Heather 25:12
+they only acknowledge that they have a virus that is related. And I don't think they even claimed to have had pulled it out of cold storage or however it's stored. No, I
+
+Bret 25:24
+mean, in fact, there were many claims made along the way that there was no virus left that their their ancestor was reduced to a sequence and yeah, there's nothing in their freezer. And the thing is the obvious thing to do would have been to
+
+Heather 25:37
+look in their freezer. Yeah.
+
+Bret 25:40
+Well, of course it could well have disappeared. Yes. But yeah, their absence from the scene is conspicuous. On the other hand, I can say what if they had entered into this conversation about vaccines and what to do? I can imagine a healthy dose of skepticism directed their way. And so one can imagine let's say, let's say that the Wu Han Institute isn't is innocent. Right? One can still imagine that they would not have been in a good position to contribute to this effort and might have sidelined themselves on that basis. Yep.
+
+Heather 26:19
+I can't help. But think of the I can't help but think of the perverse incentive for Big Pharma and tech oligarchs like bill to be incentivized by disasters so hard to make the leap between Ghana function and capital gains. Call me a conspiracy gal. Be a lot more easy this is second question from the same person or comment be a lot more easy to trust the CDC if they didn't switch pandemics between COVID-19 racism and climate change. Color Me skeptical?
+
+Bret 26:49
+Yeah. I'm, we're obviously in the same boat. And the problem is all of these languages functional CDC, we need a functional CDC, we need functional governance. And, you know, back to the question about unity. It's the corruption stupid, that's what's causing this to all be so difficult, which doesn't mean you wouldn't be left with a very difficult problem if the corruption wasn't there. But the point is, the corruption means this is not going to be solved in our interest. Yeah, right. It's going to be solved behind closed doors according to things that, you know, we're all too naive to understand, unfortunately.
+
+Heather 27:22
+Yeah. This is just another comment tongue in cheek, taking social justification for vaccination to its logical conclusion. Shouldn't you not vaccinate? Because if you're healthy, you won't get COVID-19 then you don't need it. And if you die, it's one less unhealthy person that society would have had to take care of in the future.
+
+Bret 27:42
+Boy, that is, that's the route to herd immunity. reductio ad absurdum? Yep,
+
+Heather 27:47
+there it is. Here it is. Last time, I traveled to Entebbe, I'm sure I'm butchering that name. In Uganda, I had to show evidence on my vaccination card if yellow fever inoculation upon entry. Why are people acting like this passport is a new thing. I actually talked about this somewhat extensively on Bridget phantasies podcast a couple weeks ago. So I'm not going to go through it here. But basically, one of the answers is a few things. being asked to be vaccinated to travel someplace that is not your home to protect the lives of the people who already lived there is very different from being told that you may lose rights and privileges to live in your own home the way you've been living. Before that said pandemic, legitimate pandemic does potentially change some of that thinking. And the yellow fever vaccination is a decade's old traditional vaccine with literally decades of health and safety, data, safety and efficacy data behind it, which makes it a very different vaccine. And, you know, this was my point, actually, to bridge it as well. You know, I, you know, I had to, and I had to require all of my students to have yellow fever and some other but yellow fever vaccination in particular, that was the only one that I, I had to get, and we had to get and then I had to require my students to get one, I would take them deep into the Amazon. There's literally a military checkpoint, where you show your card and if you don't have it, you could turn back. And, frankly, the responsibility for you as someone coming into a space to help keep the local population safe is a very different situation.
+
+Bret 29:29
+Yeah, it is a very different situation. In effect, you have the right to make rules for people coming in, of course. Right. Now, I would say also, there is I don't know anything about the business behind the yellow fever vaccine, but it's such a tiny number of people who get that shot every year especially as a result of passports.
+
+Heather 29:53
+And I don't know about vaccines, but if if if they're patented the same way you know, it's literally been in production for many Any deck I got it must be out of patent.
+
+Bret 30:01
+I got it as a kid. Well, no, I
+
+Heather 30:03
+know it's been in use since it's I can't remember now I, I, it's been a couple of weeks, but it's like 1934. Yeah, way before you were a kid. So what point is I don't know if if patents work differently for vaccines or what, but I don't think that there's a huge profit to be made. Right.
+
+Bret 30:17
+I don't think there's a huge profit to be made, because you'll have lots of manufacturers. The one thing I don't know is whether or not the yellow vaccine is still the yellow fever vaccine. Sounds like you have established that it's the same vaccine. Yeah. So anyway, perverse incentives, aren't there history of safety of the vaccine is clear. Yeah. And so anyway, and and it's, you know, that's a requirement to go to X, Y, or Z place, I should say, we're
+
+Heather 30:44
+being required to carry papers to walk around your own country. That is, there's a lot of bad historical precedent there. Yeah, it's, it's, you know, it's not the same as being forced to have a driver's license to drive or to have a yellow fever vaccination card to enter, you know, Ecuador or whatever. It's just not the same. And
+
+Bret 31:03
+we have, you know, clear evidence of perverse incentives and a massive profit to be made for requiring everybody. I would also point if you'll go back to one of our early live streams, we talked about this issue of what I called monkeying with the baseline. Yeah. And by forcing everyone to get vaccinated, they are also monkeying with the baseline with respect to our ability to establish what the consequences actually are that in effect, if you did have universal vaccination, then you don't have a control group. So we won't be quite universal. But if they can get close, then then it also means we can't quite test the question of what happened.
+
+Heather 31:47
+Yeah. Two more, I think sort of follow ups to that question from the same person, or just comments.
+
+Heather 32:04
+Or it's actually two different people with slightly different initials. So that person says, I'd rather roll the dice of my Pfizer shots, then get COVID and see those long term health effects, they don't seem awesome. And then follows up with love Breton. Heather, I have a science, undergrad and social science masters, I'm now a manager, my job is making many critical decisions based on incomplete information. It's an art and a science. My gut says just take the backs.
+
+Bret 32:33
+So I would point out that it's very hard to know what to make of this result that you just told me about for the first time today, I think you just which one ran across it, this result that the spike protein in and of its brand new creates damage? Yeah, it's a brand new model organism. Now it's possible that that is an anomaly, it's possible that the paper doesn't mean what we think it means or that it has to do with the model organism and not people. But if it is true, and I will say it has the ring of truth, because it's not only that it does damage, it does exactly the kind of damage that we see that is so anomalous, with COVID.
+
+Heather 33:09
+It's consistent with being vascular disease and not primarily respiratory.
+
+Bret 33:13
+Right, exactly. So if that is the case, then think about what you're saying. Right? You're saying that a healthy person should take a dose of a pathological a pathological vaccine. So I'm not saying that this is the case, I'm saying, if it is the case, then a vaccine that creates spike protein that itself induces damage is an acceptable risk to avoid the same kind of damage from the virus. Now I'm not discounting how serious this virus damage is, it's very serious. And it has been practically a mantra since the beginning of these live streams, people are underrating, the danger of COVID. Because the death rate, the case fatality rate is low. Right? There underrating the damage because it's years of life lost from the damage to major organs that we see regularly in these cases. But that the vaccine is not, it's, you know, I think people have the sense about, if I get away with it in the short term, then I got away with it. And that's just not how this works with a complex system like this. So I hear you, you may be right, but you need to leave open the possibility that you're not right, and that, in fact, a vaccine that itself does significant damage to the body is it's not a free pass.
+
+Heather 34:37
+Yep. Next question. Hello. A friend of mine loves biology and has gone back to college to major in it, but she's not sure what you can actually do with that degree. Do you have any advice or resources for bio students in that position?
+
+Bret 34:54
+Yeah, geez, you know, I remember back in the before times, when you and I were Professors. And the questions I liked least were questions in which people wanted either advice on continuing their education into graduate school or careers that might be based on such things because the world has gone crazy. And it takes advantage of graduate students who end up doing the teaching of the university for cheap, and there are no jobs for them when they get out. And it leaves a lot of people bitter and with a degree, they can't use having spent some of their potentially most productive years doing something they wouldn't have done if they realized there wasn't going to be a profession at the end of it. So
+
+Heather 35:43
+well, you're talking about grad school, and this is someone going back to major to get a baccalaureate, a bachelor's degree, which is, which, you know, opens up you even even fewer things, except that, to the degree that a college degree is still worth anything. Yep. I think a degree in a science is going to be increasingly better regarded as a degree in some other fields because it at least demonstrates the you have an ability to you know, think logically and mathematically sometimes, hopefully, unless hopefully, you still does, oh, hopefully, right. And I guess with regard to anything more precise, like a, we don't really in part because the future is not going to look a lot like the past. But also biology is huge. And really, you know, if she's, if she's interested in ecology versus cellular biology versus genetics, versus molecular biology, evolution, it's, you know, all of the possible career paths would be different.
+
+Bret 36:45
+Yep. But I think I think the analysis you came up with is right, which is if you're going because you need a college degree, then you might as well study something real and interesting to you and biology would be as good or from our perspective better than most. So if you think about it as two separate things, what you're doing is you're getting the degree What are you getting the degree in something that you're fascinated by that it makes that kind of sense?
+
+Heather 37:11
+So next question. So could the risk of COVID-19 be the reason for passports and contact tracing to protect the industry from a potential media Fallout that would be caused by mRNA risks? to invent the narrative with variance not totally sure what that means?
+
+Bret 37:31
+Yeah, I don't quite get it either. But I am concerned about the concern about what we are not told about consequences that people have I'm concerned about being tracked and all sorts of things that if you know if we lived in a world where these things were done functionally and honorably I wouldn't be worried about it and I'd be in favor of it but yeah
+
+Heather 37:58
+in my for starters appeal the difference put forward that society has moved on from biological reality what are the realities Do you think we will move on from in the name of post modernism oh my god so I have not been following the appeal much I think it's going well this is my fourth daughter who was fired for believing in the reality of sex and for saying so. And the original case found that they had just cause because it was I don't know I don't even remember the in this is UK so I know even less about the legal system, but somehow she was in the wrong for recognizing reality. So this appeal i think is is I thought it was already over. Gosh, I wish I knew was awesome. And anyway, the question here is the defense actually argued that society has moved on from biological reality. So I'm actually I'm gobsmacked
+
+Bret 39:07
+Yes, yes, gobsmacked. It's another one of those Texas expressions. Yeah, so let's put it this way. I mean, we've already found ourselves in the place where if it is unthinkable that we will move past some realization, then we will move past it, you know, two plus two equals four is pretty much an announcement that we have hit bottom and
+
+Heather 39:35
+we got people out there actually believing they're different species.
+
+Bret 39:39
+Right? And so I mean, in essence, what you have to imagine and again, we've just been saying this for what feels like forever, but it's, you know, a year a little more. The thing is, people who believe this crap or pretend they believe Scrap are hobbling themselves in competition with anybody who can figure out how to keep doing the real reality thing. So those people are gonna win. Those people could be China. It could be, it could be anyone. And so the point is, we will very soon rediscover the reality of reality, right? That is coming one way or the other, whether that's through the hegemony of others, or the extinction of the species or whatever it is, but you know, nature bats last as it were, and you can only dodge realism for so long.
+
+Heather 40:42
+Well, I guess Actually, that's that feels to me like a good segue to this next question. Which is the only
+
+Bret 40:48
+good segue is a dead segue. And I say that with respect to personal electric vehicles,
+
+Heather 40:53
+you know, you're not helping right?
+
+Bret 40:56
+Got me a parent. Yes. Well, it's about time. We finally got here. Okay.
+
+Heather 41:07
+So they're not obviously linked, and I was trying to make a connection and you're introducing them to on your connection Brando. vehicles that don't even exist. I mean, do they exist anymore? Sure. And it's spelled differently. You know that right? I do not know that. Yeah, let's do sideways. Okay. I didn't actually know that for a while they're waiting.
+
+Bret 41:22
+Yes. Filling orders and billing to the other. That would be in keeping with the term. Yeah, you
+
+Heather 41:26
+can go the first three letters and then you just get blocked. Oh, yeah. Okay. The next question is Harris only speaks the truth of the moment that serves her. She ran on outreach to this exact elec her and her staffers contributed funds to bail for protesters are principals are weathervane blown by ego and greed? And this is basically what you were arguing. And I had this, you know, naive optimism. And I was out before I read that question, I was actually going to say, yeah, you know what, you're right. I'm actually surprised that I was hopeful in light of what, what I have seen from her in the past. But I think actually, the reason that I do take it as hopeful in one way is, I mean, politicians will politic, like that she's gonna do what she does, I would, I would love it if there was actually a total change of heart, but I don't expect that from her. So that's not what I was hopeful about, like, oh, maybe she's becoming the vice president we all want and deserve. I don't expect that to be the case. I thought that it could mean and this is consistent with the idea that Carvel said something very similar this week, that actually they're seeing the writing on the wall, and that basically, the democratic party does have the capacity to pull the ripcord on wokeness. Potentially, they actually they actually do and so, you know, we're gonna move on from biological reality to new of post modernism. At some point, some people with power are going to realize exactly what you just said, well, we're just going to lose them. If we keep playing this game, we're just going to lose, and the sooner people with poor wielding power, see that cynical though that seeing is the more likely we can turn this around?
+
+Bret 43:15
+Well, I would not want to be those segway DNC. stalwarts, at the point that the army of people with NPR tote bags realize that they've been had by a bunch of people cynically selling them wokeness because they're going to get a whacking of some kind.
+
+Heather 43:38
+Now, they're very agreeable. Yeah, they're
+
+Bret 43:39
+too agreeable. But, yeah, I don't know. I mean, I think the question asker has it exactly right. The way to model these people's behavior and predicted correctly is to imagine that they're completely cynical. And then I would just add to that, that they're also fools and therefore don't understand Yes,
+
+Heather 43:57
+but again, you're focusing on the individual and I was saying that my hopefulness was about the pocket the societal level response that we need, we need enough people to be recognizing this to turn this around. Right? Imagine I don't care about Kamala Harris but
+
+Bret 44:10
+here's the problem. Here's the problem. They have empowered this thing at the DNC Azure and its partners and so anyway my claim from the beginning has been they don't believe this crap that they are granted so but but the other thing I've said is they don't have the power to control it so watching them wake up is predicted this is a little earlier than I would have expected. But you know, maybe this is maybe you really
+
+Heather 44:35
+think they don't have an ability to move the dial.
+
+Bret 44:39
+Yeah, I think these people haven't understood the game theory that has driven this things this far. And so you know, they basically thrown gasoline on this fire and at the point that they realize that they're not so happy with it. They're gonna get all they've got
+
+Heather 44:53
+is more gasoline. All they've got is more gas. Yep. Well, I hope you're wrong. I do too. Yeah. Did you catch Josh Rogan on Joe Rogan? lab leak not only possible but probable given the huge smoking gun to the cover up, thoughts feel vindicated. Keep up the good work much love from France. I did not see Josh Rogan.
+
+Bret 45:14
+I saw that he was on I did not see it. You vindicated as a weird term. Yeah, I think the thing that I feel is, okay, can we play this through so that we're not in the situation next time, right? The fact that we managed to get lab leak to the point that it can be discussed in polite company, was incredibly dangerous. And it was incredibly difficult. And it was unlikely to work, right? We managed because there were a lot of very clever people who had the traps to navigate the evidence, there were a lot of us who were willing to talk about it in public to this one did not come out of the way they usually do. But the point is, you know, that force that wants to tell us what to think, is there it's screwed up in this case? Can we now extrapolate to the other stuff that it's clearly lying to us about? Right, which doesn't make any of this clear, my point in the first part of the podcast was that what you need is a huge budget for nuance in all of these cases, because it doesn't Marshal towards one team or the other it marshals towards these intermediate ambiguous gray as can be answers. But, you know, the next time we're not going to get so lucky. And let's just learn from this case.
+
+Heather 46:41
+Yeah, I guess I would just picking up on your you're focusing on that word vindicated? I think it's it's a dangerous word to be thinking about in this landscape precisely because if leveling turns out to be the actual origin, of SARS, Coby to it is true that it was something that you and we were talking about early. We should have been interested in and willing to talk about that early if it was simply a possibility, no matter how likely it seems to us or how likely it actually was. And so you want people who are actually good faith, careful thinkers, to be saying this thing is a possibility, and that things are possibility all the time and have in fact, depending on how many hypotheses that they are talking about, for any given explanation, mostly not have those hypotheses be borne out like that, that is what that is, what discerning between hypotheses is about, it's the very rare situation where you have two and only two, and there's one that's being promoted. And the you know, black sheep hypothesis is actually the true one. And you're there, you know, talking about the black sheep hypothesis, that's a, that's a super rare situation. And that's not even descriptive of what is going on here. So you want all the possible hypotheses on the table. And it is certainly true, that with all the perverse incentives that we know, there to be no there to be in the world right now that there will always be one or two, or many that aren't really being discussed, and you want people, everyone, but people like us will tend to be those saying out, there's also this possibility, even if we don't even think it's true, but that's a possibility. Let us establish what the complete solution set of possibilities are. And if those possibilities that we have now added to what we think is a complete solution set of possibilities don't end up being right. That doesn't mean we were wrong, to bring them up. That means that those hypotheses weren't correct, right? It has nothing to do with being vindicated or not. It has to do with, we need to get all of the possible hypotheses on the table so we can talk freely.
+
+Bret 48:54
+I totally agree with this. And, you know, again, it's not the most intuitive thing in the world. But yeah, the ability to formally put hypotheses on the table. And you know, in general, we do have an opinion about what hypotheses we think are most likely it has enough has no implication whatsoever for whether you put them on the table correctly. You've said what the predictions would be if they were true, and then you find out if they are Yeah. But I would also just to wrap this up, point out something interesting is going on here, because the lab leak turns out to be probable. We were able to see that back in.
+
+Heather 49:35
+April, May last
+
+Bret 49:35
+year, May of last year. The vaccine looks like it has risks. This is brand new, but this issue of the spike protein, the vaccine appears to have risks beyond what one would expect based on the PR masks don't need to be worn outdoors. Like why are we getting these things when everybody else His way behind on them. Right? You know, that has to do with the freedom to just simply do the analysis, right? So the fact that you have virtually nobody who has the ability to do the analysis based on, you know, their training and history and science, and the freedom to do the analysis based on the career that they hold, is killing us. Yes, perverse in centers are all over the goddamn place. And the fact is, if you want to be healthy, and you know, act in your interest and society's interest, then you know, you need more people who are free to talk. Yeah, right. And, you know, that's the thing we should really be shocked at is how few people are in a position to do it.
+
+Heather 50:42
+Yes. Two more questions here. And then we'll move on to this hours questions. If it were up to you to what would you propose should happen in India right now? should only the vulnerable take the vaccine? Doesn't this guarantee the continuous spread and mutation of the virus? I don't have an answer to this. I don't know a tremendous amount about what's going on in India, in part because I have, I have not looked at it carefully, because I know there will be so much missing. And I'm not in a position to figure out what's missing. Which makes seeing what is being portrayed to us even harder to decipher when you don't even know what the holes are.
+
+Bret 51:29
+Yeah, I must say I'm resistant to answering questions like this. Because in a sense, my feeling is where we in charge, we would not have gotten here because we would have taken this much more seriously much earlier. And the fact I don't I don't really want responsibility for you know, there's some thing where you're drifting towards a waterfall, right? And there are clever things to do early in that process. And the number of clever things there are to do gets smaller and smaller. The closer you are, you get to the waterfall, and then there's a point at which you can't escape the waterfall. And you know, the last thing I want is, okay, what would you do at that point? And it's like, well, I probably die. Yeah. That more gotten as close to the waterfall. Yeah, Brad, I would have paid attention to it a lot earlier, and I would have been a lot more careful. So I appreciate the question. I think it's a fair question. And frankly, I hope really good people are on it. Yeah. But hey, I would like to know more about what is going on in India and why, which I don't think is straightforward. And I know that we can't have that conversation based on the reception that Gert vanderburgh has received Now I'm not saying that that is what's happening in India because right vaccination rate, I don't think is high enough. For that to be the explanation, though, it could be I'm not even sure it's on a population basis that we would do that analysis because really, it's a question of absolute numbers, and rare variants arising but but in any case, there's a lot to be thought it's right. I would love a roomful of well informed free people to have that discussion in a place we could overhear it.
+
+Heather 53:09
+Okay, one last question from this hour. Also something I don't know about. The New Yorker published a game changing UFO feature yesterday. More ex DOJ officials to our defense officials have made comments suggesting that aliens exist on earth but outside of the range of human perception and thoughts. I don't know anything about this.
+
+Bret 53:32
+There are none behind you
+
+Heather 53:34
+can't tell you're human right.
+
+Bret 53:36
+I assumed they were just standing in our blind spots. That's what I thought was being suggested but maybe not usually
+
+Heather 53:43
+beyond the range of human perception has already factored in the blind spots.
+
+Bret 53:49
+Yeah, so let's put it this way.
+
+Heather 53:52
+Do you know anything about this article? I haven't I didn't even know the article existed. Well, my sense was like something I should be
+
+Bret 53:57
+one of a series of things that has emerged recently that suggests the military is taking this UFO stuff. Seriously, really? Yeah. You know this? Well, but I mean, remember, UFO just means unidentified? Yeah, aliens is a step beyond that. I let's put it this way. I kind of hoped that it's aliens, because if it's aliens, maybe we're saved. And maybe No, honestly, I've thought about you know, as you find out that you have no power to affect the ship of fools that is headed towards the waterfall, you start thinking well, what might work and one thing that might work is aliens who know what the fuck is going on. And we could talk to them about it. And, you know, at least it might just put a shock to the system and we would start to realize where we are, who we are, what it means what matters. And we could, you know, team up on this COVID thing and, Stan, yeah, good. Alright, so I hope it's aliens. I hope they don't want to kill us. I think there's no real reason they would. The nice planet was pretty good. But you know, it's
+
+Heather 55:09
+a great planet. For what I've seen. It's really nice. Oh, I
+
+Bret 55:13
+guess? No, I just I think the thing is we're talking about aliens. I mean, it's
+
+Heather 55:18
+in our Goldilocks zone. I don't know if it's in their Goldilocks zone. But if they're already here, it probably is.
+
+Bret 55:24
+Right. But my sense is we're talking about sufficient technological sophistication that
+
+Heather 55:33
+you don't think they arrived by intergalactic spore.
+
+Bret 55:38
+I think that if they're here, it's a result of some pretty good tech, which means they probably don't need anything from us,
+
+Heather 55:46
+though. I heard tech. I imagined them like tacking through the galaxy. That'd
+
+Bret 55:49
+be cool on the solar winds. Yeah, I like it.
+
+Heather 55:52
+Yeah. But, you know, between between star systems, there's not a lot of solar winds,
+
+Bret 55:56
+most runs? And of course, we have to, we have to give Eric is do doing. I think we do. I don't know for what, yeah. Because his point is we got to get off this rock. True. True. Yeah. And getting off this rock may not involve what people think. And I'm still I must say, as Super skeptic of the fact that a physical possibility of crossing large amounts of space without actually going through it, and therefore, you know, beating the speed of light without going. It's a great idea. But let's put it this way. If there are aliens hovering in our blind spot, than they probably got
+
+Heather 56:36
+not in our blind spot. We just can't perceive.
+
+Bret 56:39
+I'm using it metaphorically. Now. I'm enjoying the idea of aliens and all of our blind spots
+
+Heather 56:45
+in our species level blind spot in our species level blind spot. Yeah, exactly. Okay. The bees now.
+
+Bret 56:53
+Yeah, the So in any case, if they're here, they probably got here in some way. And it just drives are crazy if we say faster than light, because he imagines that we all think that means going faster than light, rather than getting from A to B faster than light can go from A to B that is what you mean, Eric. But if they're here, then they probably did it. In which case it might not be crazy on this
+
+Heather 57:17
+point. It's another reason you want the aliens to be here. It's a failure to falsify Eric's hypothesis. Yes, it's Theory of Everything would
+
+Bret 57:27
+be an extreme failure of falsification of Eric's hypothesis of everything, which would then be a theory. There it is. Right?
+
+Heather 57:35
+Excellent. Well, good. Did it?
+
+Bret 57:38
+Yep.
+
+Heather 57:40
+Okay, well, we're gonna answer some questions from the next week,
+
+Bret 57:43
+just about an hour, which was enough time to get from alpha century to here. Were you able to pull those two
+
+Heather 57:51
+takes Nothing? Nothing. None of none of it takes anything. None of it takes are nothing.
+
+Bret 57:57
+Yeah, they're there. They're there. They're past a past or future as well. By the way, you know, yesterday, I was picking up Toby at school. And I was thinking school is now old school. It's true. Old School is new again. I guess.
+
+Heather 58:17
+I realized the other day with him. And this will be true for our deputy producer for a different number. And switcheroo for many people with children, that because of the timing and the lockdowns and the fact that school has only just barely partially begun to resume in person for Toby. When he was 14 years old, he had no school. In person. He basically saw no one and the same is true for our than 16 year old deputy producer Zachary an entire entire year. As
+
+Bret 58:51
+he used I thought Zach was the producer, and Fairfax was the deputy producer.
+
+Heather 58:56
+Who did I just call someone deputy producer?
+
+Bret 58:58
+You called Zach. Oh, no, no, I'm sorry. You have not been demoted, or have
+
+Heather 59:02
+been demoted. In fact, I'm promoting you after this as an apology. Yeah.
+
+Bret 59:07
+Making Yeah, we can make him benevolent overlord of the Dark Horse podcast. No,
+
+Heather 59:11
+I think we just double up his title. You're going to be the producer producer.
+
+Bret 59:16
+Okay, good. And we'll make you the head of the department of redundancy department.
+
+Heather 59:24
+A recent ant invasion made curious made me curious presumably, is there an organism or super organism to which if you found out it was cohabitating with you and wanted your house, you would see the habitat?
+
+Bret 59:38
+Yeah. I need to know this grizzly bears. If you find yourself cohabitating with a grizzly bear, and it decides it wants the house
+
+Heather 59:47
+to rest. This is seedy. It's not if it's an I read. I would.
+
+Bret 59:51
+I would make whatever allowances wouldn't come to them. You're standing up to the grizzly bear. I'm not sure that's a good idea. Look up to them. But yes, yeah, now willingly cede the house. Well,
+
+Heather 1:00:05
+here's something though which which you probably won't know, unless you spent time in the near tropics. Our very first field season together as as would be researchers in grad school, we had spent a summer traveling around Central America already, but we were at a very tiny Field Station in sort of a key in northeastern Costa Rica, which is basically a house that was run by a small family woman and a man and their young child. And then they had rooms for, for researchers, and it was just us and a few other grad students and our professor, and it was associated with a with a smallish piece of forest. At one point, the army ants were coming and I don't remember Do you remember? What are you doing?
+
+Bret 1:00:52
+I'm looking for a new tropical companion. Okay.
+
+Heather 1:00:56
+So I need your attention.
+
+Bret 1:00:59
+undivided, except for my looking for the relevant book on the shelf there.
+
+Heather 1:01:03
+It's been a long day It has been Um Do you remember how it was that we came to know the army ants were coming? Like when you were in the forest, you sometimes run into the army ads? And like Okay, I get it, I see it I'm just gonna stare steer clear, but I don't remember if it was one of us, one of the grad students or john or professor, or indeed Lavinia or I can't remember the dude who actually ran the fields. I remember the woman's name his
+
+Bret 1:01:27
+name is anyway with I don't
+
+Heather 1:01:31
+remember who it was. And from how much of a distance it became clear that okay, actually the armbands are coming in, they're probably coming here. And Lavinia I remember the the woman the wife basically said, No, this is great. When they come, it's cleaning. So we just you know, you gotta you gotta get you got to clear out anything that you don't want them to claim. And because if it's organic, they'll get rid of it. And they might move stuff away if it's light and they just feel like it's in the way but as long as you can basically clear out your stuff and leave it to them you come back to a gleaming kitchen and bathrooms and the RV has just come through like a wave and I don't know how long it takes for a smallish house but you know, less than a day Oh yeah. A day. And so I would temporarily seed a house if I had one in the neotropics to army ants. grizzly bears
+
+Bret 1:02:28
+All right. Well, so in order to make the story good, I think we should we should say that we were alerted to the approach of the army ants by the ant birds that would be appropriate biologically accurate. I don't think we were I'm sure we weren't But anyway, we can make that I'll never know Nope, no. It was the birds which you know, we could recognize it 50 paces
+
+Heather 1:02:55
+with an ornithologist in the field guide
+
+Bret 1:02:58
+There you go. Yeah, so yeah, that actually happened several times on BCI to when I was there and I was looking for a new tropical companion which I believe describes exactly that phenomenon and travel companion or tropical nature no I think it's the tropical companion describes it I'm
+
+Heather 1:03:13
+sure it's out there but um I'm not going to get up Yeah, but I know screen Yeah, like I do during our private q&a s
+
+Bret 1:03:20
+it happens every now and again and there's nothing to be done about it yeah, and you know yeah, it's not terrible if I just let them go.
+
+Heather 1:03:27
+Yeah, most of the stuff that if I found them in my house I would be pleased with I wouldn't want to see the house I want to come to an agreement like you know if it turns out that kinky Jews were living in the rafters would be like, that's cool. Can we potty train you?
+
+Bret 1:03:39
+Right? No, I just stay I mean, this is more or less what one does with children.
+
+Heather 1:03:43
+They're usually not in the rafters. But sometimes.
+
+Bret 1:03:46
+That happens every now and again. Usually, at
+
+Heather 1:03:49
+least mothers aren't surprised to find the arrival of the children.
+
+Bret 1:03:54
+Right not the it's hard to be caught off guard. Yeah, but nonetheless you discover them in your house and I know I wasn't. Well, maybe you were fat surprise.
+
+Heather 1:04:05
+As a bad biologist, how do you feel the questions this week? Oh, no. As a pet biologist, how do you feel about the term sky puppies for these critters in parallel to see puppies for seals and land puppies for dogs?
+
+Bret 1:04:20
+I never heard that term.
+
+Heather 1:04:22
+I don't I think I think it's being made up.
+
+Bret 1:04:25
+Yeah, I think it is being made up. The Old World of fruit bats. The tarapoto team are known as flying foxes. A reference to their dog like appearance, but they are
+
+Heather 1:04:37
+much more reference to their Fox like appearance, isn't it? called flying dogs being kaina forms. Okay, their dogs their cats. Okay. Okay. Yeah. Fair enough. And most objection retracted.
+
+Bret 1:04:50
+Thank you. You're welcome. Most bats do not look that much like dogs. And in fact, we have none of those pteropods in the new world. Nope. I'm so I'm skeptical we do describe Maddie is like a land seal land sale and I must say seals use fragments very doglike
+
+Heather 1:05:10
+weight and in Jamaica. Yes. The names for bats and moths. Oh yes. Right.
+
+Bret 1:05:15
+Models are bats and bats are rat bats. Yeah, yeah. Learned
+
+Heather 1:05:21
+when you were working as Bob drawbridges field assistant many many years ago. Yeah. In Jamaica. All right. noses look expensive. Why do they keep looking so particular even people who've moved to New environments or mixed Why haven't small noses become dominant? Who says
+
+Bret 1:05:37
+they haven't? It's hardly a rostrum
+
+Heather 1:05:44
+she's talking about the variation within people not compared to dogs.
+
+Bret 1:05:49
+Oh, why do people with comparatively small noses not out compete those with comparatively lard
+
+Heather 1:05:57
+well not even not compete? But just like, you know, why? Why do you end up with lineage level? Like, why is a Roman nose or Roman nose and like East Asian noses and Jewish noses and like, you know, there's just there's
+
+Bret 1:06:09
+Why is Okay, so first of all, I would say there's a lot going on in the nose that we don't think about. There is the recapture of energy that would be lost to the environment on exhaling. And in fact, if you look at something like walruses, you will find an amazingly well architected, architected counter current exchange mechanism that basically takes heat back from the exhaled air before it is lost to the environment. Why? Because calories are so expensive to procure that preserving them is as good as as finding them
+
+Heather 1:06:48
+dogs and cats have this as well. You know, in fact, when you do you look at a cat skull, and you see you know, it's actually at the skeletal level. And it's just like this incredible high surface area to volume of the of the bony structures in the nose, they're then covered with all these sensory sensory issue, right? And neurological tissue,
+
+Bret 1:07:08
+there are a logical and I believe there's going to be some immunological function that there's a certain amount of perusing the environment for antigens worth knowing about and things like this. There is Yeah, so anyway, I think I think the basic answer is noses are doing more than you think. It's not just a snorkel you can get a certain amount of extra mats the
+
+Heather 1:07:33
+turban eights, I think, if you can't really see it all that well. But because I mean part because it's it's broken off. Where's my camera, but you can see some of what looks like spongy stuff inside the the Brostrom net, it's actually bony. Otherwise, it wouldn't still be here, and this would smell terrible. So yeah, that's that's true, certainly in all the carnivores. I believe and I don't know, you know, like when a mouse probably no else to I could actually have some skulls, but not right here. Yeah.
+
+Bret 1:08:05
+I don't remember. But in any case, I think the basic answer echo is that there's a lot going on in the nose, it is sort of underappreciated how much biological complexity there is there. And there's also stuff like it does allow you to go underwater, without having water flood into your lungs, you know, basically by holding a pocket of air. So, in light of all that, you would imagine,
+
+Heather 1:08:37
+crocodiles do that better. They have posteriorly displaced external areas so they can keep the front part of their nose underwater, and they can still be breathing.
+
+Bret 1:08:47
+Yep. And they take advantage of the fact that we're not all that well structured by it by rolling us they take advantage of us all the dragon. Yes, that is the nature of crocodiles. But the point is, there are reasons there are lots, there's a lot going on in the nose.
+
+Heather 1:09:01
+Internal nervous, I misspoke, sorry. The
+
+Bret 1:09:05
+fact of a lot going on in the nose predicts that you won't basically have the nose minimize that if the nose isn't gonna be minimized, you're going to get two kinds of variation, one of those kinds of variation is going to be arbitrary, right? Some populations just will have this and some will have that. But a lot of it will also be ecological, which is to say, how much of a danger is heat loss to the environment, right? Where it's a greater danger, you will imagine greater elaboration in response. So anyway, basically, there's going to be adaptive and non adaptive variation, you would expect the non adaptive variation to be minimal cost.
+
+Heather 1:09:40
+Yeah. And I guess there's a, maybe there's a, an assumption at the base of this, which is that large size is more expensive, and I'm not it's not clear. And I think part of what your explanation has been circling around is it's not just material expense. That's the cost right? I Either in terms of growth or maintenance, but there's also you know, what, what kinds of functionality Do you? Do you perhaps lose if you have less, for instance, sensory surface area inside your nose?
+
+Bret 1:10:10
+Yep. And actually there are two ways in which this works. One is the only cost is not material. And the other is that you can't necessarily infer the material cost and a largely hollow object from the external dimensions. And so we may not be all that good at guessing how expensive various different houses are
+
+Heather 1:10:30
+true. Good. Wow. What is going on? could say, I think this means we could you have a live discussion with Dr. Peer Cory, a peer reviewed paper on ivermectin was published Thursday. I would like your input. Thank you. I you know, I can't remember exactly which which guy Dr. Pierre Korea's, I
+
+Bret 1:10:57
+think he is the guy who's the lighting guy. He's the guy looked at his stuff was pretty impressed by it early on. So anyway, I'd like to look at what was just published. Yeah.
+
+Heather 1:11:10
+Mary asks, I'm
+
+Bret 1:11:11
+certain it was okay.
+
+Heather 1:11:15
+Given the intersex is expressed throughout human history, why should we not include it as a gender and perhaps aim for this gene question mark, with adult trans people? So I'm not sure what aim for this gene? And the fact that you have a question mark, I think, means that maybe you're not sure that that's exactly the right phrasing, either. So intersex is an incredibly rare and incredibly rare developmental anomaly. And it has developmental and sometimes genetic, right, like there there, I think a few ways that it manifests, and trans we also know as a few that we actually have a few mechanistic groups to it, there's like, like I've mentioned before, there's a small population and either Heidi or, or Dominican Republic, that actually has a really high rate of trans people, it's actually been traced back to, indeed a genetic variant. But probably most people who are who are what I call true trans, there isn't anything genetic going on. It's the it's a mismatch that goes on at some point during development between the various complex systems that would normally be coincident. So I would say, you know, intersex isn't a gender intersex is not a nod be in a binary system in which you have male and female and it's binary. And intersex is that intermediate, which is an extraordinarily rare failure.
+
+Bret 1:12:36
+Well, I want to make that more precise in one way. Okay. Part of the problem, the reason it's not a gender, first of all, it isn't synonymous with trans at all. Right? Okay. But the second thing is, it's not one thing, every case is or I can't say every case, because there may be cases that fall within a theme. But there are, as you point out, because there are a wide range of ways to get there. It's not one thing, it's not this and not that, and that means you've got a a bucket of things that are together by virtue of not being in either of the traditional modes.
+
+Heather 1:13:12
+Yeah, I mean, really, I mean, like, just to use the computer analogy with binary like, you know, it's not a one, it's not a zero, it's a question mark. Yeah. Or it's missing data, or, you know, like, there's a number of ways to arrive at like, this is a binary system, but sometimes you don't have a one or a zero, right? And that doesn't make it not binary,
+
+Bret 1:13:27
+right. So I would say that in large measure, I think the trans ideology, has basically used every place where something in the neighborhood of sex and gender is not simple. They've used every element of gray to create ambiguity. And the whole point is, it's the ambiguity that's doing the heavy lifting. But in this case, you know, that there is intersex and there is trans right, they're both real, but they're not the same thing. And therefore, using one, too, you know, for something about the other is just incoherent.
+
+Heather 1:14:09
+Yeah. Our negative racial biases and stereotypes truly a part of our unconscious bias and heuristics. Are they subconscious patterns that get recalled? I think this question requires a real clear delineation between what what unconscious and subconscious are? I'm not sure that I buy that distinction at an absolute level sufficiently to therefore be able to answer the question because I therefore I'm not sure that I buy the premise of the question that that has that as the fundamental distinction.
+
+Bret 1:14:45
+Yeah. I will just say another route to addressing I think what you're getting at is, there is an evolutionary reason that people should have biases against people from other populations. Turns out, it's very simple, which is the the tendency to share genes with people decreases the farther your degree of relatedness or the more distant your degree of relatedness that is not. In condition we can't get over. But it is something we should expect to see whether it manifests as a belief in inferiority or a, you know, aggression towards or whatever, it doesn't really matter what also doesn't matter. Or I won't say it doesn't matter. What is not fundamental is the question of how that thing, travels. And so it can travel entirely in software, I suspect it does travel mostly, if not entirely in software. And because of that, it is relatively easy to get past it. Right, you can rewrite the software. And so anyway, I think I think the thing is, don't you don't want to focus too much on the mechanism of transmission, unless I mean, if the mechanism of transmission is genetic, right, if we're wired to dislike people who don't look like us, then we've got a very serious problem, because what do you do about Dean's right? We're not going to CRISPR a new generation. But there's every indication that that's not the case, right? In fact, the very fact of improvement relative to racism suggests that it is housed in software, and that's good news.
+
+Heather 1:16:24
+I lost where I was, here we go to bright a natural hair dyes have anything to do with signaling or faking toxicity? Or is it likely to be subconsciously interpreted that way? What else might be going on? I know, I think it's actually the opposite. In the case of bright hair. So the idea of bright colors indicating toxicity is something known as episodic coloration in, in biology and happens to be the frogs that I studied both in the new world, the dark poison frogs, and the mentalism Madagascar, are epigenetically. Colored. And it's and it's a warning to would be predators, you can see this and you have learned or somehow know to associate what this looks like with dangerous to you. So here is my big warning do not eat. And this, this almost looks, it looks like an advertisement, but not of toxicity. And I think really, I, I don't want to make a blanket statement, really, but often of confusion. And people may have an indicator a thought about what it means to them, when they decide to color their hair, some color that is really completely not anything that ever would be found in nature. And sometimes it might be that they don't feel comfortable in their own skin. And this is this is I don't know why that would be a response to it, or they're trying, they're they are maybe trying to keep, you know, attention away from them. For some for some young women, or I think unfortunately, increasingly, given what we've done to young people, people who are growing up and who don't fit, beauty, beauty norms, which didn't used to be the case at such a societal level, it's at a population level, may choose to do things that render them even farther outside of the usual beauty norms. And I think if you ask them, mostly whatever answer they gave, you would not necessarily be the thing that is actually true about why they made that decision.
+
+Bret 1:18:34
+took me a long time through your excellent response to that question to understand what the question was really getting at. Like we're talking about blue hair, for example. Oh, yeah, I just did not, didn't even occur to me,
+
+Heather 1:18:51
+until so bright and natural hair dyes. That's how I read that. Yep.
+
+Bret 1:18:54
+Well see, I read. I don't know why I read it this way. But I read it as unnatural to the person. So somebody's choosing to dye their hair red, or something like that. Yeah, no, I get it. So yeah, I would, I would say, I'm sure it's not one thing. But I think, you know, people show up in the world in ways that they perceive cause people to treat them more the way they want to be treated. And so it could be standoffish, it could be designed to take you out of unknown category. So people I don't know, are open to finding out that you're different than they would guess or something like that. I don't know. But
+
+Heather 1:19:37
+yeah, but I mean, it also it certainly contributes to the division and the anger now, that increasingly, you know, it's it's a star on a stage for people both in the group and outside of the group. And it would be, you know, I, personally, I don't think it's safe. I don't think you know, the die. hair dyes are not are not safe. And so I think it's ill advised to color your hair, even if it looks like a color that you could have had. That said, This seems to me to now be being used to just further deepen the rifts between us. Yeah, honors of intergroup. backroom. Yeah, markers of tribe. And you know, in general, I think markers of tribe are something that is what a lot of adolescence is about trying on. But really best if they can be temporary. And you can, you can shut them later. And you can, you don't have a permanent marker of that tribal affinity on social media or something that you have to constantly live with because someone's screen captured it. So, you know, playing around with identity is a real and necessary and enduring and permanent part of of the human experience. But we all deserve the right to get beyond it and then not have these permanent markers of identity that we chose when we were babies effectively sticking with us.
+
+Bret 1:21:11
+Yep, totally agree.
+
+Heather 1:21:14
+I always forget how to pronounce this university. In 1988, campus protests at Gaya debt or Gallaudet? Gallaudet. Okay. So, in 1988, campus protests at Gallaudet University are remembered as deaf president. Now, if you're familiar, would you share your perspective? I didn't. I did not know that. So Gallaudet is Yeah. Is is the university for for deaf students. I'm sure that that description would be taken as offensive. But basically that's that's right.
+
+Bret 1:21:47
+I'm not so sure. So I think the protest was to get a deaf president of Gallaudet.
+
+Heather 1:21:55
+That sounds like it. Yeah, I think that's what I don't think that's that's all I know. Well, you
+
+Bret 1:21:59
+could imagine that they were demanding and deaf president of, you know, the country, but no, I think this is about I mean, he certainly had our share of tone deaf presidents, especially of late but in this case. Yeah, I mean, you know, we're in a tough spot, because the fact of a college for the Deaf that is not led by a member of the deaf community has got to be a bit alienating. On the other hand, what is the purpose of a college president? And you know, to the extent that we speak as insiders, because we have been, you know, at colleges, college president is, in part, an outward facing entity, right. And so, what I would say is, there's a trade off, and are you better off as a deaf college to have a deaf president? Or are you better off as a deaf college to have somebody who deeply understands the plight of the Deaf and is in a position to speak on their behalf? To those who are not deaf? And I don't know. Yeah, no idea.
+
+Heather 1:23:06
+No, I don't know. either. I imagined that there have been, you know, of course, these conversations will have happened at HBCUs as well, historically black colleges and universities. And I guess I assume that most of those have had a black president. Yeah. But I don't actually know. And,
+
+Bret 1:23:24
+but in that case, I think it's easier. I mean, in fact, I think it's probably easy, okay, in the sense that there's no there's no reason. There are plenty of black people who can inhabit that job. And yes, it will not it's a big enough pool that you're that. Yeah, right. It's not a tiny pool. And it's not. It's also not an obstacle to, you know, deafness is unfortunately, an obstacle to communication. And so to the extent that this is communicating to the outside,
+
+Heather 1:23:54
+I'm totally with you on the second reason, right, like deafness is actually a handicap. Yes, I use that word. Right. And blackness shouldn't be, you know, to the degree that it has been, it's imposed. Yep, right. Society. But you know, the argument in general against saying, okay, we want someone of this demographic is no matter how giant that demographic is, even if the demographic is 90% of the population, like, okay, let's 90% like we'd need a right hander for this job. Well, what if the right person happens to be a left hander? Right? You mean? Yes, obviously, the candidate pool for presidents of historically black colleges and universities, if you're only looking at Black people, it's going to be quite large, but it's still smaller than if you were in if you were looking at everyone.
+
+Bret 1:24:39
+Well, I agree. I mean, you know, if we were talking about, you know, something where the skill set, you know, if you're looking for a surgeon, you want the best person no matter what color they are, right? If you're looking for somebody who's the head of a black college, then yeah, their insight into being black is presumably an asset. You know, that's not to say you couldn't have a more qualified candidate who isn't gonna be black, but I find the likelihood of it pretty low. Right, because part of part of what the college is about is about addressing that experience. Well,
+
+Heather 1:25:12
+I mean, I guess that argument can be applied to these protests that I wasn't aware of a nice guy that got it.
+
+Bret 1:25:20
+Right. Right, except the advantage that comes comes with it, which is, well,
+
+Heather 1:25:25
+there's two, right, that it's an actual handicap. And it's such a tiny proportion of the population.
+
+Bret 1:25:31
+Yeah. But I guess, I guess what I would say is, I'm pretty sure. You know, there's always a question about whether students are really in a position to decide who ought to be in charge of a college because they're, they're inherently temporarily, right. But if gala that, you know, I think the population of Gallup that is probably in a pretty good position to know whether their interests are better represented by somebody who understands their experience more directly by virtue of being deaf, or somebody who's in a better position to interface with the non Deaf world?
+
+Heather 1:26:03
+Well, but I feel like you just alighted. Like you said, there's always a question about whether or not students should be in a position and then you said the population. So what do you mean by the population?
+
+Bret 1:26:11
+Well, what I would hope and frankly, I don't know, I would imagine, but maybe I'm just wrong. That Gallaudet is, you know, taught by a mostly Deaf faculty, we have any idea whether that's likely to be true. So if that's true, then the
+
+Heather 1:26:30
+faculty or faculty and staff or faculty and academic staff, people
+
+Bret 1:26:33
+who are there permanently, but you know, what you would hope ideally what you want is students in consultation with the effectively the permanent population.
+
+Heather 1:26:41
+And that's, you know, that's what we've seen at the universities that we've seen up close and personal with regard to some of the administrative stuff and like, who gets to sit on who gets to who is enjoined to sit on things like hiring committees,
+
+Bret 1:26:56
+not avoid sitting on hiring committees, yes.
+
+Heather 1:27:00
+And other committees, almost always in, I feel like I remember at, at three universities where I've run colleges where I've managed to see it or be part of it. There's a there's a student representative, such that the student can, you know, is unlikely to be, you know, the person who makes the decision, but they could be the deciding vote in something. And, in general, you know, for I feel like I've seen this, I saw this at UC Santa Cruz as well. But I know for sure that I, you know, I was on, I was on committees as a student at University of Michigan, and I was on committees as faculty at evergreen. And in many of those committees, obviously, when I was a student, there was a student because it was me, and at evergreen, they were often students, and they were, you know, carefully chosen and at what, you know, it wasn't a mob and it wasn't all students, and it wasn't a democratic vote so that because students outnumber everyone else, they therefore get what they want. But students do deserve voice just not, you know, proportional to the numbers. Yeah. Um, where are we at? Zach? got there a lot of questions. Our Okay, I'm going to let's try to get through like for Marcus, we have a ton of questions this hour. All right. And we're gonna miss most of them. Apologies. Did either of you get vaccinated? If so, which one? Not yet?
+
+Bret 1:28:22
+Yeah. Not yet. I imagine we will be forced to it eventually. But frankly, you know, as we said, early on, the more time there is, the more you know about the risks. And frankly, this week, we're finding out that the spike protein itself may do damage to the body at a significant level. And that's certainly something you would want to know. So, yeah, you know, it's it's
+
+Heather 1:28:49
+also you know, one of the other things about that paper, which it looks like over over the break, someone actually sent it and said that there was a reason that it hadn't been available. So it looks like we have access to it now. But that paper out of Who was it? Who did it? Salk Institute, right. Yep. Last,
+
+Bret 1:29:18
+we're talking about the wanting to know that the spike protein, let's go Okay,
+
+Heather 1:29:23
+given estimates that as many as 80% of species are still undiscovered. does that leave room for Bigfoot? Loch Ness and other monsters?
+
+Bret 1:29:34
+No, no. Well, you know,
+
+Heather 1:29:37
+monster depends on what you mean by monsters. Neither of those particular monsters. But
+
+Bret 1:29:42
+yeah, let's put it this way. Those numbers about the number of species that are undiscovered are both interesting and not as interesting as you might think, because of what those species likely are. In many of those cases, probably the vast majority of them. They are mine. Variants on things that are known, right? So there will be lots of fungal species we're not particularly good at sorting out,
+
+Heather 1:30:07
+well there, there are also going to be just a ton of single celled.
+
+Bret 1:30:11
+Right? So there's going to be single celled thing,
+
+Heather 1:30:12
+it's going to be very rare to discover a new mammal fungi,
+
+Bret 1:30:15
+right? There's going to be lots of insects that we don't know, but they're not going to be you know, it's, there's a question of how big a clade some new thing that you find actually represents. And in general, these are going to be species in clades. We know. So, in general, we're not talking about large creatures. Now, every so often, some interesting new mammal pops up in Vietnam or someplace. This happens, but you know, they don't tend to be gigantic, they tend to be, you know, be really interesting to find something that sighs it happens every decade or so, there was
+
+Heather 1:30:50
+a new primate within the last decade or two. But it wasn't super surprised. Like, it wasn't like, Whoa, what is that? It was a Yeah, we actually think that's new. We're gonna call it a different species from this other species to which is clearly sinister, right? Right. So that the big charismatic stuff wasn't splitting. It wasn't like, we already know this is the case. And now we've created a new species. It's like, no, this discovery of a new a new morph of a thing. Yeah, I was like, yeah, this is new. But it's clearly closely related to that. That wasn't a in the lat you know, in, you know, over and systematic space splitting this is a discovery. But that that is going to be how the that's going to be with the new species discoveries of the charismatic megafauna. And I would say that Bigfoot or Loch Ness definitely would qualify as charismatic megafauna.
+
+Bret 1:31:41
+Yes. Now the deep ocean could harbor some stuff.
+
+Heather 1:31:45
+Yeah, that's why I said it depends on what you mean by monsters. There might be monsters in the deep ocean.
+
+Bret 1:31:49
+Yeah, there can be although chances that we've never seen a carcass or Yeah, that's from a sub or something like that. is low. There's weird stuff. I remember a long time ago, back when I was at Penn as an early undergraduate, and discussion of a gigantopithecus, which was known from teeth where we actually had the teeth but we didn't have the rest of the creature probably this is almost certainly this is an extinct creature. But you know, one that has existed until late enough that there would be teeth on the surface subfossil stuff. So I don't know. Yeah, I think I think I wouldn't be betting on Bigfoot, it's pretty hard to imagine that it would have anywhere to go that we would not be happening on it with some regularity. And of course, there was a lot of hoax stuff, you know, feet manufacturer that they walked around to leave the impression of a big foot. Interestingly, I
+
+Heather 1:32:48
+had told us that
+
+Bret 1:32:51
+Toby is very hard to photograph and I was when we were out for your birthday, photographing him trying to capture the actual creature as he exists in the wild. Not a simple job. But I did get a sequence that is almost exactly like that famous sequence of Bigfoot, you know, the walking three or four frames walking out of the forest
+
+Heather 1:33:14
+is equally out of focus as Bigfoot is and that sequence he is in somewhat better focus, exactly, nothing, nothing less of you. Oh,
+
+Bret 1:33:22
+I should show you some of the out of focus stuff because this new camera of ours, yet, it creates a It's so high resolution that you can tell that almost everything is out of focus almost all the time.
+
+Heather 1:33:37
+Alright, any thoughts on f? Or how much long COVID could be placebo or side effect of being locked inside and socially isolated for long periods of time? I guess I would add to your list of possibilities is that it's exacerbated by so placebo is one possibility, a side effect that is like largely caused by locked inside and socially isolated. Or there's something real, maybe autoimmune, which is what we both thought that is, you know, perhaps wildly exacerbated by the social stuff that's going on. And the end the lack of activity and the lack of sunlight and everything else.
+
+Bret 1:34:22
+Yeah, I will say it is certain, I would say given the vagaries of physiology and the complexity of it, that some fraction of those who think they have long COVID either have something psychosomatic or have something else that was just coincident in time. But my guess having spent a lot of time on the long haul COVID subreddit is that there's an awful lot of long haul COVID that's just simply real, very mysterious. And medicine has a bias where it doesn't like dealing with things it doesn't understand anything about and so it does To be dismissive, and it was for too long. But anyway, the so there are many things in play that could be doing this. One of them is the arms race between virus and immune system leaves. So if you'll remember my explanation of how the immune system works, it evolves towards solutions to pathogens. It also has holes so that you don't respond to your own tissues. And that means that to the extent that any pathogen resembles your own tissue, it has an advantage because it can hide from the immune system and the holes in the immune system that are reserved for self. And so there is every opportunity here for auto immunity to evolve, there is every opportunity for spike protein and possible antibodies to spike proteins. So there are things called anti antibodies. So anyway, there's lots of things that could be inducing this and the fact that some of it will inherently be psychosomatic should not cause us to dismiss the phenomenon. As as that it really doesn't look like it. And, you know, we're talking about something super complex.
+
+Heather 1:36:22
+Okay, next. Are there any studies supporting asymptomatic spread? Is there any real evidence of this? And then the next the third part of this question, I don't quite understand. by CDC 1/3 of 2020, excess deaths are not COVID. What the fuck? So I don't know, I'm not aware of what that is in reference to or to what the CDC might attribute excess deaths that are, you know, a third, a third of the excess deaths from 2020. If not, if not COVID. With regard to the studies, supporting asymptomatic spread, while you were talking just now, Brad, I went and looked and it was episode. I can't play it again. Computer. Episode 60, was it Episode 63, where we talked about a paper that came out this year johannsson at all, SARS, Coby, to transmission from people without COVID-19 symptoms, and that was, that was mid January of this year that we talked about that paper. And really, I found that it was a terrible paper, and did not provide the evidence for asymptomatic spread, that the authors of the paper imagined or claimed that it did. That said, I have not gone and searched explicitly on asymptomatic spread papers. Since then, I've seemed to collect a fair number of COVID papers. But it's possible that something came out that I haven't seen, although I doubt it. Therefore, the answer to the question is, I don't really think so. That there is certainly a symptomatic spread. But the idea that it's super, super common, is largely when I've when I have seen that claim made in the media, it largely traces back to that one paper that I feel like I've pretty much debunked back in January.
+
+Bret 1:38:23
+Well, so let's separate between asymptomatic spread and pre symptomatic spread.
+
+Heather 1:38:29
+100% not the same thing at all right?
+
+Bret 1:38:31
+Really not the same. Definitely pre symptomatic spread for sure. And,
+
+Heather 1:38:36
+and that and that actually, that paper did try did did point out the distinction, but then couldn't delineate between them in some cases.
+
+Bret 1:38:45
+Yeah. And there's also the question about how the vaccine, which does seem to reduce symptoms and people who get the vaccine and then get sick? does it increase the likelihood of asymptomatic spread? Or does it reduce sickness and spread? And?
+
+Heather 1:39:00
+Yeah, it's a question, but I mean, I think I'm not saying we know it happens some. Yep. I don't think it has. I see no reason to suspect that it happens as much as that paper said it did. Because the data that that paper was relying on were did not say what even it said they did. Yeah. So that leaves us with the question of how much is it? How common like, How common is it? And I don't know, I have not seen any evidence.
+
+Bret 1:39:27
+Yeah, I don't know. I certainly leave open the past ability. This is a weird enough disease that it may be doing something very different, but I wouldn't leap to conclusions either way. Yeah.
+
+Heather 1:39:41
+I'm gonna just find one more fun question to end on fun. Well, I'll try. Try. Now it's just gonna take me too long so I will there are three questions to from the last hour that are from Poland so I'm just gonna I think two of them are just comments so I'm just gonna read the three Poland questions from Poland because it's a geographic connection and that gets us through a few more let's say where were we
+
+Heather 1:40:25
+last one of them okay there's just two hey I don't even listen to Super Chat section but greetings from Poland folks you keep me entertained and educated every Saturday night. Great job. Oh the other one that I thought was from Poland was from Portland. Alright apparently can't read. Thanks for keeping a level head to these times. Keep up the good work Weinstein family. Much love from Portland. Love that. And love this person says the green mini in the back. Yes. Which we built with my mother as she has. It's not green, but she hasn't many.
+
+Bret 1:40:55
+She has many. Yeah, yes. which suits her? Well,
+
+Heather 1:40:57
+yes, it does. Okay, final final question. Poland. Bansi. We're back to Poland. We're back. Now Portland, Poland. Poland band woke ideology in schools. in us. It is engraved in schools and companies. identity politics is increasing. This is reversible. When did it start was a giant question. Yes, I am betting giant question. Poland will
+
+Bret 1:41:21
+become more powerful by virtue of the fact that its people can still think.
+
+Heather 1:41:25
+Yeah, yeah, that's a that's crazy prediction. That's really out there. Yeah,
+
+Bret 1:41:30
+it's wild. But yeah, I don't know. I mean, I'm, of course, troubled by the idea of banning stuff. Because once you step on that slippery slope, where does it go? But certainly, keeping wokeness out of your schools is a great idea. And I really wish we were doing that because, you know, you never know the kids could turn out to be the future. kids could
+
+Heather 1:41:55
+turn out to be the future. Yeah. When did there are a lot of different timescale answers to When did it start. And I think two of them, I think there's something much deeper in time that I don't have a grasp on yet. But the two time periods that I point to, most in terms of helping to create this, this is the ascendancy of the world cardiology, are sort of the rise of post modernism in academia in the 80s, and 90s. Actually, when when we were in college, and then it kind of disappeared, it was it was always in these, like niche fields. The problem was that some of those students who were studying it went on to become academics themselves, and they've taken over departments and created a whole new fields, and they're just, you know, on on the rise, so that's one sort of from 30 years ago. And then the second, of course, is this perfect storm that we've talked about a lot, and that Greg lukianov, and Jonathan Hyde talk about in their book, The coddling of the American mind, of, of the screens. And actually, I'm not sure that they talk about, I don't remember which of these things they all talk about, they definitely talk about the bad parenting in terms of helicopter parenting, and snowplow parenting, the rise of screens, and to some degree, what's on them, but we talk specifically about just the danger of the screens themselves, interactions with the screens, and then the pharmaceutical drugs for mood disorders, both real and imagined, that came together in in such that by 2013, or so is the date that they propose. And that is a match for our anecdotal experience and that of many other people we have talked to, increasingly, the students who were meeting in college classrooms had it at a different era about them, that it was it was it was different. And that then was a match for students who had been raised in this toxic stew, going to college. And in some cases, depending on what classes they chose to take meeting nothing but postmodern idiocy in the classroom. And like I said, I think there's something that goes farther back in time than that, that starts farther back in time than that. And there are of course, you know, roots of this and shades of it, and variations in various political ideologies. All of that is true, but this particular like, how do we get to this particular spot? Those are two of the more recent things, but there's, there's something deeper as well, and I don't know where
+
+Bret 1:44:27
+the effects on it. I would just add, I think they're, you know, if you have a fringe viewpoint, you also perceive that you can't wield power. And the coddling of these viewpoints inside of universities, created a kind of an incubator where the ideas developed, but they didn't have the power to take over and then there was a demographic shift, which may have to do with the characteristics that that Haydn, Luke Yana point to that came Together, but something caused a recognition that actually now they had enough power to start wielding and to have effect. And so there's just whatever threshold was crossed, where you detect that we are now in a position to make things happen. And I think that that happened in the last few years.
+
+Heather 1:45:17
+Yeah. I think that's right. I think we're done.
+
+Bret 1:45:24
+I think we're there.
+
+Heather 1:45:25
+I think we're there. Yes. So please consider joining us at one or both of our Patreon. Subscribe to the channel, subscribe to the clips channel. Like tell your friends share on whatever, whatever modes you feel like sharing with people whom you think might be interesting. Yeah, yes. Okay, I'll finish. Go outside. Be good to the people you love and configure the gods like
+
+Bret 1:45:59
+Alright, we'll see you soon.
+
+This transcript was generated by https://otter.ai

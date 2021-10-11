@@ -1,0 +1,394 @@
+Bret 0:06
+Hey folks, welcome back to the Dark Horse podcast 13th live stream q&a session with Dr. Heather Hyang. And me, Brett Weinstein.
+
+Heather 0:16
+Dr. Brett Weinstein are the reverser medical doctors as we keep reminding you Yes. But we have relevant expertise over in biology space,
+
+Bret 0:26
+I must say during COVID-19. I've never been glad or not to be a medical doctor. It would be it's challenging work for sure. Yes. And we admire you who are doing it. Thank you for taking care of us.
+
+Heather 0:38
+Indeed. So in our last q&a, we received a question from echo about an article that I am going to just read the abstract of first and then we're going to talk about it briefly. It's called artificial selection on male genitalia length alters female brain size, you're
+
+Bret 0:55
+gonna read this without giggling without giggling
+
+Heather 0:58
+I can do that I know you can. It's from 2016. Male harassment is a classic example of how sexual conflict over meeting leads to sex specific behavioral adaptations. Females often suffer significant cost from males attempting forced calculations, and the sexes can be an arms race over male coercion. Yet despite recent recognition that divergent sex specific interests in reproduction can affect brain evolution, sexual conflict has not been addressed in this context. Here, we investigate whether artificial selection on a correlate of male successive coercion, genital length affects brain anatomy in males and females, we analyze the brains of Eastern mosquitofish gambusia Holbrook, which had been artificially selected for long or short gone a podium got a podium being the instrument organs the equivalent of penises, thereby mimicking selection arising from different levels of male harassment. By analogy to how prey species often have relatively larger brands, and they're predators. We found that we found that female but not male brain size was greater following selection for a longer gone a podium, brain sub region volumes remain unchanged. These results suggest that there's a positive genetic correlation between male gonna podium length and female brain size, which is possibly linked to increased female cognitive ability to avoid male coercion. We propose that social conflict is an important factor in the evolution of brain anatomy and cognitive ability, which is fascinating,
+
+Bret 2:17
+it is fascinating, little hard to interpret.
+
+Heather 2:21
+Um, well, I mean, if they're if the results are true, they find an arms race effectively between male gender length and female brain size, the idea being that of all the various mechanisms of sexual selection that have been proposed in the world, male male competition and female choice being often described as at odds, although you and I both think they should not be described as at bonds. In this case, in a species, such as the mosquito fish note fish, in which male male competition is imagined to be a driving force of sexual selection. And in species of mammal competition being a driving source of sexual selection, it is often the possibility of male coercion rather than females choosing mates, it is males, coercing females to mate with them. That is what results in successful reproductive events that you would have in such species. And these guys seem to have found that as the ability to coerce through male genital size increases, so does the cognitive ability of females increase in order to upset the would be coercive strategies?
+
+Bret 3:35
+All right, well, let's start here though. First, we should point out that in humans, things work a little differently, and totally lacking on a podium. Well, but being hung like a horse is more likely to make you better able to persuade, but not course, I can't see how it would help you coerce. Yep. Okay. But here, the thing that I find curious about this, and I haven't read the paper, I'm just going off the abstract here is that I might expect the longer gonna podia to select for larger brain size in females. But why if you select for the larger Ghana podium, do you get larger brain size? So the paper says kinetic correlation, but is this because this trait varies in a wild population, and that therefore, a female who is born into this population with that parameter having been turned up for male genital sighs, knows that she is in a population in which coercion is likely to be more effective, and therefore, this is automatically favored? That sounds a little far fetched to me.
+
+Heather 4:45
+Yeah, I grant that it's it. It suggests correlation without providing an obvious mechanism for how they're they might be causally linked, how they might have become how they might have become causally linked. Because doesn't it appear to be that the argument is that female brain size is enhanced in order to avoid coercive males? And it is imagined that the coerciveness of males has an accurate proxy and channel size?
+
+Bret 5:15
+Yep. All right. Is there more to say here? I don't think so. Because there's lots of room for more jokes. Oh,
+
+Heather 5:20
+sure. There's lots more to say. But I will say, though, if we can
+
+Bret 5:24
+go meta on it, okay. Right. So we are very difficult to embarrass with questions and generations of students have tried, but I don't think they've succeeded. And we have been through some, some tough, some tough questioning by students designed to cause us to blush. And anyway, if you want to try game on,
+
+Heather 5:46
+go for it. I will say that I don't I don't have any reason to think that this question from echo with whom we've now been in a little bit of communication behind the scenes, was sent to embarrass I think this person is legitimately seeking information in in pursuit of actually some work that they're doing.
+
+Bret 6:02
+I actually think sometimes the ones who want to see you blush, they do so they attempt to trigger it with some affection. Oh, sure. Yeah.
+
+Heather 6:11
+All right. So as in past q&a, is we're going to restrict this to an hour. And we're going to get through as many of these that came in in the first live stream as possible in something like a half an hour. So let's see right now it's 207. And then we will switch to the, the questions from the from this live stream, and get through as many of those in the order in which they came in. So for the first live stream, we are ranking them just by monetary amount, because that is the rubric that is easiest to do. So the first question, what is your pen? This we considered doing a whole episode on this question? So we're not going to spend a whole episode but the first question is, what is your opinion of the pandemic series? Any truth worth researching? And let me just say, first, that probably people watching have run into this, we alluded obliquely to it in the first half here. In the in the first live stream, there appear to be at least two maybe more videos circulating, there's a two hour ish video that's actually called pandemic, I believe, that has all sorts of conspiracy hypotheses that would appear to be unrelated to COVID-19. Yet somehow they link them. Yes. And then there's, and then there's a 28 or so minute video, that is mostly although not entirely, the filmmaker interviewing the Dr. mikovits. I
+
+Bret 7:40
+think Judy make of it. Yeah.
+
+Heather 7:43
+As to what she believes, understands the situation to be so neither of us have watched the two hour thing, you've dipped into it a little bit and decided it wasn't worth our time to dry it out, dipped right out. The 28 minute video is is more complicated, shall we?
+
+Bret 8:03
+Yeah, let's say a few things about it. One thing is that it appears that Judy mikovits is a voice that has credentialing that makes this worth paying attention to. And I must say many of the things that she says while hard for us to evaluate whether they are accurate, do have a kind of plausible ring to them with respect to how academic politics for example, functions. On the other hand, there's a bunch of things in that half hour documentary that are incorrect. And so what I'm left with is this has caught the public imagination. If I take my professional toolkit to it, what I get are things I can't evaluate things that are true and concerning. And other things I know to be false, which leaves me with the sense that this is not a it is certainly not to be taken at face value. There's enough wrong with the analysis that is presented, that I don't, I wouldn't advise people to circulate it as if it's right, which was can
+
+Heather 9:31
+we just pause there the the mixture of that I actually understand from other sources to be true, even if even though and perhaps, of course, it doesn't satisfy the the shared common narrative being pushed by most new sources. that other thing I know not to be true. And, oh, there's a whole lot here that I cannot assess independently. That mixture is exactly what makes this very very difficult to assess. And, you know, unlike say, the, their current county video, which didn't really have generic claims that couldn't, didn't have sweeping claims that couldn't be assessed either by the numbers they themselves gave or from other sources and so it was possible to go through and say actually, there's a whole lot here that just isn't true. With with this video with Mike ovitz mikovits I don't know how to pronounce your name. I don't remember. It's really hard to know about the veracity of claims about what happened. That ended up with her being sent to prison I gather, given that those it's exactly in locked documents, you know, we have no we have no way of perceiving it. But do you want to say anything about what what you what you saw that you think is not? Yeah, we
+
+Bret 11:02
+should if we're going to do that, we should probably come back to it systematically. Later, there were a number of these places or an alarm bell went off and it was like, that claim doesn't, isn't right. The obvious one had to do with her point about the sand in the beaches containing microbes that are necessary for immunity relative to
+
+Heather 11:27
+Coronavirus, Coronavirus.
+
+Bret 11:31
+The fact is, this isn't how the immune system works, there is truth to the idea that the immune system becomes informed of hazards based on encountering things in the wild. And so the old George Carlin routine about training the immune system by swimming in the Hudson, because it needs practice isn't without merit. But the idea that the net benefit of encountering this Coronavirus in the wild would point in the direction of the beach being curative. No, no, what's curative about the beat is that it's outdoors where it's very hard to transmit this thing and you're in the sun's you're making vitamin D. And those two things together suggest actually The beach is probably a good place to go. So vision wise,
+
+Heather 12:19
+it feels like confirmation bias. Yeah, like, ah, let's pick one of the very many bad policies it's been handed down, don't go to the beach, and choose that as evidence. So there's a government plot to keep people sick. Right that I see. I see no reason to imagine that the don't don't go to the beach orders that you've never imagined conspiracy when simple and competence will do the job. And this you know, this looks like not saying that there's not conspiracy. Yeah. But with regard to the beach orders, invoking conspiracy to explain the beach orders also seemed uncomfortable at best. Yep. So there's another part to the actually there were two questions about the pandemic. Let me just see if we can address the other one. While we're addressing this one. It would be good to hear from someone knowledgeable regarding the claims made by mica vets, parentheses, chronic fatigue and xmrv. Mouse brains used in polio vaccine and retrovirus infections. In the pandemic, Doc boy, I just don't remember.
+
+Bret 13:21
+No, I do remember a claim another one of the things that set off a red flag for me was he said, if you've ever gotten if you say if you've ever gotten a flu vaccine, then you have been injected with Coronavirus because these things are grown in animal media.
+
+Heather 13:38
+Because these things are grown in animal media and all the animals that are sourced for the animal media in which they're grown have coronaviruses circulating in them. That was the logical Yeah,
+
+Bret 13:49
+I would want a lot of leaps. It was a lot of leaps. And it strikes me as very unlikely. But anyway, if you know better if you've got those links so that we can follow that set of links in the chain, we'd be willing to to re investigate this. But
+
+Heather 14:04
+yeah, this left me wanting the references wanting to see and check it, you know if the story if the personal story of megabits is true, and I'm agnostic on that, at this point, I think some of it is certainly true. And and you know, all of it may be true, then it's understandable that we couldn't have some of the pieces of that story because it would exactly be under some kind of illegal lockdown. But I want but the scientific piece is the logic of what is or is not true or real organic about the current thing that we're living through, should be decipherable by people who have sufficient background to decipher information when it's put in front of them. And we found no way to find the information with which to interpret many of the claims.
+
+Bret 14:51
+Yeah, and if I can just as long as we're doing this, there's another conspiracy theory involving theory or hypothesis. Very good. Hi sketch, there is a conspiracy hypothesis that has been offered by one of the Nobel laureates responsible for the discovery of the HIV particle. And his allegation is that there is HIV sequence in the source code to virus. Now, as far as I'm concerned, we're that the case where a sufficiently long sequence that it had to have come from HIV to be found in this virus, it would be all but game over for the argument that this was not a laboratory manipulated entity. However, when one investigates this claim, it turns out that it is weak on the basis that similar sequences are found in a wide variety of things, including bacteria, which aren't closely related to viruses at all in any standard sense. And that basically, the point is that something has caused these sequences to be widespread, because they're useful means that the discovery that something that is short and analogous to something found in HIV doesn't necessarily mean anything at all. So that's the thread to track there is, is it a sufficiently improbable sequence that its presence there is actually indicative of it would having been transported there, which would be extraordinary?
+
+Heather 16:20
+Well, but or another hypothesis is, is it to use the technical term plesiomorphic to both HIV and Coronavirus, which is to say pleomorphic means is it an ancestral state that was shared by the most recent common ancestor of the two viruses, which, you know, clearly it's implied by I don't remember his name. This this Nobel laureates argument that this is a derived state in HIV or in or in viruses like that, and a derived state here, and it's showing up both places when it's such a long and therefore complex thing is extremely unlikely to have happened by chance. But arguing that, oh my god, sturgeon have bones, and we have bones. And isn't that really unlikely to have happened by chance, when you can go back and say, actually, bone evolved before the most recent common ancestor of surgeons and humans evolved, and therefore there's nothing to be explained because it is pleasing and morphing? It is ancestral to the state of the most recent common ancestor, so ancestor of humans and surgeons, whereas if you said, Oh, my God, sturgeon have a language. And humans have language, that's really unlikely to have happened. By chance, there must be something else going on there. And you go back and you say, well, not only does is the most recent common ancestor of human and sturgeons don't have language, but the basil mammal doesn't have language, the basil reptile doesn't have language. So then there's something to be explained. But in this case, you're maybe maybe the sequence is actually ancestral to pleomorphic, to the most recent common ancestors of the two viruses, which would
+
+Bret 17:49
+be fabulous, if there was reason to think that the two viruses were actually linked ancestrally through something that we would call a virus, right? They're both RNA viruses, one of them as a retrovirus, one of them is not, but we don't even know that. So what we're discovering is that the tools that you and I are so familiar with the evolutionary phylogenetic tools, and the reasoning that goes with them works really well, for example, within, you know, SARS Cove to starting in Wuhan,
+
+Heather 18:20
+that is to say, within a evolution, which has an origin, a single origin and a branching from within a
+
+Bret 18:27
+lineage. And so it also probably works if you go back to all coronaviruses. That's an honest to goodness clade. But if you go back before coronaviruses, to website, other viruses, and then all of the tree of life, we don't know how to map these things. We don't know what the relationship is, in part, because the very nature of viruses is to have gotten rid of everything they're not using and to borrow it from their host. And so in some sense, they leave us scratching their heads because they've abandoned all the stuff that would normally allow us to map them on to the tree of life.
+
+Heather 18:59
+Yeah, I think phylogenetic biologists have a decent sense at a clade bigger than Corona, Corona viraday. I think it is, but it's not to all viruses, or at least the the expected confidence in the phylogenetic tree for all viruses is very low compared to the confidence at the level of smaller clades. And, and how viruses link on to the rest of life on Earth.
+
+Bret 19:32
+We don't I think actually, what we can infer from what we've seen is there is no tree of all viruses. There may be a tree of all retroviruses, for example, but that the viruses have multiple origins. So that's the distinction right there. And the problem is my what I would say is the leading hypothesis from what I understand is that viruses have actually freed themselves from what they were before they were viruses in other words, they were gene Within creatures of some kind, and at the point that they leave those creatures and strike out on their own, and abandon all the machinery that they would need borrowing it from those new hosts, when they enter them. They become hard to map. But it may be, you know, if coronaviruses evolved from some tetrapod, then the point is, where would you map them onto the tree? Well, they would be mapped to the tetrapod most closely associated with the one they emerged from. So it would be a very weird tree because you'd have a virus related to a creature, you know. So anyway, it does push our tools to a level that they were not built to to explain. That's right.
+
+Heather 20:40
+Okay, that's two questions and half our time. So let's, let's move a little here argument for reopening is that I prefer 3% of people dying, probably much lower than that, than my children starving, I can't rely on government to make competent decisions by now there is no evidence they're capable of such. So not so much a question but a comment. And, you know, we can both understand the concern for sure. Well, and
+
+Bret 21:05
+I would also say, A, this virus, if nothing else, raises all kinds of questions that we need to address, like, why is it that your ability to feed your children is anything but our collective concern? In this case, presumably, neither you nor your children have done anything to invite this. And therefore, this is obviously a case in which we are better off taking the risk that we all face, which is going to be at many different levels, and neutralizing it through a path that is social. In other words, just the same way, we take the risk of your house burning down and we say, Actually, you know what we're going to do, we're going to put a little building in every neighborhood in which there are people who have equipment to put your house out, if it catches fire, you call the number, and we show up, right? We neutralize that risk as best as we can. And nobody complains about it. Cuz it's such a great idea. Well, why is this any different? So there's that as for government not functioning, you're right, it's not functioning. It is pathological. And what I wish is that when we did not have this pandemic, people had been more interested in having the discussion of how dangerous it is to have a pathological governance apparatus, and what might be done to rescue it from the things that have corrupted it.
+
+Heather 22:26
+Next question, somewhat tongue in cheek, I think what is the attack vector from bad to human bite? Bad breath? It No, it
+
+Bret 22:33
+says bad breath, doesn't it? Oh,
+
+Heather 22:34
+bite batch breath. Bad breath. It does. Yes. Yeah, this this assumes that there was back to human vector. And we've talked, we've talked in earlier livestreams, about what it might have been, I think, originally, the wet market hypothesis is that eating recently dead bats would have allowed it to be transmitted. Or hand maybe it's handling corpse, recent bat corpses and then touching your mouth
+
+Bret 23:02
+could be. But think about it from the viruses perspective, the virus is experimenting with different mechanisms for getting into the future. One way to get into the future is to leave the species that you are currently infecting and find a new species that increases the transfers you'll make in the future because you've got two chances rather than one two different species are carrying you. So finding your way into secretions that are liable to be encountered. increases the chances of that so I know that there is a rare but established ability I think I've got this right for rabies to be transmitted by bat urine, encountered in a cave, you know, the bats are on the ceiling of the cave, you walk through the cave, there's a mist in the air, some of it is bat urine, and it gets in your eye.
+
+Heather 23:54
+You're not working on behalf of the bad PR department or at the moment.
+
+Bret 23:57
+No, unfortunately not sorry. That's but but anyway, it could be anything but imagine that viruses that have made it if this is the future for all of the viruses in the past, how did they get here, they found their way into secretions that were liable to be encountered by other creatures and they had a generalist enough plan to be able to invade the cells of those creatures some fraction of the time when they found them. And then they had a genomic plan that was sufficiently experimental to find its way from one part of history to the next. Yep, so anyway, that's what they do. It is
+
+Heather 24:29
+unlikely to have been bite in this case because of the clade of bats that this Coronavirus is or related Conant coronaviruses are known from
+
+Bret 24:39
+right well not sure why you say that if somebody was handling these bats they would have probably bit
+
+Heather 24:46
+huh so handling either for food or for research. Yeah.
+
+Bret 24:49
+Or you know, bat falls out of the sky because it's sick and you pick it up and it bites you because it's afraid that's not so unlikely. But again, I would say the chances of this having come directly from a bat To a human without lab involvement seems pretty remote. It
+
+Heather 25:03
+is lower and lower. Yep. Dr. HNB, thank you so much for your invaluable contributions to the world sanity. On May 6, I emailed you about the newest COVID-19 research in Slovenia. I would love to hear what you think about it. We saw this I have not looked into it yet. But I and it's, as I remember some large, very large scale testing that that potentially establishes, at least for this particular locality, geographic locality. Some, some good baseline statistics. Yep. I
+
+Bret 25:32
+agree. It was a good large scale study, but I haven't been through it in detail yet.
+
+Heather 25:37
+What is a good way to talk down those people who think that being socially distant will kill our immune systems? Because we aren't exposed to anything? I know this is false. But how can I frame it in a way to them? That makes sense?
+
+Bret 25:49
+I would say this is a question. This is a simple case of it's two things. One exposure does create immunity, often it creates it through mechanisms that are unacceptable. So for example, let's take chickenpox. chickenpox is a serious disease that if you get it late in life, can be a deadly disease. In order to prevent people from getting it late in life, people of our generation were often exposed to chickenpox in youth, which then creates a horrible risk of shingles late in life, I'm not sure if that was known when we were kids, and people decided so. But in any case, we now know that connection. So how costly was it for us to have been given chickenpox as kids in order to protect us later, it had a big cost. In this case, you're dealing with a virus with unknown hazard to you there are so many ways, some of them are unlikely, but there's so many ways that this could turn into a much more serious phenomenon, then we yet know, it could be that it lives on in some tissue and emerges periodically for people who've had it so that you're never rid of it. It could be that the damage you get is dramatically shortening of life. And so in this case, to say that the exposure is what's necessary for the immunity is to invite the infection that's going to do all of this. But I
+
+Heather 27:11
+think I read the question differently. It's it's not about exposure to SARS cope to its exposure to everything. So this is this is an argument put forth by those Kern County doctors, and I've seen it elsewhere as well, right. And in fact, it's in the shorter of the pandemic videos as well. The idea that if you totally sterilize your environment, your immune system will basically be on overdrive. and respond well actually, no, this is this is two different things. So we know actually, that very sterile environments in youth can produce immune systems that are hyper triggered, and
+
+Bret 27:45
+specific, it creates allergies that we specifically system that we specifically
+
+Heather 27:49
+have more allergies, and that this may well be the main explanatory factor in the high level of allergies that got what's it going to be younger millennials and Gen Z kids have right? Or you know, maybe all of the
+
+Bret 28:04
+millennials actually I think it's our generation to all that Lysol that was sprayed around,
+
+Heather 28:08
+Lysol became antibacterial soap, etc. So that that is true, but that does not translate into get no, you know, expose yourself to the circulating coronaviruses and other viruses that are around and your immune system will forget how to respond. Like that's that appears to be the the argument that's being made. And I actually I don't have a pithy, succinct answer to this except to say, That's not how it works. Well, no,
+
+Bret 28:44
+I do think I want to be super careful here. I do think there is a possibility, and maybe even a strong possibility that our system is built to collect, let's say, fragments of hazards, and translated into a kind of early warning. Yeah, whether that's ever fully protective, is hard to say. But you are dealing with a critical immunological crisis to the extent that we pick up immunities through natural encounters and that suddenly being told to wear a mask on for a matter of months is being interpreted by people as a hazard. They're missing that a the forming of the immune system is primarily an early feature of life. Maybe this is why kids eat dirt and things like that. But that, in this circumstance, you've got to trade off. Even if it were true that we were constantly collecting fragments of what was in the environment in order to get some sort of a jump on pathogens. We don't know we're out there, but we will encounter you are dealing with a critical encounter with a novel pathogen that is highly dangerous, if not to you than to people downstream of you if you pick it up, and then pass it on. That has hazard is so acute, that there's nothing in this other category that competes with it on the scale of weeks or months or even a few years. Right long term. We might have a different question on our hands. But short term, I think that this is an argument that sounds good to people. And it's advancing because people, it sounds intuitively right, but it's actually quite incorrect applied at the scale. Okay.
+
+Heather 30:28
+Okay, we're gonna get through a couple more of these. But not the majority, I'm afraid. Does smoking tobacco, how many upsides I've read somewhere that smokers are less likely to contract to TB, I'm speaking more of cigar and pipe tobacco use, they're not generally inhaled. You know, we talked about smoking a fair bit and one of the earlier live streams. It's not clear if there is an upside, but it seems increasingly suggestive from the data that there was not the downside that one might predict for a pathogen that attacks the respiratory system.
+
+Bret 31:05
+Yeah, I've seen some data that suggests it's protective, some data that suggests it's mysteriously non nonstick nonsignificant. There, I believe there is data that says in the case of some Parkinson's patients, it's positive. And what we've said before is that it is essentially certain that ancestral forms of tobacco used by the populations that have a long history of search would be net harmful. That doesn't mean that the corporate tobacco that all you smokers are smoking is any good for you at all. In fact, I would guess it's not but it is almost certain that ancestral tobacco is used in an ancestral way, at least in the populations that have a history with them. Were net positive.
+
+Heather 31:53
+The next one is written in a way that I've not totally tracking. bloggers suggest local work, testing, contract racing, travel restriction by town, I told them, it would not be politically possible opinion. Question mark. So presumably, the question is not politically possible. In the US the idea of widespread testing, contact tracing and travel restriction by town, as was done, apparently, with great success in South Korea. Test and trace would be absolutely the way to understand what is going on, and to start limiting the ability of the virus to do what it wants to do, which is to give itself as many copies in the future as possible. I am deeply torn over over this. Because while as I said in the end of the last live stream, pandemic, global public health problems do allow for certain things to be possible by the government that the constitution would not normally allow. Do I trust the government to give up all of the ability to surveil at the end of this that we would have to hand it in order to do successful tracing? I do not. Is it perhaps necessary in order to get this thing under control? It may be how do we reconcile those two things? I don't know.
+
+Bret 33:20
+Well, I would say first of all, I think you would be wise to throw out the entire concept of the possible for at least the foreseeable future, because the present is not possible. Therefore, the current concept is invalid. Second thing I would say is we have handed the surveillance of our population to private, unaccountable corporations already, those corporations have to close a relationship with elements of the government that are known to behave badly, or have been known to behave badly through history. So in some sense, the ship has already sailed, maybe we should get the benefit at the moment and then when this is over, or if it becomes chronic at the point that we are capable of focusing on other things, we need to have a very frank conversation about how it is that we have all ended up surveilled and nearly 24 hours a day for you know every day of the year. And that information is accumulating and being used for who knows what it is time we have the conversation about the constitutional protections that we don't have because the founding fathers had never seen anything as sophisticated as a train much less than internet and
+
+Heather 34:37
+and therefore could couldn't It was not a failure of imagination on their part so they could not possibly have gotten anywhere close to imagining this world that we live in.
+
+Bret 34:47
+They needed to sit down with black mirror and to see a few episodes wasn't possible at the time.
+
+Heather 34:53
+What blown their minds since it's technically possible Why hasn't isn't Robert Dorfman's method for great Testing parentheses combining swabs or test samples from many people into one lab test used to increase testing capability. I'm not familiar with Robert Dorfman. But that sounds like a totally reasonable approach. Any group test comes back positive, and then you parse it out and you do individual tests on all the people who contributed to the one. Why isn't it? Don't No, no, no.
+
+Bret 35:22
+Yeah, seems reasonable.
+
+Heather 35:24
+Yep. What is? What is the evolutionary reason for males having nipples? So let me just say that this is a question that you when you were attending that part of your Patreon actively you would ask that as a question that people want to hear the answer to that in the next the next month, and it never got voted up. It never got voted to the level such that you answered that question rather than some other question. I
+
+Bret 35:49
+was trying to remember if it had your recollection as it did not get answered. I
+
+Heather 35:52
+think it did not. Alright,
+
+Bret 35:54
+so a few things to say, one. You could have your nipples removed and see how well you do in finding a mate. And I suspect you would find that many people would refuse to go out with you once they figured out that you were lacking him.
+
+Heather 36:12
+That's a terrible answer. And you know it. Alright, fair
+
+Bret 36:15
+enough. I mean, it's it's not it's a very proximate answer. If you lost your nipples now, it would strike people as pretty where it's proximate at every possible level. All right. So let's just say this, I believe this question has a very good, and to me, I think, fully satisfying answer. Unfortunately, for you, that answer is closely tied with the question of what is the evolutionary meaning of homosexuality, which is a lecture I desperately want to deliver. And I don't want to explore it piecemeal in these broadcasts. So anyway, I had thought about renting a hall, I'd still like to do it. I don't know if renting a hall is still going to be a thing in the future. But if it is, maybe we should explore doing it that way. But just remember, these two questions are related and not directly but logically, and let's put it that way.
+
+Heather 37:15
+Let's see we're gonna do, we're gonna try to get through for more quickly, and apologies for all the good questions that we won't get through before we go to the Super Chat questions from the next from the current live chat. Previously, you mentioned that antibacterial products leads to building up a bacterial resistance over time while washing hands with soap does not what about UV light cleaning devices, great podcast, UV light should should not have the same problem as antibacterial soap, antibacterial cleaners.
+
+Bret 37:44
+Yeah, I think the real question is this, if you've got some thing that creates an extreme enough environment, that it just kills the things it encounters outright, then it's not selecting for resistance to them. The problem with the antibacterials is that they basically provide an evolutionary gradient were things that are better positioned to endure the onslaught persist, and you've killed off all the things that are susceptible. So just like not taking your full course of antibiotics, if you take the full course and you kill off everything that you've been infected with, then you haven't selected for superbugs. If you kill off a fraction, and then you stop taking it, then you create the next group of superbugs so
+
+Heather 38:27
+so I mean, it's possible that especially a weak or an inappropriately applied UV light could select for those viruses that are better able to withstand slightly elevated UV, rather than they die at the first exposure to any UV.
+
+Bret 38:48
+While on the other hand, though, they're being exposed to UV light all the time and die. So you're not adding a selective force that's going to be giving them some new discovery, the
+
+Heather 38:58
+UV inside right, as opposed to pure Ral is an evolutionarily novel thing.
+
+Bret 39:04
+Well, it is, except the thing about PRL that works is alcohol, which is not novel. And so in my opinion, and you know, I'd love to see if this is incorrect, but my best guess is that very simple approaches to create an extreme environment for bacteria and viruses, render them unlikely to evolve into some kind of objectionable resistance, because for one thing, as soon as he removed that phenomenon, they will evolve back down into normalcy as a result of trade offs. So that is to say if they're evolved, and there's nothing in principle that makes it impossible for a creature to evolve resistance to a high alcohol environment, but if it does, it's then poorly adapted to a low alcohol environment. And so it's not really effective under normal circumstances. So there's a game to be played About not selecting for characteristics you don't want to see. And the simple physical interrupters, I think are the best bet.
+
+Heather 40:09
+Yeah, it was. So when we have homes that are simultaneously far cleaner than our ancestral environments, and potentially far dirtier, so even people who clean their homes to a level that looks immaculate and sparkling, probably have corners that don't get much wind don't get much light, don't get many sprays of a bottle of alcohol, or whatever it is that you're using to clean it. And it's exactly in those corners, where things will start to, you know, first grow and then potentially evolve. And, yes, children growing up in those homes may end up with more allergies, because they have precious little exposure to like the soil microorganisms that most kids historically have had access to. But they may actually also be exposed, like everyone who lives primarily inside rather than spending a fair amount of time outside to some, some bugs. Broadly, you know, bacteria and viruses and fungus that do better indoors in dark, damp places. Whereas historically, there's always been some some ability to open it up and let the wind and lights sweep through. 40 minutes. Okay, very, very quickly, then. Where are we? Oh? What are your thoughts on directed evolution via genetic engineering? CRISPR? Are we stagnating in terms of human evolution? And if so, are these mechanisms to artificially evolve for survival inevitable? Let's just take one part of that what do we think about directed evolution via genetic engineering? such as CRISPR?
+
+Bret 41:46
+Well, I think the thing is CRISPR has been overhyped. It's a very powerful technology. But we are, what I have said elsewhere is that we have the typewriter that now allows us to write any genetic sequence, but we don't have is the Rosetta Stone that allows us to speak gene, and we will eventually get there. But for the moment, the ability of this technology to allow somebody to just bring something into the world that is devastating or severely altering of what we are, is limited by the fact that we don't yet know how to do it. What we do know how to do is take the Lego that exists in the world of genes, whether they be RNA or DNA, and recombine them and this is exactly the concern about what may have happened with SARS Cove two is that something that in and of itself wouldn't have been all that capable of infecting humans and would have had to do a lot of experimenting in order to get to that point may have been created in a form that was lethal and highly transmissible between people before it escaped or was released. Yeah.
+
+Heather 42:56
+Okay, one more and then we'll switch over to the next live chat. Is it true that no RNA vaccine has ever been produced the woman from the first pandemic video teaser said that
+
+Bret 43:07
+I don't think it's totally true, but I believe that what may have been referenced was for people in other words I believe there is a vaccine for a Coronavirus you know horses I'm taking other people's word for this but but I believe that it does exist now horse physiologically isn't all that distinct. You know, it's a mammal. So it may be a fine model in some sense. But that doesn't mean you know, why if they exist for horses, do they not exist for people it may be the need for them has been low because we've arrested the couple of escapees that have circulated in humans. Or it may be that there's something about creating the vaccine that there's a trade off you wouldn't want to accept you know, horses don't live as long as people maybe it's a longevity concern. But I would say I don't what I have seen does not suggest that a vaccine is just something we can create because we need one. There is a lot that stands between us and a vaccine that is safe enough to use if in fact we can create one at all. Yeah. Okay.
+
+Heather 44:25
+Unable to do that. Yeah, please. Thanks, Zack. The first drink is on me. Yeah, it's a little early for us here Yeah,
+
+Bret 44:33
+it's not five o'clock anywhere.
+
+Heather 44:36
+Spin so we're not we're not drinking on camera today. Have we seen Spaceship Earth or thoughts on biodome to project have not seen Spaceship Earth? I don't really know much about the second biodome? No. I would say it was kind of too, too naive to biosphere two. Yeah, although, yeah, maybe that's not the same thing. But I was thinking a biosphere.
+
+Bret 44:58
+Yeah, let's put it this way. It is very difficult. I think one of the lessons of these things, it is very difficult to create an ecosystem that is closed. Right? And that ought to tell us something about what we're in. And this is something I think, you know, biologists, especially field biologists encounter. I remember there's a, one of the most marvelous creatures in Madagascar is a thing called an injury. injury is a very large, it's not technically a lemur, it's a limb myriad. But anyway, it's a beautiful creature. Tree dwelling sounds like humpback whales to read. You're not it's not in.
+
+Heather 45:37
+It's an driod. But it's a lemurs. Alright, sorry, for your
+
+Bret 45:41
+purposes, the lemur. But in any case, in reason Mar, a marvelous creature, and so marvelous that every Zoo would love to have them. No Zoo has one. Why? Because if you take them into captivity, they die. Even if you as I understand it, even if you put fences around some large piece of habitat that they're already living in, they die. They're so sensitive to the conditions of captivity, that we haven't figured out how to include enough stuff in anything other than a reserve to allow them to survive.
+
+Heather 46:13
+Yeah, it was imagined that it was about the vast number of species of leaves, they're full of ours, they need to eat. But as far as I know, and I haven't looked into it for a few years, but yes, you can't, you can't cage them, even really, really large cages, which means if you haven't been to Madagascar, you haven't seen injuries, you may well have seen video of them, but you can only see them in the wild, which is both magical, that you still have to go there to actually see them. And also should remind us in our hubris that we cannot actually totally recreate almost anything, even for those systems where it appears that we can recreate what is necessary,
+
+Bret 46:52
+right? So these biosphere projects, the good ones are going to run into this, which is, you know, how big would it have to be to be a closed system? And as I think you were hinting at, we also need to be thinking about this with respect to these ideas of colonizing Mars. And yes, I'm looking at you Ilan. Mars, not only is not going to be any fun, but it's going to be much more difficult to colonize than anybody down here on earth is yet capable of recognizing Yeah.
+
+Heather 47:19
+Okay, next question. asks about something we haven't seen, or at least I haven't, so I'll read it, then we'll look into it. What do you guys make out of the D o t document that leaked this week, a recruit diagnosed with COVID-19 by laboratory test or clinician examination will be permanently disqualified, reported by Military Times comm that will look into it. I have an immediate reaction, which is what why would they disqualify someone who had already had it?
+
+Bret 47:45
+planned? I'm trying to remember what Military Times comm is I think it may.
+
+Heather 47:49
+It may not be what it appears. Yeah. Okay. Are you familiar with the conversation at the molecular biologists over at nerd has power that weebly.com? If not, may want to check it out. I feel like this might be the link that you just sent me.
+
+Bret 48:07
+Yeah, I'm aware of it. It's definitely within the confines of my thinking about what the most likely path of this pathogen was. So anyway, yes, it's an interesting, interesting paper.
+
+Heather 48:24
+The concepts of rights and justice seem to be human concoctions, are they only metaphorically true? Can literal belief in them be counterproductive?
+
+Bret 48:35
+rights and justice? First of all, I think there's no justice outside of people. There's some rudimentary ideas of fairness that we can demonstrate and some other creatures a fair bit of fairness. But in terms of a system that defines something as just and then attempts to create that space, I think the way to think of it is, it is an elevated state above that which we would live at, under normal circumstances. Is it natural? Well, we're humans, and we generate artificial states. So they are in some sense, natural, but it is a very fragile state. So I would argue rights and justice are essential concepts, they are highly desirable. And we should be much more careful about protecting them rather than allow markets and other things to endanger them.
+
+Heather 49:26
+And without being able to pull it up. Let me just say that one of the papers that I can think of that looks at whether or not other organisms have a concept of fairness is I think it's chimps. But it might be some other species of monkeys and yes, I'm saying chimps are monkeys, just like we're monkeys in which they are given. They're given I think this is that given cucumbers, you got to chimps or some other species of primate in cages next to each other so they can see each other they can see what they're being being given by the researcher. They're given cucumbers which They like just fine, but they prefer grapes. And at some point, one of them is given a grape. And the other one is given a cucumber. And the guy who's still getting cucumber sees that his conspecific is pure, whether or not it's a friend has gotten a grape which he prefers. And not only does he throw fit, but he actually throws the cucumber back at the researcher. So he actually gives up the thing that he was perfectly happy to receive as a treat for doing something at the point that he perceives, and, you know, imprecisely, we can talk about this. He perceives that he has experienced an injustice. Is there really a distinction between justice and fairness in this regard? I guess justice is sort of a longer term. It's more there's more architecture around it.
+
+Bret 50:43
+Yeah, I would say justice is the architected attempt to create a landscape of fairness. Yeah. And I would say as good as cucumbers are not as good as grapes,
+
+Heather 50:54
+right? Exactly as every monkey knows. Believe me. Okay, are you familiar with the analysis? Oh, wait, we already read that one. Oh, it's both. Zack, someone thinks
+
+Bret 51:09
+that I'm a traitor you're here. Yeah. Yeah. So I think you're attractive but that's not me.
+
+Heather 51:16
+No, that's that's not you know, I left a question mark off my previous Super Chat. Well, thank you for contributing Wait
+
+Bret 51:22
+a second. Hey, Zack. Your mom is super hot. Yo, first of all, why are you going through Zack Second of all, hot is not the right term. Beautiful. Yes. But hot neck is just not right.
+
+Heather 51:35
+So we could we could do that. Another time. Whoever
+
+Bret 51:39
+filed that, okay, either knows or should go look it up. Okay.
+
+Heather 51:44
+Do Corona. SARS hybrids exist in bats, naturally. That is a good question. And you know, there's a there's a site that I showed on earlier live stream that that keeps track of all of the known coronaviruses as well as all the other viruses and has a sort of an ad hoc phylogeny. There's a whole lot of Corona viruses that are identified as being found in bats. They're called recombinant. And it's totally unclear whether or not that means that they have recombined in bats naturally, or if these are recombinant viruses that have been created in labs and but but are still on the database of all the viruses out there. I actually I got I got stuck here. And it felt kind of alarming not to be able to figure out whether or not this this database of viruses is effectively a recognition that bat coronaviruses often recombined between species, or if the only time that happens is through human intervention.
+
+Bret 52:54
+Yeah, I must say the question is phrased a little oddly. Do Coronavirus hybrids exist in backs. Oh and SARS hybrid SOS SAR I guess SARS is redundant here because SARS is just a syndrome.
+
+Heather 53:13
+Well, it's right. It's a syndrome descriptive of some classes of Coronavirus.
+
+Bret 53:17
+I don't think we know the answer to this question. And by we, I'd be interested if anybody knows, but it would certainly be a useful mechanism to the viruses if they could recombine. Which doesn't make it possible. And the key question is given the way these things function, you have an RNA template that makes it into cells. That RNA template is read by ribosomes and turned into proteins and is transcribed into another RNA strand that becomes the basis of new viruses. So it's not obvious to me that that includes a mechanism whereby recombination could happen, but there could be some subsidiary set of proteins that allows splicing, especially in light of the fact that these coronaviruses appear to have error correction. hybridization could actually be accomplished through mechanisms that are involved in error correction. So I think it's plausible, but I'm not sure that we know that it happens.
+
+Heather 54:16
+Opening natural areas exposes rural folk to increase infection. rec creators, enter rural grocery stores, gas stations, etc. This implies that rural and farm lives are less important than city folk or economics. Please comment. It's, it's a concern. I would say that you needn't in order. If you're traveling someplace rural. You do not inherently need to go inside anywhere. In general, it's been encouraged because it helps the local economy. But in order to get gas, you shouldn't need to go inside and you can take your food with you. And I'm not saying that that's what is happening, but I serve Don't think it never occurred to me, actually, that go outside open natural areas implies that these are a inherently rural. I mean, we've got, we've got a giant Park very near us that's been closed for a couple of months. And it's within Portland city limits. And you know, Portland itself has three of these giant parks and many hundreds in one case, 1000s of acres within city limits. So it's not inherently about rural versus urban environments. And certainly, you know, on in coastal towns, those aren't inherently rural areas, either. So I guess I'm not I don't quite buy the dichotomy that's framed here that you know, further pits urban versus rural, of coastal versus middle of the country. And yet, there's a truth in that concern. If
+
+Bret 55:50
+you think about, you know, Manhattanites, if we say if you go to a nature area, we're definitely telling them to travel. Sure. And so that would expose people outside. So I think this has to be navigated carefully. The fact is, and you know that it will
+
+Heather 56:04
+and sorry, but apparently, many survived, I don't remember the number. But many, many, many people showed up in Georgia after they were the first state to open so exactly the game theoretic problem that you had been predicting. And this wasn't about natural areas opening it was about stages of opening that are out of sync with with their neighbors. And so you know, that will certainly cause problems. There will there will certainly be people who moved the virus from outside of Georgia into Georgia, because Georgia opened and made itself look more, more inviting to a whole bunch of people, some of whom, presumably are sick. Yeah. So this problem exists at every every single layer, and I would I object to the framing of open natural areas as an attack on the world. Yeah, I think that's not, though there
+
+Bret 56:49
+is something to be navigated. Yep, absolutely.
+
+Heather 56:54
+Hi, from Portugal, impersonating Sam Harris, in your approach to consciousness, why must subjective experience arise? Can't we be zombies packaging information for exchange with the lights off? Much love?
+
+Bret 57:05
+I don't think so. And in fact, this was one of the places in the talk we gave for the James Madison program at Princeton that I wish we had had more room to explore. But what I would say is, this is the best analogy I've got so far. If you look at what we are told functions underneath, Google translates newly upgraded ability to go between any two languages. What Google Translate has, is a layer in which it translates into some sort of common language that is not a human language, right, it has an intermediate. And what I would argue is the efficient way for me to take your perspective and put it side by side with my perspective to figure out what I think in light of the sum is to create a space in my mind where you and I are both real, right? And to unpack these things there, and that you would have a parallel space, and that the more similar your space and my space were, the more likely we were to have a fruitful interaction between our different perspectives. And so basically, the point is, there is no actual space between us where this happens, but each of us have a mirror better or worse of the degree to which the perspective is shared. And the degree to which the perspectives differ that allows us each to, to compare the objects side by side. And so the question really is, if you did this, as you say, with the lights off, where would it happen? And in what form if you do it with a, you know, I have a model of me and I have a model of you and I exist in this subject space where things are perceived. I at least know how it works. Right? So the question is, did evolution create subjective experience? Because it was the simplest mechanism available to it for allowing an individual to compare two perspectives.
+
+Heather 59:15
+From Candace, we get thank you for answering my immune system question. I'm a patron of you both. Thank you for that we do we do have Patreon, which we are beginning to tend to more virtual hugs. Thank you. Is there a serious argument for alcohol or mind altering substances being essential in quotes, the Machiavellian view could be that it keeps people content.
+
+Bret 59:35
+Oh, sure. Sure. It depends which substance you're talking about. But you know, essential. I think we just misunderstand what we are. We are obsessed with ourselves as individuals, because historically those are the limits of our power to affect our own evolutionary well being. But from the point of view of getting deeply into the future, which we are also involved in Seeing what you are not yet capable of understanding, and figuring out how to process it basically how to bootstrap a new way of conceptualizing something. There are moments when other substances help you do that. And there are moments when they're not helpful. And, you know, is that essential, you know, individual instances, likely to be essential, but is the ability to access that other place essential, it may be, given that
+
+Heather 1:00:27
+we made we tried to make an argument for having access to the materials with which to do projects around your home. Residential, I think it's an easier argument to make that some mind altering substances would be essential for some people.
+
+Bret 1:00:42
+Yep. So if I read you correctly, you're saying sent mushrooms? Yeah. Yeah. Alright.
+
+Heather 1:00:49
+Vaccines exist for coronaviruses in veterinary medicine for cattle, horses and dogs. Okay. Doesn't mean a virus for us is right around the corner, though. Thank you for that, Greg,
+
+Bret 1:00:57
+a vaccine for us as
+
+Heather 1:01:01
+it says virus. I was just reading it. Yep. Doesn't mean a vaccine for us is right around the corner, though. That's right. So okay, that's in response to an earlier question about whether or not there are any vaccines for Corona viruses? Yes, and other species. We don't know of any in humans. And of course, it could be a long time on to never possibly before we have one for this particular one. Oh, please, please, please do that systematic breakdown of pandemic that you mentioned. You're the only honest and measured voices we can count on.
+
+Bret 1:01:34
+Thank you. Yeah, we might we might do that. The reason that we are hesitant? Oh,
+
+Heather 1:01:41
+well, no, I just say I, I went down this rabbit hole between this last livestream and this one. And I was I was pretty deeply plagued by it. And, you know, nearly pulling my hair out coming to you going, I don't know, I don't know what to make of so many of the claims here. And I know some are wrong, and I know some at least fit with my priors. Yep. And at some, to some degree, I think what we ended up deciding was, it's such a mess. It's, it's almost like it was perfectly created to make it impossible to assess. Which means that any investigation of it is high risk. Because if if it is inherently difficult to assess any number of things, you know, any any number of signs could be flipped on any number of the logical pieces in the puzzle that you're trying to do. So that's that's part of why we did not spend today doing it.
+
+Bret 1:02:41
+Yep. I would just say the danger in doing that is that you're basically holding yourself responsible for finding the borders between what is accurate and inaccurate rather than stepping back and saying there's a lot here that's inaccurate, that's enough to tell me that this is not a straightforward revelation of the truth. So if you hold yourself responsible for parsing those divisions and you get something wrong, then you add fuel to the fire. So I must say it might be worth doing and maybe we will do it. But it's not simple that it is the right move. The recognition that there's a lot wrong with it already tells us if you can't get a half an hour, basically right. Without a major error, then there might be a reason for that.
+
+Heather 1:03:31
+Yeah. Okay, last question from Eleanor Rigby no less. On the last podcast, you said that sex is a common breakfast conversation in your home. Is that regarding humans, or lizards? I do like to talk about lizard sex. Yes. Yeah.
+
+Bret 1:03:49
+It's actually quite artful.
+
+Heather 1:03:50
+It's beautiful. Actually, it is actually a we both have some nice pictures.
+
+Bret 1:03:54
+Yes, that's true. Yeah. I don't know. I mean, you know, it's not like we sit down to breakfast and sex is that thing which we must talk about over
+
+Heather 1:04:09
+our cereal is that mostly because we don't actually sit down at breakfast? is part of it. Yeah. It would be more likely to be at the dinner table.
+
+Bret 1:04:16
+Yeah, the dinner table was breakfast table conversation even have to happen at the dinner table is my feeling. That's probably Yeah. But no, you know, we talk about what's interesting and sex is interesting. So you know, it does come up in a fair number of conversations. Alright, with that, I think it is time for us to end this q&a livestream and say that we are very much interested in having you like, subscribe, you definitely want to hit the notify bell. We are hearing from people that even if they're subscribed to the channel, they are not being notified, hit the notify bell. See if that helps.
+
+Heather 1:04:56
+We do we do plan to be here at 3:30pm Pacific on Tuesdays and noon 30 12:30pm Pacific on Saturdays as lockdowns begin to lift and as we have more complicated schedules again those those plans may change. So if we don't make it here at some point like we didn't last week due to technical troubles it's the notifications that you receive that will help you know when something's happening.
+
+Bret 1:05:24
+Alright everybody, may all your ironies be fall followed with emojis. See you next time.
+
+This transcript was generated by https://otter.ai

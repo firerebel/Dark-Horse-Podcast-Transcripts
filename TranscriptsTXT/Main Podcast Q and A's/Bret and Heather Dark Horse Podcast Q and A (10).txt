@@ -1,0 +1,322 @@
+Bret 0:01
+Hey folks, welcome back to the Dark Horse podcast live stream q&a session, we are going to address your super chat questions from the first live stream and pick up some from the second live stream. We've got a lot, so we could probably just get to it.
+
+Heather 0:19
+Let's get to it.
+
+Bret 0:22
+Oh, Zack has asked me to mention to you that there was some delay for some people watching the initial live stream and not for others. This is confusing to us. It makes us think this is certainly on YouTubes end, which is what we saw during our early live streams when their servers were being hit particularly hard. We don't know why we are facing that again. But you might try refreshing your stream. If you are facing some kind of delay. We do not seem to have control of it on this end. All right. All right.
+
+Heather 0:59
+So we were asked to Stanford study has created a buzz claiming we've overestimated COVID lethality. So we did in fact to talk about this and we alluded to this at the very beginning of this livestream, or the one that just ended and I think we talked about this number two, I think we talked about it and number eight, so that's we'll find a discussion at some length of the Stanford study from Santa Clara County for seroprevalence. Next question is also not a question but appreciation. Thank you. I love the podcast and want to support the types of informed dialogues you were having without the censorship filters of what Eric Weinstein refers to as disk disk standing for the distributed information
+
+Bret 1:38
+suppression complex oppression complex. Yes. Well, we appreciate it and I know Eric does as well.
+
+Heather 1:44
+Indeed. I the Dan writes, I can smell cigarette smoke from my neighbors 50 feet away. Does that mean I who can track Coronavirus outdoors when people 50 feet away? Should I wear a facemask outdoors? So I always feel like we should just repeat that we are not in fact medical doctors and we can't be offering actual medical advice for fear of people. Feeling that we are responsible for things that happened to them as a result.
+
+Bret 2:12
+We are not medical doctors, either indoors or outdoors
+
+Heather 2:15
+in either place, in fact, or in between on the transom. I think that it is possible. Yes that you could contract Coronavirus from people 50 feet away outside, I think it is such a tiny possibility. Both because you're outside and because you're so far away from them. That for me personally, I don't wear a face mask. When I'm outside. I put one on as I approach grocery store, which is pretty much the only place I go inside that's not our house at this point. And take it off once I'm good and free and clear of the store or the artists hardware stores as well. But it is possible we we now have some evidence that it is both airborne and aerosolized sometimes. And depending on wind and such, could you maybe under just the right, which is to say just the wrong conditions. Get it that way. Yes. But as I think we talked about in the last live stream study out of cases in China found that if memory serves something like over 7000 cases that they looked at, they only found one or two, which had been transmitted outside, all of the rest of them were inside most of the within homes and also within things like healthcare settings and stores and nursing homes.
+
+Bret 3:34
+So I would just add that there is some mystery about this. It there's lots of reason that it might be less transmissible outdoors, for example, UV light, but the seemingly discontinuous nature of outside is a bit surprising.
+
+Heather 3:52
+What do you mean by the seemingly discontinuous nature of outside the fact that
+
+Bret 3:55
+this is various levels of transmissible indoors and there seems to be something magical about have some having simply stepped outside? So a couple of things here, I want to put some hypotheses on the table. I don't necessarily believe them to be correct. But we need to figure out what this might be. It's certainly true, that the outdoor environment involves a much larger volume of air and so this could be a matter of diffusion that the density of these things becomes very low very quickly, that still wouldn't predict a zero rate, but are a near zero rate. But something about it, it might be
+
+Heather 4:31
+a an update to be dilution is the solution to infection, which doesn't rise.
+
+Bret 4:37
+That's not a good run. The other possibility is that there are really two possibilities I would like to see tested. One is that this might have something to do with a bat origin. And the possibility is that if you think about it, that activity takes place. At night, that means there's not a lot of UV sanitization of the air. And bats roost in darkness, at least the bats in question roost in darkness in these caves. And so it might be that this virus has been selected for very low tolerance of UV light and that we are enjoying a benefit from the fact that we are diurnal. And when we go out during the day,
+
+Heather 5:25
+selected for low tolerance to UV light, because it was never exposed to it in its original host.
+
+Bret 5:30
+Yes, and because there are trade offs and so therefore, if it can borrow from UV tolerance, it might pick something else somewhere else. But this predicts that it would be transmissible outdoors at mat. And so anyway, I would love to see some sort of a test and see whether there is something that would point in that direction. And the other thing is that there are two possibilities within the lab that could explain this one is serial passage of the virus through multiple generations in the lab can result in rapid evolution, maybe in the laboratory environment. There is not very much UV light, you would expect that. And so it could be the lab environment creates a vulnerability to the virus that isn't true of the ancestral virus, or let's see I had a third one. Or it could be there's some prior case in 1977 virus that I believe did escaped the lab and had a temperature sensitivity that had been installed into what I believe as a technological feature.
+
+Heather 6:34
+Are you quite serious?
+
+Bret 6:35
+I'm only now learning of this not a Coronavirus. So I learned about that in that medium piece that we talked about in the first hour. But anyway, all sorts of possibilities exist. My basic point would be these are hypotheses, they make predictions. And what we really need to do is get down to work figuring out which of these predictions are met.
+
+Heather 6:54
+All right. Next question. How does an earnest critical thinker determine what is a credible news source in these chaotic times? How can we determine if the information is factual or not? That's a great question. we addressed it a little bit on the live stream which we talked about Guayaquil the situation in Guayaquil, Ecuador is I guess its largest city now. In which, you know, we've, we've done a lot of talking elsewhere, and these live streams about why the peer reviewed literature is often not trustworthy. And so a lot of these preprint servers and you know, this GitHub document is actually providing more accurate information. But of course, the preprint servers are academic paper, or publishing academic papers, and they're highly technical. So, you know, who do you trust in the landscape of people who are digesting it for you. And I don't know of a single publication that hasn't run afoul yet, right? Like it at all of the usual suspects really, are doing some good work and some crappy work. And maybe that's be expected in a pandemic, when everyone is learning on the fly. On the other hand, I feel like there there ought to be it's an open niche. It's an open niche. And so how does how is it? How can we determine if the information is factual or not? We talked about that some when Dr. McGuire keel, you want to add anything?
+
+Bret 8:21
+Yeah, I think the shocking thing, I mean, there is a basic test, and I forgotten what the name of this principle is, but that new sources seem credible until they get to a subject, you know, well, at which point they seem appalling, which obviously implies that they're appalling on all subjects. how that happened is a little hard to assess. But it is a conspicuous fact. And having seen every publication that I'm aware of that is long standing, stumbled badly suggest that, you know, we have an empty niche, and it's difficult to understand why it would remain empty
+
+Heather 9:00
+Indian. So probably some of you can hear that we've we've got birds, and it's it's been to be a problem, but I think we're gonna leave the windows open for now. Are Where are we? What is your opinion, if any, on the X haplogroup mtdna, molecular mitochondrial DNA? Would the bears uterus be what is historically referred to as the holy grail? Asking for a friend? Thank you? I don't we did see this question before. We didn't just rank these we looked briefly at them. And neither of us can completely make sense of what the question means, I'm afraid. So. mitochondrial DNA is DNA that is only in the mitochondria. And because sperm doesn't have mitochondria, you get it only from your mother. And so you can use mitochondrial DNA to track maternal lineages to track female lineages, without any any any of the messiness of sex, which the nuclear DNA has and the exhale Group is one particular group of mitochondrial DNA that is found in low percentage, but I think it's it's some Europeans, North Americans, but not South Americans, interestingly, and maybe a few Africans and Asians as well. But beyond that, I'm not sure what to make of the question. I mean, it's just sort of a, presumably the, the writer of the question knows all of that. And I'm not sure what else
+
+Bret 10:26
+to say, so far, it looks like a confusing pattern. If you want to be more specific at some point and point us to a direction that you think is implied. And I'd certainly be curious.
+
+Heather 10:38
+Are there examples from evolution which we can apply to our economics, for instance, they both seem to prioritize short term success at high inefficiency costs? Are there any long term evolutionary strategies?
+
+Bret 10:50
+It's a good question. Economics really is a special case of evolution. It's a landscape like any other except that, effectively, the parameters have been reduced to really one. And there is a conflict between short and long term profit which results in the bias you're talking about, of course, there are long term strategies, how they are discovered. And then buttress against destruction in the short term is, is a better question to ask in an evolutionary a classically biological, evolutionary landscape. And in some sense, the economic landscapes have not provided a hospitable environment to discover those strategies, which is part of what we're facing.
+
+Heather 11:36
+Another gratitude, Breton, Heather, thank you for everything you're doing to educate people about this and about matters related to freedom of speech, she both inspire me to work hard on my own pieces in psychology. Thank you. Next question, should the corruption of who the World Health Organization be dealt with right now, even in the middle of a health crisis? I would say that pulling all funding for the who, from one of its major contributors is almost certainly going to make the problem worse. Should the corruption of who'd be dealt with in any way it should be acknowledged, and potentially things put in place to suggest that there's going to be a full investigation later but but this apparently retributive move by Trump seems counterproductive
+
+Bret 12:27
+at best, yeah, dealt with by whom is the problem. I don't see the authority that I trust to come in there and triage the who, which? Yeah, it's a damned if you do damned if you don't situation. And the lesson is, how do we make sure this never happens again, right. I don't know that we can fix it now. But how do we make sure it never happens again?
+
+Heather 12:48
+Last week, you Brett briefly distinguish between formal liberty and realized liberty and said that we should only seek to maximize the latter, can you explain?
+
+Bret 12:56
+Sure. There is a tendency to want to provide greater liberty to people but how liberated you are has a lot to do with what opportunities you actually have access to for. So for example, I have the freedom to start an oil company, if I would like to, that freedom isn't worth very much to me, because I'm in opposition to start an oil company. In fact, if you told me that you would trade my freedom to start an oil company for the equivalent of the price of a cup of coffee, I should probably take the cup of coffee because at least that's worth something to me. So it's a kind of liberty but have no value, realized Liberty would be those things you are actually free to act on. And my point would be if we love liberty, we should be interested in increasing realized liberty, not abstract theoretical liberty.
+
+Heather 13:52
+Next question, is the extreme use of soap and hand sanitizers leaving us vulnerable to other diseases and weakening our immune systems long term? Well, we need to embrace germs after this is over to a certain extent. Yeah, I think you know, we've, we've discussed this a couple of other times, and some of their cue cues and a, here's an A is potentially at least it is leaving us vulnerable to, to bacteria, it's not clear the extent of that vulnerability, but just as the hygiene hypothesis for which there was much supporting evidence suggests that too, growing up in to clean a home leaves, children with immune systems that are hyper responsive, and thus, with children and adults who tend to have higher rates of allergies, we might expect that over cleaning our environments are going to either get rid of some of our microbiota that we need, or leave us with immune systems that don't know how to properly react.
+
+Bret 14:54
+I think the category is too broad. There's a difference between soap which just mechanically Takes, let's say something that is covered in lipid and allows water to strip it from your hands, which is unlikely to select in favor of some kind of increased insidiousness or vulnerability on the part of the person washing their hands, and an antibacterial soap that functions like an antibiotic where it's a continuous selective environment. So physical removal of stuff with soap is probably pretty safe. Likewise, things like alcohol that kill viruses without likely selecting for a high durability. These things are probably relatively safe. The other thing is we live in an environment that isn't natural to us. So we have a great many more pathogens, there may not be a good answer, if you lived in your ancestral environment, encountering, at least a large fraction of the bacteria that are in that environment might be unavoidable, and it might result in proper immunity. But you're now exposed to whatever everybody else on the train has when you get on the train car. that's a that's a very dangerous situation. So I think we need to rethink the problem rather than imagine there's a simple solution
+
+Heather 16:11
+to it. Yeah, there won't be a simple solution. But it's also true that we are multitudes. Right that we include the microbiome, we have a microbiome, right? In our in our gut in our skin, that we have no idea of even 20 years ago, and certainly 50 years ago. So imagining that we are only the DNA that is inside the nuclei and the mitochondria of ourselves is not right. So we are reliant on this interactive community of other organisms. And so stripping them away with some regularity, may well have bad effects. Yes,
+
+Bret 16:44
+definitely don't eat soap and hand sanitizer. That would be that would be bad. And no, that was not a Trump reference Really? wasn't I? Nevermind.
+
+Heather 16:58
+In February, South China Agricultural University wrote a paper claiming they had a pangolin source code to RNA sequence matching with greater than 99% specificity. But they refused to release the whole sequence. And now everything has to be deleted. Question mark, question mark. So that seems like a claim that we can't assess. I don't. I don't know if that's true or not.
+
+Bret 17:19
+Yep. It would certainly be interesting if it was true, but who's to say and who exactly has an interest in not blaming pangolins here?
+
+Heather 17:27
+How does the OEM, what did you think? Oh, yeah,
+
+Bret 17:30
+might mean original equipment manufacturer, how
+
+Heather 17:31
+does the original equipment manufacturer of a COVID antibody test figure out the accuracy? How would they find subjects they 100%? No, never had the virus without having a standard test in the first class. Well, they presumably there's blood, there's blood in the blood supply that predates when the virus emerged is the obvious the obvious way to do this. And I believe in fact, even as flawed as that Santa Clara County paper was, I believe that's part of how they were establishing their imagined accuracy rates for the false positives and false negatives is looking at blood that had been banked before, there's any evidence that this virus had ever come into contact with humans.
+
+Bret 18:10
+So on the negative side, blood that couldn't possibly have been infected. And on the positive side, you could do an essay in which you actually isolated the virus itself from the patient.
+
+Heather 18:24
+In some species are two questions from echo. In some species, it's most of the older males offspring that lives on through dominance, infanticide and other strategies. Is it a group strategy for the species to select for longer lifespan?
+
+Bret 18:40
+Is it a well group is a troubling word here depends if you mean that in the narrow sense, or the broad sense, is a group strategy for the species to select for longer lifespan individually longer lifespan? No, not inherently. lifespan is effectively a means to an evolutionary end. And we have been selected for longer lifespans than our close relatives on Earth. because presumably, that served the interests of our lineages, but it is not inherently so rapid turnover can be a strategy. long lifespan can be a strategy, they respond to different selective regimes.
+
+Heather 19:19
+Yeah. And so I mean, there are there are, as is alluded to here, many species in which you have territorial males, the dominant ones tend to be older males until suddenly they are not dominant anymore, but you have an increase in dominance and therefore presumably an increase in RS and reproductive success. that correlates with dominance and therefore correlates with age. And you might imagine that it's the youngest, but highly fertile females who are the most dominant in species that have female dominance, but it's not always the case. So in some boy, I'm trying to think is it hyenas and some species of primates in which dominance is actually also increases with age, which is strange because reproductive capability decreases somewhat with age. And then dominance is inherited by the daughters either in oldest to youngest or youngest to oldest. So there's all sorts of different different models of how dominance works and is inherited. Usually within sex, typically you don't end up with dominance, other than in humans, being inherited between sexes. So I think, Brett, you did a pretty good job with the rest part of that. second part of the question is the story of Abraham, the story of human population selecting for longer lifespan, through encouraging meeting with old males? Is God as a bearded old man, you're on to philia propaganda? Only minutes left?
+
+Bret 20:51
+Yeah, she's I don't know how to how to address that. I don't know how to address it seriously, frankly, those stories could be a lot of different things. They could be the self interest of people who had influence over those stories being written, they could be adaptive content in some way we don't understand. It's certainly worth thinking about. But I don't I don't know the answer offhand. Yeah,
+
+Heather 21:15
+I mean, across across pre industrial human cultures, in humans. dominance does correlate with age and men, and the kind of power that is wielded culturally increases with age and the and therefore and that's correlated with with sexual power to a large degree, whereas sexual power and women obviously decreases with age and other kinds of power can increase, but you have different moments in the lifespan when there is there is power, residing primarily in each of the
+
+Bret 21:50
+sexes, which has a lot to do with the way wealth does or doesn't accumulate. Yeah,
+
+Heather 21:55
+exactly. From Holly math nerd, what is the evolution evolutionary mechanism behind Phantom Pain is a different phenomenon and missing our amputated limbs versus other experiences of phantom pain.
+
+Bret 22:09
+I would argue that what you have is a contingency program built in that is getting misfired in a circumstance that probably isn't all that common. So if you think about the, the danger, if you suddenly don't have data coming in from your arm, it's possible that there's a reason for that, that should capture your attention critically and it is also possible that your arm was carefully removed by a surgeon and that the your attention being called to it isn't in your interest, it would be nice to just shut down that data but you've got a comparison between basically false positives and false negatives. And it's good experiencing pain from a limb you no longer have may be the result of a program that makes you think in the absence of data worried that you may be doing damage Yeah,
+
+Heather 23:01
+tend to this tend to this tend to this so that it doesn't get infected so that you don't and you know, in the pre surgical era mostly wouldn't be a so you don't lose your arm it would be so ah, so you don't lose your life. Yeah, proposition.
+
+Bret 23:14
+Yeah. And so also that, you know, the tingling of limbs is obviously a different phenomenon. But it would be the same kind of thing where you, you know, cut off circulation to a lamb or you end up blocking nerve impulses. And it's just kind of in at this so uncomfortable and emergency signal that you will take action. And my guess is Phantom Pain is a bias towards action that works against you.
+
+Heather 23:40
+Yeah. Live at your own risk, which is something that Brett said in the last livestream, I believe, live at your own risk seems to be short distance way from being a reason to end the lockdown. Do you see a bright line between opening beaches and parks and reopening society more generally? I don't see a bright line.
+
+Bret 23:59
+I see a bright line. We were talking about it before. Okay. The beaches and parks are outdoors. We have reason to think
+
+Heather 24:06
+but so opening society more generally is is a continuum itself. That's That's why I see no bright line that there are there are a number of ways of opening. In fact, we've already I think talked about maybe not we haven't talked about here, but here in Oregon, the governor is talking about allowing non essential medical and dental procedures to resume maybe as early as May 1. That is not allowing bars to reopen. So there is there is a bright line on thresholds on transoms right between indoors and outdoors. But there are also a number of other things that can start reopening before you say it's a free for all again.
+
+Bret 24:44
+Yeah, I would say we should be very cautious about the urge to reopen. You know, we are feeling a kind of pain from what we no longer have access to and so that pressure is automatic. There will also be different different levels of hazard in different places. But as I keep saying, I fear the way the game theory will unfold as some people have liberties restored to them that other people don't we need to think very carefully about how not to trigger race to the bottom scenario, which I think is highly likely.
+
+Heather 25:19
+Yeah. And I guess one more thing I would say in response to this is that live at your own risk, which I really enjoyed as a sentence when you said it really applies to the individual and the lockdown is a population level analysis. And the distinction between individual and population level analyses is one that is maybe the most widely missed in analyses of what this is. And, you know, I think it's the big error of libertarians, frankly, right, that it misunderstands that there are there are problems that cannot be solved by everyone simply acting in ways that allows them to have the maximum freedom
+
+Bret 25:57
+personal responsibility will result in an epidemiological catastrophe. So limit your own risk was not intended as a defense of some kind of broadly and simply applied libertarianism. What it was is a response to the learned helplessness that comes when too much action is taken to protect you from each and everything where you think the beach is only openable. If there are lifeguards on duty. The fact is somehow there are no lifeguards on duty at night and we don't have massive numbers of drownings. Does it happen to people drown? They do but in general, they're behaving stupidly. And the key thing to understand is, maybe there's a difference in how you should behave. If there's a lifeguard there to save you. Or maybe there isn't that much difference in the lifeguard is really when things have gone very, very wrong. Kind of a last.
+
+Heather 26:47
+lifeguard shouldn't be Plan B, it should be planned said
+
+Bret 26:50
+it should be plans that so you know, can you go to the beach? If there's no lifeguard on duty? Yeah, you should be able to go to the beach if the lifeguards on duty. And frankly, you should have the wisdom to know how to view your safety in a place where government can't take care of me
+
+Heather 27:10
+is a question about whether or not we've seen a particular article in the Houston Chronicle, which we haven't. But it is apparently about the link between COVID-19 and strokes. And this is something we didn't get to in the first in the first hour of today's live stream. But yeah, on April 17, science published a news article suggesting that blood clots were perhaps a major predictor of mechanism of harm and COVID-19. And then on April 25, that's today. wapa, The Washington Post published an article which you would send to me on, you know, which had healthy young people, you know, 30s 40s, early 50s, youngest, youngest youngest people with no underlying health conditions, experiencing strokes, a rather unnerving rate. And also, I think in the same article, maybe there's a suggestion that there were a whole lot more deaths from stroke. Maybe in New York City, I may, I may have the information wrong here, but for which we will never know if they were COVID-19 related because autopsies weren't being done because the morgues are otherwise involved at this point. Yeah. So there's there's possibly quite a strong suggestion of mechanism of blood clots here of strokes as being a risk for even young healthy people. And once again, we are perhaps never going to have the entire story because some of the information is already being lost.
+
+Bret 28:44
+Yeah, although it would seem that awareness now might cause us to be able to, to test new cases. I think it was also striking not only were young people getting strokes, but they were getting strokes that were characteristic of old people. Yeah, that's right. So anyway, yes, it's conspicuous and does suggest something. 30 minutes.
+
+Heather 29:06
+30 minutes. We're going to try to get through just a couple more of these apologies. We're going to, and then we will, we will switch over. Okay. Have we run into any papers surfacing on the potential neurological impacts? Yeah. Boy, it's terrifying. And I don't know what more we should say about that. Now, we'll probably come back to it another live stream, not just respiratory, but cardiac, neurological, basically, every system seems to be potentially affected here.
+
+Bret 29:38
+So this actually is touched on in the medium posts that we pointed to in the first half of this live stream. And I've seen it in a couple other places. And what seems to be emerging is at least some of the neurological connection for COVID-19 is the result of a bad interaction. With herpes viruses which reside inside of neurons, and I believe the medium post suggests that the possibility for SARS Cove to, to enter neurons may be the result of a novel protease insertion, which is one of the places in which it is in which this virus seems to throw a challenge to us phylogenetically. So, a unit that shouldn't be in the genome based on what it's related to, that seems to be that may be facilitating transition into neurons, which has then also been connected by others, to the symptom that some people get where they lose the sense of smell and taste, all of a sudden, maybe due to inflammation in the central nervous system.
+
+Heather 30:50
+Okay, we're just going to do two more in this Super Chat and switch the other one apologies for the many questions that we've missed. What is are your opinions about the possibility of runaway global heating, producing a scorched earth and extinction of most of life currently here?
+
+Bret 31:08
+Hard to say, I do think climate change is a very severe danger, even in a case where it is relatively if we choose amongst, as I've said elsewhere, many, many times, I am not a fan of these highly complex models that imagine they can predict what the future of planet Earth looks like. I believe that the proper use of models is to generate hypotheses which can then be tested against actual data so I don't like spooking ourselves with models. On the other hand, one of the things that people I think fail to appreciate is that even minor amounts of climate change are likely to be very destabilizing politically, and the system that they are connected to is so fragile that, as we've seen with SARS Cove two, we have a collapse of many global systems as a result of what is actually if you think about the large numbers of asymptomatic cases, a small perturbation, you know, it has created a massive economic hazard. So that is the kind of linkage that can take a manageable catastrophe at the level of climate and turn it into an unmanageable catastrophe at the level of conflict, warfare, refugee crises, those sorts of things. So be aware of the linkages. And I do think this ought to be a a matter of major and immediate concern for us, irrespective of which of the models is most predictive.
+
+Heather 32:38
+I agree. One last question from this. Washington native Love you guys. Thank you. Do you believe that the idea that religions or religious traditions have nothing to offer us is ironically, itself a mind virus maladaptive to human behavior? Thanks. So I like this question. Yes. In short,
+
+Bret 32:56
+yes, I have said so in fact, I, I have said that religion can't be a mind virus, but new atheism can be. And so yes, I think clearly these things have served the populations that believed in them served it doesn't make them good. It doesn't mean that the ways that those populations were served were morally defensible. They in some cases are and in some cases aren't. But have they been adaptive? No question. Or there should be no question logically, it cannot really be otherwise.
+
+Heather 33:28
+That's right. 4242 Thank you. Okay. The last one, from the previous 40 views in less than 43 Alright, here we go. This is to me, ah, ah. Read your bio. I'm trying to figure out which bio is been read here. So read your bio regarding squirrel cuckoos and tanagers. I must have something on my website about squirrel cuckoos and tanagers, which are two of my favorite Oh squirrel cuckoo is a particular species of bird and your tropical bird and tanagers is a clade of just gloriously colored and birds from the neotropics it's the dry season now in the matagalpa Highland jungle in Nicaragua. Yesterday, a rare squirrel cuckoo and the first Scarlet tanager sighting birdbath is only water now. Our melipona bee sanctuary. Well, you have made me want to be in the matagalpa Highland jungle of Nicaragua at the moment. Thank you for that. There's no question there. I think I won't just start talking about squirrel cuckoos and tanagers because I've never stopped. Thank you. Brett, has Eric been watching you and Heather since the lockdown of so what has been some of his feedback?
+
+Bret 34:44
+I don't know. You'd have to ask. You'd have to ask Eric. Okay.
+
+Heather 34:48
+How can an RN protect their family while returning home from caring for a COVID patient? Oh boy. Yeah, that's tough. In part quite early on, maybe even before we began doing these live streams, we read an analysis that suggested maybe in Europe already, health care workers were being provided, places to go such that they did not have to go home. And, and even people who've just tested positive should not have to go home. I mean, this, this is the dotu strategy at the moment, because because hospitals either are or risk of being overrun, but we know that within household transmission is one of the major ways that this disease is spreading. So best if you don't have to go home. But if you do have to go home, and you have any way to self isolate within the home, that's the thing to do. Try to sleep separately, try to use a separate bathroom, try to cook for your family, probably. Anything else?
+
+Bret 35:56
+Well, I, you know, I I'm thinking longer term here. And I think one of the things about this crisis is that it is revealing all of the things that we should have done and didn't. And, you know, I've also been looking at objects and thinking what we have mispriced based on not understanding how they would be valued under this circumstance. You know, mother in law dwelling,
+
+Heather 36:20
+a chest freezer, we sold to our neighbors when we left Olympia
+
+Bret 36:24
+freezer, we sold a an Airstream trailer of a certain size that you could park in your driveway, and if you came home from doing medical care, you could stay in. So anyway, none of that is useful advice for somebody on the front lines at the moment. All I can say is try to self isolate handwash wear masks, even indoors, that sort of thing. But you know, we're with you. It's not a good situation. And we are not happy that civilization has left you in the in the bind you're in? Yeah.
+
+Heather 37:03
+What do you think? What do you think about the low COVID? numbers out of India? Lack of testing? Question Mark, thank you for your invaluable work during these quarren times. It's good word. Boy, there's I I feel like there is something going on in India. And I don't think it's just about lack of testing. And I can't remember what I think the story might be if you've seen anything, I don't have it in my head at the moment.
+
+Bret 37:30
+No, but the variance on levels of testing is so high that it is we have to falsify that as the driver. Before we start trying to explain it as a phenomenon. It needs to at least be a phenomenon before we try to explain what sort of phenomenon it is.
+
+Heather 37:45
+Yeah, I'm gonna I'm gonna try to remember I thought I saw something online about India that suggested that it maybe wasn't at least just about the lack of testing. But I'll try to look into that for next time. Idea Oh, this is from Austin. Hello. Austin is one of our friends and former students. General descent, your grandchildren are you men literally reappear and their sons, sons and women and their daughters, daughters, etc. thoughts.
+
+Bret 38:14
+It's a good metaphor for how to take care of future generations in a way that evolutionarily we would be built to do if our ancestors had had as much power to harm future generations as we do. So. Elsewhere, I will make an argument about the distortion of self. And I think Austin here is pointing to a correction for it that is useful.
+
+Heather 38:42
+Good. Hi, from Portugal, considering the cost of offspring and your deep understanding of evolution, why did you have children? We're asked with Zack in the room. Weren't there cheaper ways to get tech assistance during a pandemic? Love? Do you all including Zach?
+
+Bret 39:00
+Yeah, this is a hard question. To answer. A I hear a lot of people talking about. I don't want to have kids because I don't want to bring kids into a world like this, which I think is actually a bit upside down. Right? I was born into a world like this. I'm not sorry, I'm here. You know, I do realize we're all in right. This is potentially going to go is there a polite synonym for tits up? Now at some point, it might go tits up, but I'm not sorry, I'm here. The worst that can happen is I can lose the gift of life that I was given. Okay, well, that's coming anyway. So why would my kids feel any differently? Right, my kids, our kids, we've been very honest with them about the peril of the world. They've been born into the parallel this particular moment. All of those things. They're not depressed. They are happy inside. nightfall, good people. They're exactly the kind of people you want on planet Earth. So I don't find it compelling that the world is screwed up. Therefore, you shouldn't bring more people into it. Now, if you don't feel compelled to raise children, and you don't feel maybe that you are in a position to do it, well, don't let me or anyone else push you into doing but to the extent that humanity will either go on or it won't go on. Bring the kids into the world that you feel that you ought to have and raise them as well as possible.
+
+Heather 40:36
+Wonderful. This next question has some acronyms in it that I am not familiar with. Does your rodent work on telomeres Breton have implications for CRL populations of rabbit mini pig sheep and pig histone talkshow studies typically required for pre clinical submissions for ind and Id approvals from the FDA. All right
+
+Bret 40:57
+off FDA I've got Yeah, yeah, you got all right off the top of my head. The the argument I made in that paper was that this problem of breeding mice in a laboratory environment creating an elongation of their telomeres, which then distorts their longevity and risk of cancer. That hazard will happen any time you breed small animals in an environment where you're trying to maximize the return on your investment. So that is to say, anytime you're trying to get the maximum number of mice from the minimum amount of mouth Ciao, you will end up making the same error where you breed young animals and in small creatures, breeding young animals will cause this effect. And I believe it has been seen in chickens. It's been seen in Asian hamsters. It's been seen in rats, it's been seen in mice, I don't know if it's been seen in anything else. But at some point, an animal is large enough that when you elongate its telomeres in this fashion, it doesn't survive to reproduce. So it's not a viable mechanism. I think pigs are likely too large to see this effect. So below a certain size, you will see it above a certain size, you probably won't.
+
+Heather 42:14
+So the next question probably responsive to the previous one is are mini pigs real?
+
+Bret 42:19
+They're no more real than birds.
+
+Heather 42:23
+an invasive species in your opinion, are humans part of nature, I hope a full discussion on the topic on this topic one day outside of the desk because desk. Yeah, of course we are. We have spread across the planet more fully and more widely than any other species. And it's interesting to compare us to some of the other generalists mountain lions do a pretty good job, most of and that's without our help explicitly. Most of the other really widespread species have done so with our help things like pigeons and their Norway rat and a few cockroach species. But yeah, we should we should probably talk explicitly about invasive species at some length another time Sure. How are we doing on time Brett? Zack 44 minutes Okay. Why is UV light via in depth endoscopy not being taken seriously as a treatment at specific wavelengths. It's been shown to be safe on skin and effective on virus.
+
+Bret 43:27
+Yeah, I don't know. This is one of these things where until it is investigated. We don't know how well it works. But this was apparently a cure that was being advanced for a time and apparently it was extremely useful. And then was it for for I can't remember No, no, not for Coronavirus. It was in the context, I believe maybe a polio. But anyway, basically sanitizing the blood either by circulating it out of the body through some UV or putting some kind of a light in the circulatory pathway apparently was effective for some things, and then was almost immediately eclipsed by some alternative therapy. That became the standard. Anyway, I'll look into it see if we can't find a link for the next live stream.
+
+Heather 44:17
+Well, the cynic in me suspects that UV light is impossible to patent and the replacement was drug therapy. But But I don't know this. I obviously don't know the story you're talking about. News accuracy Gell Mann amnesia effect. Yeah, that is the answer to the question of what the what the name of the effect that you were referencing earlier. Yes, thank you for that. Considerable donation from Jim fry for another chest freezer. Thank you for that. Unfortunately, the problem at the moment is they're not available. Seriously Do it Do a search like you went looking early on at Home Depot and Lowe's and we're finding them out of stock and just yesterday, the day before I was looking and they're all backordered as far as I can tell through July So there are a lot of people out there trying to get some stuff in storage before possible breaks and supply chain to things like beef and pork, for instance. Right? How Why is my grandpa and his ugly feet? Meanwhile I have cute feet and I'm short. Well, maybe it's not your grandpa? That's possibility. You heard it here. Yes, I hope. No, seriously. Your grandpa is on average 25% related to you. Because you get half of each of your parents DNA and to 50% related to each of your parents. And they, in turn got 50% of their DNA from each of their parents. And you multiply those halves to get one quarter on average relatedness to each of your grandparents, and similarly to each of your grandchildren, which presumably you don't have yet. But that doesn't mean that you're exactly 25%. So this is this is only one kind of way to answer this question, of course. But that doesn't mean that you're exactly 25% related to your grandfather, you are, on average 25% related to your grandfather, or everyone is on average 25% related their grandfathers, and that can range from zero to 50%, which is to say, if your grandfather happened to have passed on to his son, let's see how do we do it. If If you received from your father, only that part of his genome which came from his father, which is say your grandfather, then you would be 50% related to your, your grandfather, exactly the same degree that your father is related to him, but the chances of that happening are very low. And similarly, if your father receipt passed on to you only that part of his genome that he got from his mother, then you would be 0% related at a genetic level to your grandfather so goes from zero to 50% 25%. And basically your your cute feet, which we're gonna remain agnostic about, and our you know, potentially just, you didn't get your grandfather's feet illegals. And then of course, height is this continuous variable, which is informed by so much besides genetics, it's it's informed by early developmental experience and, and food especially.
+
+Bret 47:22
+Yeah, I would also just point out, in my case, my brother and I are full siblings. And we are miles apart in height, his height being anomalous in the family. And what's more, we know that the story my mother tells us being full siblings is true, because Eric and I share a rare colorblindness so we see color alike and like nobody else we know. So anyway, all I would say is that these parameters are complex, what group of alleles you get, coupled with the environment that you're raised in has big impacts on what your phenotype ends up being. And so you can be wildly off of somebody or closely related to, for many reasons.
+
+Heather 48:15
+If we are living in a simulation, why have a child we're not living in a simulation?
+
+Bret 48:20
+Well, I don't know which we they're referring to, they may be living in a simulation. We are not living in a simulation. And so that's why we had kids, right.
+
+Heather 48:27
+There you go. Okay, so we have just a couple of minutes left, I think sex that right? We have 10 minutes left. Okay, so we're going to answer one or two more from the previous Super Chat. Joe Rogan insists that taking high dose vitamin C and D boost immunity on his podcast constantly, not correcting deficiency. hasn't this been debunked? For instance, the Linus Pauling debacle in the 70s?
+
+Bret 48:57
+I What I don't know is how we know that we are not correcting for deficiency. In other words, deficiency could mean a lot of things. high dose vitamin, I mean, I guess, presumably what the question means is that doses that are so high that you would have corrected for any deficiency early on in the protocol, which still have a positive effect. But nonetheless, a lot depends on what a deficiency might look like.
+
+Heather 49:25
+One thing that a deficiency might look like for vitamin D, is that the the advice the widespread advice to slather yourself from head to toe with sunscreen every time you leave the house that has been prominent in at least America for Gosh, decades at this point, has probably led to widespread vitamin D deficiency. The idea that sun is actually both good for you in some doses and important was considered anathema in medical circles and, and still is in many, I would say, so, you know, needing vitamin D And not being able to get it from the source that you, you should be getting it from may have left many people with considerable deficiencies. So your argument here, as I hear it is, you're not compelled there that it's not corrected and deficiency.
+
+Bret 50:15
+Yeah, I'm not I want to see the protocol that demonstrates that it boosts immunity. That
+
+Heather 50:23
+So basically, this is so right. But this is harking back to something we talked about one of the last couple times where the idea of boosting immunity beyond something that is normally at raises the question of why why then if the immune system could do that, isn't it normally doing that what kinds of trade offs right is, is are being invoked, whereas if there's some sort of threshold line that the immune system should be set at, and we are constantly many of us are constantly effectively ill enough from some effects like not getting enough sunlight, such that we are below that line, we are not trying to boost beyond what is normally selected for but just get back to baseline,
+
+Bret 50:59
+especially if in order to source high amounts of vitamin C, you have to go outside and so you get a compensation for vitamin D that you were lacking. Yeah, I don't know, it's also possible that there's some sort of an extreme a file effect. Vitamin C is water soluble, one of the reasons it's safe to take large amounts of vitamin C is that your body has a very easy time flushing it. So it's possible that introducing a bunch of vitamin C does something like changes pH, and it functions. In an analogous way to a fever, a fever takes a pathogen that is evolved to parasitize, an individual who has a particular native temperature, and it alters the temperature on them putting in an environment they're not adapted to. So it's possible that introducing large amounts of vitamin C might simply give a challenge to pathogens that were working to infect you that they would find inhospitable, but that's very different. When we say immunity, we're actually talking about a category of cells that has particular kinds of activity. So you know, is vitamin C, for example, acting prior to any immunity and looking like it boosts immunity by virtue of the fact that you get less sick or get sick less often? Or is it actually tied into the immune system in some way? Yeah.
+
+Heather 52:26
+Which I've never heard that second thing. You know, I've heard a lot of this up boosts immunity. But might it not, you know, if Pauling was right about anything to do with vitamin C actually being one of the things that we don't have enough of in our diets? in a class of things called antioxidants? Is it possible that vitamin C is only doing that thing, which is basically scouring the human ecosystem for easy targets to basically cleanse us of that has absolutely nothing to do with immune function. Find yourself if you're in an appropriate level of possession of vitamin C in your body, not getting sick as often. And so it feels like I've got immune health, and it's actually other kinds of health and health. What core belief are good, genuinely, genuinely motivates you to hope act and keep going? That's not yet.
+
+Bret 53:24
+Yeah, for me, I guess I mean, this is a very, it's a very personal thing. You know, it's about motivational structures. And let's just try try this. Imagine for a second, you're standing in a football stadium, and you're surrounded by all of the materials that are unrecoverable that you will use all the barrels of oil that will be lost, warming your house and fueling your car and all that, and all of the trash that will be thrown away and never recovered. Right? It's a giant mound of stuff. My feeling is, it makes sense to try to live such that that amount of cost to the world is more than compensated for. And it's not easy to do. And most people actually I don't think have the opportunity to do it. But for those of us who do have the opportunity to make the world better in some way. I sort of feel like it's, it's the price of admission. And anyway, that motivates me. I like to do things that as far as I can tell, count favorably towards my net impact on planet earth while I'm here. Your mileage may vary.
+
+Heather 54:44
+It's good. I think maybe that's it.
+
+Bret 54:47
+All right.
+
+Heather 54:50
+Super Chat. Our new Super Chat is would Zack be willing to check on the video being out of sync with the audio
+
+Bret 55:00
+Zach would very definitely be willing to check. But I know from many conversations with Zach, that this appears to be happening on YouTubes. And we had it on an early couple of live streams. And we are now seeing it again. And the cure came as YouTube altered something why we're seeing it again, we have no idea could be the time of day. Not sure. But anyway, we apologize for it, we will continue to do as much troubleshooting as possible, but this appears to be downstream of us.
+
+Heather 55:34
+Okay, so it sounds like we've got time for one or two more questions. I'm just trying to find which ones we haven't answered yet here from the first Super Chat. Since you're both currently working on a book, do you have any writing advice based on your fresh experience, this is definitely going to be highly variable by person. I know that I tend to write in bursts and then like to go and walk. So if I've great if I'm in nature, and you know, I write for a while and then I go hiking for three miles or three hours. We did this in the Amazon in January. But I also then in February when I got really sick, didn't LA and other places as well, San Antonio back in November, and often in within cities, I'll go between coffee shops, and you're right for a while and then just walk and walk and walk and find another coffee shop and have some more cappuccino and, and write again. That's, you know, one of many, many ways to answer the question, but it's one, it's one truth.
+
+Bret 56:39
+I am coming to the conclusion that writing is best done. After digging, you dig a hole, you throw all of your connections to the internet into it, you fill it in, and then you can go right maybe with a typewriter or something like that. But somehow the internet is a major obstacle to getting things done. That one needs to get done. For me.
+
+Heather 57:07
+All right. Alright. Let's see. Apologies, guys. Yeah. Iceland apparently had 790 positive 1570 recovered 10 deaths very low.
+
+Heather 57:30
+death rate. I apologies, guys, I'm just having a hard time finding reading these questions.
+
+Heather 57:40
+Are there any experimental peptides, drugs, experiments with any degree of success with telomere integrity? I see lots of research online. Your thoughts, please?
+
+Bret 57:52
+Yeah, I don't think telomere integrity is it's the wrong model. It's as if people imagine that your telomeres are fraying like the aglets on your shoe laces. But that's not what's going on the telomeres are eroding. And that is an adaptation. The loss of telomere is protecting you from runaway cell lines. And the way we know this is the telomere integrity was maintained consistently in our first ancestors that had telomeres. So we are complex. eukaryotes, linear chromosomes. That's where telomeres show up. But the first eukaryotes were colonial single celled creatures, actually, the first ones weren't colonial at all. But quickly thereafter, you have things like yeast, right? So yeast has linear chromosomes, they have telomeres on their ends. And those telomeres are maintained at a given length, because there's no such thing as cancer in a yeast cancer is growth and growth is positive. And so what I'm telling you is that shortening telomeres evolved after the magic for keeping them from shortening had already been discovered by selection. That tells us that the fact of them shortening is not because selection hasn't figured out how to protect them. It's because they're shortening is valuable. And the reason that it's valuable, I believe is the one that I argued in the paper that has now gotten some attention, which is that they're shortening protects you from cell lines that have escaped and would grow into a tumor that would crowd out some vital organ and kill you. So in some sense, you should be grateful for the fact that they're shortening and you should be more accepting of its downside which is that you will grow feeble with age.
+
+Heather 59:37
+So at some level, the very terminology telomere integrity, misses the point that there is a trade off. It assumes that there is only one direction to be to be pursuing and of course the cancer researcher the anti cancer researchers in the anti aging researchers, if they use a term like tumor integrity would see it in opposite directions. Yeah.
+
+Bret 59:59
+And even more so I believe the question referenced things he sees on the internet where people are trying to sell you stuff and the idea that you are degrading because of some flaw in your molecular makeup that can be counteracted by some simple other set of molecules. That's a very nice story. It is not true. Yeah. All right. I think that's it. Okay. Well, that was great. We will see you all next time. We appreciate your support. Please like, subscribe, notify and spread the word.
+
+Heather 1:00:34
+And we'll be back on Tuesday at 330 pacific time. All right.
+
+Bret 1:00:38
+Stay safe.
+
+This transcript was generated by https://otter.ai

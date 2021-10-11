@@ -1,0 +1,511 @@
+Bret 0:06
+Hey folks, welcome to the Dark Horse podcast I have with me, Yuri Dagon, who is in Moscow. He is a tech entrepreneur and longevity researcher, who has recently come to my attention as someone who has done extensive work looking into the origins of the SARS Cove to pandemic, and I was very impressed when I read his paper on medium. I talked about it previously on the podcast with Heather, and so many of you have seen his work. What you may or may not know is that, especially this week, that work has shown up in a number of mainstream publications as a a strong bit of research pointing in the direction of at least not shutting down the laboratory origin hypothesis for the virus. So, Yuri, welcome to the podcast.
+
+Yuri Deigin 1:02
+Thank you. Thanks for having me.
+
+Bret 1:05
+So you and I have talked a number of times about what this virus looks like to us. And why it is that we're having trouble swallowing the official story that this virus clearly came from nature, perhaps through a wet market. But that it has nothing to do with the two labs that study bat borne Corona viruses in Wuhan, China. So what I want to do is bring the fans of this podcast along a bit so that they can get the view from somebody who really does understand the biotech aspect of Coronavirus research. And they can make a judgment for themselves based on real information rather than just dueling personalities making claims. So
+
+Yuri Deigin 1:56
+I hope I can fill those shoes. But thanks for the credit of knowledge,
+
+Bret 2:02
+well, I know you're giving shoes, I you know, I think you don't fully believe that you are at an epicenter of history. But obviously, the pandemic is a major historical event. In some ways, it is a singular historical event and your work on you know, your work, which is you know, not in the laboratory with coronaviruses. But your work, revealing the patterns in that, that body of literature, and what they suggest about what is possible. And what we have to consider with respect to this pandemic, that work is the gold standard, you've really done a better job than anybody else surveying that literature and pointing out what it implies. I mean, it really, there's one problem with it, it's that the work is so complex that I had to read your your paper twice in order to understand fully what you were saying. And I think for lay people it's out of reach until we unpack it for them a bit. But it really is very high quality work and you're courageous to put it out.
+
+Yuri Deigin 3:10
+All Thank you, I just, you know, disclaimer that I'm not a biologist by any stretch of imagination. And I mean, my knowledge of biology is, I think, you know, just at a level where I can just see genetic patterns and blast sequences and see differences or similarities. And that that medium, post post or medium article is nowhere, like it's not a St. diffic paper. And it's not meant to be it's meant to be just an overview of the things that pyrolysis biologists have been doing and the kind of research they've been doing. And just my kind of ramblings about the things that I would have thought could have pointed at a lab origin or natural origin. And I was kind of sharing my my journey, which took me from initially being extremely skeptical about the possibility of lab escape to being much less skeptical and actually quite upset that so many established scientists just dismiss this as a conspiracy theory, which kind of leads people like me initially, who trust scientists trust their opinion to just by association to do the same. And then but actually, when you look at the facts, I don't think we can be that, you know, sure that this is not a lab leak. And I think those are all biologists who claim that you know, there's zero chance or virtually no chance of this being allowed to skatepark to put it mildly incorrect.
+
+Bret 4:48
+Well, you know, you're obviously bending over backwards not to say what I think is clear to both of us, which is, we can't say that this is a lie. oblique but we can say anybody who tells you for sure that it isn't is either very confused about the facts or not telling you what they know. And that that, you know, you're not a biologist. But in a sense, that may be why you're able to play the role that you're playing. Something about the incentives that surround mainstream virology at the moment has caused the entire field to line up behind a story that is incorrect. That lab leak is not worth considering as a hypothesis. And as I've pointed out on the podcast before, that puts us in a very dangerous situation because at the moment when we have a global pandemic unfolding with a bat derived Coronavirus, the very people who need to be at the forefront of helping us understand what that means what that implies about the the mechanisms at work in this virus, those people have all compromised themselves by telling us a fairy tale. So what I'd like to do is unpack a little bit, what the evidence does look like, and what what it doesn't yet tell us. So can you outline what the the facts are that are most striking to you with respect to unpacking the or with respect to sorting out what the most likely explanation is?
+
+Yuri Deigin 6:31
+Sure, well, I mean, the biggest coincidence with big The most striking thing is this happening in uhand, which is, you know, next door to the lab that is like the number one lab in China on coronaviruses. And this lesson itself is a huge coincidence this that hasn't been explained at all at this point. And which has puzzled many scientists, including Xi Zhang Li, the chief scientist in Coronavirus ology she's not the head of the Institute, but she's like probably number one leading scientists or the most recognized name in Coronavirus ology in China. And she herself was the kind of the number one person suspecting a lab leak out of her lab because well is is a very odd place for a Coronavirus leak to occur from like a bad Coronavirus. Because, well, first of all, they don't really eat baths in in wahoo Bay, as opposed to like in the south of China, where actually like one dawn, where it's, it is partly cuisine. And I don't know all this like to me, like when people were initially saying that this is odd. I thought, Well, come on. It's the wet market. Yeah, it's like maybe a small chance of happening, but I'm sure they have bets there. But when I actually looked at the evidence, but before I became skeptical of the impossibilities of the lab leak, I thought that you know, it's not not a big coincidence, but after looking at it, I realized that it is a huge coincidence, because and those bats that carry those coronaviruses, they don't live in nowhere near where they live, know, 2000 kilometers away in eunan. And any other outbreaks of Corona viruses like SARS, or hkcu, one that happened that happened in the I guess the tropical climates. And one is just very, very odd place for this to have occurred.
+
+Bret 8:39
+It's an odd place. It's also an odd time since those bats would have been hibernating to conspicuous facts that suggests something about the Wuhan origin is is odd,
+
+Yuri Deigin 8:51
+right? And we don't have any, any other any explanation like natural origin explanation of how the virus could have gotten there, like the scout scoured the web market. And now even like the official Chinese sources dismiss this hypothesis that No, actually white market is not the place of origin of the epidemic. And so it's just a huge question mark, which isn't, in any way explained at this point and, and lab Leake explains it perfectly, you know,
+
+Bret 9:22
+yeah. So I think it would be worth pointing out that you and I had a parallel journey in this regard. You were initially researching to basically to buttress your argument that the lab leak hypothesis was an empty one. And as you delved you discovered that it wasn't an empty hypothesis at all. For my part. I was in the Amazon with Heather completely out of contact with the world. And we emerged from a very remote location the tip a teeny Biological Station. into into we came out and went into the Andes for a couple days. And we started to look at what was on the internet that we had missed. And there was a story about this Coronavirus, circulating. And, you know, this was very early. This was in, in February and I looked at it and I'm a bat biologist, and I saw, okay, there's a wet market, people are eating bats. This is a bat borne Coronavirus. The story looked very straightforward to me. And so I tweeted about it. And I said, You know, I haven't done a thorough look. But what I understand from the evidence here, this does look like a virus that would have been in horseshoe bats, and that it would have emerged through contact and I said something about wet markets being dangerous, I think. And I immediately got back a number of replies that said, so you think it's a coincidence that it's in the same location as this, you know, biosafety lab level four, that studies bad coronaviruses. And I immediately retracted my tweet. And I said, there's obviously something about the story, I don't understand, because that's a huge coincidence. And, you know, I initially thought maybe, the facts wouldn't turn out to be what I thought they were, they would turn out, you know, as you wondered, maybe these labs that study these viruses are really very common. And so showing up in Wuhan, isn't that special, because if there are 1000, such labs or whatever, then, okay, emerge near one of them. But no, this is one of the two most important labs in the world that studies these viruses. So anyway, that that moment of waking up to these coincidences are too big to ignore, then leads you into the biology.
+
+Yuri Deigin 11:43
+And kind of one of the quantum contrary points that was being made initially was that, of course, they had the lab where the bats are so but then you actually examined and realized No, those bats don't live anywhere near the lab, they live 1000s of kilometers away. And that, that that alone was enough to make us you know, scratch your head and think maybe, you know, this is all to this story that people like virologists make it out to be. So yeah, a lot of questions that kind of led me down the rabbit hole. And after looking at the kind of research that has been going on in that lab, and around the world, the lab leak hypothesis has become much more probable than than initially thought. Yeah,
+
+Bret 12:31
+the I think the frightening thing to me, maybe the most frightening thing here is that if you have the background that allows you to just even begin to look into the facts here, and you don't have a dog in the fight. You're not a virologist, right, or you're not signed up with a political team that's selling a particular story, then you instantly end up in this rabbit hole, where all of the things that you're told about why you shouldn't pay any attention to that hypothesis turned out to be paper thin, and then all of the things that might point in the direction of the lab turned out to be harder to dismiss, then then you would like them to be. And so at the point, you start talking to people about this, you discover that the resistance to this idea is not based in facts or logic, it is based in something else, but it is very strong. So have you encountered this? I don't know if I said at the top, you're in Moscow, you've been in Moscow for the whole duration of the pandemic.
+
+Yuri Deigin 13:37
+Yeah, right. kind of got stuck in Moscow. Once the flights got canceled and the borders closed. Up. Yeah, absolutely. uncom encountered it. And actually, I was a bit surprised that the strongest opposition to the idea that lab leak is possible. I got from the rational scientific community and people who also supposedly, you know, they don't have any dogs in this fight either. But to them the very kind of thought of even considering that the scientists could be lying to them. That was blasphemy and they, you know, very harsh and the criticism that I'm just kind of peddling baseless conspiracy theories, but well actually pressed for kind of a logical explanation why they think it's, it's okay to dismiss a lab hypothesis. Why do they believe so strongly that you know, it's cannot possibly be a lab leak, they don't really have any evidence or at least nothing strong, like conclusive. Eventually, all ended up being dependent on the 4% difference between the sequence of genomic sequence of SARS to and the nearest common ancestor the our ATG sequence or ATG 13 that will help have released and it all kind of takes one at the word that this is the only sequence in the closest sequence they ever had. And completely just trust them and thinks that you know that that's those people think the Russian kind of critics think that that's the strongest evidence that this couldn't have happened inside a lab.
+
+Bret 15:21
+Right a sequence which is that came from a lab that obviously has a tremendous amount at stake in the question of whether they're
+
+Yuri Deigin 15:29
+absolutely and it's very suspicious way in which it was revealed. And just those little half truths about the sequence that were like revealed in a piecemeal fashion on like limited hangout fashion that to this day haven't really been explained nobody has been pressing the Wu Han or Shi Shan Li about the sequence whereas there's so many questions about it first and foremost being Why didn't Why did she rename it? Write it and why didn't she mention in the 2000 you know 2020 paper? Why didn't she mentioned that she collected it in 2013 from a mine in which six six people got SARS like pneumonia
+
+Bret 16:15
+Okay, so my my listeners are not going to have any idea what you're talking about. Yep, so let's let's put this story together so that they can follow it. So let's do our a Tg 13 is the name of the name of the individual from which the sample was collected an individual
+
+Yuri Deigin 16:36
+name it's actually named the strain ra is renal office fitness
+
+Bret 16:41
+Yeah, that's right true. lat rhinolophus anus which is which is a horseshoe bat
+
+Yuri Deigin 16:47
+right it's no one of the like the horseshoe bats are like a big family and finances yeah is because they have cynic us as well as cynic as bass rattle off a cynic because we're the ones who had the first stars and that was the kind of bat family that she she only initially specialized and, and affinis is kind of the one that like the ones who initially dismissed or at least she claims, but this is the one that harbored this strain. So raise the bats TGS Dong Guan Zhang worked on one or two on one Jan is the place where the mind it was that the area in in eunan in 13, is supposedly the year the 2013 order they collected the sequence. Okay, so the nomenclature, you've
+
+Bret 17:38
+got a lab that specializes on that coronaviruses they are studying these viruses, they're their grants and their papers point to the danger of a virus emerging from nature. They point to bats as a likely place for a Coronavirus to come from on the basis that SARS the first SARS SARS. Cove, the initial one appears to have emerged from a bat. And so their point at a scientific level was we need to study these viruses and how they might emerge so we can prevent a pandemic is that approximately right?
+
+Yuri Deigin 18:14
+Yeah, I may have grants for this for probably over a decade, work together with equal Health Alliance, Peter dash AK, we'll come back to him heading that. Right. But the story of But let's get back to the story of the strain the RPG strain. It wasn't originally named RTG 13. And in 2020, it was only revealed that what they will have Institute claimed that they fully sequenced it and they said that when they collected it in 2013, they only sequenced a very short fragment of its rdrp gene. The polymerase gene that copies of virus, which they was their standard practice to determine pretty much the phylogeny of it wires,
+
+Bret 19:04
+no sorry, I was already interrupt you. I want to go back to the to the to the sequence of events so that people can follow in 2013. This Wu Han Institute of virology lab that studies emergent coronaviruses because of the danger of a pandemic is looking in Yunan province in a cave in a mine that has horseshoe bats and they're looking there. Am I correct that there has been a minor outbreak? There's a minor outbreak of pneumonias,
+
+Yuri Deigin 19:37
+right well they have six minors having a minor outbreak.
+
+Bret 19:43
+No, I like it.
+
+Yuri Deigin 19:46
+And so they were invited the institute was invited to investigate the outbreak actually happened in 2012. And so they were invited in 2012 she gently and one Institute and other some other vital ologists from other Institute's from across China. We're invited to kind of look at the mind look at the viruses that inhabit this mind. And or they have I think four, three or four trips and they collected extracted this one in 2013 probably the last trip that for in that time span and by then the three of the miners have died and they also analyzed four of the miner samples so the for surviving miners two miners died right away four miners were in the hospital and they have their blood samples sputum samples collected and sent to the EU and is virology on the advice of the head an academic in China responsible for SARS, Dr. Zhong non Shawn I hope I'm not butchering his name. So on his advice, they sequence the minor samples not sequence they check the minors, blood samples against various viral antibodies. And antibodies for SARS. The first SARS came up positive they detected idg SARS antibodies, which of course is hugely suspicious because the first SARS outbreak was pretty small in China it was just about 5000 people in mainland China. So the odds of having four miners in the same cave carrying antibodies from the first outbreak are like negligible most likely it's actually just SARS antibodies cross react with a close relative another SARS like strain which you know, which she only was on the hunt for for many years. And now we know that this of course the SARS too is a SARS like strain like it's close enough relative the relative that has a high chance of antibodies cross reacting. The antibody test for the first SARS cross reacting with any kind of SARS like antibodies that could have been produced when people are infected by by SARS tour our ATG 13 or any other similar strain that could have been in that cave. And so the fact that this was never mentioned not like all of this knowledge now about the four miners having SARS antibodies about mining Institute testing the miners blood samples, is only been revealed in the past few weeks through like Twitter activists digging into Chinese PhD and master's thesis in Chinese there will never translate it into English. And so you know, when, when we kind of look at this, the story of cheesy alien Peter dash saying that when they discovered this bad strain in 2013, it was so uninteresting to them that they put it in the freezer, and never touched it until 2020. Just by sheer luck, they sequence SARS to and and saw similarity to this little fragment that they initially sequence. That story kind of becomes hard to believe, you know,
+
+Bret 23:02
+I mean, you're you're being generous it, it does not add up. The fact is right you have a lab that has dedicated itself to studying SARS, like Corona viruses, they haven't happened on a cave in which humans have been infected, the first step in the pandemic sequence. Yeah, and you've got these great cross reactive antibodies. So this is what they're looking for. And their story that they at the time regarded it as unimportant just simply holds no water. I would point out that there's another important piece of information here for people trying to understand why you and I and a few others have landed so far from the consensus perspective. One of the things that is maximally conspicuous to me is the virus that emerges in Wu Han is ready to go. Right? It is. It is adapted to human beings. There is no evidence of a phase in which it is fumbling about trying to discover the means to infect human cells well enough to become spreadable, right? No evidence of that it hits the ground and boom. Now, the story from 2012 2013 in this cave, this mine and eunan is indicative of something that must be true, which is actually little jumps into human beings are not that uncommon. In general, no pandemic arises because they don't experiment successfully. The viruses don't experiment successfully, and discover the key to infecting large numbers of humans. So people may get sick, they may die, or they may get sick and they get better. But the world doesn't end up knowing about these things because it's a tiny outbreak of pneumonias and they're pneumonias all the time. So the fact of the virus in Wuhan being so well adapted The fact that we have evidence that viruses that are not especially well adapted, do jump sometimes, and it doesn't turn into something that we notice at a historical level. These two things are really important. And then you have a laboratory behaving oddly, with respect to the exact thing that they claim to be looking for. We know they were looking for it, we know that they were working on these things. And so now I want you to unpack if you will, the oddness. So this is again, something that you called my attention to, I never would have gotten there on my own are ATG 13 is the strain that is revealed in 2020 after the pandemic begins or right 2019. Okay, so this is the strain that
+
+Yuri Deigin 25:41
+on January 29, I think it was published by Sheree Janeway. Yeah, okay.
+
+Bret 25:45
+Was she jangly publishes a sequence, he says it's the closest thing we've got to the circulating virus, the virus that's circulating in the human population, it comes from a sample we collected in 2013, in eunan. And we didn't think much of it at the time, but here it is, we've got it. Or we had it. Am I correct that they do not?
+
+Yuri Deigin 26:08
+Yeah, she just mentioned in passing and like, very short sentence, she never mentioned the mine, she never mentioned pneumonia. And it's a different name from the one that they have given it in 2013. And also, they don't cite their original publication in which they're revealed as this original short sequence of this strain. They initially, they call it 4991, that call for 191991, which is just the number of the sample. And it's just odd that they decided to rename it and never mentioned the, like the original strain.
+
+Bret 26:49
+But legally speaking, this is unacceptable, you would not rename a strain and not at least leave some pointer that explains why you renamed it and allows somebody to trace it. And I think people should actually look at your Twitter feed, because they can see you, as you're trying to sort out you've got these sequences that may in fact be the same strain under two different names. And you simply pose the question on Twitter, are these two the same? Right? And it turns out that we now know that they are based on a well what is
+
+Yuri Deigin 27:22
+now they claim they are it's it's it's I mean, there's some wild speculations that may be maybe they just they couldn't bring themselves to claims are the same thing because they just took the four nine on once the little fragment, and they kind of worked around it, put something closer to SARS to but maybe the the actual actual initial sequence is different. Or maybe it's extracted out of the minor samples. There's like this, so many possibilities, and I agree, they're, they're just, you know, wild conjecture at this point. But it's just very odd. Yeah, why would you know, scientists not even mentioned not inside themselves, they're, you know, previous work where they collected it, they should get some, you know, additional accolades for it. And they just can bring themselves to to mention this and remain quiet about it. And still, they haven't explained, they just all that happened is in their internal database, there's some big Chinese database on viruses, all they did is they kind of added in the 49912, the description of the RTG sequence just in brackets, which kind of indicates that now they have confirmed that it's indeed the same sequence that they collected in 2013. But there's been no official commentary, and there's been no official explanation. And even I think in the follow up paper, paper, they still don't cite the 2016 paper by by by the Oregon Institute authors, which just very odd behavior. So as if there, go ahead, yeah, no, I don't know, it's either there, I'm really uncomfortable with what they're doing or, because I mean, it's obvious that, you know, once they reveal it, people are going to arrive at the conclusion that it's the same sequence, I mean, their original fragment four, nine, and one was submitted to GenBank. In 2013. It's not like it can be, you know, deleted from there. So it's very odd that, you know, the way that they chose to, to, you know, disseminate this information to the public.
+
+Bret 29:42
+So in some sense, the odd relationship between sample 4991 and ra t g 13. The fact that they appear to be based on the same, the same strain are not identified as the same strain. It's hard to avoid the impression that this is functioning like two sets of books, where if you don't want somebody to be able to follow a trail, you could rename something so that it doesn't connect to the other things that would constitute evidence of what it really was. So I'm not saying that that happened. But I am saying, it is very interesting that this lab is behaving in an scientifically unorthodox unacceptable. And if it's intentional, unethical way, with respect to samples that are now at the center of a historical pandemic, whatever its source, we have a right to understand what it is that these samples are and what the relationship to each other is. And then you mentioned databases. What has been your experience looking into these databases in order to figure out what connects to what?
+
+Yuri Deigin 30:51
+So there's another database where there was another database by she generally herself, like her private, not private personal database, it was public at the time. And she essentially collected her own little viral samples, or pasted some little parts of the genome that she thought were interesting into this database rather than submit them to gene bank or other databases. But so that database had been has been missing, it seems to have been deleted, the link for the download link is no longer available. And also the database was kind of in the midst of a bit of a lot of scandal, but was very interesting to see that on December 30, she generally kind of scrubbed the database of some mentions of arthropod vectors, or like mosquitoes, or she changed those names to not just phrases to change the bad coronaviruses. So initially, it was a database of potential wildlife coronaviruses and zoonotic interactions, or actually host switching interactions. And all those mentions were deleted and replaced by just bat and rodent coronaviruses. Which, you know, a lot of people notice that, and maybe the time whoever Well, it was done under Shelley's idea think whoever was doing the changes probably didn't realize that there's a change tracking system in place where people can just go back to the previous version of the description and see the differences. And I mean, that's that's kind of a minor thing. The major thing is that now, the 16 megabyte database that was previously available for download is no longer there. You You know, the download link, if you click on any just get an empty archive back, and people have tried contacting the host hosting provider of the database to check you know, can we it wasn't their backup file? Can we get it back online? And the response they got was laughable that I'm sorry, we didn't keep the backup, you know, it's they didn't keep the backup of how Yeah, how things can be. Which I'm sure that virology labs that probably have the backup because it was just one level multiple file. It's not that big, just 16 Meg's and if they have it, it be creative, they could share it, because many
+
+Bret 33:17
+people will have downloaded it right? Many people will have doubted it in the course of their work, I'm
+
+Yuri Deigin 33:21
+pretty sure that like the Barrett cloud would have it because I've been working on a lot of this similar sequences, it's great to see you know, what your competitor slash collaborator has, you know, to kind of maybe give you ideas on what they're working on, see their recent submissions. And I think that can give a good idea of the types of to a person skilled in art could give ideas of what research directions the competitor is following. So I'm sure they're keeping tabs on on each other. So yeah, if anybody has the database, and they can share it, or at least check if there's any kind of odd sequences. Maybe just you know,
+
+Bret 34:04
+not please, please share the database with us if you haven't. This is important, and it's you know, it would be great to check some hypotheses here. But really, that database is disproportionately valuable in light of the pandemic and what information it might contain. So you mentioned the barrack lab. This is Ralph Barrick in North Carolina, is that right? Yes. So Ralph barrack is the the pie in the other major Coronavirus laboratory. He's in the US he has collaborated with the zhengli Lab in China. At times they are also competitors them you know, this is the way science works. So they're friendly competitors who are constantly as you point out in your medium article, one upping each other with respect to their ability to manipulate viruses and things like this. But anyway, that it this deserves to be on the table because the barrack lab has been quiet. Am I right about these abnormalities and coincidences? They have effectively signed on to the consensus that a laboratory leak is so preposterous as to not worth be worth our consideration?
+
+Yuri Deigin 35:22
+Well, I think there was just one brief mentioned by Ralph Barrick, that lab leak is theoretically possible. So he personally I don't think he said he can rule it out. That was a while back, but he never dove into the details. And one thing he said that, at this point, we still don't have any kind of evidence of a natural origin. We don't have a intermediate host. And since then, I haven't really heard anything from Ralph. He was just I just heard, I guess, a couple of podcasts with them on like biology, the biology podcasts this week in biology, I think, Okay.
+
+Bret 36:02
+Well, that's better. I'm so glad to hear that he acknowledges that it's an open possibility at some level.
+
+Yuri Deigin 36:07
+I think so. I mean, I, I hope I'm remembering correctly that I mean, I hope he actually goes on the record and says what he really thinks because I don't think yes, anybody has been quoting him verbatim about his stance on this being either a lab leak or a possibility of a lab leak. So
+
+Bret 36:31
+okay, so let's um, we've jumped around a little bit, we've got a massive coincidence in terms of the emergence of the virus emerging in Wuhan is suspicious emerging, at the end of the year and winter in the bats would have been hibernating is suspicious. Even the Chinese government now acknowledges that the wet market is not the origin point. We don't have the
+
+Yuri Deigin 36:55
+bat virus, it doesn't seem like the receptor binding domain is not optimized for bats. Not sure did did did they try infecting bats with this source to In any case, so the RBM came from a pangolin virus and that's
+
+Bret 37:15
+a whole nother way to solder. I want to I want to correct you the RBM did not come from a pangolin. The closest sequence we have is from a pangolin. Am I right about that? It's not that we know that the RVM came from a bangle pangolin is offered as the likely intermediate because the sequence for it so the the binding domain is this important sequence that creates the proteins that allow the source code to viral particles to invade cells, right? So it binds the, the ice particle. So am I correct? We don't know that this is from a pangolin. But we that's our best guess because of the sequence similarity.
+
+Yuri Deigin 38:04
+Well, the RBM is from pangolins train, they RBM has nowhere else to be found that rbms is pretty unique. And so it's kind of been throwing a wrench into this field genetic trees that because in all the respects in all the parts of the sequence, our ATG 13 is the closest relative of ours to but in that very narrow strain of the spike protein RBM receptor binding domain that is actually kind of the key to entry of the particular animal because you know, the AC two receptor is different in different animals that came up that came from a pangolin. And more Moreover, the more interesting part is that it actually binds to a human receptor better than it does to pangolin receptor so it seems a bit more optimized or adapted to to humans, that the bangle it pangolins, although the strain is supposedly extracted from pangolins, that were smuggled or captured by Chinese customs from smugglers in Guangdong in 2019. And then they sent some samples to some labs, biology labs because those pangolins died of some pneumonia or something.
+
+Bret 39:19
+So I still think we need to sort this out. I think we are having a communication problem for some reason, the sequence is not 100% identical to the pangolin binding domain sequence.
+
+Yuri Deigin 39:32
+It's 99%. I mean, it's it's got like I want to say how many 70 a minute, it only has one, I mean, it has a difference in the receptor binding motif. There's a receptor binding domain and the receptor binding motif, the RPM and that one has you know, all but one amino acid, identical to the pangolins. Train and be 789
+
+Bret 39:57
+and how big is the How big is Is the the motif?
+
+Yuri Deigin 40:03
+It's not that big I my memory? I mean, I think it's like 78 or 79 amino acids. One of them is different. Yeah, it's pretty short, the domain is bigger. It's, I want to say, I don't know, maybe a couple 100?
+
+Bret 40:19
+And how what is the percentage similarity of the whole domain?
+
+Yuri Deigin 40:25
+Well, the the RBD, that domain is actually very similar between the three strains between the source to the pangolin and RTG 13. And it's, it's pretty conserved between other with other strains. But it's actually the the RBM is, it's different between source two and RTG 13. But it's nearly identical with just one amino acid difference between the pangolin strain, and SARS two. And the only thing is that it's identical on the amino acid level. But on the nucleotide level, there are some similarities. And there's actually quite a lot of differences for some people to claim that, you know, it couldn't have been like the lab lead because it would have taken the law, like for natural passaging of the two strains to have such a high difference in nucleotides. Although the amino acids are the same. nucleotides have like 12% difference. So you're talking to that word sequence,
+
+Bret 41:26
+you're talking about what we call synonymous mutations, right? Right. Yes. So for those of you who are maybe grappling to remember your high school or college biology, because you have a triplet code on, and you only have 20 amino acids that are possible to be specified, there's a lot of redundancy in the code. So you can make changes in the genetic code that don't change the sequence of the protein in question. And the protein in question is the important thing, because that's what dictates how much affinity this molecule has for the cell receptor to which it is binding that allows the virus to gain access. Is that a fair summary? Yeah, absolutely. So when we're talking about how similar or how different, we have to be careful about whether we're talking about the protein, in which case, you have very tight similarity, or the underlying dreams, in this case, RNA, which would be more distinct. And so then there's a question about how much time would have to pass? And how much if you were involved in experiment, how much passaging that is, moving it from one cell to the next or one, you can also do this with living animals from one animal to the next, would you have to do to get this level of sequence difference? So you want to unpack for us what you think. So you have our ATG 13, which is the red strain that is revealed in 2020 by the jangly lab, you have 4991, which is at some level, the same strain, we now know, although we don't really know what our ATG 13 is, because Am I correct? There is no physical sample of Ra Tg 13?
+
+Yuri Deigin 43:09
+Well, this is a good question, too. I mean, because they claim the re sequence the old fecal swab that they took from the bats in 2013. But they claim they don't have the live virus, but they resequenced something. And so that's something must be that the sample they collected in 2013. And some people are Yeah, some people are skeptical at all that are ATG 1311 exists that the sample exists today, actually resequenced something people are skeptical about that and think that maybe they, you know, came up with the sequence in other ways, other creative ways.
+
+Bret 43:50
+So let's just let's just be clear about this, we don't have any reason to believe one way or the other, what we do as a physical sample, but it is entirely possible to take a sequence, let's say 4991 sequence, and to modify it without doing anything in a laboratory and enter a new sequence that has high analogy to 4991 into a database under a new name. So there's nothing that prevents this, this is on the honor system, people enter sequences. And, you know, it's up to them to provide a reference sample or something. And other than that, we're just simply taking them at their word. So we don't know whether it's possible for it's possible that our ATG 13 didn't exist, that it's a modification of a sequence that was created for a purpose, it's possible that the sample did exist and they did do away with it, they disposed of it and have only the text left. But anyway, these are all open possibilities. And until we have frank discussion coming out of that lab about what they did and didn't do we just are in a position to know.
+
+Yuri Deigin 45:07
+Yeah, and even if they had originally sequenced, they can then, you know, take that sequence, recreate the original virus, put it into some cell culture, do many experiments on it, it will mutate. And then they can take the new mutated virus and re sequence it and say, Oh, no, here it is what we collected back in 2013. And you'd see, you know, many differences from the original sequence. And, as you said, it's just their word that in, in, in science, you know, people take just people at their word, and normally, nobody really has any incentive to lie, which you know, in the case of investigation might not be entirely correct.
+
+Bret 45:50
+So am I correct? From the sequence that they have given us that they could actually even if there is no physical sample of this virus left in the lab, or even in nature, let's say it had gone extinct? They could resurrect that virus from the sequence alone, current technology would allow them to take the quote from a Coronavirus and install a genome that they had effectively written from scratch. Is that correct?
+
+Yuri Deigin 46:20
+Yeah, absolutely. What if you have the code, the sequence, you can just print the DNA, the DNA version of the RNA virus, that's what is normally done in viral reverse genetics, you print like seven fragments of the virus in the language of DNA, then you stitch them together, and you're, you know, cells of interest, create one, you know, one long DNA clone of the underlying RNA virus, and then you put it into a different cell culture, which turns DNA into RNA and blah, you got a live virus just from, you know, essentially from a computer. And I mean, it's it's done routinely. And it was just recently done with SARS, two in two labs in one Swiss lab did it like in the month,
+
+Bret 47:10
+they put together sorry, Cove two from the sequence alone?
+
+Yuri Deigin 47:14
+Yeah, they just download the Chinese sequence order the DNA printed in Genzyme. And the states waited three weeks until they got you know, it mailed back. And then within the week, they assembled the live virus from the fragments that they got printed in the States, in Switzerland. And, you know, the Galveston lab in Texas did pretty much the same thing.
+
+Bret 47:35
+It's a terrifying level of power.
+
+Yuri Deigin 47:39
+Well, yeah, that's I mean, biology and genetic engineering has been growing by leaps and bounds and the things you can do today with genetics or life systems. Yes. So you have unlimited power to, to do bad things. Yeah, we still don't know about the like the underlying mechanisms in many organisms, but we can muck around with them pretty, pretty good.
+
+Bret 48:06
+Yeah, we can we can composite them, we can take pieces from here and pieces from there. And in fact, that's one of the things that is very clear in in your, your review article that you wrote, is that we now routinely composite viruses in order to find out how they will function once done. So the creation of kemetic viruses that, for example, have assets from one place and assets from another place from two different ancestral strains. And then you can put them in an environment and see how they infect the cells from a creature or the creature itself. And then you can passage them one generation to the next either of cells or individuals. And you can basically guide them evolutionarily to become better and better at infecting whatever creature it is, and then you can discover how the sequence changed in order to make them better. So the fact that all of these things are now happening in labs routinely, presumably, usually, with good intentions with the intention of making us safer, rather than jeopardizing us. It certainly could be weaponized and maybe is weaponized sometimes. But scientists are routinely doing these things in the interest of making humanity safer. But the technology involved in doing these experiments obviously carries a tremendous risk. You know, SARS Cove two is bad, it's highly infectious and has a very long list of very dangerous symptoms, but it obviously has a relatively low death rate per infection, that could be worse and the ability for anybody to download a sequence and with you know, what would it cost to put together a laboratory that was capable of taking let's say, SARS, Cove two from the sequence alone and creating a live infectious virus
+
+Yuri Deigin 50:05
+from scratch, I guess it'd be in the hundreds of 1000s of dollars.
+
+Bret 50:11
+Okay, that's a very low number you're given given for
+
+Yuri Deigin 50:15
+for bag. But accurate. Yeah. And, yep, you can print the sequence for like a 30,000. Base sequence. But $30,000, if you order it from the States, if you do it in China is probably 10 times less.
+
+Bret 50:33
+You can really, you can order the sequence.
+
+Yuri Deigin 50:37
+Yeah, yeah. I mean, there's so many crls that companies do custom, you know, DNA printing, protein printing, if you need like an actual peptide or protein. But yeah, any any kind of biology work is now outsource. There's so many providers and a lot of them in China because it's it's cheap or India, it's it's a cheap commodity, now, the creation of DNA or RNA feed. But actually, we one thing we just briefly touched upon about the synthetic or kemetic viruses. And this is true about source code to source to, in precisely the RBM, the receptor binding motif that is supposedly coming from the bangle and not supposedly it's, it's the closest to the pangolin strain, and everything else is closest to our our ATG 13. So it's if we're talking about the natural origin, we have to explain somehow, how the two viruses recombined. And of course, it can happen in nature, but it will take a pangolin and a bat meeting, you know, in the same spot, for the virus to recombine it needs to be in the same cell, like two different strains to recombine the need to enter the same cell, and, you know, start replicating therefore, for them to have a chance to recombine. And it's really unexplained at this point, how this can happen between because pangolins and bats are not known to can inhabit similar areas or have any kind of parties together.
+
+Bret 52:33
+Yeah, it's not it's not impossible, but it's also right, it's got to be considered ecologically highly unlikely. And, you know, the other thing is bats. The way bats roost creates large populations. And the fact that they're small animals means that, effectively, you can have a large number of bats, but pangolins aren't like this. And so the number of individuals is low, which means the number of opportunities for an animal to be infected by two different strains that then get to combine is pretty low. pangolin is just a, it's a suspicious proposal as the intermediate host. So you know, not impossible, but at some level, we ought to be obsessed with finding whatever the wild intermediate host is, because it will tell us an awful lot and it will allow us to put this language and hypothesis to rest if indeed it should be put to rest. But one does not get the sense that this is a focus. And it really it just it, it needs to be.
+
+Yuri Deigin 53:38
+Yeah, for some reason, we don't see a huge effort in China to to find this intermediate animal or to survey other eunan strains, or maybe go back to the cave. But I think we should really go back to the fridge in the wine Institute and check the miners samples, those four miners that had SARS antibodies, we should really try to extract the genome of underlying SARS like virus that they have. And I think that that would offer some clues to as to what this pandemic is,
+
+Bret 54:15
+yep, I think that's a, that's a, that's a great point, just to fill in the, what the problem is and why we're focused here. When you generate a phylogeny, that is a tree that tells you how closely related organisms are to each other. We've all seen these things. He's bifurcating trees of animals, or plants or whatever. You can do this with viruses too, of course. And the problem with SARS Cove, too, is that it doesn't land in one place. If you sequence one part of its genome or in fact, most of its genome it lands in one place closely affiliated with the rhinolophus horseshoe bat, virus and if you sequence this other very important part, it comes out much closer to this pangolin version of the virus. So not impossible, the two would have come together, but very unlikely, ecologically. And so really the question is, which is more likely that some very unusual ecological event took place in some individual pangolin somewhere. Or that a laboratory in an attempt to create a virus that was highly infectious, and therefore highly irrelevant to the study of human pandemics emerging from bats would have compositive to viruses, thereby solving a problem for the virus, that the virus would have a very difficult problem time solving on its own. In other words, the jump to humans would typically be a very short lived jump. And if you were in a laboratory, and you were worried about things jumping into humans, you might make that jump for it, you would composite two viruses, you would make a virus that had capabilities that no wild virus does, in order to see what happens next. And if that thing escaped, it might be that we are living downstream of that terrible phenomenon, if it escaped from the lab, having been composited for the purpose of making it more infectious or interesting to them in some ways than many of the phenomena that are so unusual that we are seeing like the the very large range of symptoms that COVID-19 produces might be the result of the compositing and the passaging of these viruses in a laboratory, which would have evolutionarily imbued the virus with special capabilities, especially if it was passaged in human cells, which is something that's done, you may have heard of HeLa cells, HeLa cells being cells from a particular Helen lac was her name a patient who died of cancer. And her cancer is now a cell line that continues in many laboratories and is used for experiments to see how things interface with humans. So, you know, arguably, this cell lineage could have been used to passage viruses that had been composited, and then it would, the viruses that were then the result of this experiment would have new capacities that a human being wouldn't know to generate, but that over evolutionary time in the laboratory, the virus would have picked up, you know, could that explain the incredible transmissibility of this virus? Possibly.
+
+Yuri Deigin 57:27
+Right, and we didn't even get to the fear inside, which is another big surprise in a beta Coronavirus, which you know, isn't seen anywhere else with anything close to like less than 60% similarity.
+
+Bret 57:44
+So let's go let's have let's have you spell this out. What is the burn site?
+
+Yuri Deigin 57:50
+Okay, so that's a cleavage site. Okay, let's step back for the virus to infect a cell it needs to attach to the AC two receptor. And then what needs to happen is, it's a two step process, the spike protein needs to be kind of cut in to and at the position it's cut that this is where the fusion peptide is located that starts attaching to the cell membrane and kind of invalidates the virus into the membrane and starts the fusion process the membrane fusion to get inside the cell. And so, for this fusion peptide to become activated, the spike needs to be cut at this cleavage site and very efficient new cleavage site is found in SARS too, which can be caused by fear of family of foreign family of proteases that that can recognize a specific sequence of four amino acids.
+
+Bret 58:51
+Alright, hold on, I want to I want to I want to slow you down just so people get it. The the cleaving peptide, the protein that does the cutting is resident in the human cell, am I correct? Right? Okay, yes, protease is in the human cell. And then there is a sequence. Oh, go ahead.
+
+Yuri Deigin 59:11
+Yeah, and now in the extracellular matrix as well, it's actually both inside sales and outside sales and some proteases are actually found on the membrane. And the fuel inside is a very efficient site to be cleaved, because it can be cleaved by various families of this proteases and this increases the viral tropism much greater than without the site,
+
+Bret 59:38
+okay, again, I want to, I want to get this into into understandable like, the human being is producing a protein. The purpose of this protein, what it does, is it cuts a particular sequence that it finds and it cuts in a particular way. It's like a, a surgical instrument that looks only for one sequence and slices whenever it finds it. Is that correct?
+
+Yuri Deigin 1:00:03
+Yeah, I know it's correct. I know. But
+
+Bret 1:00:07
+I know that's not true. I think we we know similarly, but so Okay, so the virus by providing the sequence at which this existing protease already cuts, takes a quantum leap in its ability to infect human cells. Is that correct? And in fact, its ability to move between species. Am I correct about that, too? Right?
+
+Yuri Deigin 1:00:33
+Yes, yes, it's been shown that the addition of fewer insight greatly enhances the ability of a virus to infect different types of cells and cells from different animals, because now the virus isn't so dependent on the exact match of its kind of spike binding domain and the receptor, human receptor, but the actual fusion can happen to to other cells where the attachment might not be as strong, like just from a species standpoint.
+
+Bret 1:01:08
+Okay, so and these Fern sites, again, a sequence at which these human made proteases slice that Fern site, where do we find it in natural coronaviruses?
+
+Yuri Deigin 1:01:25
+Well, in in that particular spot, we don't really see fewer insights in beta coronaviruses. I mean, it's a cleavage site, but it's cleaved by different protease is not not as efficient for academics in humans as fairness. We see them in like alpha coronaviruses, or other families of coronaviruses. But we know that the introduction of this theory inside just from previous experiments in culture and other viruses as well and influenza, that it greatly increases the transmissibility, and expands the repertoire of a virus in terms of types of cells and types of animals it can infect.
+
+Bret 1:02:12
+Okay, so it for insight greatly enhances transmissibility, but now you've talked about alpha and beta coronaviruses. So where do we see for insights and where don't we see them?
+
+Yuri Deigin 1:02:23
+We see them in alpha coronaviruses. What
+
+Bret 1:02:26
+are our numbers? What are alpha coronaviruses?
+
+Yuri Deigin 1:02:30
+It's just a different family of
+
+Bret 1:02:33
+I'm trying to I'm trying to get you to spell out how unlikely it is that you that you would find this for insight in a horseshoe bat derived Coronavirus from the wild based on what we see in viruses of that type that we've encountered.
+
+Yuri Deigin 1:02:51
+Well, just by you know the phylogeny or surveillance of this beta Coronavirus, lineage having none of them having the fear insight. And this one no sorry to having one. It's it's just statistically very unlikely to expect it to see there. And moreover, I think when we put them in cell culture, I think it tends to actually mutate the way so
+
+Bret 1:03:20
+I'm very interested in cell culture what kind of cells
+
+Yuri Deigin 1:03:26
+I think they saw it in like vero cells, green monkey kidney cell line. But I'm yeah, I wasn't really prepared to going this deep into the like the actual experiments on the viewer insight. But yes, are just very unlikely to see it in this type of Coronavirus. And the fact that it seems that there's some kind of evolutionary not revolutionary, some kind of selection pressure against it in the beta Coronavirus lineage because of you know, it may be in in bats and horseshoe bats that beta coronaviruses normally are found the that you're inside is actually detrimental to the virus. So
+
+Bret 1:04:15
+so if I can just translate this probably there's a trade off cost to having a fear inside right. And so what happens is if you allow the thing to evolve, under natural circumstances or semi natural circumstances, the fern site comes apart because some other priority is higher. What we see in SARS Cove to is a Fern site that is not found in any of the natural lineages that you know come from bats, for example. And so the question is did something really unusual happen here that put that Fern site either through an evolutionary mechanism or through a high hybridization event. Did a Fern site get added to a virus that almost never has one when we find it, in fact, in the wild never does have it? Or did a laboratory decide? Well, one thing that we could study is what happens if there was a Fern site that would create a virus that had capacities we haven't seen. And maybe we'd like to investigate those capacities. or third possibility, you tell me if any of these are off the off the map of actual possibilities. third possibility is a passaging experiment generates a further insight because the conditions that are provided to the virus make it advantageous. And whatever the trade off is, is not prioritized by the laboratory environment. So fearnside is short in sequence. Am I correct?
+
+Yuri Deigin 1:05:49
+Yes, it's just four amino acids.
+
+Bret 1:05:52
+For amino acids. So that's a very short site. And so you could get there through time. airism. And you could get there through passaging. Am I right about that?
+
+Yuri Deigin 1:06:03
+Yes, absolutely. Yes.
+
+Bret 1:06:06
+So the question then is, is the highly unusual fact of a foreign site showing up in this virus that is creating the covid 19 pandemic, the result of some natural event? That is very unusual? Or is it the result of laboratory manipulation? which would make good sense if you were of a mindset to study? Potentially emergent pandemic causing viruses?
+
+Yuri Deigin 1:06:36
+Yeah, it's it's a big question and unexplained at this point. I think there's also one interesting aspect of the of the site, the first site that I find interesting is that it the way it's constructed in the nucleotide code, it actually has a special like digestion a enzyme site that could greatly help with screening for mutations in cell culture to screen if that feature inside is actually mutated away, or are on, on the contrary, to actually screen for colonies that still have it. The third one, the fourth one, the restriction enzyme site. And the way it's, it's implemented the four amino acids that are coded for the first two Argentines are coded by pretty unusual codons that are in general found quite rarely in the sequence. And but they what they do allow for is for this new restriction enzyme to be present in the in the insert. And this is another thing that the fear inside is not only interesting is that it's there. It's interesting in the way it occurred in the in the source to sequencing the source to genome is that it's, it's, it's in there by an insertion in its insert of 12 nucleotides, whereas usually, you know, it's not unusual for viruses to develop this your insights that didn't have them before. But usually after three mutations, like the sequence length doesn't change. It's not like you see a magical appearance of 12 nucleotides the very spot that now has a few insight, which is what happened in SARS two. Okay, so these two interesting, you know, occurrences are, again, they're not proof of anything, but they're just add to the bag of questions that kind of weighing heavily on the scale.
+
+Bret 1:08:49
+They're very conspicuous when taken together.
+
+Yuri Deigin 1:08:52
+Right? Yes, absolutely.
+
+Bret 1:08:55
+Yeah. So, alright, so you've got a Fern site that shows up out of nowhere, in a play in a virus that would typically not have one, you have the fact that the sequence is added, rather than the result of mutations of the sequence that was present. That's also conspicuous. So that could be evidence of a laboratory, inserting the sequence rather than it resulting from a natural process. And then you point to flanking sequences that I if I understand you, right, you're suggesting they could be used as a kind of indicator. Sometimes scientists will add something to a a modification so that they can detect whether the modification is present in a particular sample. And so in this case, if furan is something that would tend to evolve away, as a result of a trade off cost, you might want a little indicator to tell you whether it was still present is that what you're getting at
+
+Yuri Deigin 1:10:00
+Yeah, absolutely it's not even the flank flanking it's actually inside of the insert in the way the insert is done the, the code ons coding for this to Argentine's enabled this new restriction enzyme site to be there. And it could be used for you know, our flip the like restriction length fragment polymorphism stream process to very quickly, very efficiently see if your colony of a virus has this fear inside or it doesn't. So you can if you want it to stay in the colony, you can screen the colonies and have it pre efficiently without you know having to bother to re sequence the whole thing. So when that's that I mean it all of it could be a result of just occurring naturally. But it's just as you said, taking together all those coincidences just add up to the point where you start, you know, being somewhat suspicious about this being handmade, rather than, you know, evolutionary selected for. And another point I want to make is that the lab league doesn't necessarily mean handmade, it could also mean like everything that happens in nature can happen in the lab, especially given that the lab is the place where all of these pangolins and bats all are brought together, even maybe, you know, they're put in the same culture, maybe inadvertently. And so just be like some biologists say that it, they think it's the process of natural selection that is at work here. Well, natural selection can work in the lab, just in holding pens for that switch the hand CDC had live bats to extract virus samples from I don't know if their bank lives but they have pangolins left Bengal is in Guangdong and wildlife refuge Center, where the Chinese customs sent that smuggle pangolins to. So just because, you know, some some biologists thing that all the hallmarks that we see in the virus, like what Anderson and others are claiming, they think the are much more likely to occur through natural selection. Again, that doesn't preclude allegedly conventional selection can be at working in the lab without even the scientists knowing they can just, you know, have some infected bats and effects of pangolins. And it's actually much higher odds of happening in the lab than in some remote location in union or Malaysia where the pangolins normally live. And even if it does happen there, it still doesn't explain how this materializes in uhand without managing to infect anyone along the way. Yeah, which is a big question.
+
+Bret 1:12:47
+So it's funny, you mentioned this issue of evolution taking place in the lab without scientists knowing about it, because of course, one of the ways that people know about me at this point has to do with my discovery, or my prediction hypothesis that made a prediction that the long telomeres that we see in laboratory mice are actually not indicative of the nature of mice generally, but are indicative of an kind of evolutionary pressure that exists in the breeding colonies that nobody had recognized. And so we now know that this is right, and that those long those telomeres were elongated by selection in the laboratory, or in the breeding colony. And, of course, that was not the intent of the people who were breeding these mice. In fact, they weren't even aware that they were exerting a strong selective pressure, but it was enough to radically elongate the telomeres. So this kind of thing happens all the time. And in this case, it's particularly dangerous because if this virus was passaged, in the lab, under conditions that were special, in other words, if it was passaged in human cancer cells, well, cancers have particular idiosyncrasies and any particular cancer that you would choose would have idiosyncrasies and those idiosyncrasies would have a lot to say potentially, about the way the virus functions. Also, you point out the issue of evolving away to the extent that this virus might have been passaged and favored to adapt to certain cells that might be giving us advantages at the moment, like for example, the difficult time the virus has transmitting itself outdoors. While the laboratory is an indoor environment it's possible that something was selected for that made it particularly transmissible indoors and at did so it costs that expense to it and in terms of how transmissible it is outdoors. And what's going to happen then is over time, it's going to become more transmissible outdoors. So I don't know if that story is right or not. I mean, we don't know if this came from the lab or it didn't, but if it did, and that has had effects on its nature as a virus, then Not knowing that is going to cause us to make the problem worse, because to the extent that right now we have a virus that we can interact outside and not transmitted to each other, we would be very wise to act carefully so that it does not learn the trick of being transmitted outside. And if we're casual about outside, it will evolve in that direction. So one thing I really hope people get from our discussion is that this is not a question of blame. This is not a question of who cares, it's now a human pandemic, and let's deal with it. This is a matter that has very important implications for the pandemic that we are facing, how long we will face it, how many people will die. If it is a wild derived virus, we need to know that and the way we're going to find that out, is we're going to settle this by finding a population of some other creature and intermediate host in the wild. But that's gonna require transparency with respect to what went on in this lab in Wuhan.
+
+Yuri Deigin 1:16:03
+Yeah, absolutely. Well, I don't know if we're gonna get it. I mean, well hold all the cards unless there's immense international pressure. I don't agree. So blower?
+
+Bret 1:16:19
+Well, yeah, so whistle blower would be great. I would love a whistle blower. But, Yuri, you have no idea, I think, how important an effect you're having on the story. Right? We saw Matt. Yeah.
+
+Yuri Deigin 1:16:34
+I hope not too. Not too important. For I know that. I want to get rid of
+
+Bret 1:16:40
+what Oh, yes. You're not important. Hello. Yes, Yuri is completely unimportant. And he doesn't know what he's talking about. Just ignore him. But if we were to put that aside, Matt Ridley, published in The Washington Post this week, an article pointing out what you've been saying. And in fact, you know, he
+
+Yuri Deigin 1:17:01
+wasn't just me. You know, a lot of people were saying, oh, and many of them way longer. I mean, way prior to my article, and it's good that there are people who are not afraid to speak out. And
+
+Bret 1:17:19
+I hope
+
+Yuri Deigin 1:17:20
+there's more and more.
+
+Bret 1:17:22
+But, Well, again, I you know, I don't want to put you in danger by pointing out the centrality of your work. But I think a lot of people have had the same reaction to it that I have, which is that, you know, we go looking for evidence, and we find that a lot of the evidence is compromised by people who do have such a conspiratorial bent, that they are basically verifying their their own beliefs rather than doing an honest, careful job of sorting the evidence that goes in both directions, what I saw on your work, and what I expect Matt Ridley saw in your work, and what others who I know have cited you, you know, I saw another one in the the Bulletin of Atomic Scientists today investigating this question. It also cites you so your clear self skepticism, your desire to do this, honestly, you and I share a desire to actually be wrong. In this case, it would be much better if this didn't know in the lab, I don't want to be right. I don't want to be right either. But I if we are right, that this is a the most likely explanation, I'll speak for myself, I believe it to be the most likely explanation at this point. If we are on the right track there, then it is urgent that the virology community stop telling us affection, and that they come clean with what they know. And they understand. And I think in order for that to happen, it is incumbent on us to be clear that let's say the worst is true. Let's say that this virus was created in the lab that it was the result of a chi Americ virus that was then passage through human cells, and that this explains something about the way it behaves, now that it's escaped into the human population. That does not mean that this is Chinese in origin. The scientific community was engaged in these experiments. Yes, this most likely would have come from the lab in Wuhan. But that lab was involved in international discussions, the granting agencies include the NIH. So this is this is a global problem. We we share responsibility for it. And the most important thing is that in an effort not to take responsibility that we don't bury the evidence of what the virus is, because that evidence is essential for us figuring out how to deal with it, which is obviously to any reasonable person the most important question on the table.
+
+Yuri Deigin 1:19:54
+Absolutely. And the second most important question, I think, is the nature Gain on functional studies and the, you know, should they be like what's the benefit? And should they be maybe reconsidered and another moratorium on global moratorium on them should be maybe in place, place for a few years until we sort out, you know, one of the benefits that humanity's gaining gaining from these kinds of studies, because what humanity was promised originally that they would those studies would help prevent pandemics that would provide vaccines and treatments to viruses poised for emergence to take the headline of one of the studies, those promises have come up empty, and were nowhere I don't think closer to any treatment or vaccine from from those studies that we were before they're conducted. Again, I might be a little biased here, but so far, I just don't have any I don't know of any conclusive evidence for vaccines or, or treatments that have come out of studies, not just on Coronavirus or even influenza that the first stage five and one gainer function experiment. I don't see it having provided the world with anything of great value. Well, the risks the risks of the studies, even if this one wasn't a lab leak, just in general, the risks of being a function studies is huge with I think unjustified benefits. So this, this is the second topic.
+
+Bret 1:21:46
+Yes. Well, okay, I agree with this. And I think there's a third one, too. So the first one is, what do we do about the circulating source code to a virus, which depends in part on figuring out what it is adapted for, which might be a laboratory environment? The second question is, what do we do about gain of function research going forward in light of the danger, even if this wasn't a lab leak, we now are suddenly aware of all the things that are going on in a lab and that it is plausible that this pandemic emerged from a lab tells us that this is a this is a major global concern, and we need to figure out what to do. And then I would say, the third thing on that list is the fact that this work is now possible. Even if we have a scientific moratorium does not prevent somebody from taking over that research. Even if we stopped doing it in the scientific community, what stops some country that is interested in changing its ranking in the world power structure, or a malevolent organization that wished to use it to its own ends. And, you know, I will say, it's not even difficult to figure out a perfectly amoral entity, somebody who just really didn't care about other people could use this top notch technology to greatly increase their own power and wealth. And it's not hard to figure out how they would do it. So we have a problem. We have now generated the technology to do things which having been generated and shared publicly discussed in literature are now available to people that do not share our values. And that is a big concern.
+
+Yuri Deigin 1:23:44
+Yeah, that's a tough one. I mean, is bioterrorism as was a very tough question, and have become much more urgent cause of concern, after some bad actors that were probably not bright enough to see the potential of bioterrorism after this pandemic, they probably could have woken up to Whoa. And you don't even need a lab. Now you can well you need to do is collect some samples from that, or maybe steal samples from labs that are just samples of even even this virus and release it strategically in places where people don't expect it. church or subway system or something. And yeah, you can just wreak havoc on economies of countries that you wait to see go down. Well, you can. That's a big problem.
+
+Bret 1:24:38
+You could do that. And I also just as a mental exercise, I was, you know, early on in the discussion of could this have come from a lab? Could it be a bio weapon and all that there was lots of discussion about whether or not this virus would make any sense as a weapon. And I agree that if your purpose was military effective, This virus is not a particularly good choice because so many people are asymptomatic. But that does not have to be what was on people's minds. And I really hesitate to put this idea into the world. But my feeling is it's so obvious that my being quiet about it doesn't help. So probably better that we are all sobered up and aware of this. The if one decided to create such a virus, and release it, one could pretty reliably guess that it was going to have a negative impact on let's say, air travel, hotels, cruises, these kinds of things. And obviously, the nature of markets are such that if you can predict when nobody else can, these particular industries are about to take a huge hit. You can take small amounts of money and turn it into large amounts of money, or take large amounts of money and turn it into gargantuan quality quantities of money for just simply being able to predict what others don't see coming. And that fact means that motive here could be utterly mundane. Now, again, there is no evidence that this was intentionally released by anybody. And I think you and I are both believers that most probable explanation is well intentioned research that resulted in a leak nobody foresaw. But I have to say, one other possibility, again, zero evidence for it, but it has to be on the list of things that could explain the phenomena that we see is that if somebody did create the virus, Wuhan would be the kind of place you would want to release it in order to hide your tracks. Right, because if it's released in Wuhan, then the obvious, you know, the obvious interpretation is that the laboratories in Wuhan and there are two of them that study bat coronaviruses, that one of them made an error.
+
+Yuri Deigin 1:27:07
+But yeah, we'll probably have to be a huge inside job for them to know that. One would have the RTG strength really, you know, setting up Institute's because, you know, the the source to so close to the stream that one as
+
+Bret 1:27:27
+well. So I agree with your logic, assuming our ATG 13 is what we think it is. And would you say that the similarity to 4991 similarity to 4991 is sufficient that somebody would have had to have they would have had to have lots of information about what was going on. So it's unlikely that some malevolent force, it's not impossible that somebody would release a bat like Coronavirus in Wuhan in order to hide their tracks, but the chances that they would get something so close to our ATG 13. And 4991 is pretty low.
+
+Yuri Deigin 1:28:08
+I mean, it's not impossible, but it would be someone with really deep knowledge of what will happen is it was doing so I mean, probably if an actor of that caliber was contemplating something like this, that they they do a lot of the homework and Okay, well, it's a possibility. It's very remote. It's a
+
+Bret 1:28:33
+remote possibility. There's no evidence for it. But I think actually, we're modeling something that I want to see people be better about, which is, conspiracies exist
+
+Yuri Deigin 1:28:42
+in the world, huge concern going forward.
+
+Bret 1:28:45
+Yes, a huge concern going forward. And we have to learn how to talk about the possibility without being labeled crazy for engaging in even considering it. And so you know, what you've just seen is two people who know something about this story and the relevant scientific details. And, you know, I think we're both pretty skeptical that this has unfolded now, but we're worried that it could unfold in the future.
+
+Yuri Deigin 1:29:13
+You Yes, I hope we're wrong. Yeah.
+
+Bret 1:29:18
+I hope we're wrong, too. And I hope that it Yeah, best possible from my perspective, I'm sure I speak for you here is this comes from the wild through some unusual, hard to imagine series of ecological events that we are capable of discovering and figuring out. So the lab isn't at fault. They can be exonerated, and we can sober up on the basis that we've been now through this exercise and learned the lessons that it has to teach us and we can figure out what we should think about gain of function research. And we should think about what the heck we're going to do about the amazing power that malevolent forces now have at their disposal at ever lower price points.
+
+Yuri Deigin 1:30:05
+Right. And they were, they will always have almost have to be some kind of really broad surveillance of new viral outbreaks, or just outbreaks throughout the world to word need, there needs to be some kind of like one big agency, like there's a nuclear agency monitoring, like the possible bioterrorism if there is a cluster of similar infections, you know, in one, one geography just really tried to sequence quickly what is the agent behind this? And hopefully, you know, not let it get out the way that this one got out. And, yeah, I gotta say, like, even without any conspiracy theories or lab leak, the way it was handled by Wu Han, government or Chinese government just not imposing a lockdown soon enough and letting people celebrate the Chinese New Year and intermingle and leave the country. I mean, that alone is pretty disappointing. And in the future, we really need like, really quickly isolate geographies where outbreaks happened so that we can avoid global pandemic on like, the scale is completely crazy that this is, and I'm afraid we're just beginning to see the numbers just, you know, start growing even further in other continents or the countries like now Africa and South America reporting high growth. So I'm afraid we're not there yet to see this play out. Let's see this pandemic play out.
+
+Bret 1:31:51
+Yeah, I share. I share those, those fears with you. And I do feel like as bad as this is, this is the ultimate trial run. This is the thing that sobers you up. And, you know, I hope there's also a willingness to consider the general style of problem, because I know that over the last, gosh, what would it be? 2008 financial crisis 2011 Fukushima, Aliso Canyon, and I don't know what was that 20 1718. Anyway, we keep having this situation where we discover what some industry is doing after it is too late when some of the Deepwater Horizon accident in the Gulf of Mexico. So I constantly feel like I'm learning what I needed to know after the accident has already happened. And that what I really want is somebody to fast forward that process. So I can know all of the processes that were engaged in that are unbelievably dangerous, so that we can talk about them ahead of time, rather than once the cats out of the bag. And you know, this may be the worst of these in terms of the destruction, economic and human that ultimately comes out of it. And frankly, even if this thing evolves into something with flu like levels of hazard that humanity is stuck with even that would be a major setback. I mean, we have flu circulating every year, that's a big problem for humans to have a second one of those, if that's what this turned into, would be a huge disaster going forward. So we are playing with fire. Go ahead. Yeah, we're
+
+Yuri Deigin 1:33:45
+not even sure about long term consequences of this. It's only been six months that we've kind of known as virus. We don't know if it can hide and become a chronic infection like the feline peritonitis, which is also a Coronavirus that can actually learn to heighten in the immune cells. And that just becomes fatal and like 10% of the infected cats. I hope this is not the case with this one. Yeah. But it's not out of the realm of possibility that, you know, there could be long term bad consequences that we're just not even aware of that. Totally know the words of Donald Rumsfeld.
+
+Bret 1:34:25
+you're quoting Donald Rumsfeld. I love that. Yeah, for what it is, Heather and I are. We quoted that guy. You know, he's like, the Yogi Berra of geopolitical phenomena or something. But I agree with you. This thing could hide in neurological tissue, it could hide in immunological tissue. It could be, it could learn to change at a rate that would allow individuals to be reinfected multiple times over a lifetime. We just don't know what we're playing with here and
+
+Yuri Deigin 1:34:56
+right male reproductive system. They are We had issues with the first SARS where, you know, autopsies saw, like infected gonads and there were reports in China with male fertility issues of people after having had this SARS too. So yeah, it's just I don't want to scare people, but I'm pretty scared myself that like long term this can be a bad bad one. Yeah, I agree like flu. I mean, flu is bad enough, but like, chronic flu hiding side. Yeah, the worst possible scenario,
+
+Bret 1:35:36
+I find myself in these conversations all the time to where people are. I mean, in in my country, people have been convinced by our president amongst others, to treat this as more trivial than it is. And I keep trying to alert people that just the size of the unknowns here, the magnitude of them is so great, that we are wise to be treating this very seriously.
+
+Yuri Deigin 1:36:05
+Yeah, at this point, if anybody is still unconvinced that this is much more serious, the flu, I think, living under a rock, but initially, we all kind of were just based on the previous track record of other viruses, other outbreaks, even Corona viruses, or wind, SARS, and MERS were pretty bad. But like, comparatively, it was just a few 1000 people, they burned out. Yeah, exactly. And that's what we thought, you know, many people thought, I mean, included in the beginning, that was just another, you know, something seasonal from China that we get every year, and then it just usually subsides pretty quickly. And it was
+
+Bret 1:36:46
+exactly do exactly what I thought it was. I remembered SARS. And I thought, okay, that's bad. But yeah, limited,
+
+Yuri Deigin 1:36:56
+but boy, were we wrong. That's right. Right.
+
+Bret 1:37:03
+So let me ask you. Two more questions. ones are your experience since releasing your medium piece?
+
+Yuri Deigin 1:37:17
+Well, wasn't very pleasant. I mean, there's a lot of positive feedback. But the share of the negative feedback I got, especially initially in Russia, it was very vicious. Just, you know, for some reason, people started attacking me personally. Yeah, questioning my intelligence, or whatever the qualifications of being able to, I don't know what read scientific papers or whatever. That had really nothing to do with whatever facts I presented. I mean, I suggested initially for everybody just to read with a skeptical mind and analyze for themselves just don't. I mean, I don't really put a lot of my own views on an article I just pretty much summarize the facts, of course, I mean, I call her with with my views, but you know, you can do your own analysis. And if you think I made a mistake, just you can point out the mistakes rather than say, I'm an idiot, or I'm the conspiracy not well, that's not
+
+Bret 1:38:31
+really what they're saying, as somebody with considerable experience with things in this neighborhood, what they were trying to do was make you hurt, to dissuade you from continuing and to make an example of you so that others would know not to make the error in their view that you made, but the error that you made, was doing an honest analysis and sharing what you discovered with the public. So my sense is, we needed you to do that. And I know that it as much as I was already quite suspicious, it gave me a tremendous boost in terms of understanding exactly what the suspicions were rationally based on and how to follow the trail into a realm. You know, I'm not biotech, cellular biology was never my primary interest. So just having somebody guide me into the literature that was relevant to this since I didn't know anything about what was taking place with Coronavirus research that was all new to me. So what you did needed to be done, which is exactly why you were punished for it. That said, Yeah, no, go ahead.
+
+Yuri Deigin 1:39:52
+Well, yes and do i mean if whoever want to reach the goal of making me feel unpleasant they did so but the initial kind of fickle fickle storm subsided. And after that, I get mostly positive feedback of people saying that it did open their eyes to at least the scale of gain of functional research that has been going on in the virology community. And the danger that itself poses, even if the lab leak theories is to them still, highly unlikely. The fact that there's so much dangerous research around and still goes on to them, that was a revelation. And in parallel, some some scientists have reached out and said that they, you know, support the definitely support the idea that we cannot rule out the lab leak at this point. And that should be considered, like on an equal basis with any other hypothesis. As opposed to some people somewhere I'll just claim this as sheer lunacy and conspiracy theory.
+
+Bret 1:41:00
+Yeah. Well, so I've been suggesting to my audience that conspiracy theory is a stigma, a term that's loaded with stigma designed and designed for a purpose. Conspiracy hypothesis is really what we're talking about. Yes, it does appear, at the very least, that there is a conspiracy to prevent us from investigating what happened here. In other words, the unnatural alignment of virologist with each other around a story that doesn't stand up that does appear to be a kind of collusion. Now, there's also other evidence how's your computer? Okay, now, it's okay. Now what happened?
+
+Yuri Deigin 1:41:50
+Yeah.
+
+Yuri Deigin 1:41:52
+Well, I think I might have been hacked to just start doing really weird things and not connecting to the internet. I just,
+
+Bret 1:42:03
+you've had computer problems.
+
+Yuri Deigin 1:42:05
+Probably malware. Yeah, I don't know. Yeah. I don't want to claim it. It's connected, swell to people. I agree with some other computer issues. At the same time, computers are looking
+
+Bret 1:42:16
+computers are complex things go wrong with them. You never know. I've had computer problems to have late. It's pretty dramatic, in fact, could be nothing. You know of anybody else who's been courageously investigating this hypothesis, he might have had some trouble.
+
+Yuri Deigin 1:42:33
+I know at least one person. Yes. All right.
+
+Bret 1:42:37
+So take that for, for what it's worth people have computer. I mean, luckily, there's nobody who's watching this podcast who doesn't have a computer, they screw up, right things happen. On the other hand, there does come a point at which your problems are severe enough, mysterious enough and form a kind of pattern with other people who are also using their computers to discuss and investigate possibilities that obviously, powerful forces don't want discussed. And you just simply have to ask the question, are my computer glitches? Normal? Or is what seems like an anomalous rate of computer errors telling me something about the level of disturbance that I have caused in the universe?
+
+Yuri Deigin 1:43:26
+Right, so if maybe other researchers who have been working on the lab leak hypothesis had some kind of computer problems or any other weird things happen in their lives, if we can share it, then we can put together some kind of List of unexplained coincidences outside of the lab leak hypothesis, to people tried to list
+
+Bret 1:43:51
+I think it's well worth considering. Alright, is there anything that you think we've missed that needs to be on the table for people to understand the landscape they've landed in? Well,
+
+Yuri Deigin 1:44:03
+I mean, I think we already said way too much for for anybody to get their head across this this point. We discussed a lot of things, but I think we've touched upon all the main points of this huge coincidence with a lot of unanswered questions, and I just hope they're answered. You know, I just hope somehow someone pressures the scientists, or not even just answered, but we need to access to the lab, we need to, you know, the, or who or whoever needs to check the environment or we'd like to see the samples collected from those miners and we'd like to sequence and we'd like to independently sequence the ATG sample to just verify that you know, everything that the institute was telling us indeed Facts.
+
+Bret 1:45:01
+What do you think about the idea that for the good of humanity, we ought to be offering immunity to scientists who were involved in legitimate scientific research, not weapons research, but legitimate scientific research into potentially human infecting viruses? If this turns out to be a leak, would you be in favor of them being assuming that they were being honorable that they be immunized from liability?
+
+Yuri Deigin 1:45:36
+Definitely. And, and even, you know, in my article, I say, even if a leak occurred, the scientists they're not to blame because they haven't been, you know, engaged in anything illegal or out of even, you know, weapons researches, bit of gray area, but Dude, it's not illegal for countries to engage in it. The states and you know, China and Russia have all been engaged in weapons research. The thing is, like if it escaped, and there's been a cover up, the people who are doing the cover up, they're the ones who do face should face some ramifications. But what I think would really need to establish is some kind of incentive for whistleblowers to be able to blow the whistle safely with immunity and witness protection and big financial incentive to do so. Yep. And so far haven't seen anything, even remotely other sort from governments. Which a little odd. Considering, you know, initially I thought, you know, the American government stance was that, you know, it's going to demand a full investigation, but it's not really providing financial incentive for whistle blowers to help out and so one of the things I suggest suggested maybe you know, half jokingly is that maybe the community can crowd foul crowdfund something like this create a crowdfunding hotline to plotline for Coronavirus, origins research where we can have some completely anonymous system of rewarding whistleblowers or you know, people offering actionable tips with cryptocurrency, we just need some, you know, donors and crowdfunding to collect a bit of a purse to be able to offer these rewards for like meaningful amounts for people to be risking their livelihood.
+
+Bret 1:47:35
+I think this is a great idea. And the idea of doing it with cryptocurrency is a wonderful idea to be a tremendous proof of concept about how cryptocurrency could function to the benefit of humanity.
+
+Yuri Deigin 1:47:52
+Right, it could be completely anonymous, and that's one of usually problems of financial incentives for like, if somebody really is in China, and he wants to, or she wants to alert the US authorities and be compensated for it, it'd be really hard to do and not you know, get in trouble in in China. But if you're doing online through cryptocurrency, which is, you know, anonymous and untraceable. I think that even if it's not crowdfunding, I think, you know, the American intelligence agencies should should set up some kind of system like that just Otherwise, the risks for people in China to blow the whistle. I think I've just too great for them to do so. But if they're, you know, can earn some money, you know, very safe way, I think they'd be much more inclined to do so. And it's not necessarily just the scientists who who might like we're working on this who might know something, it's probably like they have friends, family, who can offer, you know, some substantive tips on what to look at and maybe who, who to question for investigation to move forward. So but I don't know, it's just so
+
+Bret 1:49:12
+let's just, let's just say, humanity has an overarching need to know what took place in order to manage what we now are encountering. And that suggests we should pull out all the stops with respect to liberating people to tell us what they know. And you know, people who have the capacity to do something that would aid in that effort, know who they are, and they may be more creative than you and I are in a position to be maybe they can figure out some way to make it happen. But let's figure out where this thing came from. And if its nature, you and I will Oh, this does point something out if it is nature with that this came from you and I will be relieved to discover it and will be Happy to do a follow up podcast and talk about what, what the meaning of what we've learned is and if it came from the lab, let's figure that out. Last thing before you go, I want to talk about, I have increasingly noticed in looking at all of the sources that claim to put the idea of a lab leak to rest, I find the name Peter Dasha, is that right?
+
+Yuri Deigin 1:50:31
+I don't know, doesn't doesn't ring a bell.
+
+Bret 1:50:35
+This name shows all over the place. He's everywhere that the idea is mocked. And he is the see the president of eco Alliance, whatever eco Alliance may be,
+
+Yuri Deigin 1:50:48
+She's the founder. And yes.
+
+Bret 1:50:52
+I have comms Go ahead.
+
+Yuri Deigin 1:50:54
+behind. Yeah, yeah, he's he's the main guy that's been doing this for many years, very publicly, and very large amounts of money, as like dozens of millions of dollars in grant funding financing from various sources, from NIH, to Department of Defense, just funding research of essentially going out to remote places in nature and collecting all sorts of dangerous pathogens and bringing them to one spot to analyze and predict the potential danger of them spilling over to humans, which in itself is, I think, is a pretty futile exercise to to be able to claim that we can somehow predict what in nature can and out of the gazillion possibilities which mutation will actually jump out from nature to the human domain. Just because, you know, I usually what happens in nature stays in nature, when we actually start going out and probing what, you know, bats carry in the remote places, and actually bring them all together in one spot, like in Wuhan, or whatever, we're increasing the chances of it actually happening. Well, I think,
+
+Bret 1:52:25
+I think there's a very simple comparison to be made, right? In general, these things do not jump to humans, the ones that can gel matter
+
+Yuri Deigin 1:52:35
+with Peter claims, and he's making some very odd claims of like, oh, in Asia, it happens every day. And there's millions of people exposed to zoonotic jumps. And he's making a huge huge jump from like a extrapolation from just six farm farmers and you know, that have antibodies, six out of like 286, farmers having antibodies for related Coronavirus, can't even infect human cells. He so he takes us 3% and extrapolated to like all the farmers in Southeast Asia, he's saying all those millions of farmers every year that get exposed to bat coronaviruses, which
+
+Bret 1:53:16
+I take, I take exactly the opposite message, which is the jumps when they happen, burn themselves out quickly, because the things that have jumped are not well adapted to humans in general, which doesn't mean it couldn't happen. But it does mean that we can compare what is the risk of a jump happening that we didn't know anything about ahead of time. And that if we had known about the risk ahead of time, we could have prepared, right? So that's the upside of this research. And then there's the downside, which is what are the chances that you are going to trigger the accidental release of something terrible by doing this research, which is clearly high. And so anyway, I have come to regard this individual and every time I see his name show up, the information does not check out. And there's this very strong implication that those who even consider this hypothesis are telling us just how naive and under informed they are, which does not match the information if you pursue the information. His assurance of this is always wrong. So I have begun to regard him as patient zero for misinformation.
+
+Yuri Deigin 1:54:23
+Well, yeah, I mean, he's really fighting for his life. So he really doesn't have any other way to defend himself. If this does turn out to be a lab leak. I mean, the ramifications for him personally, I think, just too horrible for him to consider to even entertain the slightest idea of possible possibility of a lab escape.
+
+Bret 1:54:50
+I think you're I think you're being I think you're being too generous. The misinformation is too egregious and the fact is, any decent human being would recognize Is that humanity's overarching interest in knowing what took place overrides his interest in maintaining his reputation. Frankly, I think the world would end up being decent to a scientist who had made an honest error that it had some role to play in this thing emerging. But I have very little sympathy for somebody who would hide the truth at expense to others. I mean, people are dying. This is this is not a joke. This is not something where you get to defend your career at the expense of 10s of 1000s of other human beings.
+
+Yuri Deigin 1:55:40
+Yeah, one other point being that it's not that they just went out and collected so many viral strains is that they actually had a whole program of synthetic, creating synthetic cameras to kind of expand the panel of possible, first of all to predict possible mutations in the wild for some reason, but again, as I said, very naive to predict like out of resilient nature of possibilities, which of them can happen in nature to predict them in the lab to create them in the lab and then say that we need to prepare for those. And yeah, in the latest interview, like before, just before the rush in the middle of the pandemic in December, he gave an interview in December of 2019. At some virology conference where he was saying that they had like 100 different strains that they were working on and how easy it is easy, easy it is to manipulate coronaviruses where you can just you know, snap out an RBM and put put one back end and have like different tropism between the virus so you can study like a more efficient vaccine, and that was actually the kind of the overarching theme of virology research of the past few years to create a pan Coronavirus therapure Pan Coronavirus vaccine, whereas, so they actually needed to provide as wide a panel of Coronavirus as as possible this actually mentioned an article by Dr. Barrick it's mentioned in the grant for equal health that one Institute was part of that they have a mission to create, you know, many new viral strains against which they can test potential therapies of vaccines, which of course, you know, haven't really gotten in time for this pandemic. But that's a different question.
+
+Bret 1:57:32
+Yeah. Well, I think that's a, I think it's a proper a proper note to end on. I hope that we will discover things in the coming weeks that will lead us to revise our our best understanding of what likely has taken place here, but I'm very grateful to you for doing the work you've done to on Earth, the evidence of a lab leak hypothesis, I regard it not only as important work, but I regard you as courageous for having done it. And it troubles me that people have tried to make you feel bad about doing it. I hope that
+
+Yuri Deigin 1:58:20
+ultimately, the internet, we get to hear a lot of unpleasant things,
+
+Bret 1:58:25
+or some unpleasant things on the internet. I wonder why they put them there. Yeah. All right. Well, Gary Dagon, thank
+
+Yuri Deigin 1:58:35
+you for Yes, you know, making this much more widespread knowledge than it probably would have been without your work and continuing to try to, you know, make people realize that this is very important. And this is an important matter. And we really need political support. So to get to the bottom of this, because, you know, if it's just a bunch of people complaining on Twitter, nobody is going to be pressured into having a thorough investigation. But if it's actually a lot of people being vocal, and making their politicians heard, and making them know that we want, you know, we want the truth we can handle. Yeah, maybe maybe we'll get to the point of having a really independent and true investigation into this. That whistleblowers
+
+Bret 1:59:24
+Yeah, yeah, well, one way or the other, we need to get to the bottom of it. Yeah,
+
+Yuri Deigin 1:59:29
+I hope we do get there someday.
+
+Bret 1:59:31
+Okay. I will put a link to your medium article, which I think you have added to a couple times you've made little edits that you have highlighted so people will know what was in the original and what you've added. Is that correct?
+
+Yuri Deigin 1:59:47
+Yeah, I added initially just when I released it, there were a couple of points that came out. Yeah, I put like updated. I haven't really updated it since it was set. almost a month or more.
+
+Bret 2:00:02
+Well, I consider it the hallmark of an honest actor is that, you know, of course he released something as Hello, you still there? Oops.
+
+Yuri Deigin 2:00:19
+I think we got some hackers.
+
+Bret 2:00:22
+Oh no. All right. Well, fortunately we got it all. Are you able to hear me now? No. Can't hear me. Alright, I guess we're done. We know that. Yeah. All right. Anyway, thanks so much URI. And I'd love to have you back to give us an update, when there's something to talk about. Be well
+
+This transcript was generated by https://otter.ai

@@ -1,0 +1,502 @@
+Bret 0:09
+Hey folks, welcome back to the Dark Horse podcast live stream Q and A 66. Still,
+
+Heather 0:17
+still 6666 seems like you were just here.
+
+Bret 0:21
+Alright, we we did a long stream today we're gonna try to keep it on track for the questions so we can get to a bunch of them. Yep. Oh, boy. That happened.
+
+Heather 0:30
+Yeah, yep. A Tesla, you know that the cream is actually back there? Oh no. We have k I should I should I help him out or should just let him figure it out and
+
+Bret 0:41
+figure it out?
+
+Heather 0:43
+Okay. He's going to change the questions. Well not his best move. Okay, what so we are going to start with four questions from last time and then go to the discord question and then launch into the menu guys asked a ton of good questions this week. I will pick some of them up next week. But but but we won't get through all of them as usual. What are your best news sources for science related reporting? Have you ever considered being a part of starting a news outlet that does science reporting better for the sake of science and the public? Let me take that, first, I will first I thought, wow, I have no idea. And then I realized actually, that both Nature and Science, the journals which are you know, imperfect, for sure. But they have new sections. So you know, they have their sections where they are publishing the peer reviewed literature. And these are considered the two most esteemed science journals in the world. But they also have news. And every week, you don't have to be a subscriber or have institutional support to get their weekly journals. You can get the Table of Contents delivered to your inbox every week. And science, for instance, has at this week in science and best packs or something, I don't know what it's called. But basically, they have people they're looking through the other literature based on basically the papers that they probably got sent and they rejected and they were published somewhere else. And then they're like, hey, that's sort of interesting. Let's report on that here. So I religiously read those every week. And there's other places too, but that's probably the big source for me in terms of where I look where I find breaking research. That is that is of interest.
+
+Bret 2:29
+It's funny that you say you read them religiously. I'm imagining that Richard Dawkins is shaking his fist at us right now. Yeah, yeah.
+
+Heather 2:35
+Yeah. And then you'll have you ever considered being a part of starting a news outlet that does science reporting better for the sake of Science in the Public? Yeah, sure.
+
+Bret 2:44
+Yeah, we have and, you know, it's not exactly the, the province of the consilience project, but it's close. And we are in discussions with those folks. So in any case, I would say there's a problem with science news, which in part has to do with the fact that a lot of scientific conclusions aren't true. And so the most important thing is not so you're
+
+Heather 3:10
+not talking about the separate publication, that's called science news.
+
+Bret 3:13
+No, I'm talking about how to read news of the scientific sphere, which is to say, with plenty of grains of salt,
+
+Heather 3:21
+you have to so you know, I don't assume that any of these little news reports in Science or nature are accurate. You know, a, you can't assume that the paper is what it claims to be, but you certainly can't assume that the reporting on what the paper claims is accurate. So you know, one of the one of the benefits, unlike, say, The New York Times, so you know, we talked about this, this Sidewinder paper that I found that first in the new york times this week, but it was ridiculous how difficult it was to figure out what paper they were talking about. They said things like, the author's name in one place, and where she was looking at their place, and where it was published another place, and approximately one, but didn't give co authors didn't give a title. And it was actually incredibly difficult to find. And that's something that the more standard news outlets do a poor job of, whereas the reporting on recently published research in an actual scientific journal will always be at least perfect about that about showing you where to go to find the actual research.
+
+Bret 4:22
+So I would say I tend to read with a lens of what if that were true, right? And then I sort of follow it through and sometimes it will lead you Oh, actually, that would make a great deal of sense if that were true. And sometimes it leads you to a great deal of skepticism and then the only really know what you think about it when you see what the thing is based on and whether it was well done. But anyway, grains of salt, yeah.
+
+Heather 4:49
+Next question. Every spring, a bird makes a nest under the duck by my apartment door and the exact same spot. Eggs get stolen. So why does the bird keep coming back and how does it know exactly where it was before So to to actually very different questions, right? How does the bird know exactly where it was before? How do you know where your apartment door is? It's gonna be a very similar answer. And yes, we're not birds and and you know we've got more complexity and actually bird kind of complexity is convergently evolved to Mel kind of complexity and obviously humans take that complexity a few steps farther than other mammals. But it shouldn't be surprising to us that, especially a social bird can find its way in the world and has a map by which to navigate any more than we're surprised when we're able to do it.
+
+Bret 5:37
+Yep, I'm a little surprised by the report that the animal keeps returning even though sounds like all of the eggs are stolen. Yeah,
+
+Heather 5:44
+now that sounds like an accident. Yeah, I mean, I'm, I didn't mean assignment mistake,
+
+Bret 5:48
+like a bird Dodo.
+
+Heather 5:52
+You know, they're extinct right?
+
+Bret 5:53
+Now Dodo birds are extinct. A bird Dodo is just a bird who doesn't get it?
+
+Heather 5:57
+Yeah, yeah. Yeah. No, obviously birds who do that don't leave descendants. So, yeah, that behavior to the extent that it is genetically heritable doesn't persist.
+
+Bret 6:06
+Yeah, I wonder how many instances of that you've seen?
+
+Heather 6:11
+Yeah. And you know, it is possible to unless you are banding the birds or have a really good eye for the inter individual variation in birds. That it's different individual, the same species. And that the spot seems by all the usual rubrics that whatever species it is, you don't specify us to be a really great nesting spot. But it turns out, it's really not because someone say it's a raccoon knows that there's often a nest there and will always come and steal the eggs. So it could be that it's not the same bird making the same mistake over and over again, which really wouldn't persist in evolutionary time. But rather, there is something else about it's tucked away from the wind from sight from whatever that it looks for a season at least like it'll be a good choice turns out not to be that bird never comes back. But it looks exactly as good to a, what's called a naive bird, a bird that hasn't experienced the losses, as it did to the previous naive birds. Yep. Hey, brother, just wondering if you guys knew anything about LASIK surgery or any other refractive correction surgery? How safe Are they really? I feel like I may have talked about this at one point on some former q&a. Yep. I don't I don't remember. Where though. So I will say super briefly. I was actually scheduled to have LASIK. I've got incredibly strong myopia, like negative seven diopter, for those of you who know those sorts of numbers, and the prospect of actually being corrected, so that I could do things like play sport and go into the field and not be totally reliant on my corrective lenses was, was remarkable. And I ended up with a, a fungus in my eye that I picked up from a long field season in Madagascar, which caused the surgery to be delayed. I had scheduled it for shortly after I got back from this long field season. And in my frustration, I did a bunch more research about what LASIK actually was. The fact is, I don't know long term, I suspect that the outcomes aren't quite as clean as people are saying, but I don't know in terms of risks. What I do know is that at least at that point, and this is, boy 1518 years ago at this point. But it turns out that anything to 2040, or 2050, or better, even if it wasn't further correctable with corrective lenses was considered a success. And if you have ever walked around being able to see things having to be twice as close as anyone else to be able to see them with clarity, which is what 2040 would be, you know that that is not actually perfect vision and you can't actually navigate a jungle safely that way or play a team sport with fast moving objects effectively would effectively turn you into someone who suddenly had a sensory disability when before you just had a kind of disability that was correctable. So I opted not because fully corrected from LASIK surgery turns out not to mean what most of us would regard as fully corrected. Yeah. This is Oh, this is just a I don't know if you've heard about this. So Dr. Drew Pinsky started something called the rational revolution. You did it first. But the more rational people the better. Maybe a non traditional collaboration can be in the works. Thank you for all you do. All the best. Do you know anything about this? Nope. Okay, so yeah, so I've actually got that highlighted. We've got a lot of stuff to come back to so I don't know if we will, but thank you for the for pointing that out. Okay, so this is from the discord server this week. I usually have a few colds per year, but I haven't had any since the first lockdown in spring last year. I've been masking and disinfecting when appropriate. Is there any downside to having such a prolonged period of inactivity for the immune system.
+
+Bret 10:06
+Is there any downside, conceivably there is some downside, but I don't think it could come anywhere near the upside that there clearly is. So you know, let's put it this way, we can make an argument that you will carry immunity away from these little interactions that you have, which will make you susceptible to them if you encounter these bugs in the future. So you could kind of make a weak argument for the benefit of you know, it's like taking pride in collecting immunological information in your system, but you're much better off just never having had these bugs. And if you get them later than you'll pick up the immunity. So I would say, Don't question it, stay away from these
+
+Heather 10:46
+prosody for adaptive immunity doesn't decline, right, the exposure, the fact that you might have a slight head start on something should you be exposed on a larger dose will not exist, but the capacity to develop adaptive immunity does not decline just because your immune system has spent a year not mostly being exposed? Yeah,
+
+Bret 11:06
+it wouldn't be that it will decline a little bit, because you'll be older. But I would just say, you know, the thing that we never talk about is that all of these diseases that have symptoms have symptoms, because they're doing tissue damage. And that tissue damage has a cost that we don't typically measure. And so you know, you in theory have the capacity to live to 120 years of age, you won't, you won't, because you will have encountered all sorts of things that damaged you along the way and burned up some of the capacity that you would have needed to be present in order to get to 120. And if we turned the dial in favor of more repair capacity, then you'd probably die much earlier of cancer. So anyway, those two things have been balanced. But the basic point is, look, if you can avoid the damage that comes with being sick. And the downside is that you might get sick with that thing later, there might be a tiny little extra cost to being sick with it later. On the other hand, if you get hit by a bus tomorrow, then you weren't sick ahead of time, and you got away with it. So anyway, I would say, I think the answer you're looking for is no, it's a slam dunk. When, right? Does that mean that if we analyze the downside and isolation that it's zero, it's not zero, it might be something but it's going to be tiny relative to the upside, go with it stay healthy. And to the extent that you can learn the lessons of 2020 and 2021. And figure out how never to get these diseases in future cold seasons. All the better. Yep.
+
+Heather 12:39
+So this is a few. This is like five questions. Three from one person and then two others that are all kind of related. So I'm going to read them all before I respond. The first two from someone other people are Have you read the time comm article yet? Yes. And speaking of media pieces, have you read the Time magazine article about the conspiracy to fortify the election, their words, not mine. I've heard a fair amount of the thoughts on it, but I'd very much like to hear yours. And then a three part Arthur came in and three parts. I tried to give my all to unity 2020. But I knew it was I know it was a long shot. Had I known that a collective of this magnitude was working against everything but the proper outcome, I would have applied a different tactic. If time is saying this than the Overton window has slid so far, that if popular opinion no longer represents the reality that I see day to day. I pray that the left of center sees this and has the courage to say something. Oh, by the way, these donations on my birthday gift to myself this year, please keep up the good work Breton how they're keep being a voice of the traditional parentheses, question mark left Godspeed. So I have not read this article. these are these are referencing something that I have not read. But you have.
+
+Bret 13:52
+Yeah, well, I will say I read it quickly, I should probably go back through it. It was simultaneously jaw dropping and maddening. And another way, no news. So in a sense, I have the feeling that the important thing about it is what isn't it? Right. In other words, it describes a an organized effort to do what they euphemistically call, fortify the election, something like that. Is that their language? I think so. Anyway, we had a discussion about it. Quite a good discussion about it on on clubhouse last night. And I thought that discussion went very well with an earlier discussion with Justin Amash, about his experience in Congress, which is always revealing. He knows things about what's wrong with our Congress that most of us even those of us who pay attention, don't know. And so anyway, this is a larger conversation that has to happen. But the basic point about the time article was that the time article admits to a kind of collusion that I Think marches right up to the limits of what the law will allow maybe in one place it trends a bit. That's it.
+
+Heather 15:06
+So can I show this what that's talking.
+
+Bret 15:09
+So it describes this organized effort to make sure that you know, in light of what they expected to go wrong with Trump not ceding power, blah, blah, blah, blah, blah, that they did all of these things, including changing election laws. Basically, they acknowledge a collusion in order to make sure as they describe it at the election turns out properly, but the point is actually, what they describe is completely consistent with them. going well beyond what the law allows, and feeling justified in doing it, and most importantly, demonizing those of us who were skeptical of their motives, and willingness to break rules, etc, etc. So, you know, look, on the one hand, your system is completely corrupt, it just is, and this is not surprising. It's weird that the article exists. And you know, there's some question as to why the article exists, does it exist to create smoke so that we don't see something much more frightening? That may have happened? We don't know. All we know is that there's this article in which they say, yeah, we engaged in all this collusion to make the right thing happen in the election, right. So anyway, it's hard to know what to think about it. I do think one wants to think about it in the context of, Okay, here's what's in the article, what isn't in the article, and what did you do to people who didn't believe that the election was just a straightforward exercise in democracy? And you know, do them and apology, etc. But
+
+Heather 17:00
+they're all domestic terrorists, aren't they?
+
+Bret 17:04
+Yeah, so anyway, I'm not sure what to say about it. Yes, these people suck, and they have corrupted your system, and they own both parties. And you should expect them to do anything that they can get away with. And it's long overdue that we hold them to account and rescue our system from their absolutely diabolical sense that they know what's right and wrong, and that democracy would be too dangerous to do allow or something like that.
+
+Heather 17:30
+Yep. Two related questions here. Hello, Hi, there. I think I heard you say maybe back in November, that there's a proper way to do astrology, but it isn't done by people who practice astrology. If I heard you correctly, what do you mean by that? And then, secondly, per your hypothesis, more complex astrology charts do, in fact, take into account the hour, minute and location of one's birth, not just day in year, as these are needed to calculate the relative positions of the planets in the various quote unquote, houses. So what, what I said and what's actually in our book is that astrology is easy to mock, because the way that it's done by and large, the way that most of us run into it, to the extent that we do is is patent Crocker garbage, right? It's it just it can't, it can't be true. And furthermore, I would say, you know, the idea that the what is it hour and minute of your birthright? That's
+
+Bret 18:28
+proof that the correction isn't a correction is
+
+Heather 18:31
+it can't can't make any difference. But what what I said, and there's a paper that I can't pull up right now, because I don't have it. I don't have it pulled up. But it's, it's referenced in our book. And I can I can talk about another time. What I said was, it will probably be true, that the combination of when you're born in the year, yeah, should have a seasonal level, not to the minute level, but at a seasonal level, in combination with where you are born, is likely to have developmental effects. Because being born, for instance, in the middle of a Minnesota winter, versus in the middle of an Arizona summer. And actually those two might actually be surprisingly similar in terms of, oh, you're you're locked up in close quarters, you may be more prone to respiratory diseases precisely because you're in in small places in the north, because it's too cold in the south, because you're an AC all the time. But that combination of where and when may well have effects on disease etiology. And also if that why not also on personality, and there is a really big retrospective paper. Looking at cash, I think it might have even been like hundreds of 1000s although again, I don't want to say that for sure, of patients of data at some massive Hospital in New York, that indeed was able to correlate for that hospital. So it's one spot so they've kept the location column. Done. And they've looked at the rate of the risk of disease, as these people grew up all haven't been born into this hospital. And it is, many of these diseases vary significantly by month in which they were born, that there are some months in which you can be born where you were much more likely, you know, you know, at least in this particular paper, someone's in which you can be born in New York, where you are much more likely as an adult to end up with heart disease versus mood disorders, if you're born at some other month. So we know that is true. And that seems to me to be clearly suggestive that if if you did astrology, right, which, you know, I, again, the fact that people are looking at hour and minute of birth, I cannot begin to fathom what hypothesis gets you to like, it's not such a that makes sense. But, but there can be some something to the idea that if you know, when you were born and where you were born, you might be able to predict something about how you will be.
+
+Bret 21:07
+So what I want to say is, there may be some ancient tradition of astrology that accidentally happens into this area and has nonsense explanations, or metaphorical explanations for patterns. That doesn't mean there's some way to do astrology, right? The only thing that we are saying is that it would not be surprising if people could be broken into cohorts based on when they were born and where they were born that had predictive consequences. And the way to see this is, let's imagine that we compare not somebody from Minnesota to somebody in Arizona, but somebody in Arizona to somebody in Sydney, right? What is the prediction of the fact that somebody, frankly, I know so little about astrological signs, and when they come, I can only use my own, which I happen to know. Right? So you know, a Pisces is born in late February, and that Pisces is born in the middle of winter, in Arizona, and in the middle of summer, in, in Sydney, it may predict exactly the opposite things of what personality would flow from that interaction with the world. So the point is, you can't say a Pisces has these characteristics. You might if you lived in one place, and everybody else lived in that place, notice characteristics, you could conceivably come up with a pattern that would be detectable.
+
+Heather 22:39
+And that pattern would break if you moved within the first three months of your life.
+
+Bret 22:43
+The pattern would be very noisy for those reasons. Yep. And you know, to the extent that you said, hey, I've noticed this pattern and you wrote about it, and you emailed it or email that you mailed it to somebody in some different locality. The point is, chances are that unless the locality is pretty similar, it that you know, it will break and to the extent that you don't notice that everything is inverted as you cross the equator, you've screwed up.
+
+Heather 23:09
+Yeah, yeah. So as I you and just show my screen I did, I did pull up the paper I was talking about, it's from 2015. Poland at all birth month effect affects lifetime disease risk of foenum wide method and yeah, they look at it 1,749,400 individuals, that is to say records from NewYork Presbyterian Columbia University Medical Center, people born between 19 102,000 so pretty amazing data set that they look at. And maybe that's all for that.
+
+Bret 23:42
+Yeah. Okay, that amazing data set, but you would expect that from Virgos. Thank you very good.
+
+Heather 23:52
+Um, let's see. This one, this person want us to answer so badly that they asked it twice. in different parts of the of the Super Chat, can you please help me understand why you support the Paris Climate accord? It seems to be a mostly virtue signaling measure, as goals are self selected and unenforced? Is it symbolic or substantive and able to make a difference? Yeah, you're nodding.
+
+Bret 24:16
+Yes. Frankly, you know, as I said, I'm not hopeful of the Paris accords actually do anything worth doing? What I'm interested in, is that all nations participate in a discussion about how to govern the global commons with respect to oceans, atmosphere, etc. So it is just simply the reestablishment that we are part of the community of nations and that we could be brought into an agreement in which we all did our share to rein in runaway processes of which I do think climate change is one. But no, I have no particular fondness for the Paris accords. And I remember When they were initially signed rolling my eyes and thinking, you know, that isn't going to work not nearly sufficient. So nothing special about those accords just the participation in the community of nations is really what it is. Great.
+
+Heather 25:17
+Is there an evolutionary explanation for near death experiences? Love to You both from Canada? Were we just talking about? Yeah, we
+
+Bret 25:25
+were just talking about? Yes, I believe there is a very interesting explanation. And I, I promise you, somehow in the next year, it's going to fit in with the other things that I am holding back and want to deliver in some form other than deeply buried in the q&a, but let's just say you're to think not only about the experiences of those who get very close to death, but you got to think also about their loved ones. That's all I'm gonna say. But yes, I believe there's a perfectly rigorous evolutionary hypothesis to be tested. And I'm very hopeful that it will turn out to be true. And my guess would be if it is true, that it will change the way we address and of life that actually materially alters what the right thing to do with a dying person is Yeah,
+
+Heather 26:26
+that's good. I was talking with a friend the other day about how a male's purpose has changed. He argued because times are more peaceful, many have harder times finding meaning. What is the validity of that statement?
+
+Bret 26:42
+I Well, I don't want to compare as between males and females, because I think this moment is so distorting of purpose for almost everybody. And yes, there are ways we could focus on a particular problem for males. And I think some of these problems are particular that there were, you know, honorable ways for many different kinds of men to contribute in the world. And that now that we are suddenly demonizing masculinity itself, that of course, anybody whose strains are in that neighborhood is now suspect, viewed as dangerous. And, you know, let's just be clear about this. It's a dangerous world, men have done the heavy lifting of protecting their populations and their nations for all of human history. So that was a role somebody could play and a way that we understood people to be contributing to our collective well being and to the extent that this is a world in which that doesn't necessarily add up. Yes, it has taken a large category of meaning. And essentially with almost eliminated from the map
+
+Heather 28:05
+Yeah, I I concur with that. And I guess I would say we, several months ago now watched a series of basically war, war films and war war stuff with our boys, starting with the series Band of Brothers, and then we watched harsh 567 really excellent. Movies mostly World War Two in Vietnam, about World War Two in Vietnam. And those in combination with you haven't, but I have in fact, I've read one excerpt here, both of Sebastian youngers books he has more than this, but war and tribe speak to speak to what war can do for men with regard to finding meaning and, and, and also, you know, community, which is a word that probably very few soldiers use with one another, but that there is certainly there has always been a role for men in peacetime. But war time has, has provided other roads to meaning and productivity really, as well. Yep. And this is a question I guess, for people who were out there, which because it was in the Super Chat, some people will have seen but has anyone started holding live group screenings? I feel like I could be in outdoor theater of sorts and fresh air and sun watching this with others in real time. Loose discussion to follow during intermission much love.
+
+Bret 29:37
+I love that idea. It's great. Yeah, I do too. Oh, live group screenings, like people getting together to watch the idea. Yeah. It's cool. Yeah, stay safe outdoor, like, outdoor fresh air. Yeah.
+
+Heather 29:51
+So I don't know, maybe maybe a suggestion to take to the discord, since that's a place where people actually can potentially talk Look up get together.
+
+Bret 30:00
+Yeah. And it would be cool actually to interact with such things if there was some level of organization. Yeah, good idea.
+
+Heather 30:11
+And this one, actually, you know, the the top donation this hour for which we are grateful, which I didn't see, at first much love to you both from the true north one strong and still somewhat free, huge appreciation for shoring up the ramparts of nuance against Bs, and then a secondary donation and one for young Zachary, of course. Great work, sir. Thank you.
+
+Bret 30:33
+Awesome, thank you.
+
+Heather 30:36
+And then this one as well. Big donation, I've made an extensive attempt to explore the approach to model building and subsequent behavioral modification you're discussing here, especially with respect to managing the breath, and about your feedback, please check Patreon messages. YouTube won't let me link it here. So I will, that's a very large donation, I will link that it would be useful to know which which Patreon, Patreon does not make it easy to search through messages. So if we have to search through everyone's messages, it's it's it's like I try to go through all of them. And I don't get through all of them. I know you, you don't, you aren't able to.
+
+Bret 31:15
+There's a particular problem where somehow the interface does not allow a response, at least through the phone. So at the point that I get these things, I see them I write a response and it doesn't go through and it's very, very frustrating.
+
+Heather 31:28
+Yeah, the phone the phone app for Patreon is no good. Yeah, it's really not. Thanks for clearing up the bear virus origin story. The bears have been doing research and services for years without being held accountable.
+
+Bret 31:41
+Interesting point,
+
+Heather 31:42
+thank you for recognizing what we were actually talking about.
+
+Bret 31:45
+Yes. I do hope there are no more bears and circuses. I like this. Yeah. No way to live.
+
+Heather 31:50
+Yeah. As a bear in a circus.
+
+Bret 31:55
+I don't think it's, there's no way to live. No, no, being a bear is a great way to live. I know.
+
+Heather 32:02
+While the lab leak hypothesis is gaining steam, still, we hear the trope that there's nothing about the virus structure itself that suggests as manmade, would love to hear further thoughts. So this came in pretty early last hour, probably before we got to talking about exactly this. Yeah, let's just say in
+
+Bret 32:18
+short, it depends what you mean by nothing in the viruses structure, there are anomalous things in the genetic information in the genome, they are things that could be explained through natural processes, there are things that could be explained through known laboratory processes. And it is worth saying that the barrack lab, in fact, created a technique that they in fact, officially labeled as no seeum cuts, or no cm edits. And so the basic point is the art of altering genomes, so as to leave something that is, as if natural is part of what is being attempted in the lab. So you know, I would say either you're gonna read into the sequence and then there is evidence and it is not conclusive. Or you're not going to read into the sequence and you're going to look for some sort of gross structural change which you are unlikely to see. I think I think that's Ah, here we go. No, cm cites
+
+Heather 33:33
+Yeah. So this is I think it was a preprint I just I have not I have not gone through all of this I'll scroll up and give you guys all vertigo, but the site to have NAB open, synthetic viral genomic risks and benefits for science and society, written by Ralph Barrick at UNC Chapel Hill 2006. And it's, it's long, but there's there's just there's there's a lot of what appear to be smoking guns in here. Or at least Gunsmoke. Yeah, maybe just comes back. Okay, there seems to be a penalty to stating the obvious regarding lab escape. Is this taboo? zation of basic reason and more recent feature of a modern culture? Or is there an evolutionary component?
+
+Bret 34:24
+There's an evolutionary component, but it's out of place. So in short, I would say, in most circumstances, you want to be pretty much in sync with what your population believes that there's very little to be gained by being out of step with your population, and you're very unlikely to change what your population believes. And so more or less accepting the mythology of your population is a good idea. Scientists have to do the opposite. Right? The whole point of science is to discover what we don't know about the way things actually function which means You have to be a little bit deaf or maybe even a lot Deaf to what people think they know, so that you can see past it. And what's happened is very normal human processes have been allowed to contaminate science. And we no longer reward people. In fact, we punish them for being out of step with the conventional wisdom, which basically causes science to be much more like a rubber stamp of conventional wisdom. So something like that, yeah.
+
+Heather 35:29
+Two podcasts ago, you mentioned that in some animals that operate in three dimensions, like birds of prey, females tend to be larger than males. Could you elaborate on the connection between the two?
+
+Bret 35:39
+Yeah, the connection is so imagine the following. Selection builds a creature to be ecologically optimal. And then it distorts that creature for reasons that matter a lot with respect to fitness, whatever fitness exactly, it's an it's not exactly reproduction. but close enough in order to get the reproduction, you can be distorted from your ecological optimum. Now in cases where males and females are monogamous, the interests of males and females tend to be quite symmetrical, and the force that distorts one or the other tends to be small. In general, it's going to be males who are distorted. In cases where there is not monogamy and there's therefore a large prize in terms of many mates to be gained by winning these competitions, the distortions can be very, very large. So the iconic example would be elephant seals, where males can be many times like it's six, I've heard up to 11, let's say six times the size of females,
+
+Heather 36:50
+I think certainly the word distortion is apropos in the case of elephants. Oh, so distorted.
+
+Bret 36:56
+But in any case, the point is the ecological ecological optimum looks a lot like a female because a female goes out into the world and does her ecological thing in the distortion is necessary for her to reproduce are small, right? So she looks pretty close to the ecological optimum. The male is wildly off that optimum in elephant seals, in fact, an elephant seals he has a whole different ecology because you can't feed a large body like that in the same niche that the female is feeding a small body like that. So males go much farther, they deep dive much deeper. Anyway, it's a weird system. But the key thing is, if you're going to compete in two dimensions, like an elephant seal who competes with other elephants seals on a beach on a rookery
+
+Heather 37:38
+Yeah, so just to be clear, like they forage in three dimensions, but they compete socially in two dimensions. Yeah, it's pretty much pretty much solitary in three dimensions.
+
+Bret 37:45
+males who are competing for harems, bash each other and gouge each other on beaches. It's a two dimensional distorted like I said, Yeah, distorted. But imagine that instead of being in that two dimensional plane, you were going to engage in some sort of aerobatic battle or, you know, three dimensional aquatic battle, then the answers will being bigger and burlier might not pay and being smaller and more agile might pay and so the competition pushes in exactly the opposite direction it pushes in the direction of you know, of agility.
+
+Heather 38:23
+Awesome. Yeah, yeah. So much to say there. But let's let's move through as someone with their bachelor's in dietetics, and bH and be PhD in nutritional biochemistry, and I don't know if that stands for Physiology or physics, nutritional biochemistry and physics or physiology, I'm not sure which I'm going to start over and just make up a word, as someone with a bachelor's in dietetics, and PhD in nutritional biochemistry and phys through the arts got to be I think so probably I vouch for your current positions on nutrition and disease. I also agree that more evolutionary training and nutrition is needed. Thank you. Excellent. Yes. Can you give us the recipe for the cocktail, the Portland mug shot? I mean, we covered this I know right? I think I think are awesome clips guy Dave even clipped it.
+
+Bret 39:12
+All right, but I will. I'll give you a little review. Yeah, if
+
+Heather 39:14
+you need more time, though.
+
+Bret 39:17
+If you need more detail, you can go back to the clip. But basically, you want to do this with as much care as you can. When you place the mug on a flat surface. It's actually flat. Yes. has to be level surface flat. Not so much depending on the bottom of your cup. You put the cup on a level surface. One ounce of your hard alcohol of choice. Put it in the bottom. And then that's it. Yeah,
+
+Heather 39:47
+it's fancy. Yes, it is. Men do like their fancy drinks.
+
+Bret 39:51
+Oh, yes, absolutely.
+
+Heather 39:53
+No umbrella.
+
+Bret 39:54
+No, there's no raincoat or
+
+Heather 39:58
+Hawaiian grass or something. Something here about the river that flooded the Garden of Eden yeah god damned it. Have you seen the U haul documentary yet? It's moving these are original dad jokes. Charles official I appreciate
+
+Bret 40:16
+you know the thing is it takes us I should have had you read them. But
+
+Heather 40:19
+yes, you're trapped.
+
+Bret 40:20
+It takes a certain amount of courage to write down a dad. Because you know if you deliver a dad joke and it doesn't go over you know it dissipates if you don't remind people that it doesn't come up in their memory and it's lost. But yeah,
+
+Heather 40:33
+watch. I'm like, I'm highlighting this. There's no way we're losing these. You got them.
+
+Bret 40:38
+There we go. Yeah, got it. Yeah, you're not living this down. Yeah. I'm
+
+Heather 40:43
+telling all telling evolutionary biologists to stay in their lane. You should send them a photo of the eight lane four or five freeway in LA. Those are all our lands. Yeah, yeah, man. That's right.
+
+Bret 40:55
+Yes, yes. I frequently say evolutionary biology is licensed to transgress all disciplinary boundaries, much to the irritation of almost everyone, pretty much everybody which is delightful in its own right. seem to
+
+Heather 41:07
+find it. So yeah. Let us What? What's the time suck? You are at 40 minutes, 40 minutes. Let us switch and see how many questions we've got in the Super Chat at this point for this hour, and then maybe we'll come back. We're missing a lot of them. But they Okay. Oh, I'm okay. Another one at the higher. I work in the middle of Western Australia as a lifeguard forced to stay on the sun for long periods of time. Should I not then artificially adapt myself to be more like the locals? That is wear sunscreen.
+
+Bret 41:41
+Right? Should I not then artificially Should
+
+Heather 41:45
+I not wear sunscreen? Oh,
+
+Bret 41:47
+well, I would say this is this is actually pretty simple. Unfortunately, I
+
+Heather 41:51
+prefer a lifeguard though.
+
+Bret 41:53
+Not it's not totally without risk. Here's what I would say the answer is if you can behaviorally, prevent yourself from getting a sunburn, then I would say don't wear sunscreen. You The last thing you want is sunburn. sunburn is really really dangerous right now it's more dangerous the younger you are that we know sunburns. When you're young give you cancer when you're old the older you are when you get the sunburn the less it matters for a couple different reasons but
+
+Heather 42:24
+you have a little bit of that still in the telomere paper right you left a little bit of that stuff in Yeah, it's there.
+
+Bret 42:29
+But anyway, I would say if you can behaviorally adjust so that you don't need the sunscreen in order to avoid the sunburn that's better but if you're going to get a sunburn for trying to use behavior the sunscreen is probably better
+
+Heather 42:42
+absolutely and by behaviorally adjust you you mentioned this but it was so fast and passing in the first two hours today what you I mean you started proposing and you had our children do and our children have had almost no sunscreen on their bodies and sack got a sunburn once on a field trip as I remember a really bad one but um, but I think Toby's never had one and they've spent a lot of time outside the site anyway we both Okay, Zach says there's been some summers I'm gonna guess though that many of those have been at Camp when we didn't we weren't overseeing yeah so the behavioral modification that you started to have all of us do was you know pick your periodicity it's going to be different depending on what your skin type is like you're more you're way more prone to burning then than I am for instance, but say it's after 15 minutes in the sun with no protection you know between the hours of 10 and two and a place close enough to the equator to really feel that you begin to feel you begin to feel anyway warm you find shade and you get yourself you stay in the shade for you know a third the amount of time or something that you've been out there for or you know, maybe it only actually maybe the refractory period is actually the same period and no matter how long you spent out, but you have to
+
+Bret 44:00
+I find it It isn't in order to be effective at this it's actually relatively short breaks can give you relatively long periods in the sun Yeah, but you can't skip one you can't
+
+Heather 44:10
+skip one so like maybe it's 20 or 30 minutes that you can go you know, depending on how early is in the season what your you know, what your ancestors were and you know, how light your skin is all of this. How early in the season meaning both like Do you have any, you know, any protection late in the season yet at all and, and also how strong are the sun's rays? Depending on how close to the solstice it is. But you know, just so rinse and repeat, right? Like 2530 minutes out in the sun, make sure you have a place to retreat to if as a lifeguard, you have one of those thoughts. I'm most familiar with the ones from the SoCal beaches, you know, if you have one of those places that you can actually be sitting in, fully not in the sun when you're not actually doing a rescue then you probably don't need sunscreen.
+
+Bret 44:56
+Yeah, I would also say in my experience, at least At the point where you feel like oh, no, did I burn? Right? Your skin is a little bit hot and you feel like you may have. Yeah, but it still works. The point is, it's actually substantially beyond that the real burn starts you there is a warning if you pay attention to it. Yeah.
+
+Heather 45:19
+All right, we're gonna switch, there's x got a line for us. White House press secretary said even after vaccines, we will have to mask a social distance isn't the point of a vaccine that changes things for the better. That's our friend Holly asking the right questions as he always does. Yeah.
+
+Bret 45:39
+I mean, I have to say, I'm a little bit cautious about this, because I still don't think we know where we are with respect to COVID. And, yes, ideally, the whole point of the vaccines is to get us out of this mess. On the other hand, we know very little about, you know, what happens downstream of these vaccines, we're gonna start pushing this virus around evolutionarily by denying it access to people who've all had the same vaccine, which is going to cause it to change. And so, you know, it's not it's not binary, right? Yeah, the immunity is valuable. I'm not saying that we won't have our trust abused and be told to, you know, to modify our behavior, even when it's not epidemiologically necessary. I think that's a risk. But it's not clear to me that given how precarious things are, that? You know, I mean, for one thing, we haven't even done the basics here.
+
+Heather 46:39
+We don't know yet. If the vaccines actually blocked transmission, they seem to reduce symptoms, and the people who've had the vaccines, and hopefully, also, the likelihood of them getting it, but if they have it, we don't have any evidence that it blocks transmission. I think it would be super surprising if it didn't, yeah, like, really, really surprising. But, but I think there's still no clinical evidence for that.
+
+Bret 47:06
+But we also mean, we haven't even talked about whether or not it makes sense for people who've had COVID to have the vaccine, which, you know, I mean,
+
+Heather 47:15
+this is another thing that just being said, Well, of course, you need to get the vaccine.
+
+Bret 47:19
+Right. And I mean, I can, I can think of mechanisms that would actually make it counter indicated. And certainly there is the unhedged risk, and there is every possibility that having had COVID actually gives you the protection the vaccine would give you anyway. So it's really unclear to me, especially in light of the fact that we apparently have a problem with the amount of vaccine. Right, right. There's all sorts of arguments why we might want to at least think twice. Yeah, with respect to people who've already been sick.
+
+Heather 47:48
+Yeah, no, I'll just, I'll say, again, that the three groups that are easy for me to say, really be cautious, like really considered not his children, no, pregnant women, no. And if you've already had COVID, consider the risks with that information as part of your risk assessment. Yes,
+
+Bret 48:09
+with, you know, the wild card of your, you're triggering the immune system with a protein your immune system is already primed to react to. So I mean, you know, just to just to be clear about this. I'm not saying the following thing does happen. But I'm saying the following thing is plausible, and therefore deserves to be eliminated as a possibility rather than just assumed not to be a possibility if you get a vaccine, and it causes the production of spike protein in order to inform your immune system, but your immune system is already primed to react to that spike protein, the spike proteins that you produce, in order to create that reaction may gum up the cells of your immune system, which are primed to react to it, and it could make you more prone to COVID. Am I saying it happens? No.
+
+Heather 49:05
+But is it possible that it could promote an autoimmune response itself,
+
+Bret 49:08
+which is always the danger here? You're talking about a system
+
+Heather 49:11
+either of those, which are different possible outcomes, neither of which is good. Yeah.
+
+Bret 49:15
+So in any case, I don't know how we ended up in this ridiculous predicament. But here we are. Yeah.
+
+Heather 49:26
+FYI, Tim Poole invited you guys live on air to come to his show. This last week. I didn't
+
+Bret 49:31
+know that. No, yeah.
+
+Heather 49:35
+Second, if you go dark, do you have alternate sites and contact lists? Great work. Cool. Thanks for telling us about. Tim Poole didn't did not know that. And you're the first person to tell us. Yeah, we really should get more of our ducks in the row about, for instance, at least being on I don't even need to pronounce library lbr why potentially. We do have Both of us have websites that have email signup, sheets mailing mailing lists, and I bet if I say that badly, the person who monitors them will text me here, I'm just going to turn it off airplane mode. So that if I get that wrong, they can correct me and I can see what the actual correct thing is my phone here. So if you go to both both either of our websites and just sign up, I think it may say, you know, sign up to here when the book is available for pre order Willowbrook is available for pre order now, but there's still potentially reason to get your name into our system. We have yet to use those lists in any way. And we promise no spam. So that that's as good as we have at the moment. But we should do we should get better. Should
+
+Bret 50:46
+we be more diligent about this? Yeah,
+
+Heather 50:49
+let me just see if Yeah, I know so far
+
+Bret 50:54
+we are right, we are depending on the fact that we make very poor villains. And that makes us a little bit hard to throw off these platforms. Yeah, yeah. Yeah.
+
+Heather 51:05
+Yeah. Turns out we don't suck behind the scenes. Sorry, enemies. Making my jobs hard.
+
+Bret 51:12
+Yeah. Yeah. Well, we do.
+
+Heather 51:15
+If we don't, I should call that Zach, could you make that temple one a different color? Since I have a harder time when it's in this framework? The one that I've got highlighted at the moment? Yeah. If we are programmed to minimize senescence, can we hack it positively? By having a sense of purpose, whose primary form may be parental care tending to our genes? Is his art the extended phenotype of parental care?
+
+Bret 51:42
+little hard to parse the question, but I think this is
+
+Heather 51:46
+this is Echo, and I feel like it might be two questions.
+
+Bret 51:52
+I think the question is about just substituting one kind of productivity for the standard biological and I think this is absolutely true. And I think actually selection has done it at the lineage level, that it rewires individuals to do exactly this. And it does so because lineages in which individuals are rewired that way have advantages over lineages in which everybody is wired for their own fitness. So yes, now, you know, art is a little bit hard to know. Yeah, yes. things within the realm of art can be exactly this. If you imagine selection at a lineage level. And certainly at this stage in evolution, whether or not it's a historical pattern, it's something we would well we would be wise to consider doing.
+
+Heather 52:53
+The next one. I think there's something interesting here, but I don't think there's enough information for me to know exactly what the question is. When McWhorter when john McWhorter rebuffed that a man and a woman meme wagon, it reminded me of a CS Lewis quote about a process that quote will make us into devils. I would love to hear this described evolutionarily. Yeah, I just don't know enough about the Lewis quote, to respond.
+
+Bret 53:19
+Yeah. But I mean, you know, we can infer that there is certainly something about mob mentality, and witch hunting, etc. which is the result of people feeling morally justified to go after other people. So I don't know what the Lewis quote is. I'm curious. But yeah, there are such processes, and we've seen them up close and dangerous stuff.
+
+Heather 53:47
+Alright. Any ideas on why testosterone levels are plummeting in men? Thanks. Was it on our private q&a that the answer to some similar question ended up in plastics?
+
+Bret 54:02
+plastics is gonna be pretty bad. Yeah, but you know, there's there's lots of stuff tangled up. But
+
+Heather 54:07
+I was specifically I think about women. female reproductive success and birth control and stuff. But
+
+Bret 54:13
+right, yeah. But I would say Look there, you know, every so often, you run into a finding that doesn't mean what you think it means, right? Like, you know, cancer rates are going up, or cancer rates going up because there are more carcinogens? Well, that's one possibility, and almost certainly true. It's also true that people are living longer, right? The longer you live, the more likely ultimately get cancer.
+
+Heather 54:36
+It's also true that we've got fancier, more finely honed techniques by which to discover cancers, many of which we never would have seen before. And the people living with them wouldn't have actually had their lives cut short by them because they were so small and insignificant.
+
+Bret 54:49
+Exactly. It's also true that to the extent that you cure other things, you know, people don't die of gangrene anymore. If you cure everything but cancer, then we'll all die of it. So you know, the fact that it would 100% doesn't mean anything.
+
+Heather 55:02
+Why are cancer rates going up? Right? Because we cured gangrene. Right?
+
+Bret 55:05
+Exactly. So the point is you got to start thinking in that way in order to know whether testosterone levels plummeting means something. Now, I think there is a result that suggested testosterone levels are going down.
+
+Heather 55:16
+It's actually hard for me to fit this question into the rubric that you just described.
+
+Bret 55:20
+Well, what I was going to point out is one reason testosterone levels will go down is men are living longer, and they go down with age.
+
+Heather 55:27
+So if this is just an aggregate across the lifespan measure, right, okay, then I yeah, I actually don't know the data. What I've heard this thing is everyone is heard, but I actually I've not looked
+
+Bret 55:36
+at the data. Yep. So there's that
+
+Heather 55:39
+that's a definite possibility. What if What if they've done it? Well, though, what if they've controlled for that and said, rice dosterone for men in their 30s is lower than it was 50 years ago?
+
+Bret 55:48
+What a lot of things and it's very tempting to think, you know, it's it's a physiological input. But it's also likely to be true, that testosterone levels are responsive to one's own perception of their, you know, place in a hierarchy or the need for the characteristics that are downstream of testosterone. So, you know, if, you know, if the culture is emasculating in a, in a metaphorical sense, then it may be that the body responds to this feeling by, you know, moving away from testosterone? I don't know. Yeah.
+
+Heather 56:23
+And then to get back to the plastics question. There's not too many androgens in the water supply, male steroid hormones, but there are lots of estrogens and estrogen mimics. And I wonder, and I actually just do not know the biochemistry well enough to know if this is even plausible, but because shit, which way is it? Does testosterone aromatize into estrogen? Or is it the other way around? I actually I don't even remember which direction that goes. But I something, you know, big black box here
+
+Bret 57:00
+set it right. But I don't remember. I said it both ways, though. The second one, you said testosterone or aromatize is too intuitive estrogen to African I want to say,
+
+Heather 57:10
+yeah, so you know, giant, biochemical black box here, which, you know, again, if I had time, I can go look at some of the work I did on this in the early 90s. Excuse me. I wonder if one of the effects of having all of these basically of having our systems flooded with a bunch of exogamous estrogens might in part be sending the body a message about not needing to produce as much testosterone as well. And I you know, that's that's really imprecise. I have some prediction given that I can't even remember those are the fundamental endocrinology at the core of it, but I think there might be something there. Okay, where are we are elan's companies game B, that is, in that their main purpose is not to make money yet?
+
+Bret 58:05
+Well, I wouldn't think of it that way. Those of us who take game B seriously talk about things that are that have elements of game B. So game B would be a system. It is possible for a project to have a component of game B, but not all components. Or it's also possible for it to be a prototype that could that could mature into something like a game B. And I would say Musk's endeavors certainly have some elements that lean in this direction. They're not alone in that regard. But But yes, there's something there. There's some some reason to invoke game B with those projects.
+
+Heather 58:57
+I'll fight you naked says at the time article proves the election was rigged.
+
+Bret 59:05
+prove the election was rigged.
+
+Heather 59:08
+I mean, not to go all clintonian, but I guess it depends on what your definition of break does.
+
+Bret 59:13
+He This is why this is driving me crazy. Yeah, they're all fucking rigged. They're all right. Right. Right. The point you've made here, I've made it many times they're if they're not rigged in the general election, they're rigged in the primaries, every single fucking one. They don't want to risk democracy. They fear it. Right. So this one was weird, right. And this article is strange. But, you know, to say the election was rigged leaves the implication that the outcome that the number of votes that Biden one, and the implication in the electoral college was inaccurate enough to change the outcome. We do not know that. To what we know is that there was an organized effort to play some game. At the same time we were being told there was no game. But how could anybody believe that there was no game? Right? There was a game from the beginning. There was a there was a an attempt to remove Trump from office from the moment he took office. It was ongoing. Right. There was an impeachment. Did he abuse power enough to be impeached? Yeah, I think so. But they didn't care, clearly. Right? They wanted to impeach him, because it was the thing that they it was the red meat that they needed to throw to their constituents. And it was the narrative they needed to feed. So you know, I am having this weird experience with this thing, which is like, okay, a lot of people were impressed with this article. Maybe it's super impressive. And I'm the only person who doesn't get it. But you know, yes, the system is rigged. The whole thing is rigged. Was the election rigged?
+
+Heather 1:00:59
+Well, isn't the impressive I mean, I haven't read it. But isn't the impressive thing about the article that it's published in Time magazine? I mean, just like we started off the first two hours today by saying hey, you know, Matt Ridley and Alina, Jan actually got into the telegraph. And then there's one of the Washington Post and like, like this is actually hitting some mainstream places such that more people are going to read it and go, Hmm, I wonder what that means.
+
+Bret 1:01:23
+So first of all, those are two opposite things because this article is triumphalist. The Time magazine article is like, hey, look at all this cool stuff we did to fortify the election, blah, blah, blah, blah, blah. It's proud, right? It's not the highest quality? I don't I didn't I don't know that. Yeah, no, it's it's that which Yes, it's frickin alarming. But the I don't know what to do with the fact that I'm not having the same reaction as as other people. It's,
+
+Heather 1:01:58
+but here's the thing. Yeah, you often to things that you experienced don't have the same reaction as other people. And then you think and you think and you think on it, and often that is where the insight happens. I'm not saying it's gonna happen right here. Like, that's not how it happens. But you know, you being thrown by not having the same reaction of this article, as what appears to be the reaction a lot of other people are having a I would like caution you that the tenor of questions doesn't necessarily tell you what people are thinking. And maybe you've maybe you've had other conversations, maybe you've seen other stuff online. But that is exactly when there's a mismatch between what the world seems to be perceiving and you go and use specifically go in and say, I am not in any way interpreting this the way everyone else seems to be. There's something to be seen here, there's something we discovered.
+
+Bret 1:02:50
+Yep, could be and no doubt in discussing it. Hopefully, I will advance the ball by pushing other people who are having the other reaction. In some ways they wouldn't be pushed and vice versa. But I would just say, okay, that article taken in isolation, alarming in a week, and I did find, during our break, I did find the article, it was a different article in which the New York Times proposed a realities are. But you know, it was right there in black and white in the New York Times, right? And they're like, honestly, it known, you know, their point is, we know that sounds bad, but hear us out. And it's like,
+
+Heather 1:03:34
+I had a conversation with a friend this week. And she said, I just feel everyday like asking, Are you punking? Us? Like, seriously, are you punking us right now?
+
+Bret 1:03:44
+You know, I'm not saying there's any evidence for this. But this kind of derangement of society over issues this simple, right? Is somebody doing this to us? It's a fair question, right? Because it's hard to imagine how you could get this dumb on your own. Right? I mean, honestly, like, you know, a reality czar, like, that's the thing, we're gonna shut down chat, because people might say things that aren't true, those two things in the same, you know, week, the same week in which we're talking about the idea that merit is racist, and therefore, we should find some other thing to, I mean,
+
+Heather 1:04:26
+for the first time in a year that people who are supposed to be leading the charge in the biggest pandemic and living history are saying, well, maybe that thing that we were mocking all year as possible. Sure, right.
+
+Bret 1:04:37
+The whole thing is so off the rails that you know, our you know, it is some kind of a psychotic a collective psychotic break, that we haven't figured out how to, how to grapple with but as far as I'm concerned, the whole thing, you know, this is this is reason d cohering. And You know, it does not surprise me in the slightest that that, as I said before, everything up to the limit of the law was done and probably beyond and you know, what isn't in that article? That's what I want to know.
+
+Heather 1:05:14
+I guess I have to read it. Where are we at sec, you are an hour and five minutes. Let us do three more questions. Okay, shall we immunologically, how do bats differ from humans? Um, I don't know the answer.
+
+Bret 1:05:32
+I think the answer to that, you know, I'm sure there are little differences. I don't know what they are, but they're going to be I don't think there's any difference that there is likely to be that would be meaningful if I said it out loud, right. In other words, you're going to have B and T cell immunity, you're going to have you know, mammals isn't that old group. And you're gonna have and you know, we were even higher up the tree here because, you know, we're talking about placental mammals. So the immune systems are going to be very, very similar.
+
+Heather 1:06:12
+Regarding interspecies altruism, do mammals exhibit this behavior, interspecies altruism, to protect mammalian genes going forward? I'm thinking about cetaceans protecting humans from sharks, humans keeping dogs and cats domesticated mammals rearing others, individuals of other species. You go man.
+
+Bret 1:06:30
+Yeah, I think so. First of all, cetaceans protecting humans from sharks is not the citation is doing humans favorites them spiting the goddamn sharks, which. Now, let's put it this way. I actually think something like this is possible it flies in the face of standard classic evolutionary theory. Yep. But let's just say, I think you can make you the problem is the way you want to explain this is group selection. And it does not fly. That
+
+Heather 1:07:05
+way. The person asking the question wants to explain it, no, the way
+
+Bret 1:07:07
+one wants to just the way to get there. Right. It's very Kumbaya. On the other hand,
+
+Heather 1:07:14
+group selection, Colin, it's very cool.
+
+Bret 1:07:18
+Hi, David Sloan Wilson. But let's put it this way. The nice thing, one of the many nice things about the, I believe completely rigorous lineage way of viewing these processes is that it allows you to see responsibly how such a thing could work for larger scale plates. Right. In other words, a clade that got through history by virtue of some kind of inter species, collaborative pneus, is still getting through history, which is the whole point. So anyway, I don't know how often it happens, but let's just say our whole categorization is broken. Right? And there are ways there are ways for something to look like what you've hypothesized that isn't that that's basically just reciprocal altruism are, you know, which would be called mutualism? When it's between members of a different species? But really, we're talking about the same process. But you? Yes, there is a way for it to happen, how often it happens, I don't think we know.
+
+Heather 1:08:35
+Final question, what are the likely risk factors and causes of autism? So, big question, I haven't thought carefully enough about it. I think I think we could do an interesting analysis with some with some time to consider but on first pass, I will say there's probably some, some mechanisms by which it develops that are that are biochemical and or genetic. Yep. But by and large, you know, get given the rate of increase that we see in modernity, it's going to be yet another, again, the focus of our book, yet another hyper novel, set of situations. And one thing that we have talked about in the past, is that strikes us as likely to be a risk factor is parking your children in front of screens, especially. And, you know, it's unlikely that these screens wouldn't have these things, but especially screens with human or humanoid or animal like critters that appear to be interacting, but that when the young child tries to interact with the screen, of course, the screen does not interact back. And that this will, it seems kind of obvious developmentally, send a message, that those things that appear humanoid aren't necessarily so and that they keep doing whatever they're doing even absent attempts at interaction.
+
+Bret 1:09:59
+Well Also it breaks. So there's a developmental feedback that will set in between actual humans, right? Where you emote, you don't necessarily know that that's what you're doing. But you vote and the person reacts and you develop the capacity to send messages in this way, you have to the extent of the thing on the screen looks just like a person and you emote at it. And it's completely indifferent and breaks the normal developmental thing.
+
+Heather 1:10:23
+Yeah, that's, that's better. So that's good.
+
+Bret 1:10:25
+I will say, there was some interesting evidence pointing in this direction years ago, it was very odd. But there was a flurry of interest surrounding a paper that indicated that autism was more common in rainy climates and the hypothesis, which I don't know if it was tested going forward. But the hypothesis which was all too plausible, was that the rainy climates, were causing more indoor time, more screen time for the kids, therefore triggering, I don't think they got to the analysis that we just delivered. But the idea being that it would bring about something like that disruption of the developmental environment. So I guess the last thing I would want to say is, and you suggested this, but Autism is liable to be a garbagey category. That the point is it's downstream of very complex processes, and how many different disruptions are there that could lead you to have things that we say, Oh, that's autism, right? So we need to be careful, because it can be, you know, can be a chemical. And at the same time, it can be a developmental influence. And, frankly, the overarching, as you point out, the overarching concern is evolutionary novelty, just your child is encountering a great many things an ancestor would not have encountered and some of them have the capacity, you know, to disrupt a normal pathway. And it could be that the very same influence if it had been encountered, you know, a month later would have had no important impact. But you know, the opportunity for the disruption was there, the disruption happened at the right moment. And next thing, some cascade of effects follows from it.
+
+Heather 1:12:09
+Yep. Well, I think we've reached the end, the very end the very, very end, other than a few announcements here, which are which are I hope to have my entire voice back by next week. Awesome. Join us at our Patreon is Brett Weinstein or Heather Hines. Patreon is for the whole bunch of interesting stuff Discord server on both private monthly q&a on mine. Couple of conversations on Brett's the private monthly q&a is with both of us. There is stuff available at the store which you see on your screen now store dot darkness podcast dark.org you can send questions to Dark Horse dot moderator@gmail.com You can find clips on the clips channel and if there's anything in particular you'd like clipped, you can send that also to Darkhorse. moderator@gmail.com anything else achieve greatness that's what greatness Yes. eat good food. God side. Love those who should be loved. Oh,
+
+Bret 1:13:13
+that's good. Yeah, love, love Only those who should be loved. And everybody else too, I guess. ruined it. I did. Sorry. Next week I promised to stop Rooney Thanks, everybody.
+
+This transcript was generated by https://otter.ai

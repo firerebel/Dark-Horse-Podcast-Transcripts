@@ -1,0 +1,379 @@
+Bret 4:29
+Hey folks, welcome back this is the q&a portion of the eighth live stream with me, Brett Weinstein, Dr. Heather hying to my right, shall we get to the questions
+
+Heather 4:41
+let's get to the questions you guys wrote a lot in and we are as we mentioned in the first live stream going to change our tactics here little bit. We've simply gone through and rank them by amount and we've got 20 up up high here that we're going to try to get through in this first half an hour, which means we'll miss a lot of your questions for which we apologize. And then we'll switch in this in the second half hour of this q&a livestream, to answering questions that you write in for this second live stream. So without further ado, is it possible to somehow cultivate a strain of the virus that is less damaging that could be used for herd immunity? Can the genetic mutations of the virus play a role in the symptoms?
+
+Bret 5:24
+Yeah, I mean, I would say that this is one of the primary strategies of how a vaccine works. So an attenuated virus might be used to trigger immunity. I guess the question differs slightly in the sense of something that was transmitted person to person and basically like a contagious vaccine, I would say, I don't know of that being a strategy that has been employed. Yet, I could be ignorant to something but my guess is just far too dangerous to set something loose that can then change under evolutionary pressure, even potentially recombined with the thing you're trying to immunize people from so it's not inconceivable. But it would require a lot of thinking.
+
+Heather 6:14
+Good. Next question, can the ongoing standardization result in a superbug?
+
+Bret 6:20
+Yes, it could. I'm going to go the other way on this one.
+
+Heather 6:24
+I feel like we may have had this question at earlier q&a. Yeah,
+
+Bret 6:27
+I hear this one periodically. I would say the, it depends what you mean. If you're talking about the sanitization with alcohol, and UV light, I would say that these things do not tend to select for highly resistant bugs that would then be difficult to challenge. And if you did, if you did have that effect, you could drive the percentage of alcohol up rather rather easily to address the problem. So I don't you
+
+Heather 7:01
+think if you knew it was happening, if you knew there was a problem happening? Yeah, I don't think that this
+
+Bret 7:05
+runs the same risk as like antibacterial soaps, but
+
+Heather 7:10
+presumably many people especially since, for instance, isopropanol, alcohol became unavailable very early in this, many people are still using these antibacterial soaps, which we know widespread use of has been correlated with increase in allergies and autoimmune disorders and children.
+
+Bret 7:26
+Right, right, which is different than a superbug. So there there is the hygiene hypothesis for allergies, which is credible. But a virus is not a bacterium, it doesn't have the same vulnerabilities. And so we will address them differently. But my basic feeling from the beginning has been actually you're relatively safe with with alcohol as a disinfectant, and it will it's not going to create a superbug. Good.
+
+Heather 7:59
+Next question, could you explain the personal responsibility vortex more detailed than in your TED talk, but I did not understand the similarity between individual and company choices since companies are losing income based on their decisions. Whereas consumers don't,
+
+Bret 8:12
+I can't do a better job than in the TED Talk. That was a 12 minute talk. And we don't have that kind of time. But I will say, people are in an analogous position to corporations in the sense that if they spend based on let's say, let's say you buy organic shampoo, which has no extra value over a cheaper inorganic shampoo, then you are spending more to make the world better and you therefore have less resource to for example, send your kid to a higher quality school while there they will network with more powerful people and the folks next door who bought a shampoo that works just as well but cost less have extra income to spend on their kids, their kids go to better schools, they have more influence over government, the world begins to look more like the one they would have us live in than the one you would have us live in. So the organic shampoo turns out not to be assuming it doesn't have a health benefit, which I would assume organic shampoos don't. It will the world will look more like your competitors dream world and less like yours. So anyway, I'm sure that confused matters more than
+
+Heather 9:26
+it needed to but maybe we'll link to your TED talk as well in the description of this episode. Fair
+
+Bret 9:30
+enough. It's
+
+Heather 9:30
+very clear I think. That is a decent segue to the next question. What does a normal day of eating look like for you to well as you now know, we don't eat organic shampoo,
+
+Bret 9:39
+right? Yeah, not at all. If we were going to eat shampoo, I would insist that it be organic.
+
+Heather 9:44
+Absolutely. Especially for the children. Do you want to you want to feel this or
+
+Bret 9:50
+cheese I mean, let's say you know we live in the Pacific Northwest, which is surprisingly great for raw ingredients. We now live in Port Wind, which is surprisingly great for prepared foods as well, we do a lot of cooking at home.
+
+Heather 10:08
+Now, I mean, now we're doing all of our cooking at home, right? So we've eaten nothing prepared by anyone else for over a month at this point.
+
+Bret 10:14
+Yep. I would say we are pretty strict about organic produce.
+
+Heather 10:23
+we've, we've been having this this war, it's a much longer conversation and there's a whole chapter on food and our forthcoming book. But we have, for instance, dabbled in intermittent fasting, there seems to be good evidence for this being a useful tool and in how humans can be healthier and more productive. And you know, reducing certainly simple sugars, and to some degree complex carbs in favor of good fats and, and sugars from from produce and bed and a lot of good protein. Yeah. air conditioning, does it increase the spread of virus because of air circulation? Does it mean no centralized AC is a summer any filters that can work. So we actually you didn't know that we were going to go there. But we got there at the end of the last live stream, I have not heard of filters being put in place. But I feel like this is an obvious place for r&d to be ramping up. And, you know, viruses or viruses range quite a bit in size, but they're obviously quite small, compared to the kind of stuff that often gets collected in filters. So I don't know, I don't know what the state of that research might be.
+
+Bret 11:37
+Let's just say there are filters that can do it in general, I mean, there's a rating system, I think it's Merv MRV, for particle size filtration, anyway, look into it, there are also filters that do contain UV sanitizer is found to be helpful. But anyway, I think
+
+Heather 11:57
+the UV sanitizing sees me is not in the filter itself, but it's like in the in the larger unit. So it requires it would require the redo of the unit that you're using.
+
+Bret 12:07
+Actually, often it can just be inserted the air handler, you can just basically swap a box in for some of the feet metal that would be there. And I don't know how well it works. But it has been studied to an extent, it would be great to have data on how this particular pathogen interacts with
+
+Heather 12:27
+data proved to be useful. Is there a possibility that the amount of male and female sperm a male produces is dependent on the ratio of men and women around them? Which could explain the male boom after world war two?
+
+Bret 12:40
+Oh, I see the x versus y bearing that
+
+Heather 12:44
+yeah. So this is a this is a possible mechanism for the traverse Willard hypothesis, in some ways, right? That without it doesn't specify the term so Trevor's Willard rivers was our undergraduate advisor Bob Trevor's one of the greatest living evolutionary biologists. The terms of Willett hypothesis suggests that individuals who are in better health and otherwise high ranking are more likely to produce more males as offspring, and those who are in poor health or otherwise lower ranking are more likely to produce females. And that sounds like an appalling prediction, until you think about what it is that high quality males can do in the world and just stop thinking about humans at all for a moment. And imagine a moose high quality moose, male moose is more likely to get meetings, whereas all female moose are likely to be able to go on to reproduce. So that's the basic hypothesis. Trevor's Willard, that that quality of our screen just went blank, Zach. Quality of Okay, you go, Brett,
+
+Bret 13:52
+basically, evolutionarily, you don't want to be a loser male, because loser males don't tend to reproduce. And therefore, you would only want to produce males, were you going to produce a male who was was well positioned to be successful. So anyway, you would expect a bias. I see no reason that you couldn't have a mechanism like the one you described.
+
+Heather 14:15
+And my mechanism again being sperm ratio of male to female sperm as X or Y sperm and mammals dependent on the ratio of men and women around them. That's the mechanism proposed here.
+
+Bret 14:27
+Yeah. So it's conceivable? Yeah. So to speak.
+
+Heather 14:34
+Nice. Question seven. How would you advise a pre undergrad with learning differences, dyslexia, slower processing, in finding educational research facilities, enabling them to exercise their strengths and pursue big questions and evolution? Boy, this is a heartbreaking question at some level. I used to know this really great little public liberal arts college in the Pacific Northwest, where you could go for such things. I can't wait commanded anymore. It's a really tough question. Higher Ed is broken at so many levels. And in general, as an undergrad, you will get more attention and more ability to have your individual differences recognized and perhaps taken advantage of in the in the good way, at a smaller college liberal arts institution that had a big university like an r1. On the other hand, you there's going to be a lot more research going on an r1. And there are probably lab research opportunities, but you're more likely to be washing glassware then actually involved in high level discussions about hypotheses and experimental design.
+
+Bret 15:41
+Let's try this a different way. Okay. The world is screwing up, it is throwing away lots of highly ethical but unusual minds. It should be engaged in arbitrage these people are poorly served by a an academy that is largely staffed by people who were themselves excellent students. And when they find idiosyncratic people in their classes don't know what to make of them. So somebody ought to figure out how to engage in that arbitrage, and serve those people and produce really high quality, unusual minds that would then enter the workforce and, and innovate. So anyway, there's the challenge. Let's see if somebody can figure out how to finance the solution.
+
+Heather 16:26
+There again, why do you think there's not a widespread move to import East Asian memes into the West? eg not wearing shoes in the house like is nor in many countries with extremely few COVID deaths per capita? It seems like we need full on Japan ification of the culture in the the people who we hang out with do shoeless houses for the most part, and have for decades, I think. So I think that that is spreading, but slowly and in pockets. I think right now we are seeing why masks in flu season, if that makes makes good sense, because that's the thing that clearly looks correlated, you know, among other things, in those countries that managed to control the spread of COVID-19. Anything else? Yeah,
+
+Bret 17:16
+I think we are going to see a major reorganization of how we interact based on the lessons here, maybe shaking hands doesn't come back. And my guess is we've been making a terrible error with it all along. I don't know if we will start bowing or what but but anyway, there's a lot to be done. We're learning a lot. And I do think we could also up the ante a little bit. I'm not sure why medical masks are the way people avoid infection in Asia. In other words, why? You know, we don't wear goggles, if you have a problem with your vision, you know, we give you an ability to buy glasses that look good and flatter your face or whatever. So why are we not engaged in what sort of scarf would you want in order to block infections, we should make this less of a difficult choice for people by integrating it better into their lives?
+
+Heather 18:20
+What question was I on? Number nine? Do you have any advice for Dyslexics to learn communication with normies? Who all seem autistic, like work around the Reading, Writing issues got a BA in Applied Linguistics, but all the other effects of dyslexia seem insurmountable? So what do you think the so Brett, you've said on this show before that you are dyslexic, although we both object to the pathologizing of this condition, but what do you think he's referring to as the other effects of dyslexia other than reading and writing issues?
+
+Bret 18:54
+I don't know. I should say, I wouldn't be dyslexic if there was such a thing, but it's too much of a garbage category.
+
+Heather 19:00
+Again, the problem with the binary Yeah.
+
+Bret 19:03
+You know, I don't know what to tell you. The my experience has been, I had to do a lot of things some other way. And it didn't always go well. In fact, it went terribly for most of my early schooling, but I wouldn't go back and become non dyslexic if I could, to many of the things that I think are good about the way I think and function came from what I learned to do to compensate for the things I didn't do as well as other people. And so anyway, I would say the best thing you can do is figure out where you might have an advantage and figure out how to play to it.
+
+Heather 19:45
+Next question relating to metaphorical truth and cultural memes. Do you think there was any relation to the disease's spread by bats and the cultural memes that relate bats to death and vampires?
+
+Bret 19:59
+That isn't it Interesting question. Let us address the vampire
+
+Heather 20:02
+if you first sort of easier.
+
+Bret 20:06
+Bats were not helped by the fact that when, when European science got to the new world, there were a couple of kinds of bats that did drink blood. They drink blood that they lap off the surface of an animal who they've sliced open. And actually it's funny many of the fruit bats in the new world are misnamed. Vampire them actually vampire him is not a fruit bat. It's a carnivore but it's not a blood drinking that empresa empro it is all there all of these bats that are named as if they drink blood that don't that I have always taken to be the panic response of Europeans naming bats that they couldn't quite identify and assuming everything was a vampire, but in any case, the the connection of bats to vampire stories I think the vampire story is predates the European discovery of bats that drink blood and so the label vampire was grafted onto the bats and that may have something to do with it. But I also think that you know, night is spooky because we have diurnal eyes, and therefore, creatures that fly around at night, and you know, appear to be like they are not rodents, but appear to be like rodents with a special power. It all kind of naturally points in the direction of something mysterious and otherworldly.
+
+Heather 21:42
+Even I mean, even we have been spooked I remember one of our first times in Madagascar. We walked up to a tree at I think it was before dawn we were waiting for a taxi Bruce this terrible mode of transit grand transportation in Madagascar. And we heard some sort of rustling and walked up to it and it turned out to be completely filled with these mega bats these giant fruit bats that order for a tree and caused us to do this and all the mala Ghazi in the neighborhood were laughing at us for being such ridiculous Vasa and as foreigners. So, you know, at at night, when you hear something you don't recognize, and especially if it then comes at you. Just because it's also spoofing, that's trying to get away. It is it is scary. But do you what do you think the likelihood is that there have been back to human viruses being spread? before? Now if before you answer that if if it has been happening, it's been very localized? Yeah, because we live in an era of globalization, which is why this thing has spread so rapidly, it would have been localized to whoever had the bat soup or what, you know, whatever the mechanism might have been,
+
+Bret 22:49
+it has happened with rabies occasionally. But I'm not a virus. I'm not convinced that this is a a proper case of the meme can noting a epidemiological problem? Yeah, I just I just don't think so. I think night is spooky. And also, probably the fact that bats hang upside down. Makes them hard to relate to.
+
+Heather 23:21
+Yeah. Yeah. Have the two of you or Eric considered trying to make your own research grant to at least provide some tiny measure of freedom from the corrupt academic system to researchers that you think deserve support? Well, that would be great if we were independently wealthy, but none of us are. So that's not good. Yeah, we're
+
+Bret 23:37
+not even dependently. Well,
+
+Heather 23:40
+yeah, I mean, so the idea of some sort of organization, you know, something philanthropic, as opposed to governmental. And to some degree predatory, like NIH and NSF are NSF are. Seems terrific. And in fact, there are plenty of smaller organizations that do give grants for research, all of which have different roles. One rule that is consistent between almost all of them is that you have to have an institutional affiliation. So that's, that's a rule that is, is unfortunately, pretty universal. But yeah, I think, you know, we need more more sources of funding, all of us. But it's, it's not going to be any of the three of us that the money is coming from, unfortunately, unless things change, right? If we were to visit another planet with carbon based life forms, would we potentially be able to eat the plant animal analogues we find there? Okay. I'm going to take this one because I addressed this exactly. I considered this question quite a bit. In a book I've written that I've, I have shelved for the moment, but a science fiction novel about the search for other forms of consciousness in the galaxy, in which exactly this question of course comes up and I clearly we would be able to take the plant animal analogues that we find there into its components and then restructure into something that we could eat. But could we eat what's actually there? it rather depends on exactly how evolution happened there, but it seems at first pass to me somewhat unlikely.
+
+Bret 25:26
+Yeah, I think it's almost certainly no.
+
+Heather 25:30
+What are your thoughts on the claims that COVID-19? Sorry, I keep on losing it. What are your thoughts in the claims that COVID-19 may be disproportionately affecting people of color? If two, do you think this could be biological or societal or both? It's a good question.
+
+Bret 25:45
+Yep, I would say it is, it almost certainly has a societal component. It may have a biological component, I would caution you about that term, I would argue that culture is equally biological, as genes, but it is certainly a component, it could well have a genetic component, many medical phenomena do. But I very much want to see. And maybe these already exist, there are compelling data sets that suggest a disproportionate effect on particularly African Americans, I would like to see a correction for economic status and location, right? Because lots of things may go along with what your racial group is. And it'd be nice to know, causally whether these things could be teased apart.
+
+Heather 26:39
+Yeah. Now that's exactly the analysis that I want to see. They the claims look legitimate. But I have seen nothing separating out specifically socio economic status and, and geography. Do animals have perception mechanisms, enabling them to infer that one animal from another species they're planning to eat or share territory with is an asymptomatic carrier of a virus they should avoid?
+
+Bret 27:05
+asymptomatic? almost by definition not? I would imagine. And in fact, the very fact of many creatures that eat meat being unwilling to eat a dead animal, and the secondary fact of many animals are some animals playing dead to avoid being eaten, suggests an aversion to animals that might be sick. But an asymptomatic case, how would they know I mean, almost anything that would allow them to know would be a symptom.
+
+Heather 27:38
+Right? So again, we're wrestling with this definition of asymptomatic at some level. in environments where people have historically died young and made it early like Africa, are people less selected for fitness in their old age, do they have longer telemeters telomeres? And are they more at risk of cancer?
+
+Bret 27:58
+You've got one of the factors reverse, it will certainly be true that in any environment where you are unlikely to live to old age, that the alternative to old age, which we call youthful vigor, will be favored at some cost to longevity. So in any case, it is quite plausible. I don't know whether your assumptions about Africa are accurate. But let's just say as a general matter, having nothing to do with human beings, environments that allow you to grow to old age reveal, they basically show selection, negative effects that happened late in life and selection purges those negative effects, so you get greater longevity.
+
+Heather 28:44
+Good. are cats genetically predisposed to sit in boxes? Are some human behaviors genetically influenced how this is three questions and one, how to genetically influence behaviors get encoded in DNA of not during ones lifetime.
+
+Bret 28:58
+So first, you would want to rule out the possibility that the boxes are predisposed to sit under cats. And that's just an obvious competing hypothesis.
+
+Heather 29:07
+that's a that's a confound for sure. Yep.
+
+Bret 29:11
+Yeah, you can have behaviors that are genetically influenced. And these things will be the result of relatively simple cascades of effects that in other words, you're imagining the wrong thing. If you think the DNA has a program in it for organizing neurons for some kind of a subjective preference, it's much more likely to be a bias that results in the triggering of a reward mechanism that then results in that behavior becoming ingrained over developmental time.
+
+Heather 29:55
+Humans are unique, we can recognize the game we're playing, and choose not to Play it that's in quotes. How does this make sense in light of evolution, it allows pursuit of things not in the interest of genes.
+
+Bret 30:07
+Yes, we can decide not to play the game. Unfortunately, when we decide not to play the game, we give an advantage to those who decide to continue to play the game and therefore tend to sideline ourselves evolutionarily. Now, I'm not arguing that that has to be the case. In fact, I would argue, we have to figure out how to stand down that dynamic if we are to escape the peril we create for ourselves in the 21st century. But by and large, if you take the example of, can you decide to resist the evolutionary drive to reproduce? Of course you can and many people do, they tend to be out reproduced by those who didn't, though. And so at a competitive level, it's not like you've actually defeated the game, you've just sidelined yourself. So there are ways out thinking about how they might work is well worth the effort.
+
+Heather 31:00
+So three more questions in this and then we'll go to the Super Chat questions from the current live stream. years ago, I jokingly told my college girlfriend that my uncouth behavior was not my responsibility, because generations of women had selected for the kind of man that I had become, in hindsight, was I right now?
+
+Bret 31:21
+Oh, I was gonna say, Yeah, of course. You were right. Yeah, no, unfortunately, it's true.
+
+Heather 31:28
+Well, uncouth behavior is not not heritable, mostly. On the at the genetic level.
+
+Bret 31:37
+It doesn't need to be genetic, though. Because the fact is, to the extent that men are rewarded for bad behavior, they tend to propagate that bad behavior to their sons and male collaborators and now lots of terrible things can spread this way to having nothing to do with females selecting for them. So males overriding female choices is the same thing. It's a viable strategy that is abhorrent and,
+
+Heather 32:05
+and you also have cultural playa trophies effectively, where there's a lot of stuff that people put up with, because it seems to come with the whole package. Yeah. And that doesn't mean that it's been selected for it means it's a hanger on
+
+Bret 32:17
+and tell you what, let's deal with this. proactively. Instead of talking about responsibility for the past, can we just simply employ our female followers to stop sleeping with assholes? All right, good. I think we covered that. Okay.
+
+Heather 32:34
+What would be the evolutionary idea and why some people can lucid dream? Ah, it's good.
+
+Bret 32:39
+I would look at this a different way. Some fraction of dreams are lucid. It's a rare phenomenon in normal dreaming, but it happens at lucid dreams being dreams in which you are aware, you are conscious inside of your dream that you are dreaming. And some of us who have dabbled in this have developed a capacity to navigate consciously to an extent. So the question really, I think has to do with why the border between conscious waking thought and unconscious sleeping dreams is porous. And I will just leave you with the following thought. Sometimes, the content of dreams which your conscious mind would not have good access to is actually handed across that border upon waking, those of us who do some problem solving. In our dreams, sometimes find a thought is almost handed to our conscious mind by our unconscious mind, at the point of natural waking and very rarely. If ever happens when the alarm goes off and jars you awake. But if you allow yourself to awake naturally, there's a point you arrive at in the dream, the conclusion of the dream may be of some significance. And then your subconscious mind, hands it off to your conscious mind. You say, Aha, that problem I've been struggling with? I think I know the answer. So that I think hints at the conclusion, which is that the border is not a hard and fast rule because sometimes it is useful to bend it and then people being able to develop the capacity to bend it at will is another question. Is that useful or not?
+
+Heather 34:19
+I would just add one caveat. You said those of us who problem solve in our dreams. I would think that all of us every one of us problem solves in our dreams. But some of us do not have explicit handoffs from the unconscious to the conscious mind. But we we wake better able to do something, be it skiing, or math, or knitting or whatever it might be. Then we were able to do before we went to sleep so there's problem solving. There's learning which are different, but I think both things happen for everyone in their sleep. Although not everyone experiences a conscious eureka moment upon waking
+
+Bret 34:56
+ever. Yeah, I guess the reason I'm not saying dreams stand any chance of being other than adaptive and useful cognitively. But some of us have had the experience of some particular thing with which we are struggling, that we went to sleep without the answer. And we've awoken with the answer. And the answer clearly is the result of processing that took place during that time. The other experience of, you know, I get better at x, y, or z thing, even when I'm not paying attention to it. And dreams are a very strong contender for the place where that occurs. I guess I'm just using problem solving narrowly rather than broadly. Yeah,
+
+Heather 35:37
+oh, dreams and also non REM sleep appears to be a place where a lot of the physical learning is happening, actually. Great. Okay, so one more question. And then we'll switch to the questions in the next live chat, live stream rather, how to suicide and depression fit in the evolutionary model? Are they not antitheses of survival instinct, or just non adaptive evolutionary byproducts?
+
+Bret 36:00
+You know, I have long wanted to advance the argument that suicide as we find it, in modern circumstances is largely maladaptive, but that the tendency to have that option available is utterly adaptive. And in an ancestral context, you would find it deployed almost exclusively adaptively. My friend David Lottie, and I once filed an abstract to give a talk on this very topic, and it was rejected. I can't even recall abstract being rejected for it to give a talk at a conference. We're both qualified to give the talk but anyway,
+
+Heather 36:44
+and certainly Lottie, was your co author on your evolution of morality paper?
+
+Bret 36:48
+Yep. He's a good friend. So anyway, let's just say this topic needs very careful thinking lots of things are transmissible evolutionarily that seem at first to be maladaptive, but have a hidden logic to them. And so suicide and depression are both strong candidates for this. Randy Nessie, who was a mentor of mine many years ago has done a lot of work on the question of depression.
+
+Heather 37:20
+Okay, Zach, are we looking here? No, wait, what is this? Ah, here we go. So everything is in gray. I'm having a hard time reading this because it's all grayed out. Yep. So I'm going to pull on you, Brett. Oh, there we go. That's helpful. But where do I start? 57. Right here he says. Okay. So we'll spend a half an hour just going through these in the order they came in, and then we'll stop when we stop. Okay. First question. Are you aware of historical epidemics, where the category of asymptomatic has been, has been eventually revised to something like symptomatic in a way that hasn't as of yet been identified as relevant? It's a super interesting question. I am not aware of that. I feel like this, this pandemic has the greatest chance of, of recategorize and asymptomatic in that way, especially as these you know, now we've got like chilblains, which I think is the technical term for this, you know, these release swollen red toes and fingertips, which is a, which is a symptom in quote, unquote, otherwise asymptomatic carriers. We talked about nausea, the loss of sense of smell and taste, there are presumably others of these things where, oh, you're asymptomatic, but you just are experiencing something weird. Well, maybe that's actually a symptom that isn't yet diagnosed.
+
+Bret 38:55
+Yeah. And again, we want to know what the lung x rays reveal in so called asymptomatic cases, because would we even call that asymptomatic if your lungs show up as heavily damaged? Even though you're not experiencing any external signs? I would say that's not asymptomatic.
+
+Heather 39:13
+Yeah. any relationship tips on dealing with disagreements?
+
+Bret 39:19
+Well, you want to take a crack at this and I'll correct
+
+Heather 39:22
+Excellent. Well, though we we've talked before that in fact, I think you may have said when we were together on Rogan, that turning down the sound is is a really good way to to observe what it is that the emotional and visceral stuff is playing out how it's playing out in front of you. And it can be completely infuriating to the other person if you're not on the same page, but being able to step away from language for a bit in order to see what what is actually being conveyed without language is super useful.
+
+Bret 39:59
+Yeah. to step outside of yourself and recognizing that the argument is very often not about the content of the argument, it's about something else. It's about somebody feeling shortchanged or something like that. And it manifests in some sort of explicit context about some particular. I don't know, slight, but that's not really what it's about, I'm trying to figure out what it is really about is, is useful. And also, just the simple recognition that you are a creature who is very much you calling me a creature, I am calling you. I'm actually calling you an ape. Well, yeah, you are a creature who cannot help but be mostly a mystery to yourself. And that means that you are not always in charge of your emotional state, or the arguments that you're deploying, or what you choose to be upset about, or anything like that. And just the simple ability to communicate to the other person, that you're aware that although something is very important to you, you're also potentially aware that that might be a you know, ridiculous preoccupation, at the same time that the two things can be true. In my case with you, I very frequently find myself if I'm doing something that's driving you crazy, I very often feel like, Oh, I know exactly why that's driving you crazy. I'm not happy about it. You know, if I could turn the thing off? I would, but I can't. And so it's sort of like, yeah, I'm with you on this one. You know, the guy who's doing that maddening thing.
+
+Heather 41:44
+You know, it's you and me against him. Right? But unfortunately,
+
+Bret 41:47
+he's in charge. Unfortunately, he's in charge. Yeah, we're not going to win this one. But
+
+Heather 41:52
+yeah, we could we could go on this for a while. Okay. His interest bearing debt based currency and evolutionary environment, were in a fitness of strategies defined or evolved, for instance, embedded growth. But we got a lot of started out strong, but I think I lost it's it's the it's the now the top one is interest bearing debt based currency, an evolutionary environment where in a fitness of strategies is defined, or evolved, Eg embedded growth,
+
+Bret 42:24
+right? I recognize all the components here embedded growth obligations comes from Eric. environment where in a fitness of strategies is defined or evolved. Boy, you might want to refine this question so we can tackle it better? Clearly. Our debt based currency sets up a landscape of assets and liabilities, hazards, perverse incentives, that then causes the evolution of many different strategies. So I don't know if that answers your question. If it does, we got it. If it doesn't try refining it.
+
+Heather 43:10
+What are your thoughts on the work of Dr. Chandra, Ricker, Wickramasinghe and the possibility of Corona like viruses making their way to us from space? Never heard of her seems like the chances of that are close to zero.
+
+Bret 43:25
+I would say they approach zero just very, very close to zero basis that the
+
+Heather 43:30
+actually we're gonna jump to next question on line 66. If we encountered extraterrestrial life, how different Could it be at the molecular DNA level? If it's truly extraterrestrial, it's going to have a different what I call in the science fiction novel that I wrote an info mall and different information molecule entirely. So the DNA is just it's not going to have DNA it's gonna have something some molecule by which it transmits information to its its offspring. And you know, is it likely to be carbon based, maybe maybe silicon based those seem like the most likely elements because of their particular chemical structure. But even if it's carbon based, that doesn't mean that it is going to be that it's infom wallets information molecule is going to be anything like DNA. So I feel like I addressed that one and interrupted you on this question of what is the possibility of Corona like viruses making their way to us from space,
+
+Bret 44:25
+I would just say the very fact that coronaviruses carry their information in the form of RNA that masquerades as messenger RNA, which can be read by the ribosomes of your cells pretty much tells you that they came from the same tree of life. They can't have originated from different ones.
+
+Heather 44:45
+Yeah. So we've got we've got an origin of life, from which all extent life on Earth originates. And it's really easy to tell if that's not the case. At this point. What is a good technical source for an entity In order to get into the mathematical formalism of evolutionary theory,
+
+Bret 45:06
+I don't think we're ready for the mathematical formalism. In other words, one of my complaints about the way we do evolutionary theory is that we have rushed to instantiate it in a way that has sometimes been illuminating, but it has then constrained us over time. And I think there's a lot of stuff plainly going on, in adaptive evolutionary space that we can't spot because it doesn't have the mathematics. It doesn't fit the mathematical models that we've been handed by our immediate ancestors.
+
+Heather 45:36
+But I guess I could say from sort of around the time of the so called modern synthesis, in the early mid 20th century, we have ra Fisher. So this is, you know, this is not modern evolutionary thinking. But it's still mostly holds ra Fisher is also known as the father of modern statistics. He was also a remarkable mathematical evolutionary mind. And I can't point you to any particular texts, but anything Fisher has written is going to be mathematically explicit, and evolutionarily relevant.
+
+Bret 46:09
+Yeah, there's a lot of good stuff. But the problem is, you want to pick it up without allowing it to constrain what you're capable of contemplating.
+
+Heather 46:21
+Toxic sunset question. What is the difference between deductive and inductive reasoning? Could you illustrate these two concepts with examples that relate to the scientific method? What is a toxic sunset question?
+
+Bret 46:34
+Yeah, I don't. I don't know. I mean, you know, we can talk about inductive and deductive. And obviously, the scientific method uses both
+
+Heather 46:45
+God and do it well, no, not really. I for one thing, I always confuse the two. But what what brings me What, what is my mnemonic for it is remembering that the scientific method is best understood, at least in a parian sense as hypothetical deductive Yeah, in which hypothesis is the standard for inductive reasoning, where the hypothesis is taking general observations. And or as I said, this is this is where I get confused, general observations and positing a particular meaning for them as the hypothesis and the deduction that follows would be taking the particular testing, etc, taking the particular and generalizing from it, and claiming that there's a general truth. Yeah, so that's still very, sort of broad and theoretical. But the to the reasoning from general to specific reasoning from specific to general need to be happening, you know, simultaneously, practically, or at least in both within any process, I need to be trading back and forth, back and forth. That's better. And both both need to be happening in order for the complete scientific discovery loop to happen. Yep.
+
+Bret 47:55
+Yes, the Wim Hof Method. It
+
+Heather 47:57
+looks like nobody mentioned Wim Hof this time fixed. Okay, I mentioned our ethics committees as corrupt as the peer review complex. What can be done about it our ethics committees as corrupt as the peer review complex, where I know less about how ethics committees are constructed. And I and but if we're talking about the kind of stuff that's happening over in diversity, inclusion, equity space, for sure, and and in some ways, even more, so what can be done about it, we can stop funding all of the obvious bullshit that's happening in academia. That's one thing that can be done about it. That would be good. Yeah. Thank you for doing this at a time I awake and able to watch live from Scotland. You're welcome. You have referred to some Scottish data a couple of times. Now, can you talk a little bit more about this? You've referenced this and I don't I
+
+Bret 48:52
+catch me a little off guard. I don't have the paper here. But I believe this was a fairly large scale study that sample the population at random to assess how many people had had COVID-19
+
+Heather 49:05
+across Scotland or and Edinburgh or something, or
+
+Bret 49:07
+it was a subset, but I can't remember. I can't remember where the the sampling was done. But it appeared to reflect a fairly high rate of infection relative to the already known rate of mortality. It was something like 1% of cases were detected.
+
+Heather 49:28
+Okay. Maybe Zack, if he would fly that one. Maybe we'll try to find the Scottish data to either post in the description or mentioned next time. 65 Thank you for this. I read opposite opinions on if you can or should boost the immune system. thoughts. Also mute me please know I cannot live with four more years of anti science Trump. That's to booster the immune system.
+
+Bret 49:58
+Yeah. I Every time I hear somebody talk about boosting immunity, I kind of glaze over. Because, in general, that's not how immunity works, right? You can inform the immune system about a particular hazard, you can depress the immune system by throwing challenges at it that overwhelm it. But boosting immunity is one of these phrases that gets invoked that I don't think is particularly meaningful.
+
+Heather 50:30
+That said, because I, for the first time have a computer in front of me, I just found this paper luohe at all. 2020 don't don't put the screen on Zack. That was published this year, but it was peer reviewed. So it was in the it was in the publication pipeline for a while that found that in pigs, early life enrichment versus being housed in barren cages is correlated with enhanced immune globulin g production in response to exposure to particular antigens later, later life enrichment does not have such effects. So I was thinking we talked about this a little bit on the next live stream, which you may still, but it was the first time it's I just pulled that up from my notes for for next time that I saw something environmental being correlated with a a boost, right, and I GG for for exposure to particular antigens. Yes.
+
+Bret 51:23
+But it also doesn't distinguish, you know, is it that pigs in a non enriched environment have depressed immunity, and that this is restoring the immunity?
+
+Heather 51:33
+that's gonna be it. Yeah. So what is baseline? Yeah, yeah. Let's see deniers of Wu Han lab theory, the virus is organic in origin, can it be cultivated in populations of bats to make sure the virus can jump to humans? Can it be cultivated to look like organic?
+
+Bret 51:54
+I'm just going to say, and I saw Eric tweeting about this today, the idea that the Wu Han lab was somehow involved is not synonymous with the idea that this virus was created or altered by people. That is, of course, possible. But the chances of this virus being organic, being in the lab, under study, for whatever reason, and escaping is a lot more likely, from what we know so far than that this was a synthetic virus that was would have had to be assembled out of a virus from some creature, presumably a bat. But in any case, I think people are just simply synonymized the idea of a synthetic or altered virus with the fact that the virus was in the lab under study, which we don't know but is seems highly likely. Since there were bad Coronavirus is apparently being studied at this lab. So anyway, don't leap to the conclusion that it's synthetic, even if you believe that the laboratory was likely involved.
+
+Heather 53:07
+How does depression function evolutionarily? I think we already addressed this if it signifies needs are not being met, then why is it so difficult to meet those needs? When depressed?
+
+Bret 53:19
+Not bandwidth enough here to take to take care of the question fully. But I would say the fact of depression being maladaptive in our male you does not mean that it is not a modification of something that wouldn't be adaptive in a different context. So we have a, an ultra novel environment that is taking all sorts of things that would ordinarily be adaptive, like, for example, our ability to store excess food energy that we encounter during some seasons for use in other seasons, that obviously gets out of control very easily when there's just too much food resource available. So does that mean storing fat is maladaptive? No. But in many cases, it becomes maladaptive because the regulator's on it aren't built for our environment.
+
+Heather 54:09
+So it looks like we've got 15 minutes, we got five questions left here. And if we have a little bit more time, we'll go back into the other superchannel that we probably want suggestions of good material on lucid dreaming, or I don't know any texts.
+
+Bret 54:25
+This is a long time ago, but when I was experimenting with lucid dreaming, I believe the Stanford sleep Research Center was mecca for that sort of work and they had materials available, including some stuff on how to train yourself to lucid dream. I found it useful. Certainly fun, if a bit exhausting. But anyway, I
+
+Heather 54:47
+wouldn't see Did you feel less rested after lucid dreaming?
+
+Bret 54:50
+Yeah, often. Yeah, it was
+
+Heather 54:54
+it might steal from some of the important benefits of sleep and dream.
+
+Bret 54:59
+I would say It was a trade off. They were definitely It was very enjoyable, fascinating, but also a bit exhausting.
+
+Heather 55:06
+Okay. Follow up to not playing the game. You've mentioned this being necessary in order to navigate to a better world, how would disability have evolved?
+
+Bret 55:16
+The ability to step out of the game? Yeah. Well, the thing is, what if you see a bigger game? Right? So I don't want to go too deep in the weeds here. But let's just say, as I said, on some of the early live streams, evolutions objective for each species is to get it as deeply into the future as it can. What if you recognize that by playing a game local to our era, we were effectively guaranteeing our extinction in the next 150 years? And that in order to get into an era, 500 years from now, or 1000 years from now, you effectively had to stop playing the game that you were trapped in, in 21st century? Could you do it? And the answer is not an obvious Yes, but it is a plausible Yes. In other words, human beings are capable of abstracting the game and saying, yes, if we keep doing this thing, it will result in that that we do not want, what can we do to re architect our incentives such that we can get past that roadblock. And there's, there's no obstacle to it, other than the recognition of the bind, and the ability to compel a sufficient number of people that I mean, look, it's it's no different than the wisdom that accompanies a recognition of delayed gratification. We are all born into a state where, you know, we see and we want, and then we learn that actually, you can get things that are better than that you can reach out and touch if you are willing to, to wait and to plan. And so we do that. And so it's easier to do as an individual than it is to do as a society. But it is possible at both levels. We've seen it at both levels. And so that's really the thing is we have to agree about the peril. And we have to agree that the steps necessary to avoid the peril are worth it. And I think if we took that project seriously, we would also discover that there were great rewards even in the short term, once we begin with that project.
+
+Heather 57:37
+Wonderful. Can you provide details on how a virus such as the current one is determined to be natural versus engineered? So one of our early live streams, we talked about a paper that had concluded that it was natural, quote, unquote, organic? And we're still working on going back through those early live streams and putting the papers that we mentioned in the show notes, the video notes. But is it how close a match is it to extent viruses that are already known and sequenced, and they are these databases at some point on one of these, we're going to talk a little bit about names. And I'm going to sort of walk us through the various levels of nested sets in which this virus exists. And if you have a match, that's really, really close to an existing virus. it you know, it still may be recombinant, it may be that two humans combined to extend viruses, but it appears to be based on existing viruses. And then there's a question of this is a place where we slightly disagreed, the authors were saying, This doesn't look like the kinds of changes that someone who was trying to engineer a virus would have made, because these aren't the obvious changes to make to other coronaviruses. And I thought, well, if you were actually trying to engineer a virus, wouldn't you actually make some choices that weren't obvious? So as exactly to put people off of your trail, but there there's a lot that we don't that you and I don't know about the difficulty of dealing with the protein code versus, you know, the spike protein and you know, all of the vagaries of viruses.
+
+Bret 59:22
+Yeah. I would say the key piece of evidence would be a in this case, it would be RNA code, for which there was no plausible mechanism for it to have gotten into a Coronavirus, but human meddling.
+
+Heather 59:41
+So a recombinant organism, were a recombinant virus that is Coronavirus, but then has something from another known animal genome and or fungal genome or something and we have no known mechanism for how it could have gotten there. Yeah, and even whereas we have this and we know that the Like recombinant bat pangalan viruses exist, for instance. And people have put together plausible stories for how that might have happened organically.
+
+Bret 1:00:10
+Yeah. So you have to be cautious just because you don't know the mechanism by which some sequence found its way into into this virus doesn't mean that there isn't one. But the fact that this virus does not integrate into the genome actually limits to an extent what it could have picked up in its own. You know, there may be mechanisms that we don't know or that I don't know. But it's not hopping into the genome and then hopping out and capable of taking anything that it might find there with it as a result of a different edit. Because it's not integrating. It's not in a position to collect that stuff. So anyway, I would, I would, you know, look for something that was just so improbable that it wouldn't have landed there by any normal mechanism. And the second thing is that capacity that had been tacked on to the virus would have to provide some value from the perspective of the humans that would have done the engineering. So in other words of some sequence that added a capacity to the Coronavirus that would make it harder to defeat, for example, would be suggestive. But I have yet to see anything of this sort.
+
+Heather 1:01:28
+Yep. Okay, two more questions. One, what are the most important criteria of a game be?
+
+Bret 1:01:37
+There are two ways to answer this because it's not really clear what important means in that question. One, and I would say the primary one is that it has to be competitively superior to game a, in game a is terms in order for it to be viable. But in saying that there might be lots of things that are superior to a game a and wouldn't be a true game be because they wouldn't produce any of the virtues of the hypothesize game be environment. So I would say, high on my list for things that a game B would have to include. It would have to be sustainable, it would have to be fair, it would have to be liberating. Those would be high on the list of characteristics of a game B world, and something that had those characteristics, and was competitively superior to game a and game A's terms. Oh, also, I would argue, resistant to capture or another way of saying it would be an evolutionarily stable strategy, that is to say, a strategy that maintained its superiority, and could not be invaded by something that that was corrupt.
+
+Heather 1:02:55
+Wonderful. The last question is a comment from which maybe we can riff a tiny bit before signing off for today, lots of talk about how we perform health care, politics, etc, when the pandemic is over. But like changing one comment in the tax code, there are winners and losers from any change.
+
+Bret 1:03:14
+Yeah, there gonna be a lot of winners and losers, when this is over, just based on what we will have learned. And I think there is almost no way to deal with that it's going to be a, it's hard to even know what metaphor to invoke, it's going to be a gigantic earthquake of change. That said, it does point to the necessity of having a system that protects you from unpredictable, giant earthquakes have changed. And I'm not saying that a pandemic was unpredictable, but the particular nature of it clearly was. So this tells us that we need a system that is built for the next one of these, whatever it is, and that immunizes people from having their lives turned upside down, their ability to earn suddenly ended, that cannot be maintained because the volatility and danger in the system that was installed with none of our approval. Right, all of that fragility was built in some of it intentionally, some of it by forces of evolution, some of it by bad choice making. But the fact is, we didn't design it, and we are now at risk of suffering from it. We have to build a system that protects us from those kinds of consequences. And so, yes, there are going to be winners and losers, but the system works best when the losers are people who are suffering from their own bad decision making. And the winners are people who are profiting from their good decision making and good and bad are defined such that when somebody makes a good decision, it enhances well being on planet earth, and when somebody makes a bad decision, it's one that does harm to well being. And those are the things that come back to haunt you. So, again, this goes to the question of game B, we need a system in which those feedbacks are tight enough that
+
+Bret 1:05:14
+the system evolves towards desirable ends, and we don't have that system at the moment. All right. All right. Well, this has been great. We will do a live stream number nine, sooner rather than later, probably Thursday am Pacific, Tuesday 330. And hopefully we will have further technical issues solved. We appreciate you bearing with us. In the meantime,
+
+This transcript was generated by https://otter.ai

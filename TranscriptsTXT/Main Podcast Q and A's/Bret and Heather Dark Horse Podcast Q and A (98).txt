@@ -1,0 +1,727 @@
+Bret 0:04
+Hey folks, welcome back to the Dark Horse podcast live stream q&a number 98. You are ready to rock and roll.
+
+Heather 0:16
+All right, let's do it. We're gonna we're gonna crunch it down. We're gonna start with the question from the discord this week. All right, shall we, Druids and the Irish boho Highlands? I think I've just stopped there. I don't know what boho refers to. I haven't been to Ireland, much to my chagrin. But I love the way this starts. All right, let's start over. Druids in the Irish boho Highlands have long used soil wrapped in cotton cloth placed under a pillow to cure ailments. Researchers found a new bacterial strain named streptomyces Spa myro forea. inhibiting for of sex mersa species in it. Given the parallel that ivermectin should we focus more research towards soils also maybe not drench our fields and pesticides and herbicides? Certainly the latter. Yeah. But I mean, so it does raise a question about what why we might expect should we expect? And if so, why might we expect soil bacteria to be particularly rich fodder for useful medicines for humans? Or, you know, so well? Should we expect that that is the case?
+
+Bret 1:19
+Let us let us tease apart the two things here. One, I think it's really cool that soil bacteria seem to be doing this, but not so surprising when the target is bacteria themselves.
+
+Heather 1:32
+Bacteria against bacteria, right? Exactly, or
+
+Bret 1:35
+word bacteria against fungi or vice versa, right? The natural antibiotic tendencies of these creatures which are battling everywhere, and underground, of course, means that they will produce these chemical warfare agents which by titrating them we can use against bacteria that infect us. That's not too surprising that sort of classic antibiotic theory. The interesting thing about ivermectin is that the bacteria that produces it not only has antibacterial and anti parasite properties, but seemingly antiviral properties, especially against RNA viruses.
+
+Heather 2:13
+So credibly broad spectrum may not be exactly the right word,
+
+Bret 2:16
+but even broader than broad spec exact spectrum to refer only to bacteria, right? So I still think what the heck is going on in Japanese soil? I bet you there's an interesting ecological story, and it would be well worth somebody's time to figure out what it is never mind the implications for human health, there's going to be some interesting ecological thing going on there and some interesting evolutionary history of it. Should we expect that maybe this is a more general property? It could be, I have thrown one longshot possibility into the mix, which is that there might be bacteria phages, which interface in this battle of bacteria that would explain why viruses are even in the mix at all. But I'd love to know, that said, yeah, of course, we should be extremely cautious about these complex novel by optically active chemicals that we are drenching everything with in order to increase yields in an agricultural context. It's insane.
+
+Heather 3:15
+That's an easy part of the question, right? No matter what else is true, that's a bad idea. But it does raise I mean, so for instance, when we were doing our graduate work in Central America, before I went to Madagascar, in largely in Costa Rica, and Panama, we got a tour of and became familiar with the workings of nbo, which is Institute the institute Oh, they're beautiful sadad I think, which is basically training Costa Ricans to be what they're calling para taxonomists to understand to you know, widely catalog, right? Not necessarily describe the relationships between which would be the work of phylogenic stamatis. But catalog the work of taxonomists, the diversity of especially the not so charismatic not so mega fauna and flora and other life out in the, in the intact nature in Costa Rica in that case, and to what end if memory serves in Bo was partially funded by the Costa Rican government, but also by Merck, maybe I forgotten this, I don't I don't remember but one of the major pharmaceutical companies, and the reason that they were interested in it and you know, they they were doing they were supporting laudable, so called basic research right in in biology. And also this pair of taxonomist would work with systemic tests and taxonomists that we knew who, who were not at the sort of the parrot taxonomy level to actually describe and describe the diversity. It's out there. But why would pharmaceutical companies have had an interest in it, the idea being that, of course, many of the new drugs, the r&d for so many drugs involves actually going to nature and figuring out what that is already being produced might be useful to be synthesize to be developed. Just as ivermectin was back in the 70s from Japanese soil, what I don't remember. And it's possible we just because of our interests, and because of the kinds of experiences we had there, maybe this work was going on. But what I don't remember is that nbo had any focus on soil organisms. But it was largely in fact, insects.
+
+Bret 5:16
+I think at the time it had none. It may have Yeah, it may have grown. And, you know, part part
+
+Heather 5:20
+of it may just be like, we got to start somewhere. And it's easier to interest for instance, people in cataloging and insects and in cataloging soil. But you know, what, what might we imagine, you know, if, if you could choose to direct such a focus at one, adjust one kind of either clade or microhabitat, within say, a Costa Rican rainforest, with the potential to not just describe, but potentially increase the likelihood of drug discovery? What do you think, like, Where Where would that be most likely to be fruitful?
+
+Bret 5:54
+fungie. Yeah, you know, I mean, the typical thing and I'm, I have yet to hear a good explanation for this. But plants and fungi are just simply better at fancy chemistry than animals. Right? That the the this the diversity of chemicals that one can extract from these things, and their biotic interfaces of these chemicals is staggering. Is it
+
+Heather 6:21
+going to be about sort of the equivalent of shelf stability? You know, animals tend to be mobile plants and fungi don't tend to be and motion XC less shelf stable and obviously down language, but
+
+Bret 6:32
+I would guess it's, it could be that it's it has to do with mobile organisms being I would imagine that there's a trade off relationship potentially, right. And that the idea is a creature that has to be capable of dynamism of the of the sort that a moving creature has may be limited. In other words, the burden of these chemicals may be great enough that the the elaboration of the machinery to produce them doesn't, doesn't show up
+
+Heather 7:02
+by prediction of that, then might be that animals that are suicidal, or that have a suicidal stage, might produce such bioactive chemical compounds at a higher rate than you would expect from their mobile relatives.
+
+Bret 7:16
+Yeah, and actually, though, maybe there's another simpler way to do this. Maybe the point is, if you move you have one less reason to produce fancy chemicals. Right? If the fancy
+
+Heather 7:32
+chemicals are defensive, right, well, that I think that was an assumption of what you said. Yeah, yeah, I
+
+Bret 7:38
+don't think it's 100% required, but in general, Yes,
+
+Heather 7:42
+there are. I mean, there are other reasons to produce fancy chemicals to use our term of art now. And I guess movement is, among other things, an anti predator tactic, right? And so so if you have that you don't need defensive chemicals as much but that doesn't mean that you don't have use for no other reason to have these fancy.
+
+Bret 8:05
+Right? And actually, so the percentage of animals that are toxic is small, the percentage of plants that are toxic is huge. They're almost all toxic,
+
+Heather 8:17
+right at least at some stage of development. Yeah, yeah. Or they may have heard of them or some stage develop
+
+Bret 8:23
+I think it is fair to say almost all plants create secondary compounds. And you know, empirically speaking you can just walk into the forest of your choice to take a leaf and touch it to your tongue and find out that you know, every alarm bell goes off and you're not supposed to be eaten that can be a little careful with things like oleander and things but but in general you can detect that you're not supposed to be eating most of this stuff because it's produced compounds that would make it very costly to do so. And you know, there are the exceptional things like the answer applications, right? These are plants that have housed ants that protect them from herbivores the ants will sting an herbivore that climbs the tree they will cut vines and so they basically have an animal symbiotic. And you can take the leaf off an application and it does not taste super bitter. But you'd
+
+Heather 9:15
+better not stand touching the application or else the answer will come out and then you hurt Yeah, yeah. So and the and the plants provide homes and nectar not only nectar but homes like these little like I can't word there's a name for them. It's not domiciles like they have these hollow thorns the hollow thorns Yeah, it's actually live in that has a fancy name
+
+Bret 9:34
+in the booth or an occasion I came up with the name of the homes are and this is
+
+Heather 9:39
+not just one like there are a number of these relationships with a number of occasions. I believe.
+
+Bret 9:46
+That one's super fancy. Yeah, the nectaries fat bodies. What are they called? They called Bayesian bodies are my borrowing a term from somewhere else in biology? Anyway,
+
+Heather 9:58
+I mean, yes, you are, but it might not actually be used here again,
+
+Bret 10:01
+little fatty appendages. Yeah, little nectaries and homes for the ants. It's an amazing relationship. And these trees are incredibly common in Central America. Find some all over the place. But so I guess what I would say is, if it is true that being able to move reduces the pressure to generate secondary compounds, maybe increases the cost notion
+
+Heather 10:27
+bought Belgian Belgian Belgian.
+
+Bret 10:30
+Yeah, right. Then I haven't found the other thing yet. The question is, are we overlooking soil because the organisms are less obvious? Obviously, we know that there are bacteria in there, right? But it's even less obvious than the hyphy of fungi. And maybe that's a a chemical frontier.
+
+Heather 10:49
+Now, this suggests on Pinterest, that they're protein rather than fat rich.
+
+Bret 10:54
+Does that right?
+
+Heather 10:56
+Which is possible I'm just not finding it. I believe that and I'm probably miss remembering it. Yeah, yeah, I know a few of these. Looking at protein rich, but I'm not I'm not finding like primary literature. I know there's a fancy name for the homes to the hollowed out thorns. Why are we here?
+
+Bret 11:11
+We were here because the discord wanted us to address the question about the soil placed in the bags under the pillows of people to release
+
+Heather 11:22
+Yes, Druids in the boho, some kind of awesome the Irish boho Highlands?
+
+Bret 11:31
+Yeah, there's also a lot of soil eating that people do. Typically, the interpretation has to do with deficiencies. But one can also imagine a chemical defense against hostile bacteria and things
+
+Heather 11:47
+interesting if you know if of course you've got you don't have a breach in your gut blood barrier. You shouldn't be able to get stuff into your bloodstream by eating it, but potentially getting, you know, potentially soil bacteria that actually had some use in in the gut microbiome
+
+Bret 12:07
+know if you had, if you had gut, if you had bacteria that you ingested from soil that were producing chemical warfare agents, antibiotics, some of them would cross I think many of them would cross naturally from the gut into the blood. I mean, you know, same as taking penicillin pill. Yep, that's true.
+
+Heather 12:32
+All right. Let's go to questions that came in, in this last hour or so. We're going to start with something from our from from Kyle. So all right. We know Kyle. And, and we are not going to be doing this in general. But because we know Kyle, we are going to read this question that came in from him. He says, Hello, Darkhorse, listeners COVID has killed what was left a traditional dating. And online dating simply isn't suited to those seeking a long term relationship. So I'm trying something different. If you are, or know a single woman who is looking for a quality partner to raise a family with, then I would like to invite you to visit dub dub dub dot data guy named kyle.com. Data guy named Kyle calm. I've laid out the basics of who I am and the kind of person I'm looking for. And I would love to hear from anyone who thinks they might be a match for me. Thanks again. You guys have the best hope you have a great weekend.
+
+Bret 13:26
+And I should add didn't make it into that. But 20% off site wide with the code. Dark Horse?
+
+Heather 13:34
+What do you think? 20% off.
+
+Bret 13:38
+Wife is enough. What? I don't know. But I'm assuming there's a 20% off? No, here's, here's what I want to know. All right. What I want to know,
+
+Heather 13:48
+so I love the name of the URL instantly. Kyle did a guy named Kyle
+
+Bret 13:52
+date a guy named Chris? Yeah, I mean, if you're just any guy named Kyle, this Kyle, right. Yeah, we can't vouch for this guy's name, Kyle. No, we can't. But we can vouch for this.
+
+Heather 13:59
+I know. It's good guys. I'm currently including this one.
+
+Bret 14:01
+This one. This one seems to be an excellent guy named Kyle. And he can code.
+
+Heather 14:06
+Yeah, so a guy named Kyle who can code that's not the URL. But yeah,
+
+Bret 14:10
+maybe next time, it'll be that but Yeah, I do. I do think you know, you and I have been lots of people have asked us in the aftermath of our book coming out about what we think the implications of the dating train wreck are for future dating. And I would like to see guys like Kyle, who recognize that something's off specifying some set of new rules for interacting in this landscape that would cause people to think actually, right, he's not just a guy named Kyle, he can coat who can code but he's also a guy who has these values and aspires to these objectives.
+
+Heather 14:51
+Yeah, bullet point, not an asshole.
+
+Bret 14:55
+That's the first bullet. I think a numbered list in which that was number one would be great.
+
+Heather 15:00
+Yeah, incidentally, actually, this is not not about Kyle, sorry to steal any Thunder here. But But I think early this week, the daily wire is going to be published an excerpt from the book and also a short essay that that we penned on on this topic. Yes, right, which is totally simpatico with stuff in the book, but sort of on the topic broadly of in this day and age, how do you find a life partner? Yep. All right. I hope it works, Kyle. Yeah. Good luck.
+
+Heather 15:30
+Okay. To vaccines that China has two vaccines that China has shared are developed by sinopharm, labeled Corona vac, both are an activated whole virus vaccines that is genetic material destroyed to prevent from replicating inside the human body tried and tested technology, if China can, why isn't the US producing your traditional vaccine? Why mRNA instead?
+
+Bret 15:59
+Well, what I would say I wish we were Yeah, is I think, based on what we have seen, I would certainly be excited to see a either inactivated or attenuated, yep, viral vaccine, which doesn't make those things perfectly safe. But I think the reason to think that they might be more effective, and the immunity would be longer lasting and potentially quite a bit safer, are quite real. I think probably the reason? Well, I don't know, I mean, I'm not certainly not an expert in this, but my sense was that the RNA platform and the Edina vector platform provided a plug and play mechanism that greatly accelerated the process of production. Now, I think the concerns absolutely
+
+Heather 16:51
+right, I think with regard to the mRNA, it could be done like in a weekend.
+
+Bret 16:55
+All right, you ready to simply download the sequence and right and generate it. But the question is, what I think we don't know, is what this looks like on the inside of the industry. And the point is, if getting out of the gate first gives you a huge amount of priority with respect to the regulatory apparatus, favoring your thing, because it gives you a technology you can deploy right away. And that means that anybody who took six months or a year or longer has a spectacular disadvantage to overcome because the mRNA, or the dino, vectored, vaccines are already so established, then the point is, will this is then a perverse incentive to use a technology that may not be the best suited for the job, right. And we really, you know, as always, we have to look at the corruption of our system, because let's imagine that, you know, you got to an mRNA, or a, you know, vectored vaccine first. And it seemed a good bet to use it, it seemed to be very effective and safe enough based on your testing, you might deploy it, but then as indications emerged, that maybe the immunity was very narrow, which, of course, it would have to be that it was short lived, which it didn't have to be, but seems to be the case. And then you would compare it to something else, there should be no priority given to just the earliest creation, right? In fact, you might even expect a trade off. So, you know, are we getting the best vaccine technology available pointed at this? Or are we getting the fastest and the one that could therefore make a splash and, you know, play a role in the political realm?
+
+Heather 18:35
+Right? Well, I mean, and the idea that this should be driven by speed at this point is insane. Early on having something that had the potential to be developed so fast, obviously made sense. But developing that to the exclusion of traditional platforms, traditional techniques never made sense. And we are 19 months in now. Yeah. So, you know, we, we obviously could be China is, and therefore we could be well on our way to or already deploying traditional, more traditional or traditional vaccines as well, I can send you you know, you would, he would certainly reduce vaccine hesitancy by quite a lot if you did so. And if the goal is to vaccinate everyone that would that would contribute to that.
+
+Bret 19:21
+There is one thing that I can see as a possible argument against Yep. Which is in the case of a inactivated virus, and that is to say a killed virus that has been delivered. So you will be delivering spike protein. And that may not in fact, it is likely not worse than the mRNA version, which is also delivering spike protein, but the way the mRNA version was supposed to work, and actually the Idina vector version, also changing the spike protein was supposed to anchor in the surface of the cell and therefore not be floating around. But it will unavoidably be felt floating around in and in activated.
+
+Heather 20:09
+Yeah. So and attenuated, viral traditional vaccine that excluded the spike protein, then it wouldn't work. To no degree. I wouldn't work to any degree be caught
+
+Bret 20:21
+Well, I can't say it wouldn't work to any degree. But I think to work to a significant degree, it has to be effective at getting into cells. And because the spike protein is key to that it has to have an effective
+
+Heather 20:33
+spike. Not sure about this, but let's move on. I'm just going in the order that they are being fed to me, I have not organized these. Sam Harris says that he cannot disprove you in real time, but seems fine, imposing his will and knowledge on us via mandates and censorship. If dialectic isn't an option, than its pre determined guilt and implied infallibility, no.
+
+Bret 21:03
+Oh, boy. Um, I have to say. I think it just needs to be said, there's one thing in what Sam has been saying that I actually agree with. The one thing I agree with is the frightening prospect of trying to hash these things out in discussion in real time. He's not wrong, that there's a hazard that comes from trying to do this via a debate. Now, that does not mean there isn't a way to rig a discussion to avoid that hazard so that we could actually hash it out without opening up the discussion to shenanigans, which he fears now, he doesn't need to fear that stuff from us, right? We're not going to pull that on him. But I can understand, given where he apparently is mentally on this topic, why he would be cautious. That said, Yeah, Sam appears to be in conflict with himself. And well, there's a lot more to be said on that topic. But maybe we should leave it there for now.
+
+Heather 22:12
+Yep. All right. This next one, I at least don't have the relevant information to respond to, but I'll read it. The concept of divine simplicity is a basis of Judaism and most Christianity, Christianity. As you spoke of the multi four part aspect of evolution, I thought it a perfect argument against divine simplicity. Thoughts?
+
+Bret 22:36
+I'm not sure what that's a reference to
+
+Heather 22:37
+right. I don't know either. The the sort of the four things that they might be referring to might be the mechanisms of micro evolution. There are a lot of things I'm coming for. Yeah. And then also the four part test of adaptation. I just had a patient the genetic, epigenetic, behavioral and symbolic modes of inheritance that Chewbacca, and lamb write about in their book. So I'm not enough than not being familiar with the concert to find simplicity. I just think we can't. We have no way we can sort of flail about but there's lots of fours. Yep. You heard here first, lots of things coming fours. And threes. fives twos?
+
+Bret 23:13
+I think quite accidentally, for no reason whatsoever. There are several things that we used in teaching that there were four of which was a source of confusion, because people sometimes couldn't keep the list straight.
+
+Heather 23:25
+That's interesting. I don't I don't remember this. So you're talking about the four part test of adaptation? Yeah. versions of that, you know, Chewbacca, and lamb book is awesome. But I don't think either of us taught with it so much that that would have come up a lot.
+
+Bret 23:37
+Yeah. four characteristics that cause a pattern to become common. Yeah. Yeah, yeah. So anyway, yeah. Interesting. I think it's just a coincidence, frankly, yes, you wouldn't have a single reason beyond coincidence for it.
+
+Heather 23:55
+Um, will? Will, and how might nature respond to our potential lab leak? When I guess I don't know what is meant by nature here. And if we're talking about sort of wild nature, or, or, you know, we are, we are all part of nature. So well, do you want to Yeah, you're cracking what might be meant here? A lot of things. It
+
+Bret 24:17
+could mean we made an argument early on. I still think it's important Actually, it's a counter argument to one of the things that Sam has recently said. He said he was quiet about the lab leak, because what difference would it make? And
+
+Heather 24:29
+we've we've argued, often, why would make a difference.
+
+Bret 24:32
+One reason is because if you've effectively used gaina function, if you've used serial passaging, for example, to draw a virus in a direction that it had not already evolved, you've effectively put tension on a rubber band and you should expect that when it encounters the world of phenomenon, that it will be pulled in the other direction, so you could predict where it was going to go. Now, that said, so for example, were it the case that That a serial passage experiment had resulted in it surrendering the capacity to transmit outside because the serial passaging experiment took place inside. And it got some characteristic for forgoing that tension than you would expect it to return to the ability to transmit outside, right. That's one example of a way in which an experiment could have pulled it one way, and then we would expect it to naturally fall back the other way, just the same way that if you, I could
+
+Heather 25:28
+see the opposite argument, though. I mean, in this case, I guess I had not before heard you describe this as like a rubber band selective force, the selective force could also be accelerating in some direction such that the virus now has a tendency to seek out more change in the same direction
+
+Bret 25:45
+where you could do that, too. You could be you could effectively solve a problem that the virus can't solve in nature. And in fact, if we did that, if this was allowed,
+
+Heather 25:53
+that's Yeah, that feels like the more obvious way that we exerted selective pressure if we use gain of function to create this fire. Yeah. But
+
+Bret 25:59
+if you think about it, like the, the argument I made in my dissertation about the tension between dispersal and competitive strength, and then effectively, in mapletree, no, no in things generally. So if you look at Hawaii,
+
+Heather 26:19
+in anything, not specifically viruses, not to humans to write anything,
+
+Bret 26:23
+what you should what should you expect to be to characterize the creatures of Hawaii? They're all going to be excellent dispersers at least a native ones, right? What does that mean about their competitive strength? There'll be feeble, because the point is, there's a trade off between those for reasons I make an argument for but never mind. So the point is, you would have started getting
+
+Heather 26:40
+to places I haven't gotten there, everything else is just as good at getting places and has not been able to put resources to competition competitive strength, right? Yeah.
+
+Bret 26:49
+So they will, they will have borrowed to get dispersal they will have borrowed from competitive strength, and they will have reduced selection for competitive strength in a low diversity environment, which is a natural consequence of it being a remote island. That said, if you solve a dispersal problem, if you take a mongoose to Hawaii, it's gonna have a field day because it's a very strong competitor, right? And lots of things of Hawaii is very vulner. Unlike mainland tropical habitat, Hawaii is very vulnerable to invasion because it has all these feeble competitors. Why are they feeble, because they're excellent dispersers if you overcome
+
+Heather 27:22
+the dispersal, barrier barrier than theft, of course, they're gonna win, right? So
+
+Bret 27:29
+the implication is that we effectively solved if this was a gain of function. escapee, we effectively solved a dispersal problem for the virus. So it didn't have to solve it, we gave it the keys to the human kingdom, and then having gotten in there, you would expect it to find its own equilibrium or,
+
+Heather 27:47
+potentially the keys to the like the ACE to
+
+Bret 27:49
+kingdom, right? That said, we are okay, so we solve the dispersal problem, you would expect it to naturalize into the human population, and then we have interfered with a novel kind of vaccine that is almost cartoonishly narrow in its evolutionary scope, and therefore, we are now pushing the virus around,
+
+Heather 28:09
+we have used the vaccine to interfere with that we have interfered with the vaccine.
+
+Bret 28:14
+Right now we have interfered with the evolution of the virus after solving a dispersal problem, assuming this was a lab leak, which was an assumption but more and more likely one, then we are now pushing it around evolutionarily, we're pushing the virus around evolutionarily so it won't find equilibrium, it will move in response to our evolutionary pressure that we are exerting.
+
+Heather 28:36
+Yep. Speaking of which, there's another question here trusting of saris, Coby to makes the evolutionary leap to transmit outdoors, you will tell us? Yes, and he and what we've said is, although we're not you know, especially in our main podcast, we're spending a lot more time talking about the, you know, the broader ideas of the book rather than this particular moment in time that we find ourselves in with regard to COVID stuff. We have said that we you know, if if things arise, that run counter to what we have said publicly, we will absolutely Come come back with that. And I still have not seen so you have said that there are a couple of super spreader events that seem to have been at outdoor events. But it is of course possible that the way that they were effectively super spreader events was in like bathrooms, right. And so so and that is the only and I don't actually even know all I know that my entire knowledge of this is from you. I have seen nothing and it's not for lack of you know, swimming in this literature a fair bit to suggest that there has been anything like a change in terms of transmissibility even in the Delta area. Well, in regard to outdoors versus indoors. Yeah.
+
+Bret 29:48
+So I believe we are beginning to see that I don't think it's a strong pattern yet but it's what I have seen is not easily dismissed as it was a bathroom or something like that. That remains a path ability, but in one of these cases, it doesn't look likely. But I would also point out, it could be a natural consequence of the increased transmissibility. Right? The idea is if you take the model that we were developing a year ago, right, where basically you've got a space, it has a volume, it saturates. At some rate, you are not likely to be infected if you're healthy, and you're in the space for a short period of time. But if it's saturated, you'll get it.
+
+Heather 30:32
+And then we need 100 units with the original variant. And now you need 50.
+
+Bret 30:36
+Right? Yeah. So the point is, can you conceive of an outdoor space that saturates like an indoor space? Maybe not with the original variant? And maybe you can with something that's much more transmissible? Yep. So you know, something like that. That's how my model is. That makes
+
+Heather 30:51
+sense. We change No, that makes that met. That makes some sense. Yep. How do we stop the dangerous and growing vaccinated versus unboxed false narrative?
+
+Bret 31:02
+Boy, how do we end up here? But look, there are ways but it's going to involve people not accepting these overly simplistic perspectives.
+
+Heather 31:14
+Yeah, that's right. And you know how we do that? I don't I don't know. But it really is like a, if the entire if you're the basis for your confidence that you're on the right side, here is a conclusion that you're not being allowed to show. You're not being allowed to see the analysis that was used to come to the conclusion, you should be questioning that you should you should look for something that actually has an analysis visible whether or not you're interested in or deem yourself capable of interpreting that analysis.
+
+Bret 31:44
+I think this is also we mentioned in the initial podcast today. The danger of verification ism. And I think the problem is if you're a verification this, then we are all born verification, that's right, you have to get over it. But if you're still a verification test, and you go looking for evidence of that simple story, you'll find it right. If you go looking for evidence that counter that contradicts that story, you will find that overwhelmingly, as well. So I think the point is, look, the simple stuff does not fit with the with the with the actual evidence or the logic, right. And so how do we get on the same page, we recognize that, you know, somebody engaged in a propaganda campaign, under the heading of pandemic of the unvaccinated, right, that's how the demonization began. But that doesn't even make any sense, right? logically, it doesn't. It doesn't make it a pandemic of the vaccinated, but it means that there is a role played by the vaccinated which is required for us to have ended up where we did. And, you know, at the point, you see that and at the point, you see that there are early treatments, which vaccinated people need access access to because breakthrough cases are real and common. Right. So the point is, once you see those two things, it isn't a pet can't a pandemic of the unvaccinated and early treatment is necessary vaccinated or not. Yeah, right. Once you see those two things, and the point is we were born out to camps. Let's get a straight let's figure out what really treatments work. And let's figure out what to do about are very remarkable, but not effective vaccines.
+
+Heather 33:33
+Related ish. I just read a recent wapo opinion, quote, of course, hospitals in crisis mode should consider vaccination status by to Neil R. Brown. Is this how Nazi Germany started justifying the dehumanization of other humans? What are your thoughts?
+
+Bret 33:49
+Could you read the beginning of that question again?
+
+Heather 33:50
+I just read a recent Walpole opinion, the title of which I believe is, of course, hospitals and crisis mode should consider vaccination status.
+
+Bret 34:02
+Okay, and then the question, sorry, I've missed the second part.
+
+Heather 34:06
+Is this how Nazi Germany started by justifying the dehumanization of other humans?
+
+Bret 34:11
+It isn't it isn't. I think the problem is there is a scenario in which you would have very good reason to consider something like vaccination status. And what you would do about it is not what's being done this is that this is a nonsense story that we're being given but
+
+Heather 34:31
+with, frankly, with different vaccines, and with a different
+
+Bret 34:36
+disease, right, that's the point is, you don't want to say anytime anybody says vaccination status is a relevant medical parameter. And
+
+Heather 34:45
+of course, there are conditions under which vaccination status will be irrelevant medical parameter,
+
+Bret 34:51
+but it's you know, I mean, let's put it this way. years ago. I proposed a solution. To the problem of not enough organs for people who need a transplant, right? The idea was, if you're an organ donor, you should get priority on organs if you need one, right? You can solve the problem in one fell swoop, right? That's not a matter of dehumanizing anybody. It's a matter of aligning incentives. And one can imagine a scenario that I do not believe we live in. But one can imagine a scenario in which civilization has done its part. It has generated excellent vaccines, and it needs a certain level of compliance, which it's not getting for reasons that don't add up. And it does some prioritization in order to align incentives so that we get where we're going. We are so far from that story. That's the problem,
+
+Heather 35:45
+given the particular tools that we are being told we must use,
+
+Bret 35:50
+right? Yeah, we are being directed to tools, we are being forbidden, other tools, we are being demonized for political reasons. And all of those things suggest Yeah, this is analogous to what happens when one population is preparing to decimate another involves dehumanization. But it doesn't mean that there's not a medical story that could contain elements of this. Absolutely. Very good.
+
+Heather 36:19
+I'm having a hard time parsing this, but you may, you may be able to make sense of it. The problem with the example of contraception from the Amazon review, is the question what if everyone did it, in this case to live childfree? The reasonable scientific, philosophical and religious conclusion is no, oh, I've got it. So I just can't track exactly what's being said.
+
+Bret 36:40
+So in the Amazon review, which we that two star review that star review, which we said, was obviously critical, and we believe it to be wrong, but is a contribution. It's forceful, it's it is it is intended to be good critique, and it is the basis for a very important conversation. Absolutely. Okay. And the second half of that review, the reviewer talks about the fact that our model that we put forward effectively, where our cultural perspective, is obligated to serve the genes. We are very careful in the book to explain that as you get towards modernity, you cannot make the assumption that our cultural beliefs, even expensive ones, are serving the genome because these things haven't passed the test of time. So in order to know that these things are adaptive, they have to be old enough to see whether or not those who hold them out compete those who don't. The problem is, in fact, so I kind of wanted the guy who wrote that review. I wanted to be in a class where he submitted that as a paper. Sure, right. And it would be like, excellent paper, here are the six ways that you're wrong. Now, let's go back and forth. Right. The thing that's wrong here is that he's identified a perfect example of hyper novelty and the arbitrary distribution of adaptiveness and changeable ness of various things. So we have made the argument that it is, selection wants you to produce offspring that carry your genes to get your genes into the future. We have a really easy time on hooking our evolutionary drive to have babies because birth control allows us to decouple sex from reproduction, we have a very difficult time controlling the impulse to have sex. And the point is we are lucky that selection did not make the production of babies pleasurable that it made sex pleasurable, because if it made the production of babies pleasurable, it would be hopeless to come drowning and babies would be drowning in babies. Right? So So the point is, this is a great example of a hyper novel, no simple answer, arbitrary mapping of flexibility because some of its housed in the genetic layer, and some of its housed in the cultural layer. It's It's the perfect example. He's just he's gone one step shy of the actual conclusion,
+
+Heather 39:08
+which also reveals this, this idea that I don't think actually ends up showing up in the book at all, but we've said, you know, it could have just about as well been the the title of the book, obvious in retrospect. But many of the evolutionary ideas that actually do seem obvious in retrospect, take some time thinking on them going back and forth, engaging with them, and and they won't be obvious in retrospect until Zack decides to put the camera back on the two of us,
+
+Bret 39:38
+right? Because there are two of us. And they were the one talking Yes, the one listening which right now, as it
+
+Heather 39:43
+turns out, all I had to do was say his name and he was triggered to put the camera back on both. Yeah, it's cool. So anyway, the obvious in retrospect point might be seen as too glib and obviously false because we have also talked about Okay, This person appears to be making for incident, I'm not necessarily this guy, but a number of people will be appearing to engage with the ideas carefully but not be quite getting it and some of the obvious in retrospect points actually take some time You can't just hear them once or read them once and and get them they actually take some going back and forth so you can figure out how your model needs to how this model needs to be applied.
+
+Bret 40:22
+Yeah, it's a question of the number of things that are wrong with the model you bring to your exposure. And so you know, my favorite example of obvious in retrospect is the origin of species. And the point is, you know, it took decades and a full book and still you know, it didn't convince people right away, but you know, th Huxley's response I think was something famously like why didn't I think of that? Right? So that you know, the point is if you if you were steeped enough in this kind of stuff, it was instantly obvious right? And if you weren't you know, it still may not be obvious to you if you were if you had enough steps if your model that were different but
+
+Heather 41:08
+and just apropos nothing really th Huxley's relationship to Algeria sucks. Oxley was like grandfather, No, uncle, cousin, cousin, cousin, 18th
+
+Bret 41:17
+remembers. Yeah, something. Yeah.
+
+Heather 41:21
+Please consider inviting Dr. Paul Saladino on the podcast would be fascinating to hear you discuss diet and evolution with him. Are you familiar with him? I am not.
+
+Bret 41:29
+Although the last time I said I wasn't familiar with somebody it turned out I was very much familiar with him.
+
+Heather 41:32
+Yes, indeed. Yes. Neil Oliver, Neil Oliver. Indeed. Yes. Yeah, we are. It turns out both just had forgotten the name. Yep. Terrific. But so maybe that will prove to be true. I apologize. If so. PSA, for those looking for talented anti woke musical artists. Tom McDonald is the goat might be an interesting podcast guest hashtag clown world
+
+Bret 41:58
+must be his first album.
+
+Heather 42:08
+I'm 30 and a fit retired medic, on verge of saying Fuck it. And old school inoculating myself in isolation before a more lethal variant emerges. Please steal man the case for why I'm retarded. This is from someone called the right to bear markets. Alternately the right to bear markets.
+
+Bret 42:29
+So the person is talking about contracting COVID to generate immunity. That's what they're arguing
+
+Heather 42:41
+for. Yeah. And it took me a couple of reads. To figure out that's what they're talking about. Yep. steelman the case for why you're retarded.
+
+Bret 42:52
+Oh, here's why you're in I can I can easily steal man, the retarded, you're retarded, because? Wow. He asked me No, that's not a term I use. And it's not a term I'm going to use here. Here's the error that you're making. You are making an error, because we do not we cannot rule out certain downstream consequences of COVID disease itself. Among them are the possibility that it hides in some tissue in which your immune system cannot clear it. And therefore people who have had it still have it. And we don't know that. That is a possibility. I don't think it's likely but it's possible. It is also possible that the consequence of having COVID the destruction that it does to the body will have some implication down the road that we cannot see. And so although you are right, that future variants are a frightening prospect because we don't know what their nature will be and therefore you're comparing current COVID Horror to unknown magnitude future COVID or it is not a simple matter of well let's deal with this and be done with it because you don't really know that you can be done with it.
+
+Heather 44:06
+You don't know that you can be done with it. So far, the variants seem to be more transmissible, not more deadly. But of course, that is not a pattern that is under any obligation to stay the same.
+
+Bret 44:20
+Yeah, yeah. So anyway, that's the steel man doesn't necessarily it is what it is, it is what you asked for, except for that term Reishi I should not have allowed myself to fall into.
+
+Heather 44:35
+Did higher calorie intake help us evolve advanced brands could modern calorie dense diets allow us to become even more intelligent. One of the leading hypotheses one of the hypotheses that we take seriously in the book about some of the move towards higher cognitive capacity in humans is about fire and then the cooking of food The cooking of food which allows us to get more nutrient load out of every bit of food that we eat and thus allow it gives us more time also. So cooking of food gets us to more nutrient load more nutrients out of our food, and also spend less time actual eating actually eating it. And I think if so this is your Richard Wrangham, important, amazing primatologist, who has written many papers on this, but also the book called Catching Fire something. No, I can't remember. It's anyway. I'll look it up after when you're talking because it's in here as well. argues that I think some of his research has shown that eating an entirely raw diet that is somewhat heavy in meat, a person would be chewing for like five hours a day, I think I think that's the number that he comes up with him and his the researchers who's working within that paper, which would have obviously gotten in the way of things like talking and sharing ideas and engaging with one another in anything besides mastication. So to the degree that, we were able to get more out of our food, that may well have been part of what increased cognitive capacity, but the idea that it's simply that we need more food, and then that increases brain size, there are limits on brain size, that have to do with when in your development you're born and to what degree you can continue to alter women's hips compared to men's hips and still have us be, you know, basically similar enough that we can engage with one another as the same species that were already sort of at the limit of width of female hips with regard to stability issues. So there are there are things restricting the upper bound of brain size, at least where we're born, and we're already born so helpless, that being born even more helpless and less with a smaller brain earlier in development would put us at even greater risk. All right,
+
+Bret 46:54
+so cooking food liberates more nutrition. It reduces the amount of time necessary to process it and it makes food more tastier which is good, tastier. What I would add to your excellent
+
+Heather 47:10
+Catching Fire catch on fire human Yep. Ram 2009
+
+Bret 47:13
+Yep. All right. So what I would add and I agree with your analysis as far as it went, the limits may not be about In fact, we have too much food we know that right? Totally. So food is not the limiting factor not getting smarter. No, we're not we're not getting smarter did not appear to be getting smarter. Right? Here's the other thing though, in order to get this you know, if it was true, that our cognitive capacity was food limited, and then we had more food and for some reason, the limits that you Heather point to were not driving it would have to be the case that the extra cognitive capacity resulted in more offspring, which is a very unlikely connection and modern times. Right. Now, I mean, it just simply is right like if you if you just imagine for a moment, a world in which we are limited by calories, in terms of our cognitive capacity, and then suddenly you remove the limit of calories that does not result, you know, in people, outwitting each other to reproductive ends, right. It results in people hanging out in salons and talking about interesting patterns. But I don't know that that results in babies.
+
+Heather 48:31
+not usually No, no. All right. I don't I'm not familiar enough with us to respond, but I'll read the question. The UK vaccine surveillance reports show that for many ages, that is many ages of people vaccinated have higher per capita infections than unvaccinated. What are your thoughts?
+
+Bret 48:53
+I wish the data was better. But yes, one hears a lot about anomalous patterns that I have the sense we are not following up on and may or may not imply things that we should know.
+
+Heather 49:07
+Yeah, I agree. Could taking neurogenic compounds like lions man increased the risk of neuronal cancer?
+
+Bret 49:16
+No Ronal cancer is very rare in general. And for this reason, brain tumors are the result of auxiliary cells associated they are present in the brain, but they're not neurons themselves. And the reason for this is almost certainly glial cells. Yeah, there is. I think there are several different kinds. But yeah, supportive cells are the, the ones that create tumors. The reason for this is probably that the neurons do not do their neuronal magic by making more neurons in general, they make their magic by making more dendritic connections. And so the point is to the extent that it tumor is a cell producing too many daughter cells are dividing too frequently. It is not the division of neurons that is the way the brain works. So
+
+Heather 50:11
+it does happen but it's rare it's more about synaptic connections
+
+Bret 50:14
+not zero but it's not a real productive tissue vibrant industry
+
+Heather 50:18
+as an adult,
+
+Bret 50:21
+right? It's not Yeah. Although you could get an analog of cancer in which you got the proliferation of dendrites beyond what would be useful and I'm going to propose the name for the malady would be galaxy brain
+
+Heather 50:47
+brought on perhaps by lions men too much
+
+Bret 50:50
+yeah, I had completely forgotten the lion's mane connection but yes, you could get a case of galaxy brain from Lion's Mane so yeah,
+
+Heather 50:59
+yeah. Put that disclaimer at the beginning of those ads you
+
+Bret 51:03
+need to know the Latin for galaxy fungie for mtorr no caveats. Something like that.
+
+Heather 51:15
+Yes. Okay, I have some glimmer of recognition about this but I can't quite remember I'll bet you will and you will still reflect on my connection. Brett as Heather has asked, What is the joke the one your dad told? See you do I know the joke Yeah. Wow. I wish I could I'm just reading questions here I'm
+
+Bret 51:42
+concerned if I tell this joke even as a historical artifact that people might throw a rope on me and try to tear me down like some kind of statue to a past era right I just sort of elk like and yeah, exactly exactly. seriousness
+
+Heather 51:56
+impact Yeah, we
+
+Bret 51:59
+really need to get back to a world where I can tell that joke because it's really as an evolutionarily very insightful joke if offensive
+
+Heather 52:08
+How about this can we offer landing psyche if that is in fact how you pronounce your your name here that off air since I as I predicted he's not going to do it that you will tell me and our sons this joke I'm sure I've heard it before but I don't know what you're talking about yet. And we will work with you to figure out if there's a way to do this without being treated like a comet Alec statue
+
+Bret 52:34
+helped me figure out I just think that
+
+Heather 52:36
+no promises I'm not saying it's possible but you
+
+Bret 52:39
+will they have been relentless in trying to catch the big ballers yet well they have changed identities and all sorts of people who were not initially in favor of the cancellation at all I've now switched teams that are now trying to cancel you may have noticed that I have in fact noticed Yes, yeah. noticed. So you know, I just wonder if this thing that's gonna get me cancelled and it's gonna cause near universal agreement in the fact that I am not so like society have
+
+Heather 53:07
+some stickiness on that New York Times bestseller list before maybe going into this territory. I would like
+
+Bret 53:12
+a stunt double to toughness so that he can be canceled if not killed, and I can go on living a life that I'm quite enjoying.
+
+Heather 53:22
+You're not advocating for the killing of your stunt double.
+
+Bret 53:25
+No, no, no, no, no. I mean, I guess it's cheaper unless he's paid in advance, but
+
+Heather 53:33
+this is okay. But this joke isn't really how could this joke be?
+
+Bret 53:38
+That's a great joke, actually. But you're not helping yourself. Yeah, I just I don't I'm enjoying life too much to to exit.
+
+Heather 53:49
+I'm glad to hear it. Yeah, yes. Yeah. So at the point that you get to the dying and time stage is Roger Scruton wrote before he himself died, what seemed to all of us an untimely death? Maybe then you will, you will share the joke.
+
+Bret 54:04
+deathbed confession joke. Yeah, sure. No, that makes good sense for if we're the world to write itself and allow for, you know, jokes at the edge of tolerable ness. Sure. Okay.
+
+Heather 54:28
+All right. please acknowledge Stanislav Petrov de tomorrow. Lieutenant Colonel in the Soviet Air Defense credited with preventing nuclear war on September 26 1983. Yeah, it's you recognize his name. I did not recognize his name, but I recognize the date.
+
+Bret 54:45
+Yep. The dude refused to launch the nukes. which, frankly, is the duty of ever I think it is actually a natural extension of the Nuremberg trials. Right? Yeah. Yeah, I think this is the one holiday when Yeah, you don't follow a moral orders? Yes, we are learning actually that that is love petroff there is a arms race of foot. And those who wish to give immoral orders are creating conditions in which those who will resist moral orders cannot moral or immoral or react resisting moral orders. That's not a thing. Well, it is but it shouldn't be no. Those who are likely to resist immoral orders are being driven crazy and therefore leaving their posts, which is going to leave a population of order followers who don't get it.
+
+Heather 55:38
+from law enforcement to medical care providers. Yes,
+
+Bret 55:42
+I think it is a general next phase in the arms race. But yes, I have heard it from law enforcement and it is absolutely frightening, especially in light of what is taking place in Australia. Yep,
+
+Heather 55:58
+yep. So Stanislav Petrov, tomorrow. Excellent. Excuse me. I like your idea fourth frontier. Others think that next frontier is the body mind tech merge. I ob ob stands for Zach. Okay, and then there's a link to something
+
+Bret 56:22
+cernit of brains.
+
+Heather 56:29
+There's, there's a url silikon ikarus.org transhumanism thoughts. You know, we've been we've been hearing more and more of this. I think, you know, I think Joe Rogan brought it up. Yep. I think Brian King brought it up. A number of people feel like this is where we're going. They don't want us to be going there. But it's inevitable.
+
+Bret 56:51
+Well, okay, first off, we got to relax. Do we?
+
+Heather 56:55
+Yeah, really a little This doesn't sound like you.
+
+Bret 56:59
+Got to relax, get our head in the game. And then leave nothing on the table. Leave it all on the field? I don't know. No, we don't need to relax. But we need to relax about the idea of the tech merge because it's too late. It's already happened. Okay, okay. Okay. Okay. Yeah, yeah, yeah, the thing is, you have already merged but because the interface isn't wires, for example, it is somewhat invisible to us. Now that said,
+
+Heather 57:29
+but I mean, I mean, I found myself doing this today just like the you know, out in nature, like I'm just going to look
+
+Bret 57:35
+at right now. Yeah, they gotcha. Terrible. Yeah, absolutely awful. absolutely crazy. But anyway, I think the point is, look, it's happened we can see that the consequences are not entirely horrible, but a lot of them are really catastrophic. And it's disrupting
+
+Heather 57:53
+and some of them will be irreversible
+
+Bret 57:56
+right well you know, hence what we do argue in the book which is that you odd
+
+Heather 58:02
+part put your phone down really put it down well put
+
+Bret 58:05
+your phone down but you know look if you're gonna make a transition about which you know very little about the consequences then you better be prepared to unmake that transition and the way we adopted the smartphone yeah you know what seems like forever ago but wasn't I mean it really wasn't really wasn't really wasn't yeah The point is Oh, you completely change how the species works and not all to the good in fact, it may be that the species is in capable now of navigating because we are so easily divided from each other over things that should absolutely be galvanizing us right? So if that's true if a technology can sweep to fixation it's not quite fixation glenn beck does not have a phone but everybody else does.
+
+Heather 58:54
+Well, now everybody else almost everybody else with the means? Which means you know some people in the non weird world to have it but many people don't and and some number of people in the weird world just don't have the means for
+
+Bret 59:08
+it either. Well, I'm being glib of course but my sense is that the yes there are people who don't have a smartphone in the US very few is my impression right? I am not saying it's universal in the homeless population but I exact somehow I don't know how it would be maybe their burner phones or I mean their prepaid or whatever but
+
+Heather 59:35
+thing in smartphone land I don't know. But yes, you and I have had Yes, it is. Okay. So Zach says yes, burner, prepaid smartphones. But yes, even even among the homeless, who have almost nothing there are people with with smartphone right
+
+Bret 59:49
+so anyway, and you know, also as you and I have encountered lots of people have been infected there. lots of places in the world where the land unblind network never got up and running and so
+
+Heather 1:00:02
+but you know, and then so this is a little different though we haven't been back, for instance to Madagascar since the late 90s. Yeah. And by the mid 90s in Madagascar we you know, we didn't have cell phones until 2003, four or something like that cell phones even we didn't personally didn't almost every all of our colleagues did, but we're like, no, not sure. Basically, at the point that I was late stage pregnancy with Zack, it's like, okay, we gotta get phones. But mid late 90s when a lot increasingly people were getting cell phones, but by no means was at Universal in the USA. In Madagascar. Many people had cell phones Yeah, but smartphones didn't exist and they're you know, they're they were cheap flip phones and we I have no idea not having been back to Madagascar since 99. What the distribution of flip phones versus smartphones looks like what we were seeing was because it is such an impoverished country with so little ability to put an infrastructure landlines just never went in. Yeah, there. You know, there, there are a couple places, you know, I imagine teyonah has some landlines and such and you know, some of the bigger cities but throughout most of the country, there's are no there's no capacity, the cell
+
+Bret 1:01:15
+phone was just superior, because you could actually call from places and reach people and other things that you might want to do on the phone trying to
+
+Heather 1:01:23
+make a landline call to your parents at some point, like 93 or something. And I don't know it took three hours and we still were able to be like we're alive by
+
+Bret 1:01:34
+right. We still don't know whether they thought that was a good or a bad thing.
+
+Heather 1:01:37
+The parents on the other end the parents, they probably thought it was good that we were alive. Probably.
+
+Bret 1:01:44
+Yeah, I don't remember the nature of the question, but Oh, I know that. Yeah. The are the Borg. And whether or not transhumanism,
+
+Heather 1:01:49
+yeah, yeah. Yeah. I have to figure out what iob means. I don't know. So it's on what it's on pitch. Now. It's gonna be internet of something. I think it would have been a little o than it would have been a little Oh, no.
+
+Bret 1:02:13
+Okay. It's on bitch.
+
+Heather 1:02:15
+It's on bitch.
+
+Bret 1:02:16
+Yeah. All right. So we do these things. It's increasingly catastrophic. We need to stop doing these things. And not doing these things means reversibility.
+
+Heather 1:02:29
+Yeah, reversibility. Exactly. Yeah. All right. Chris martenson interviewed David ik Ricky I don't know how its name is pronounced. Time to digest that COVID response is beyond in competence and greed, money greed. psychopathy at the top explains a lot. I have not seen that interview. I'd be interested. Chris martenson is fabulous. Yep, I don't know anything about it. Okay. Are you actually going to make an epigenetically How dare you shirt please do I like it it's just it's I mean I guess it's just such an inside joke that people would have to be willing to wear an inside joke because for the most part people be
+
+Bret 1:03:14
+like what it's a conversation starter it is
+
+Heather 1:03:18
+that's that's one of the ways to find your life partner to
+
+Bret 1:03:22
+find your life partner is somebody who's interested what that could possibly mean and it also could be a fire starter if it was cold or something Oh,
+
+Heather 1:03:31
+it's like the towel and Hitchhiker's Guide to the Galaxy so many reasons to carry and epigenetically to wear and epigenetically How dare you shirt you can soak it in liquid nutrients and then suck on it when you're hungry.
+
+Bret 1:03:43
+Right or if it's cold you could start a fire with it which might attract somebody who knows how to solve the problem so we can solve any problem potentially
+
+Heather 1:03:52
+the problem now being how to put out a fire made by your shirt what
+
+Bret 1:03:55
+whatever problem you have
+
+Heather 1:03:59
+we're not even hi guys we're not our our house pets suffering the effects of modality in a manner similar to us to some degree yeah diet oh my god we're completely messing up them we're completely messing up our animals with the food we give them restricting them to activity it only certain prescribed moments of the day. Yeah,
+
+Bret 1:04:25
+well I would I would point to one thing in particular okay. The degree to which pets are now suffering sensitivities to food
+
+Heather 1:04:36
+I did say diet I know
+
+Bret 1:04:38
+but diet the obvious one is hey everybody's pets are fat right? Yep, that's bad. But the degree to which pets are reacting presumably allergic Lee to their food is alerting us to something the same way humans are becoming allergic to their food. Something is doing that and to the extent that we can't say exactly what it is. That is alarming.
+
+Heather 1:04:59
+Yeah, there No, I'm going to go out on a limb here and say in the 1930s no vets were saying you need to put your cat or your dog on an elimination diet, right? elimination diets now for humans and our domesticates are not just all the rage, but they actually are necessary in many of our cases to figure out what it is that we've what it is that is now poisoning us, even though it's not a poison universally across the species.
+
+Bret 1:05:26
+To hear the why. But the chameleon who had to start eating fireflies? No, they put them on an elimination diet. Oh. Okay. I feel good about it. Yeah, you do.
+
+Heather 1:05:47
+My objections only chameleon? It didn't have to be a chameleon. Yeah, did Why? Oh,
+
+Bret 1:05:52
+so much more vivid. What else would it have been?
+
+Heather 1:05:55
+So for me, maybe most people don't do this. But for me when you say chameleon I imagine like a first for Dallas or something. And like it's one that has a really strong ability or did to change colors. And so at the point that it's eaten the fireflies I don't actually get the illumination. I'm just sort of seeing like, it's slightly brighter red. And maybe that's just me.
+
+Bret 1:06:14
+Yeah, I think that's just you. The importance of the joke was that it vividly evoked a chameleon shooting its tongue out and grabbing a firefly, which is already kind of cool. Right? That will just don't have that.
+
+Heather 1:06:29
+Yeah, I didn't I think I think it needs another half sentence of setup. To get the capture.
+
+Bret 1:06:36
+All right. I don't know what the half songs would be. But
+
+Heather 1:06:39
+I don't either. Yeah, I don't either. Why when out walking? Do I feel compelled to walk in step with the rhythm of music?
+
+Bret 1:06:46
+Well, there are a couple answers to that question. These are all half baked, but I have a feeling there's something something useful in here. One, there is some kind of a time keeping something or other in our neurological structure. Certain drugs bring it out, can reveal it.
+
+Heather 1:07:07
+What do you say more about that?
+
+Bret 1:07:09
+I can say as empirically speaking, certain drugs bring out a some sort of, kind of,
+
+Heather 1:07:19
+Okay, okay. Yeah, right.
+
+Bret 1:07:22
+Likewise, there are lots of processes in the body that seemed to be synchronized temporarily. And it would not be surprising, if a feat as remarkable as walking involved some of these processes and that these processes were also involved in music. You know, in other words, like, yeah, think about it this way. But
+
+Heather 1:07:44
+I mean, also music is synchronizing. It's synchronizing of brains, and it may be synchronizing of bodies as well, we certainly we can all come up with examples of ways of moments in which music has been intentionally synchronized, right, you know, among marching armies, or among Gandy dancers, right? where you want to be in sync and you use music or you know, among rowers, right? So it doesn't feel like synchronicity when there's only one of you, but it could be appealing to that same circuit.
+
+Bret 1:08:17
+I agree. But I was sorry. No, no, no, I mean, somewhere in this neighborhood is going to be something but I'm just one I robbed you of it. Thought you did. I'm sorry. There was some thing and it was it was it was kind of cool. I'm trying to think what the hell was it? Now? I Oh, yes, exactly. Yeah, yeah.
+
+Heather 1:08:40
+Do you know what it was act that your dad was gonna say?
+
+Bret 1:08:46
+Yeah, I'll get back there. Alright,
+
+Heather 1:08:49
+okay. We're gonna go on, I'll get it back. Excellent. Excellent. So we'll stop here soon. What's the status of Heather's novel? Thoughts on traditional publishing versus self publication? You know, we've been our, our editor was asking us what we're going to do next. What, what books we want to write next. And I do want to get back to the science fiction novel of which I have a completed second draft, but I literally have not looked at since probably early 2018. At this point. And I had just haven't at this point, I don't think I don't think it will be the next one. Although there are certainly people we've talked to tell me all you, Jordan Hall, our friend who definitely want that to be top of the list. So So yeah, I do. I do want to get back to it. traditional publishing versus self publishing. You know, we, I published a book 2019 years ago, I didn't publish it. I also had a big publisher, who published my first book, but I was not known in any way at that point. I was lucky enough to get this big publisher because you knew me But I'd won this writing prize money Atlantic Monthly, which allowed me to get this this big publisher, but I was unknown. And I was writing a book that was going to have somewhat limited appeal. And so it I, there was no, there was no push, like I felt well treated by my editor for sure. But there was that. And self publishing wasn't wasn't a respected thing at that point. So it wasn't even an option. But it wasn't clear to me sort of what the publisher was doing for me so much. Obviously, traditional publishing has some some risks to it at this point with regard to not being treated well inside the publication engine. You know, being canceled there in our publisher, penguin portfolio has been terrific, utterly terrific with us, like really, really been remarkable in every regard. So, you know, we only have really those two experiences with traditional publishers. And I would say in the first case, St. Martin's, I was treated well, I just, there was just sort of No, not a lot of help and tear, we've been treated so well that at the moment, I feel like don't mess with the thing that's working.
+
+Bret 1:11:02
+Yeah, yeah. Alright, I figured out what I forgot.
+
+Heather 1:11:05
+Excellent. Does this mean I don't know. Or do I still? Oh, no, you still Oh,
+
+Bret 1:11:09
+okay. Definitely. Make sure yeah, I have to, it's good to be clear about it. Alright, here's the argument. This is again, about walking and rhythm and all of that. Neurons transmit information, kind of like wires, but they're not like wires in that the information because it transmits as a result of channels on the surface of the neuron opening and ions flowing in transmit information way slower than wires, right. So that means that distances that exists in a body are actually meaningful in terms of how long these things take, which makes the process of learning how to do something like walk much harder. Because if what you need is to send an impulse that causes a muscle in your foot to contract, and then you need the feedback that says up did it right, then the point is, that's all a long process, even in a myelinated neuron system you're going to have that's too long. So what you need to do is send a message out
+
+Heather 1:12:12
+even even if it's CNS, from the base of the spine, like it doesn't necessarily need to be going all the way up to brain, but it might be it has to be central nervous system, which means that at least has to get up to your pelvis region, right? Yeah,
+
+Bret 1:12:24
+let's put it this way. It's too long a distance to do it. As a you know, a signal goes in a sensory feedback returns. So what do you do? Well, you have to send a message that you know how it will interact with the muscle, and then you need to track how long it will take before the muscle contract, right? And so the idea of having a kind of clock like thing, working in the background that says, you know, yeah, that message should have just arrived, right? You don't need the feedback to know that it did. That would be an important way of building such a system. And the bigger the creature it is, the more likely the more elaborate that system would have to be in order to coordinate with the brain of the creature wants done with the body of the creature, and it's being done. So like a giraffe, for example, can run, right, but the distances in a giraffe are huge. Yeah, right. And so anyway, imagine that it has some kind of rhythm thing in it so they can track things. Okay, I can
+
+Heather 1:13:18
+imagine there might be if this is if this is an accurate model, something in here about enhancing the learning of walking in babies and toddlers with appropriately timed syncopated music playing as they are engaged in trying to
+
+Bret 1:13:40
+walk well, I guess what I'm arguing is that you would imagine, if you think about it, let's say that you have a sequence of flexes of the leg that needs to happen in order to walk, right, but the second one of the sequence has to happen before a feedback from the first one could possibly have returned, right? So you have to send them at the right distance apart in time in order to get the leg to do the thing. And you say, Oh, I consciously moved my leg. And the point is, well, you consciously sent a bunch of signals, knowing that they would arrive at the right distance apart in order to get the leg to do the thing that it did, right. So that kind of system would then interface obviously, with the learning you would have to learn like how to load in the motions that you sent the information about at the right distance apart, and then eventually you'd get so good at it that you would just it would take no thought you would just be like yeah, run, you know, like the way we do right? Yeah, yeah. Yep. And the last thing was gonna be Oh, yeah. So if you had that system, of some sort of clock like timekeeper in the central nervous system that kept these things the right distance apart, and then you pick up music because music becomes somehow useful for humans. Doesn't matter why in this case, and point as you would expect it to tap into that thing, because in many ways, it's the same phenomenon, right? Like if you're plucking guitar strings, you know, you may need to send the message to this for the second pluck before the first one has reached your ear. Right? That kind of thing. Good. Good. But yeah, you still Oh, yeah, I got
+
+Heather 1:15:22
+two last questions, one of which is just a comment. Please start accepting Bitcoin Pay Pal will start cracking down eventually.
+
+Bret 1:15:30
+So here's the question. Yeah, we would totally be up for accepting the Bitcoin. But how do we get that to interface with the system?
+
+Heather 1:15:38
+I don't know. But we should
+
+Bret 1:15:40
+think about it. I think we should we would be
+
+Heather 1:15:43
+thrilled to and of course, Odyssey accepts it'll be our Why lbr? Why, yeah, like, which I think they pronounced library but yeah. lbr Why? So some kind of interface. There were no also accepting questions there. Maybe something.
+
+Bret 1:16:01
+So here's the problem. lbr Why must be purchasable somehow, but I don't think it's LBC library. Oh, library currency. So that's right. I was looking at Coinbase recently, it's possible that I need to go back and look at LBC. But I think the thing is, with Coinbase, which is one of the simplest ways to do crypto, you're limited to the currencies that are frequently traded. Or you can trade between them, in fact, but the point is, it's you can't just trade any crypto with it. Yeah. So I don't know. We have to figure this out. But yeah, I think it's a great idea. Yep.
+
+Heather 1:16:41
+Final question for today. Could embracing despair help at this time rather than hope? Hope seems impotent? I don't think so. I don't think I think grief is often adaptive, sadness. moroseness. But despair, as the opposite of hope, as as a as a kind of hopelessness effectively guarantees that you won't escape from whatever it is. And we you know, actually, we argue in the book, we give a little, a little story about you're in a boat, on a river, and you find that you're being pulled more and more quickly, and that you're near the top of waterfall you didn't know existed. And you start paddling like hell, even though as you get pulled faster and faster towards that top of that waterfall over which you will likely plunge and you have no idea how high it is, and it seems ever more likely that you're going to die. despairing guarantees your death. Maintaining hope, even as the evidence looks more and more like your hopefulness is somewhat delusional is the only possible chance you have. Yeah, there's no situation,
+
+Bret 1:17:51
+there's no evolutionary reward for giving up. I mean, there are circumstances in which there could be but the point is, in the case where you don't know that it's hopeless, giving up hope, can't possibly solve the problem. And therefore, even tiny amounts of hope are enough. But in this point, I wouldn't in or in this in reference to this question, I would say, A, I think it's just I think it's setup wrong. Right? I do think that there's something to be said, for looking into the abyss abyss, but in order to get over it, right? You have to look at it. And you've got to say, Yep, that sucks. And it's going to take you a little time, when you look at that, that sucks, shouldn't have gotten here, we shouldn't have allowed it to happen. But we are here and then at the point that you've just sort of grown accustomed to it, then the point is, then you can go back to doing stuff that's useful. And that's what you need. And so I think people spend so much time avoiding looking into the abyss lying to themselves about it, that they actually end up paralyzed in this sort of, you know, pre despair state, rather than just, I mean, if you think about it this way, all right. So suppose it
+
+Heather 1:19:09
+could be it could be regarded that you're actually advocating for a stare into the abyss, embrace the despair, but make sure that that's finite?
+
+Bret 1:19:18
+Absolutely, absolutely. No, but that, but that
+
+Heather 1:19:21
+is a little bit of a different answer than what I gave.
+
+Bret 1:19:23
+Yeah, no, I, I really think it's it's something you don't know unless you've been put through something that causes you to do it, or to have no choice but to do it. But But the point is something like things are very serious. That could preoccupy you to know useful effect. If hope is effectively lost, then you have licensed to gamble on things that might work. Right? And so the point is, there's a liberation you know, I'm not going to quote the song lyric. But there is a liberation that comes from the recognition that probably there's nothing that's going to successfully address the issue. And frankly, I think people would be mentally healthier if they found themselves there. And, and ironically, we'd be a lot more likely to solve the problem. Because if your point is Yep, I've seen it. I've seen the monster, it seems very dangerous. Let's figure out what our best shot is. And let's take our best shot. Because what else are we gonna do? Right? It's sort of the let's roll kind of thing, right? And I yes, I absolutely advocate and I think it's healthy. And frankly, I think if you do it, you will end up finding that there are others and you will join them and you will feel a lot better about life, right? At least you know, if it's not going to work, it's not going to work, and you'll at least know who to talk to about it and not feel crazy. And if it is going to work, it's going to be the people who aren't paralyzed by despair, who are gonna figure out what to do. So that's sort of the right answer no matter what.
+
+Heather 1:21:07
+Very good. So that brings us to the end.
+
+Bret 1:21:11
+Yes. Not the No, just the end of the podcast.
+
+Heather 1:21:14
+Felt like that brought us to the end. No, I take the wrong message. No,
+
+Bret 1:21:17
+I think you're still looking into the abyss. Yeah, it's
+
+Heather 1:21:22
+gonna be okay. You heard it here first. It's gonna be okay.
+
+Bret 1:21:27
+Perfect. Sure it will cosmic sense.
+
+Heather 1:21:32
+We will be back next week with Episode 99 of Dark Horse livestream. The week after that, what would be Episode 100 is actually going to be a break week for us because two of our family are going to be traveling then. So Episode 100 will be one week later than we are expecting but we will be back next week with Episode 99. Until then, be good to the ones you love. eat good food and get outside.
+
+Bret 1:21:55
+Be well everyone. It's just an abyss.
+
+This transcript was generated by https://otter.ai

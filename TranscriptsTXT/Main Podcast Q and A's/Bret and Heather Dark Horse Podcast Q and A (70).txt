@@ -1,0 +1,640 @@
+Bret 0:11
+Hey folks, welcome back to the Dark Horse podcast live stream number 70 Q and A segment we are raring to go.
+
+Heather 0:20
+We are in the break, along with collating questions, our awesome moderator tells us that in our break our yes told us that they will tell us that the seussian rhyming scheme is known as anapestic tetrameter anapestic referring to the emphases on the one, two, so dunt dunt, dunt, dunt, dunt, dunt, dunt dunt up to tramet are referring to the number of syllables, that one tends to combine into into a set. So, if we go like 123412341234123412341234, so, you tend to have two sets of those. So, it is meaningful when you use just numbers. Yeah,
+
+Bret 1:09
+yeah, yes, it's less compelling. It is like I am big pentameter, except with different parameters, though. Sorry. pull that off.
+
+Heather 1:19
+Now, that was that was a strange move that you tried to pull back there and I was I was just not having any. Yeah,
+
+Bret 1:25
+I take it back. I regret it. I feel ashamed chagrin. I
+
+Heather 1:30
+lost one of our cats.
+
+Bret 1:33
+I'm sure I'm sure she'll turn up.
+
+Heather 1:37
+Okay, should we proceed? Yes. We've got three questions from Episode 67. Now 69, why it's a 67. There. And, and then a question from Discord. And then we'll start in with your questions from today. First one.
+
+Heather 1:56
+I'm surprised I included this one here because I don't actually I don't remember this. What are your thoughts? On the UK recently reporting almost zero influenza cases? Don't you find it odd? So I don't know this. But I know that influenza cases are down in the US are supposedly down. So I don't want to I don't want to accept a an assumption and axiom of the question, but but we know that the US flu cases are supposedly are reported to be down. What don't you find it odd is the question. Well, I don't find it odd. I do not find it odd. I don't find it odd at all. In fact, my explanation to my doctor when I saw her for an annual exam last October as to why I was not going to get the flu shot this year was I have so little potential exposure to the flu that I don't think I need it. Yep. I see this year given behaviors given lockdowns. Right, yeah.
+
+Bret 2:57
+And you know, for what it's worth, we predicted that this would happen that all kinds of infectious diseases would have a much harder time transmitting that we might succeed against them quite dramatically during during this year. I also think it is possible that Great Britain has a benefit that comes from its being an island. Obviously, it's not really perfectly an island given the channel and, and all but the point is, what? Well, if there's always been a condo, but my point about planes would be that the airline industry in order to continue to function has gotten very, very serious about how to control COVID. And therefore the procedures, the rigorous procedures that accompany mean that while a there's a lot fewer people flying into Britain be they're coming in through a conduit in which there's a great deal of care being taken. So obviously, it can't get in and it could spread like wildfire inside of Britain. Yeah. But the degree of control,
+
+Heather 4:00
+I don't know how porous the border at the channel has remained. I don't know what kinds of blocks there have been.
+
+Bret 4:05
+Yeah, I don't know, either. But I guess I would say a combination of a Britain had a very bad phase with COVID because of the novel versions of the virus that were circulating. That resulted in
+
+Heather 4:20
+a small semi sorry, but also because of their incompetent response early on.
+
+Bret 4:26
+Yes, but we have a we have this problem where every time you have an uptick, it causes an increase in measures to prevent it. And so the point is okay in competence leads to rapid spread leads to panic leads to lock downs and other measures. And so the point is, it is very likely that flu season overlapped a set of more stringent measures that resulted in less circulation of regular flu. Yes. And that that wouldn't be terribly surprising and it's one of these things that could have gone to Frankly, if timing was slightly different, or, you know, maybe they got lucky with respect to what made it across the border that it could have come across the border in large numbers but didn't manage to. But anyway, there are lots of ways that you could imagine a population would be isolated enough and behave in a way that would prevent spread enough to see very low payflow.
+
+Heather 5:19
+Absolutely. Okay, next question from last episode, or last week? Was the same question. Okay. Oh, this person asked, asked twice and didn't get through the first time. Okay. Are there different rates of DNA mutations in different species? And if so, what are the consequences of a higher or lower rate of mutation?
+
+Bret 5:42
+No doubt, there are. Basically,
+
+Heather 5:47
+we we have evidence of this, I did not go and look for the research on it.
+
+Bret 5:51
+But we certainly know it at some level of resolution. As for whether this is finally parsed between relatively closely related species, I don't know what is certainly true. And in fact, even how you measure it, because the point is, it varies across the genome. So you know, you would have to do you know, what are you averaging? And then you would have to figure out, yeah, what to wait,
+
+Heather 6:14
+even differences in like, race assumptions of background rates of mutation, when you're trying to when people are trying to calibrate molecular clocks and such, based on some empirical work, I believe, yep. And it's just been a long time since I've looked at that directly. But Yep.
+
+Bret 6:32
+But the the basic answer to the question is that you'll have a cost from mutations that do not contribute. But at a lineage level, you will have some advantage that comes from a greater ability to track change, right to discover new opportunities and attract change. And so, you know, a population in which you froze mutation at zero, would have the advantage of not having armful mutations show up and cause damage. But it would have the, the cost of being stuck evolutionarily. And so you can imagine, somewhere between those you can play a game about how much mutation you want something predict
+
+Heather 7:11
+that the more variable the environment, the more rapidly changing the environment, the higher rate of mutation will evolve in response, sort of like, you know, you know, lockdowns happen after the uptick already happens. But you know, the selective response happens after the thing has already revealed itself, in this case, the rate of environmental change, right?
+
+Bret 7:31
+You might predict that probably, we will see it, but I would point out that this goes to this question of explorer modes. And, at least in my opinion, a lot of the ability to track change is going to be housed in a layer that is not dictated by mutation. In other words, there are evolutionary mechanisms that I believe are yet to be explored that allow a much safer mechanism for dealing with change. So
+
+Heather 7:55
+do I hear you advocating for the use of explorer modes and discovers explorer modes?
+
+Bret 8:00
+That will be true, it will be fractal. I will point out though that mutation in the case of something like HIV turns out to be part of its gift for escaping control of the immune system. So high mutation rate in a RNA virus, that doesn't mean DNA because the genes are not paired. There's a high mutation rate. Yeah, that high mutation rate is an adaptation in that case.
+
+Heather 8:28
+Very good. Okay, final question from Episode 69. invokes someone with whom I'm not familiar, but the concept will be familiar to both of us. Wysocki, you know, Wysocki, Wysocki is epigenetic compensation shows successive rat generations cope with a stressful legacy via dynamic phenotypic modifications. Humans to the question is so I don't know Wysocki it may well be that I have some Wysocki papers on my computer here. But um, you know, I think the kind of work that is being alluded to here with regard to to epigenetic change in rats. Let's see there's a paper about I don't remember was rats or mice. But when we are one of the one of the models that one of the model organisms that are used in labs, dads, males being exposed to fear inducing stuff, before they become fathers. Yeah. And then in the species, the offspring never meet their dads, they don't know them at all, the only thing that dad contributes a sperm, and so there's like fear on board the adult male rat before he becomes a dad. Because it's a captive situation, the experimenters can guarantee that the dad never comes in contact with his offspring. And those offspring I believe it wasn't maybe even the f2 maybe even the generation after that actually show a more fearful phenotype than the average rats do. Which is been taken as evidence for epigenetic passing on of fearfulness for, you know, trades and sort of lamarckian acquisition of personality traits that happened in, in the adult lifetime of a parent who never meets the offspring? Yep. We don't. We don't have any such experimental evidence from humans, as far as you know. Okay. We do.
+
+Bret 10:19
+Yeah, there's a bunch of stuff here at the narrow genetic level. There is work for intergenerational transfer of anti famine responses, for example.
+
+Heather 10:31
+Yes, Yes, there is.
+
+Bret 10:33
+Yes. So anyway, these things definitely exist. They exist at the molecular level justice they apparently do.
+
+Heather 10:39
+So we're rolling, that's gonna be physiological, right, not behavioral, like an multigenerational response to famine, it's going to be about basically holding on more tightly to resources being more 10 more susceptible to, to building up building up that and retaining fat? Yeah, right?
+
+Bret 10:55
+I believe so. You know, you have to be really careful, because sometimes there are lots of ways that experimentally, you could make that inference. And it wouldn't be justified based on what you actually measure. And I haven't spent any time with the literature. Yeah. But nonetheless, that we do have good evidence of that there are several different things that work this way. But I would also point out with respect to humans, there's a whole different pathway for this to work. And it comes through the cultural layer, in which, you know, if your parent I mean, look at this, this
+
+Heather 11:23
+very well, yes, of course. And I think that's more interesting to, just to be clear, like this question is clearly about the molecular so what we've called in our book, so the epigenetic, sensu stricto, the the modern molecular sense of genetic meaning above the genome, but still at the molecular level modifiers of genes, and you're talking about what we've called epigenetics and to lato, the broad meaning of affects everything going downstream. But doesn't isn't inherently malarkey. There might be cultural might be developmental, maybe environmental. Yep.
+
+Bret 11:58
+So the basic answer to your question is it exists at a molecular level, but there's a much richer landscape of ways that this can happen for a human being right. And I was just going to point out that, for example, the concern about anti semitism and genocide, clearly is transmitted from one generation to the next. And, you know, all of us among Jews, sure, that they're, you know, after the Holocaust, that these things that they were deliberate mechanisms for transmitting them, and it results in mindset that, presumably has no genetic component. That is to say the difference between what took place before the Holocaust took place after the Holocaust has no molecular component.
+
+Heather 12:45
+Yeah. So I'm, I'm curious, I'm interested to know, to what degree there are, you know, molecular epigenetic mechanisms of things like mindset. In humans, I think, obviously, because we are more software than any other organism on the planet. As we have said, here and elsewhere, many, many times. It is more likely that most of these things Hey, Zack, you wanna fix the cameras? Yep. We don't know what he's doing in there. No,
+
+Bret 13:21
+probably drugs. No matter? Are you doing drugs?
+
+Heather 13:27
+You could just put us both on. Thank you. Probably.
+
+Bret 13:30
+that's reassuring.
+
+Heather 13:33
+Let's see, what was I saying? So the molecular certainly there is epigenetic sensitive lotto stuff going on where and humans are passing on changes that have effects downstream at the, you know, at the genetic level, in terms of, you know, to winds up leaving traces in the next generation. I don't know that. We have any evidence of things like personality, like the fear response, that that is evidenced in this research that I was talking about, and either rats or mice. So even like the multi generational response to famine, that we that I think there is no evidence for that is a strictly physical and you know, all of these borders are a little bit porous, but a physiological response, whereas fear is yes, is coming from the physiology but seeing was like it's also more about software. Yeah, as well. Right. Well, it's
+
+Bret 14:27
+behavioral. Oh, no. Yeah. Yep. All right.
+
+Heather 14:32
+Okay. This from the discord server this week, and I will say before I read it, I don't think you've seen it yet. That I would love to spend a while researching this before I answered the question, but I didn't. So we're just gonna riff a little bit. Yikes. Given that topic, what do you think it is? I'm given given that preamble what I'm just going to hide it. I'm going to give you three guesses what topic
+
+Bret 14:55
+I think it's about is it about what Nixon knew. About the Kennedy assassination it is whoa yeah all right that's wild
+
+Heather 15:04
+now it's about potatoes yeah the fruit of potato plants is toxic raw potatoes are toxic mashed potatoes french fries potato chips are fueling obesity and heart disease our potatoes telling us just not to eat them should we leave potatoes alone who will win in the epic battle of man versus potato so this this is near and dear to my heart I have a potato van from the time I was tiny and and I you know I have I have wondered this and so there there are a lot of places to go here and we just don't have time to zoom maybe there'll be an episode down the road totally devoted to potatoes but it just will go a couple places here but one place to go to start is our potatoes telling us just not to eat them? Of course they are right of course they are potatoes are the storage organs of the potato plants the things that we call potatoes are the storage organs of the potatoes potato plants and almost nothing in this world is designed to be eaten there are very very few things and actually I'll let I'll try to do a sort of a teaching thing here and not say what those very few things are until the end of our conversation here. So you know I think those of you listening about what those very few things are that are produced in which the organism that is producing them has the intention of them being consumed by some other organism and then be very well aware that things like potatoes are not on that list so of course they don't want us to eat them and of course there are secondary compounds in them as in all of the comments of the family potatoes
+
+Bret 16:37
+the the night shades it's
+
+Heather 16:39
+I forgot okay well so I just drew both of us drew a blank on the family of potatoes that includes stolen AC so when I see Thank you includes tomatoes includes eggplants and yes a lot of people actually can't abide any of those things and and it may well be that these particular secondary compounds are doing something that is distinct from what other secondary compounds do and are bad for many humans. I would say it's really unlikely that for instance incans who and other high Andean peoples I think the potatoes were, I think the potatoes were domesticated before the incomes I'm not positive about that. Okay, so the the pre Incan Andean peoples who domesticated the potatoes and the Indians who came in and took over everything and then the Colombians who came in and took over everything after that that all of those early peoples probably have an ability to deal with potatoes better than the rest of us do and it's possible for instance that potato rich cultures like the Irish like to some degree Western Europeans have a better ability to deal with a particular compounds in the soil and ice then then the rest of us but I'm not sure about that.
+
+Bret 18:01
+I am a little surprised by the beginning of your answer
+
+Heather 18:04
+what's what's that but potatoes potatoes don't
+
+Bret 18:06
+want to be eaten my feeling is potatoes do want to be and that the same logic that says that chickens and cows and other creatures have a good deal
+
+Heather 18:21
+everyone all pre transparency on me here?
+
+Bret 18:24
+Kinda Yeah, no, I just do it. So here's the thing. David's have a great deal with humans while potatoes don't want to get eaten wild potatoes don't want to get eaten and certainly the features of the potato chemically that make it dangerous derived from their secondary compounds of the potato designed as poisons Yes, they do poison us. It is interesting how easily they are removed by various methods.
+
+Heather 18:47
+Well, but maybe I mean, I think that's that's part of the question here is like are they in fact does? blanching and boiling and cooking and all that like actually killed a release the nature whatever it is, like I don't even know the nature of what the secondary compounds in potatoes is, what the molecular nature is, or what it is that you do to them to apparently render them
+
+Bret 19:08
+both water soluble and denaturing by heat.
+
+Heather 19:11
+So you know, is it that when people have bad reactions to potatoes, that that process has been insufficiently done? Or have we insufficiently domestic video through culinary means now or have we insufficiently domesticated the potatoes such that they are actually hanging on to something that we can't even get rid of by proper culinary means?
+
+Bret 19:31
+Well, look, I think a lot of this stuff comes down to something upstream of any of it. That basically something in our modern food supply is causing the immune system to see things in our guts that it's not supposed to see. And so many of us have these paradoxical allergies to things that we ate a lot of
+
+Heather 19:49
+right? It's not potatoes, but it's industrially produced potatoes that have been that have been grown with insecticides, pesticides, fertilizer, doesn't even
+
+Bret 19:57
+have to be potatoes. It could be that too. GMO corn and the insecticide and other pesticides that are used on it, that's not gonna be insecticide, but the pesticides that are used on it are causing a breach in the gut that then causes the immune system to see whatever is in it. And whether it's honey or peanuts or wheat or potatoes are all of the above the the allergy is developed because the immune system is supposed to be insulated from the contents of the garden. In this case, it isn't.
+
+Heather 20:27
+So I don't think you spelled that out sufficiently. It took me a minute to realize where you were going, and we've been here together, which is that the idea is that something in our diet as a result of the industrial food production pathway is creating leaky gut syndrome, it's creating holes in the gut, that is a breach between justice we're supposed to have a blood brain barrier, we're supposed to have a gut immune system barrier.
+
+Bret 20:51
+Yeah, and I have to be careful there because we're gonna get flagged, okay, there is some immunity that is supposed to contact what is in the gut, but there's a lot of the immune system that isn't supposed to see it. And what I'm saying is that a breach of that boundary. Now, I don't, I don't know what I was doing. Sorry, okay. But yes, that a breach in that boundary causes the immune system to see something which it regards as foreign. Basically, it is programmed to see anything it doesn't recognize as foreign and it is supposed to be shielded from seeing the contents of the gut, but instead, it sees the stuff in the gut responds to it as if it is a foreign invader, and then it generates an immunity. That's last, okay.
+
+Heather 21:27
+So again, the thing that you skipped, which is where I was trying to go before is, the idea is that whatever it is, that is causing the halls and the gut, if you ate it with anything else, those things also even if they were produced, you know, organically and in the style in which they evolved. If you ate them in the same meal, they may trigger the same immune response and you will become allergic to them. Similarly, so but that that is the key point that I think that you keep highlighting.
+
+Bret 21:54
+Okay. I agree that this is true, the reason that I'm aligning it isn't it isn't that important in light of the fact that
+
+Heather 22:01
+it was the main thing that you were saying about I don't think it's even right doesn't have to be
+
+Bret 22:05
+I agree, it's necessary to understand it at that level. But the reason that it doesn't matter in practice is that basically, we are encountering a lot of these molecules, unless you're taking steps to avoid these molecules. The point is, you have some chronic issue, and then it's, so what you are likely to develop like this, hold on, what you are likely to develop is an immunity to whatever is most common in your diet that triggers your immune system.
+
+Heather 22:30
+Okay, but I don't like this argument, because basically what you're saying all is lost, you can't control things, you know, there's, there's no way to do for instance, an elimination diet and actually, you know, actually get there. And, you know, the problem is that it has to happen, you have to, you have to have a more pure diet as children, right and not and not have such complexity. But the idea that it's so noisy, you cannot fix it strikes me as a hopeless note that I'm not interested.
+
+Bret 22:56
+I'm not saying you cannot fix it, if you have these issues, and most of us probably have one or more of them. So I highly recommend figuring out what's triggering,
+
+Heather 23:04
+doing an actual elimination diet in which you cannot cheat at all.
+
+Bret 23:07
+And you have to do it for weeks. Yeah, in order to see the effect. But my point, my own experience says things that I didn't even know were symptoms of anything turned out to go away when I got wheat out of my diet. Yeah, so you may not know that you even have a problem until you try it. But then the point is, you the way to deal with this, that's the best is to protect your kids from it so they don't develop these immunities to their food, right? We've done a good job of that, I think, imperfect But well, it doesn't have to be perfect. The point is the if you reduce the level of exposure sufficiently low, you don't develop these immunities. Hopefully our kids have evaded them. Yeah. If you have not had that because you for whatever reason, didn't know then the point is you'll develop the immunities you're probably stuck with them for life at that point. What you need to do is not create more of them and then figure out what sense food you're sensitive to and really avoid them effectively. And that is readily possible it's a pain in the butt I gotta tell you I don't like having to be you know, I was recently describing to some friends our recent trip to Italy and in Italy the idea that you can eat wheat is it's a rare phenomenon and we don't speak Italian and so it's hard to even travel in Italy and even ask the question but recently you mean in the before times in the before times very late in the before times Yeah. So anyway, it's not easy but getting that stuff out of your out of your diet is a huge benefit to help if you have the allergies
+
+Heather 24:43
+Okay, so two things you You said I can't believe you started with potatoes don't want to get eaten and then you didn't get to the punchline Okay, didn't go full, sir.
+
+Bret 24:50
+So I believe potatoes do want to get eaten in the same way that a chicken or a cow does that. The fact is, there are many more chickens and cows than there are bison and Jungle fowl on earth that evolutionarily it's a good deal and so as long as they're humanely treated the point is, you know
+
+Heather 25:08
+they'll right human selection has created organisms that have benefited from being part of our cuisine right but with regard to the individual plant yep potatoes are not part of an individual plant that is designed to be eaten pre domestication by humans and so now and I think we just need to move on Yeah, now I want to provide the answer to the question about what does want to be in put aside this sort of pre trans fallacy answer that is you have things that do want to be in and things that don't and now we know what's true and then actually domesticated animals and plants have a different deal set up with organisms that that was your objection, but pre domestication and also including domestication, you have basically three categories of things
+
+Unknown 26:01
+that are
+
+Heather 26:04
+well, maybe four actually, in some ways, which we don't list in our book, but I'm gonna I'm gonna I'm gonna pose a fourth one to you here Okay, and I think it's a slightly different category but there's basically three things three types of things that are designed to be eaten it's milk it's it's it's mammalian milk and it is fruit which is created by plants after seed set as a reward for there wouldn't be distributors to you know eat the fruit and distribute the seeds either by spitting them out or putting them out somewhere far enough from the parent plant that they get dispersed and then nectar which is earlier and you know some plants lives the the sugar reward and I will I was going to add a fourth one but why are you making a face
+
+Bret 26:50
+well if we're gonna say nectar then we got to deal with all sorts of stuff like what are they Bayesian bodies and acacia tree that we're talking about things that are designed to feed other creatures? I believe the list is going to be longer
+
+Heather 27:05
+yeah but we eat we drink some nectar not a lot not
+
+Bret 27:10
+Yes. I viscous tea kinda.
+
+Heather 27:15
+Yeah, even hibiscus or we eat the whole flower yeah we take the whole flower no no no plant wants yeah that's interesting. So you know it's possible we've got like three days left to make modifications on our books so maybe we can maybe we should modify that but we have not But honey and it's you know it's not designed to be eaten by us yeah and just like mammals milk is not you know designed it The intention is not to be eaten by adults. And you know we have we have humans have turned that into you know, several culinary traditions. But a honey is food for babies Yeah,
+
+Bret 27:49
+but it's gonna be this is just gonna get so messy if if the point is designed to be eaten by anybody you know, the yoke of an egg is designed to be eaten by an embryo i mean you know so just you can even go a long way Yeah. So anyway, but yeah, fruit fruit and milk. Yeah, from the point of view of of us yeah.
+
+Heather 28:14
+Okay, so we have two seussian rhymes that are because of the nature of Super Chat all squashed here, but I will try to do justice to them. The woke up spoke I'm sad to say what spoke the woke upon this day they spoke that wokeness can't abide can't tolerate can't take in stride the slightest thought or quip or fact that leaves their wokeness on intact.
+
+Unknown 28:35
+Hell yeah, that's great.
+
+Heather 28:37
+Yeah. No club. how brilliant. That was great. Yeah. And then I too tend to write aping Seuss's mildew, but I must credit brothers Shel Silverstein to his rigorous rhymes and fantastical bent delivered much cleverly moral content. Hashtag rock on Dr. Weinstein em.
+
+Bret 28:58
+Awesome. Yeah, those are great. Oh, man, I hope this was a thing. Yeah.
+
+Heather 29:02
+So please, if you if either of you guys are on Twitter, like put the if and if they're under the word count, character count. Put those on Twitter with with the hashtag hashtag. What is it loose? loose the suit loose. This is
+
+Bret 29:16
+I should say that in tweeting out the the link to the livestream. I wrote a little, little more seussian verse. But the character limit was onerous, and I ended up using emojis to substitute for certain words to get the character count down. And because it rhymes, actually you can infer even though like I have eyes, I mean to imply the word See, you can figure it out from the rhyme.
+
+Heather 29:47
+What's an emoji is at one character.
+
+Bret 29:48
+I don't Yeah, counts as one character okay. But anyway, if you're having trouble use that and don't hesitate to use multiple tweets linked together. Use the plus symbol at the bottom of a tweet to make to add a tweet to that And
+
+Unknown 30:01
+this could be great. Cool.
+
+Heather 30:02
+Yeah, love it. Okay. Also your son is laughing it maybe asked but I think you I believe
+
+Bret 30:07
+he's snickering Yeah, didn't sound like you were sniffling.
+
+Heather 30:12
+Okay. Thanks for taking care of the yelling cat. Incidentally, Zachary. Oh, now he's gone operatic on us. It's true. Setting aside all ethical concerns, what surprising new forms and features could humans be selectively bred to possess? Furthermore, what forms and features are we likely to engineer in the future generations? Where do you think CRISPR cast nine takes us? back? Well, question
+
+Bret 30:38
+in the remote future. I hope that humans suck a great deal. Now, so you know, I will give my usual disclaimer about CRISPR cast nine, we have the typewriter, but we don't have the genetics, the the Rosetta Stone, nobody speaks gene is the problem. nobody speaks T and we cannot write jeans de novo, right? So I'm skeptical. For two reasons. One, our technology isn't as good as the brochure would have you believe at making improvements. And B major is really hard to beat. There are places
+
+Heather 31:19
+Sorry, but I mean, this is exactly why Ghana function researches what it is like we can't do this yet. So we're going to let evolution take a shot and see if it can create kind of the neighborhood of what we're looking for. I
+
+Bret 31:29
+use serial passaging. I mean, in fact, the that crazy paper, the Christian Andersen paper in nature that keeps being pointed to
+
+Heather 31:37
+from like March or April of last year, yeah says, Well,
+
+Bret 31:40
+this isn't a designed virus, because we would have thought the spike protein would fail with this confirmation. And I'll
+
+Heather 31:48
+take it from me if I had been doing this research, I would not have created that thing. Right,
+
+Bret 31:51
+which you know, it is true. I think that nobody would have designed the spike protein we got it is not true that the protocols we use in the lab wouldn't have put together that spike protein.
+
+Heather 32:03
+I wouldn't do you think that's intentionally confusing? Do you think you think he's, he was putting that out into the world in order to be confusing? Because he's certainly aware of what serial passaging and get it function researches?
+
+Bret 32:13
+Well, I would just say that the history of those two papers, the Lancet paper, and which
+
+Heather 32:19
+is 27, multi authored paper just saying, Yeah, don't worry about nothing to see here. But at this,
+
+Bret 32:24
+you've got dacitic on one on the Lancet paper, and you've got dacitic not named in the second one. But there is an email chain that puts him behind it. And so I do have the sense is at least consulted. Yeah, that the paper, you know, I hesitate to say anybody deliberately wrote anything that they knew was false. On the other hand, it's really hard to figure out how somebody who is as prominent would have come up with something so obviously and transparently wrong.
+
+Heather 32:52
+Well, but I mean, but but it has worked. Yes, right. Like the the confusion, like it hadn't even occurred to me, I think we've said, on this live stream before, it hadn't even occurred to me until maybe after we were on Mars, even at the end of January, that some people heard lab lake and thought created de novo from scratch by humans, right? Like, it literally never occurred to me that someone could hear loudly can think that, and that's partially due to my ignorance. But it also like that Anderson paper specifically, like, created that narrative, yet it created it, and I don't know if it existed before.
+
+Bret 33:32
+Well, so it lists the following, at least, the fact that people not knowing what this, these sorts of techniques are, would hear, oh, did this leak from a laboratory and might think, you know, diabolical geniuses writing viruses in private for, you know, weapons purposes or whatever. It was incumbent on those who are well placed in this to say, actually, that's not what's being discussed. This, that what we are discussing is something like the hybridizing of viruses that we get from nature, or the use of serial passaging to enhance viruses that we get from nature or a combination thereof, or the splicing of a gene individually from someplace that we want. However, we don't believe that that happened, because and then make your damn argument, but that they didn't do that they took the advantage of people's fanciful imaginations as to what was being alleged in order to hide and say none of that could possibly have happened and you'd have to be a fool to think it could. Right and so yes, it is. It is extremely misleading.
+
+Heather 34:44
+Yeah, at best. Okay. I have to number eights here for some reason, my absolute so my absolute favorite darkness probably came in before before we're talking about it my absolute favorite Dr. Seuss book is I had trouble in getting to solid salu. It's difficult to find but so worth a good lesson on facing one's fears and humorous on multiple levels recommend to all your viewers. So yes, as as, as I did. Project Veritas recorded cnn morning meetings during the election, I heard a group of people believing everything they published. At that moment, I realized how much trouble we're in how are we going to fix this country if we're not on the same moral spectrum?
+
+Bret 35:29
+Yeah, I heard those same reports. And I will say that I think this is a key insight that these discussions on the inside don't sound like the villainous people that you imagine they sound like people who are in a room full of people who won't challenge wrong ideas. And so they get carried away. And basically, there's a sense of like, Well, we know what the truth is, and it is our job to dispense it, rather than it is our job to report and let people decide. Yeah. And so anyways, it very easily goes off the rails. But yeah, it is it is interesting, how many things are broken and how deeply and it is? We're going to have to fix this, but it's not entirely obvious how that gets done. Yeah.
+
+Heather 36:14
+Okay. Well, we are going to keep going for a while. How am I I remember who Waddington is now. So we got three questions here. I'm like, I just don't know who these people are. I don't know how to respond to them. But this first one, I actually how might Washington's cannibalization at the epigenetic landscape pertained to 21st century digital behaviors is social media an epigenetic Canyon. So just this this term, cannibalization is very useful. And I think it's, it's, it's a brilliant term, because it's one of the few terms of art that actually immediately evokes what it's supposed to do. So the idea that there are I usually think of it as developmental but that you end up you know, we have much more capacity than we use. And then then by using one particular path, a canal, say, you know, imagine water finding its way down hills, you have, you know, five paths that it's taking, and then as the water starts to be funneled, for whatever initial condition that maybe doesn't matter at all, and maybe does have an adaptive value, it starts to funnel into one more than the other, ultimately, you end up with only one. And as those other streams dry up, you actually the the ability of water to flow into any of those other former channels becomes almost nil or perhaps completely Now that said that at the cellular level, you would get something like a pop ptosis, like actually cell death, and you don't you don't have your neuron die off as we have you were born, or at least very early in development as embryos, we have many more neurons than we do by the time we're three or so. And that's not you know, that's not a problem. That's a feature.
+
+Bret 37:54
+Yep. So the analogy that the the question questioner is asking is about social media? And there's no question that there is a lot of this going on. And one has to keep in mind that the algorithms that then create the channels that people find, are not stable, which has two impacts. It means that a, it is very hard to track impact, right? For you know, just ask yourself this question. Has anybody kept track of the changes in the algorithms in a way that a future historian could go back and say, Well, did we go crazy because of x behavior of the platforms so that they could check and say, Well, actually, no, that's not true. Because here the behavior happened, and the the response to it didn't happen until six months later, or something like that. As far as I know, nobody's doing the history. And so we can't even check what's true. We don't we can't even evaluate what world we're living in. Right? So it's, it's a pernicious world rather than a natural world. And the other thing, what is the other thing, the other thing I said there were two impacts of this
+
+Heather 39:08
+in social media, canonization and social media. Yeah.
+
+Bret 39:11
+So one is that the instability causes a discontinuity between the path that was in the path it is, and the other thing is that you can't check what is taking place and correct your own behavior relative to it, you know, right, for example.
+
+Heather 39:29
+So that's, I guess that's a generalization. So you know, the usual metaphor there are silos. But cannibalization once you're on a different path you can't see into the next is that,
+
+Bret 39:38
+well, you're saying, no matter what you're doing, let's say that you come up with a mechanism for reaching out to people who aren't in your silo in a way that causes them to interact with your stuff and do so positively. And then the algorithm changes and so instead of being in contact with the people that You had found you're in contact with something and Jason, that doesn't respond to you so well. And you don't know whether your behavior has changed or whether or not more you've been moved by something you don't know, you and I don't know, why the rate of accumulation of subscribers to our YouTube channel. And I would say that in reference to my Twitter account, and the same thing is true. Suddenly, these numbers slowed to a crawl slowed to an absolute freakin crawl. And it is hard to imagine that this is in any way natural, because at the same time viewership is up going up. So something has occurred.
+
+Heather 40:37
+Yeah, and the the adjacent channel, that clips channel is continuing to go up as Yeah, so there's some there's something going on there.
+
+Bret 40:45
+Yeah, something going on. But in any case, the inability to even know, you know, even if you could just say, look, it's static, and I'm going to now learn how to move around this landscape. Right? That would be a very different world than to do that, right? You don't get to do that now.
+
+Heather 41:02
+I don't know who the first person in the suggestion is. Rather, please consider interviewing bill whittle and Scott Adams on the topics of Trump pathos and pro America unity. I feel that such crush crush. I feel that such cross aisle discourse would be fruitful and serve as an example to others hashtag heal the divide.
+
+Bret 41:19
+Yep, I think those are the lessons I barely I know Scott Adams better of course. But yeah, I think you know, reasonable people on the so called other side not not that we really have an other side, given the eclectic.
+
+Heather 41:34
+You know what side I'm on. Tell me I'm on the side of humanity. What? No, oh, man, that's so sick of it. That includes future humanity. I am too. Like I was I was I was much more of a misanthrope, but then you ever were when we were first together? And really until I started teaching. Yeah. But, but that includes future humanity, which is, you know, I'm often I often have an easier time around the non human members of our inhabitants of our planet. But yeah, I think so. We need we need them around.
+
+Bret 42:08
+Future humanities is not pissing me off nearly so much, yet.
+
+Heather 42:12
+Yeah. Whereas the work are busy being furiously pissed off by past humanity.
+
+Bret 42:17
+Yes, they have a gun to the head of future humanity, which future humanity knew about it would be none too pleased.
+
+Heather 42:24
+Okay, and then this one, that just because we say that we answer questions in this first hour, roughly by the dollar amount, and so this one came in at a high dollar amount, but I don't know what it means. Is there an attempted cancellation of heart capital H AR t at the moment, take your time. I have no idea what that means. I don't know what a heart His heart is.
+
+Bret 42:45
+I don't know. Okay. So I don't know.
+
+Heather 42:49
+I'm not you know, at some point when we get our new when the new question asking system goes online, there's going to be some slightly more complicated rubric. And I don't know that I will, we won't feel quite so compelled to answer questions that we just have no idea what it means. But there it is. Nature announced 1% of science nature. The journal announced cooler if it was
+
+Bret 43:15
+major announced and scientists now think.
+
+Heather 43:20
+Follow nature.
+
+Bret 43:23
+No, no. I mean, you could
+
+Heather 43:25
+I mean, I get their table of contents every week. But yeah. Occasionally edified by them. Nature announced 1% of scientists capture more than 1/5 of global citations, or 1% of scientists genius, or is eigenvector centrality, flawed, or something else? And why can't I easily access academic articles? Oh, my God. So that question, that second question deserves, well, frankly, its own complete podcast, like not just its own episode, but like someone needs to devote a podcast a deep rabbit hole. Yeah, and we did. I think it was like, I think it was Episode Six, frankly, that we spent half of the time talking about peer review and the problems they're in. But um, you know, I'm looking. I'm in the scientific literature to some degree every day. And when our current positions at Princeton come to an end this summer, that will become much, much, much harder. And I don't end the fact that most people don't have academic positions at all. And so, you know, most people are compelled that they wouldn't understand the literature anyway. And so they don't really need access to it. But you know, what that does is that it allows the, the people who are masquerading as, like science journalists, and some of them actually are but many of them really are not and do not understand anything to report out to you what the what the scientists are actually saying. And as we have revealed over and over and over again on this podcast, many times they get it wrong, and sometimes they get it wrong because the science is bad, and they didn't know and sometimes they get it wrong, because the science journalists don't know what they're doing and they're incompetent. But you Even if you feel like you don't have the background to interpret it, it would be better if we all had access to the entire scientific literature. And this was something we talked about starting almost a year ago. And we started these podcasts at that point, so much of the COVID literature was on preprint servers that it really was available to everyone. Yep. And it was like the Wild West in the good sense. Yep. So wild west
+
+Bret 45:20
+in the white hats were tall and the women were strong.
+
+Heather 45:27
+And all the children were above average, exactly. Why can't I easily access academic articles? Yeah. So you know, to be returned to but I wish we all could. And I know that we're in this privileged position at the moment, and we're about to lose that privileged position. And there are a few ways in, but they're clunky and kludgy. And not you still don't get the kind of access that you do. If you are, frankly, faculty, student or staff at an institution of higher ed. And that's, that's pretty much the access.
+
+Bret 46:00
+I would also point out a you paid for the research, you are entitled to see the product of your tax dollars hard at work, I mean, NIH and NSF fund so much of this stuff that the idea that this was privately generated, and therefore the that it's in their entitled to profit on it and hide it from us is preposterous. Yeah. This motivated. Why am I blanking on his name? The internet's own boy, Aaron Schwartz. I'm Aaron Schwartz was driven to commit suicide, believing the same thing. He attempted to liberate literature, and was hounded to an early grave. And so anyway, many of us, many of us get the severe problem here. And, frankly, it's time it's time
+
+Heather 46:49
+to do. As for the first part of the question, or 1% of scientists geniuses? Or is, are the eigenvector centrality, flawed or something else? Some scientists are geniuses for sure are is that the 1% of scientists who are capturing 1/5 of global citations? A tiny percentage of those I would think, but a lot of those global citation indices are based on popularity and being adept with the social part of the system, rather than being particularly adept at the science.
+
+Bret 47:17
+Yeah, I was gonna say the same thing, which is that in a perfectly functional system, you might find that 1% of the scientists were capturing
+
+Heather 47:25
+some records just and it was it meant that we were actually making progress faster than we would if those people were cited less commonly, right. And
+
+Bret 47:31
+if you interviewed in the past, think about the way science works, you may need an awful lot of people hunting, to make a small number of finds that change everything absolute. So there's nothing inherently wrong with that. But I agree with you, I think the chances that the most highly cited people are the most insightful. I mean, for one thing, you know, you're given the way things work. People assume your seniority, through peer review, have access to what everybody else is working on, and they steal a ton of stuff. And so they do, you know, it would not be surprising if the, the most adept thieves ended up in that elite category of highly cited authors. Also charlatans managed to surf the academic landscape.
+
+Heather 48:13
+Imagine that, yeah. Next question. Have you ever heard the term cultural literacy? And since you didn't know who Jar Jar Binks was, and you've probably never seen Star Wars, Star Wars? Do you think you two are culturally literate? So we didn't know who Jar Jar Binks was, we just couldn't imagine what the thing looked like. And we have seen Star Wars, but we're just not being fans. Yeah, yeah, we saw, we saw the originals. And they came out, right, the three starting in whatever it was 1977, when we were tiny, yeah. But we don't see any of the rest of them. And I mean, cultural literacy, to me more often refers to being familiar with the idea that other cultures, you know, at least in anthropology, which is, you know, feel from which I, you know, with which I'm familiar. It refers more to really understanding what parts of what you understand to be true and universal are actually particular to your own state of being. And so, you know, at a moment in the world, when there is so much, you know, pop everything being produced, the idea that it is anyone's responsibility to be to be knowledgeable about all of the stuff out there is absurd. And so, you know, it's just like saying, oh, to be literate, you have to have read everything that was written before 2000 or something like everything. Nope, that's not what literacy means. Just like that's not what cultural literacy should mean. I imagine that there's different this question may have a different meaning of cultural literacy. And I think it's probably being used a lot, but there's got
+
+Bret 49:41
+to be some sort of, if you're totally tuned out, then it does cost you in terms of what you can say about why human beings are behaving the way they are. Yeah, if you've never been on social media, I would you know, what these people were responding to, for example,
+
+Heather 49:57
+but they're I mean, so I'm again for another time. I would be, it would be interesting for us to, to pretend to be on totally opposite sides of that issue would because I think I am natively a bit more towards the, I'm actually not going to know that thing, I'm not going to expose myself to that I'm more of a Luddite. And you know, I was never on social media until 2017. And even as a teenager, I didn't I didn't go there. I didn't follow you know, it, there was no social media in the mid late 80s. But I explicitly avoided the trends and the fashions and listening to what other people were listening to, and, you know, reading the things that everyone was reading at the moment, because it It seemed to me then, like it was at risk of being so much information that was social, and it was obscuring whatever value there might be in any of those things. Because it was of the moment and social rather than having had time to cement itself into meaning that it would be even hard for a person who was trying to find the meaning in any given thing. What that meaning might be, of course,
+
+Bret 51:06
+drowning in information and starving for meaning I forget who said that, but I'm not arguing that you wouldn't necessarily you might be better off and smarter. If you never been on social media. On the other hand, you would be limited in terms of your ability to say why people are behaving the way they are. Yep. If you just had no experience with it, if you didn't know what it was like to have a post, get a bunch of likes, and have some other thing that you are fond of getting on. And
+
+Heather 51:34
+no, no, and having having a shared cultural base is absolutely meaningful. So you and I, you know, it's been like we're, we've, we now use the word grok on a regular basis. And I used it very occasionally before I re read strangers in a strange land behind Lynn, I don't know, three, four years ago actually knows it was I actually I was actually reading it on our study abroad and Ecuador trip. So that would have been five years ago. And, you know, it just at that point, being re exposed to it in context in that novel went like, Oh, no, this, this is actually a good word, we're going to use that. And when you say it to an audience, for instance, that doesn't necessarily know what it means use it in context enough, it becomes meaningful. Whereas if we refer to, you know, 42, being the answer to life, the universe and everything, you can't really, you can't derive that from first principles that we're talking about The Hitchhiker's Guide to the Galaxy, and yet you and I are not going to stop referring to the Hitchhiker's Guide to the Galaxy, because that was important to us, and was formative just like Seuss, right? Like, you know, those, those three things, you know, feel relevant to us. And so we are helping to create a sort of cultural mill you here, and there will be other stuff of value that we're not familiar with. And then there's also a lot of stuff that we're just not paying attention to. And some of that will have value, but a lot of it won't, and you have to, you do end up instantiating some rules, and they will never be perfect.
+
+Bret 53:00
+And there's just too much to know at all, as you alluded to earlier.
+
+Heather 53:05
+Yep. Okay, two more, and then we'll skip to we'll go to
+
+Heather 53:12
+three more, and then we'll go to the next one. So, as a self published author, I almost exclusively rely on Amazon KDP. Which I don't know what that is, but I think it's clear in the rest of the question. So as a self published author, I almost exclusively rely on Amazon KDP. It's an amazing tool. I was already having trouble just giving away free PDFs of my original work, or watching crappy woke remix, get mainlined. Now I fear Amazon might pull my stuff, not even for anything in the work itself, but for simply being pro Trump and center, right? What can authors do when conventions are close to the COVID? And block people and people block ads online? So that is a real question to which we don't have the answer. And it's part of the reason that well, it's one tiny part of the reason that that lock downs have to end soon.
+
+Bret 54:06
+There. There are two levels of this, there is no there's no answer. For individuals to overcome the thing, right? There can't be it doesn't mean that there is not a collective response answer and there's a lot of stuff in blockchain space, for example, that suggests a possible answer to this question and it's probably something that we need to do a podcast on so that you can get a sense for what people are thinking about. If things get worse, right? Yeah, but burnin continues. What do we do? And anyway, we should probably put that together
+
+Heather 54:42
+if cats so this is a two part question. I'm just gonna read one so we can get to some more. If cats domesticated themselves, we attracted buyers that attracted them. Could similar thing be happening with deer?
+
+Bret 54:55
+Yeah, of course this question. Yeah. And in fact,
+
+Heather 54:58
+it's Yeah, we do that. We actually There is there is published research out and I had some students who did their own small versions of it, as you know, quarter long research projects that show that in industrialized era in like in urban areas. deer are changing when in the like when in the circadian cycle, they're active. So they are responding to us. And that doesn't that doesn't say domesticating that says evolving, but I suspect that Yeah, they are domesticated themselves.
+
+Bret 55:27
+I think I think it's an artificial distinction. I think there's a question of what the niches in and around people's to kidding
+
+Heather 55:33
+as a subset? I don't know, I thought it's a subset, I think that you can be evolving without being being domesticated, of course,
+
+Bret 55:42
+but I don't. There is a niche, it is near people, some of those niches are deer, like, they're not going to move into our homes be too dangerous. Some of those niches are catlike in the interesting thing and so,
+
+Heather 56:00
+but adapting to deal with humanity's, you know, spewing of light everywhere, for instance, as say, I don't know if chickadees are King, let's do it. But you know, just pick some songbird that there that no one is saying like they seem to be there are lots of organisms that are doing better. Yep. As a result of our activity, but with which we have no particular relationship and are not, you know, other than those of us who like the birds to be around, yeah, we're not benefiting from them being around, no one is talking about them being domesticated. But they are evolving in response to being in our middle you,
+
+Bret 56:34
+right? All I'm saying is, and we have to be careful about this are lots of things you can't draw a border between that are nonetheless real, but I'm not sure what the border even means, in this case, with deer know with what it means to self domesticate versus to evolve to some niche that is created by humans.
+
+Heather 56:53
+Well one of the things that has been talked about I don't know that I stand by this but one of the sets of traits that people often point to when they're saying things like are humans you know did humans self domesticate for instance, right? Or, you know, how do we you know, what is it that we're seeing like what is happening with foxes when they get domesticated in like the Russian experiments is a PETA Morphosis you know, which is often called the bunny bunny. Bunny is actually a subset of metamorphosis, not the other way around. So it's, it's it's retaining of juvenile characteristics in the adult form. And we know that you know, when you're an adult, you're reproductively capable. So while you are reproductively capable, you retain juvenile characteristics like their eyes, and bigger hands and feet, or I want to say something about the ears, but I'm not sure there's anything about the ears, but again, oh, floppy ears. In the case of canids. Yeah,
+
+Bret 57:43
+we've got lots of Peter Morphosis that has nothing to do with anything you would call self domestication. I guess what I'm saying is,
+
+Heather 57:50
+you've got that backwards, though. So it I again, I'm not saying that I'm going to defend the definition. But if the definition is, if it's right, then you wouldn't you wouldn't be looking for evidence of Peter Morphosis in order to start thinking okay, that's self domestication absent the metamorphosis, then it's not self domestication. Not all Peter Morphosis is evidence yourself. No,
+
+Bret 58:12
+I know, you're not saying that. I just don't I don't. My sense is every time I run into this self domesticated thing, and the fact that it is applied to people that we domesticate ourselves, I find it uninteresting to not even increasingly I find it a garbage category that's been added and caused the conversation to become more confused.
+
+Heather 58:29
+That was just an example like, I'm not this question isn't about self domestication. It's about domestication, and whether or not domestication inherently involves a Peter Morphosis as it appears to have in cats and in dogs, and wild canids. And I don't know what the other examples are. But so you know, the that's that's all. And again, I'm not saying that I'm defending this definition. Yeah. But that if we found reason to defend it, then that would be an indicator of okay. These things are adapting and thriving around humans, but we see no evidence of anamorphosis. Therefore, we're not seeing them as domesticated. I'm not sure. I think neither you nor I are particularly interested in, you know exactly where these boundaries are. Yeah, but I think just trying to figure out what what you would need to be true if you agreed on definitions. Okay, one more question here, and then we'll go to this hour. This one is important. Actually, I'm glad we got to this one. As scientists trained in both taxonomy and critical thinking, please help settle a critically important debate once and for all. is a hot dog a sandwich. Love the channel. Thanks for all you do.
+
+Bret 59:40
+Well, they're not going to like this. I think what a hot dog is in fact a kill zone. I mean, Okay, all right.
+
+Bret 1:00:01
+See? Yes did it right.
+
+Heather 1:00:04
+Gordian knot. Oh, okay, so Zack, you want to put on your your mic to tell us that are you just gonna Yeah, I
+
+Unknown 1:00:12
+just I was just saying that it could arguably be a taco.
+
+Heather 1:00:16
+Hot Dog. Yeah. Excellent. Excellent. Okay. So Zack, did you put in a line for me here? He did. Happy belated birthday. Oh captain, my captain. That's for you. Thank you. Yes, everyone else in the family has a birthday in April except the animals they're all born in March. Non human animals. Yep. Different marches.
+
+Bret 1:00:42
+And different drummers.
+
+Heather 1:00:44
+Totally different drummers. Okay, here's a three part question or at least one written in three lines here. Okay. Brett, oh boy. This has a lot of shorthand so I'm gonna try to read it Hi friend. To me Brett. To me you're gonna you can read it with me if you want to although you're likely to have a hard time with it than I am. To me Brett you incarnate mind Power BI j brown extract quote. Now the educators they call it ESP positive thinking right? Some of the people across the other side of the pond call it vibes vibrations astrology and all those different things you understand but I call it what it is and what it is mind power somebody needs to help us just give us a chance brothers across the nation you got to get yourself together and unified. We need information pass on that right on information that love power. I don't know what's going on that mind power. JB experience what it is is what it is you can't change it Don't fool yourself deal with it. Or this is echo So okay, this is I don't know what to do with
+
+Bret 1:01:53
+what a B is what it were I have the sense don't Yeah, I mean sure if it's good. It's
+
+Heather 1:01:59
+gonna be James Brown. James Brown. This is gonna be James Brown then the funky robot reference I think Oh, okay. Yeah. Cool. Yeah. And I just sorry I couldn't I can't make sense of it. And Brett actually would know the lyrics probably if, if he spent time with it, but cool. If memes are primordial if memes are primordial ABCs of human culture, our psychedelic aesthetics the key expression of them inheritable culture, PS. I chose 2499 is the dollar route because it's kind of funny must be my phenotype. Like someone has said that before it may be the same person. If memes are primordial ABCs of human culture are psychedelic aesthetics, the key expression of them inheritable culture, I don't get it.
+
+Bret 1:02:48
+And psychedelics are a couple things. They are boundary breakers between natural borders of consciousness and unconsciousness. And that is basically functioning like it is basically an uptick in serendipity. In other words, to concern that uptick in cognitive serendipity. So your thoughts become more garbagey, including your visual thoughts. And that's a tremendous amount of fun. And it can lead you to jump gaps that you would not jump being overly catalyzed in your normal cognitive state. So I don't know that it's an ultimate expression, but it's like a hack that allows you
+
+Heather 1:03:39
+this key expression, psychedelic aesthetics, the key expression of them inheritable culture. Yeah, I like where you're going. But I think I think that made some more sense what you were just doing there. I don't think psychedelic aesthetics is the key expression of memes inheritable culture quite yeah works.
+
+Bret 1:04:00
+Let's just say psychedelics are a hack to escape the capitalization of thought that is overly constrained for functionality to say, you take the day off, and you allow yourself to jump tracks that you wouldn't otherwise jump in order to find thoughts that you couldn't otherwise reach and see things that aren't actually there. And
+
+Heather 1:04:23
+then you might consider taking the next morning off to,
+
+Bret 1:04:25
+you know, sure.
+
+Heather 1:04:27
+Depending
+
+Bret 1:04:29
+on how you can take a mental health and jubilation day.
+
+Heather 1:04:36
+We got a we got a I don't even know what to call that a lovey kissy emoji with a substantial dollar amount here from from owl. Thank you. Fantastic. Thanks. So they want all the power to do all this. This is something different. So switching here, they want all the power to do all the things and when it comes to your life tyranny. Oh, wait. Sorry. This is this is a superpower. I was not reading at Legacy so I'm gonna go back. Yeah. They want all the power to do all the things and when it comes to your life tyranny it brings. I do not like them, they will put us in camps. I do not like them their intellectual traps. Yes, yes. Yeah. Awesome. I get I can't see all this because Google is weird. There we go. What do you think of the concept that group consciousness is a recent phenomenon, ie, computer and web, and we are making merely waking our way through this information collectively, with selection taking place in the wrong way?
+
+Bret 1:05:39
+No, collective consciousness is ancient.
+
+Heather 1:05:42
+Yeah. In fact, it's weirder now.
+
+Bret 1:05:47
+That's true. It's gotten a little weird. Yeah, there's a lot of noise on that. But yeah, it's ancient. We've we've talked about that elsewhere. But our argument is that we don't understand consciousness because we assume that it is individual in origin. And then it is a paradox because what good is it to have a subjective experience of anything. Whereas if you imagine that consciousness is purpose is to allow two brains to share an abstract idea so they can parallel process it and then once you have the ability to take something and abstract it and pass it along with language, you also have the ability to juggle it in your own mind, and that's useful to know individual consciousness is secondary.
+
+Heather 1:06:25
+Okay, there are only a few questions here. Most of them are just comments. So we're going to try to get through these Jimmy Dougan from A League of Their Own, we are told that this is a quote from the character Jimmy Dugan and A League of Their Own. are you growing, there's no growing there's no growing and kancil culture. Roger Hornsby was my manager and he called me a talking pile of pig shit and I and did I grow? No, no, you know why? Because there's no growing and canceled culture.
+
+Bret 1:06:51
+The quote involves a ton of Catholic Okay,
+
+Heather 1:06:53
+I'm a little surprised about that. League of Their Own. Yeah, that's what it is. Yeah, is that you're gonna look up A League of Their Own see when it came out. Okay.
+
+Bret 1:07:06
+But you're right, there's no growing and canceled culture. That's true,
+
+Heather 1:07:09
+right. Imperial College researchers reported he moved like red blood cells and collagen fibers and donec dinosaur fossils. Ancient Art worldwide depicts dragons how to set the probability that large land dinos coexist with humans. No, yeah. Even like red blood cells and collagen fibers and dinosaur fossils. I don't know that research I'd be I'd be curious to see what the actual research says but emo and the other. It's not rad tights anymore. The whatever host ratites. No, no. ratites has been renamed to include Kiwis. The Paleo gnats. Well done the old jaws. So the guy we got birds there's paleo NASS and there's neon aths. The Silent g in the middle of both. And the Paleo gnats are considered to be the the closest to the basil representation of birds that are living on our planet right now that neonates being every other bird out there. The Paleo knouse include the red tides, which are the big flightless birds. He moves and caterpillars and ostriches and rheas. And I think aprns Elephant burns would have been in that list, but they're extinct now they're on Madagascar. And Kiwis are also in their their little flightless birds. So if they are, in fact, the closest representative that we have alive on earth today to a basil bird, and we I would put a lot of money on the evolutionary conclusion that birds and dinosaurs are of all the clades and no one could name that most people could name are each other's closest relatives, then it's not inherently surprising that we should find some even like characters in what is that in dinosaur fossils? Right? So but then, you know, ancient art. So that's one piece of evidence that doesn't say anything about big flying dinosaurs with humans. Ancient Art worldwide depicts dragons. That doesn't surprise me either. But you know, it's less it's less clear how you sort of dismantle that at scientifically as evidence for us having existed with
+
+Bret 1:09:17
+Dragons. I agree. And the chances of them heavily left no evidence where we would find it is pretty low.
+
+Heather 1:09:24
+Yeah. All right. To answer your question, illegal throne came out in 1992 1992. Thank you. Yeah, it was a pretty imprecise prediction. The 90s
+
+Bret 1:09:34
+Yes, it was it was a suitably broad help. You said, birds and dinosaurs are the other. They're each other's closest relatives just to be consistent with what we've said. Birds are dinosaurs. So it is birds and a non avian dinosaurs that are each other's closest relatives there. We've closed off one attack vector.
+
+Heather 1:09:58
+I look forward To the moment when the attacks are at that level. All right? Yeah, I'm like I'm in I'll go there on to that. Okay, how about hashtag unlock the dock? For the Twitter hashtag
+
+Bret 1:10:16
+like it but we've already
+
+Heather 1:10:18
+unlocked the dog so maybe if, if people if people are listening to this and have the space in their tweets using both could be, it could be useful to see if just to start to collect those. But hashtag unlock the doc do see and hashtag loose Seuss the Seuss okay we got just a few more here an idea could plants evolve toxins easily destroyed by fire and cooking seed dispersal by organisms capable of technological civilization seems like it'd be a good strategy. So I meant there's two different questions. Their plants do involve toxins that are easily destroyed by fire and cooking, but not because fire and cooking existed at the point that they have all this toxins, you know, proteins, or do they really mean
+
+Bret 1:11:02
+fire or heat?
+
+Heather 1:11:03
+It says fire slash cooking?
+
+Bret 1:11:05
+I know well. Okay, so
+
+Heather 1:11:08
+I can't mind read.
+
+Bret 1:11:09
+So I'm just reading I know. But just in terms of parsing the question to figure out what we're we're responding to denaturing proteins by heat is a very common thing,
+
+Heather 1:11:18
+right? And that pre exists. Humans using fire or cooking is what I was saying.
+
+Bret 1:11:24
+Right? So maybe I missed what the question is shooting for.
+
+Heather 1:11:28
+Just could plants. So the question seems to imagine that maybe there aren't toxins that are destroyed by fire and cooking. And there are basically all proteins get what's called denatured, which means they lose their that their tertiary protein structure. And so they don't then do the thing that they're they would normally do, but they still have caloric and nutritional value. It's true for all all proteins become denatured at high heat, although summer, you know, they're all adapted to different levels of heat.
+
+Bret 1:11:59
+So I believe cooking also breaks down secondary structure. What does that mean? Part of why we get a lot more nutrition out of things like meat.
+
+Heather 1:12:11
+I don't remember. I don't remember if that's the case, but that may be the case. But yeah, so see. So the question, I think, presumes that that there isn't already structure that is in fact, broken down by heat. And I think it in some ways it sort of reverses kosoul causality. It's not like plants don't need to search for the thing. Like humans started cooking. And you know, really this is so this is a hypothesis that was already in circulation. But Richard Wrangham in his you know, excellent primatologist, Richard Wrangham in his I don't know, I forgot 2000 something book called Catching Fire really spells out the hypothesis in depth, that it may be actually cooking that helped make us fully human that it was that there are no even at the point that anthropologists started doing their thing in like the late 19th century 19th century. And there was some there were some Tales from like missionaries and anthropologists about finding cultures that didn't use fire. Those are almost certainly specious. That was probably, you know, some combination of some sort of like racist imaginings, and they just didn't look very hard. So all known cultures have used all known modern cultures, including back into the 19th century, used fire and cooking in randoms formulation, and I'm compelled by it does does so many things. And we're not going to spell them out here. This is another thing that we do in our book, including making many more calories available to those who eat cooked food as opposed to eating the same food raw. It also makes the time spent chewing much lower and that sounds like this trivial thing. But apparently some there's some analyses that suggests that if, if we if humans, not including all the soft crap that we eat now, but if humans, like typical hunter gatherers, not at the extremes, not the poles where the diet is all meat, but with a somewhat typical ratio of like meat to plant matter. We're eating entirely non cooked food, we would spend, I think it's something like five or six days, hours every single day just chewing. And that actually obviously does get in the way of doing everything. So that point, yep.
+
+Bret 1:14:23
+You can multitask but Well, anyway, I would I would just add that the with respect to the denaturing of proteins, the way to think about it is not that it has to evolve that the protein can be deactivated by human technologies. The way to think about it is that the enzymes themselves are predicated on an environment in which they function and basically you have a protein, which is a string of amino acids that has lots of little charges on the surface and those charges how they find the conference. meishan that is most stable relative to a given pH and a given temperature. And the point is if you change the pH and temperature, what you do is you change the affinities of these charges, and they end up finding some confirmation that doesn't actually work. So the point is the enzyme has a tolerance for heat that is built based on what the creature in nature is encountering. And then what we do with heat is we put enough heat in there that the point is it increases the activity of the substrate and the thing finds some folding pattern that just isn't functional as a natural thing. So it's not something that has to evolve for humans. It's something that exists there that humans can exploit. Yeah.
+
+Heather 1:15:43
+Bingo. Someone asks, not for the first time, will you address the revolutionary phenotype? We are aware of it but neither of us have read it yet. And it's, I guess you could say we're avoiding it. But we're not intentionally avoiding it. We just haven't haven't done it yet. So we have nothing to say about it at this point, because we have not read it. Never forget Aaron Schwartz. Yes. Best of luck. And all you do. Thank you. And is Zach Zach or Zach spelled Zack, Zack, Zack, and is it short for some homophone of Zachary would like to get this right in my behind the curtain appreciation tips. So it's zc K, and it's short form and is in fact short for Zachary with a Z a CH, ar y. Yep, there we go. Three more questions. And then we're out for today. Who has more steam in the biology research community, Dr. Seuss, or Dr. Dre? Why did you and your brother decided to give Quentin Tarantino his big break?
+
+Bret 1:16:44
+Yes. What?
+
+Heather 1:16:46
+I don't know. I have no idea. I don't know what that means. And I said I'd read all the rest of them. So that we will pick up some next week that we missed from the first hour. I'm just reading all the ones that came in this era because there weren't that many. Slavery predates history, natural sexual selection directs the evolution of species. But how much of an affected market selection have? And I'm just going to stop there because I don't know what this last one is the third part of the question, I don't know what it's referring to. How much it affected market selection have? I don't know what that means. I'm
+
+Bret 1:17:21
+trying to read it.
+
+Heather 1:17:24
+So slavery does predate history? For sure.
+
+Bret 1:17:38
+I don't know what the question means. Okay, figure it out. Okay, so
+
+Heather 1:17:40
+I'm going to find one I'm going to I don't want to end there. I'm going to find one more question, if I can figure it out from the first hour. That Okay, here's two questions. One comment, one question. I just became the uncle of a second little girl, thank you for helping me come up with gifts to bring along this week. Awesome. Excellent. And what is your recommendation on the Johnson and Johnson vaccine for people in their 20s 30s and early 60s, you too, are my only hope?
+
+Bret 1:18:18
+Well, we've covered this a little bit depends on your situation, I would say it's lowest priority for somebody in their 20s later in your 20s you are, the more you might consider it. I think with all of these things. The danger is that we don't know what we don't know. And that there's a long term hazard with all of the vaccines that is significant and not being properly discussed. So delaying is valuable, but you're not going to be able to you know, if it would take 25 years to know for sure whether these vaccines are going to have a important impact that we don't foresee, like causing an auto immunity or tumors or who knows, you can't wait 25 years, that's not the scale at which this matters. And so you're going to have to make a call. And the problem is you're not going to make a safe call. You're going to make a call based on two things that are lousy. One is the risk of getting COVID and the harms that come from it. And the other is the rest of there's something about these vaccines that we don't know, and we're gonna find out too late. And, you know, those are things you have to juggle, but there's no, there's no simple answer here. There is
+
+Heather 1:19:29
+no simple answer. I do think the question was specifically about Johnson and Johnson compared to the other vaccines. So let me let me speak a little bit to that. We got asked last week about whether in light of the relatively few serious adverse effects from the Madonna and Pfizer vaccines if our priors had changed about our sense of their risk, and I said no, and Brett said a little and I think I'm actually I want to correct the record and say Yeah, a little the longer it is since they started being rolled out, and massively, without very many serious adverse effects, the better I feel about them. And that's not to say that there aren't possible long term side effects that could not possibly have begun to manifest yet, but I feel a little bit better about them. And the Johnson and Johnson vaccine obviously does not have that going for it because it's brand new. That said, I would prefer for me, I would prefer the Johnson and Johnson vaccine to the Madonna or Pfizer vaccine. And I very much hope that Americans and people all over the world, but I very much I know that Americans at this point are not given a choice that if you show up in a vaccine spot you're given whatever it is they have, and so far that's been between Madonna and Pfizer. And soon that will be between Madonna advisor and Johnson and Johnson, but you don't have any way of knowing in advance what you'll be getting nor do you have a choice at the moment. Why would I prefer Johnson and Johnson at this point, even though it doesn't even have the several month track record that Madonna and Pfizer have, because as we have said many times previously, while it is not a traditional vaccine, it has one very new thing associated with it, whereas the RNA mRNA met vaccines Madonna and Pfizer have two very new things. And so the two very new things for Madonna of Pfizer are the mRNA, which is like the active ingredient, delivered via lipid nanoparticles. Both of those are brand new in humans as of the end of last year. And then the Johnson and Johnson vaccine like AstraZeneca, slash AstraZeneca. Oxford, is a DNA vaccine. As such, it is actually classified as gene therapy rather than a vaccine. But it's doing something similar to what the mRNA vaccines are doing just kind of one step earlier. But it is wrapped in its delivery mechanism is an adenovirus, which is a much more tried and true delivery mechanism, then the lipid nanoparticles that the mRNA vaccines are using. And so in choosing between two vaccines that are using brand new technology, but one of them also uses an additional kind of brand new technology, I prefer the one that uses one kind of brand new technology to the those that use two kinds of brand new technologies. And if you are in your early 60s, I would I would probably get it. And if you're in your 20s and 30s, as Brett said, Would you know i don't think those are yet available to anyone without other underlying conditions. So that's a that's a sort of a luxurious position as as is the one that we're in at this point not having to make the decision. Right.
+
+Bret 1:22:29
+So I would add that the you're right about the totally new lipid nanoparticle delivery process being more risky than the adenovirus. But I would say part of the are a big part, to me, the lion's share of the reason that the adenovirus delivery mechanism is safer, is that we have a history and evolutionary history with the DNA viruses. Right? So yes, you're right, right, more so than the fact that this has a track record. It has some track record, but it's still new.
+
+Heather 1:23:00
+Yeah, that's better.
+
+Bret 1:23:01
+What's the better reason it's the the better reason, right? Just that the likelihood that a dino viruses are going to be dangerous to you? is low because we get them and they're they're minor. And so using them as a delivery mechanism is new, but the your evolutionary preparedness is not?
+
+Heather 1:23:18
+Yeah, that's great. Good correction. Thank you. It's possible that almost no more than three and a half hours in that we are done for the day. Whoa, what do you think? All right, are we done for the day? Do some logistical announcements and, and sign off? Yeah, let's do that. Okay, so we will be back in a week 1230 Pacific, usual time usual place right here and our very own sauna with our very own conference behind us. We are grateful to you. And we appreciate all the support via Super Chat questions and by joining our Patreon and if you are not in a position to or do not feel like contributing that way, but you appreciate us please consider giving good reviews on the places where you're listening to the podcast. Although I should have said that when this was actually something that was going on to the audio podcast. But if you also listen to the audio podcast, consider positive reviews there. I think comments on YouTube Help as well although I'm not sure about that. Okay, I'm gonna say to you, yes, love the people who you live with. I know you do. Love you back and eat good food. Get outside and no more crazy eyes. No.
+
+Bret 1:24:44
+I was trying to write poetry in my head. I had. I was not particularly thinking about what facial expression that much was clear. Yes. We've come to the end of this dark horse podcast. We're going to go drink We'll be drinking it last. I don't do it again.
+
+Heather 1:25:03
+Do it again. That was good. One more. And then we've
+
+Bret 1:25:05
+come to the end of this dark horse podcast. We're going to go drinking, we'll be drinking it last or something along those lines. I don't know it was better in the earlier iteration. You can all scroll back through the
+
+Heather 1:25:17
+we're supposed to stop at the end of your little couplet and let us go, Oh, I was probably getting third times.
+
+Bret 1:25:23
+worse and worse. No, that is not the result of drinking, which they know we've had cameras on us.
+
+Heather 1:25:29
+Well, sometimes that goes to one or the other of us. Who knows what we've got going on at the table. Alright, we have our wearing pants.
+
+Bret 1:25:39
+We have come to the end of this dark horse podcast. It is time to go drinking. We'll be drinking it. Last sorta sorta
+
+This transcript was generated by https://otter.ai

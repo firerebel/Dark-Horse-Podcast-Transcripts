@@ -1,0 +1,466 @@
+Bret 0:09
+Hey folks, welcome to the Dark Horse podcast episode 913. That's not right. It's 83 isn't it? It is 83. Again, still a big note. How did I not see that cut? Things have been busy. I didn't notice that it was a prime number. Usually I noticed that about midweek. But here it caught me off guard, but I think we can recover.
+
+Heather 0:29
+Yes, I think so too. This week, we are going to formally announce our book hunter gatherers guide to the 21st century and do real excerpt from it and talk about how we will be talking about it in the weeks leading up to the publication, which is in September, and then we are going to talk about as part of that hyper novelty about lab like hypothesis about show you some graphs of COVID cases and fatalities before and after ivermectin in several countries around the world, shared with us by Dr. Pierre Corrie, who you brep had on a live stream on Tuesday of this week truly extraordinary. If you haven't listened to it. We're going to talk a little bit about why randomized control trials are so awesome. But not the only kind of evidence and monkey with the baseline COVID edition. That sound like a nice tight, tiny like we got our work cut out for Yeah, Yes, I think so too. So just a few announcements before we before we launch in, you had a one of your monthly Patreon conversations this morning, you'll have another one tomorrow. Also on the last Sunday of each month, we do a private q&a. At mine, we encourage you to come join us at either our Patreon where on either of them you also get access to the discord server where there is a lively conversation that is often happening there. We will not be here next week because we have some fairing to do as our boys go off to one of them goes off to camp and farnum in California and our producer, actually, Zack, if you want to just show my screen for a moment is going off to the finals of the of have the American rocketry challenge tarc sponsored by the National Association of rocketry. So seriously, yay, team. That is awesome. But those things are both happening next Saturday. So we're gonna try to fit in another live stream sometime between now and two weeks from now, but we won't be here for our regularly scheduled live stream next Saturday. One thing that will be happening for sure. Between now and then, is that I'm going to be joining trigonometry along with Jordan Peterson for a live show on next Friday. But you know, on June 11 at 1230 Pacific with it'll have a live q&a as well. So if anyone is interested in that you can join us there. And anything else announcements wise, logistics wise?
+
+Bret 2:52
+Well, odd note I'm not actually sure whether Munk debates had yet publicize the fact that I was supposed to be on a Munk debate this Monday about the question of the lab leak hypothesis and whether or not a preponderance of the evidence pointed to a laboratory leak. My would be interlocutor has dropped out of the debate, possibly as a result of threats. But also that was the claim also possibly because he realizes that the degree to which the natural origins hypothesis is now taking on water was at such a rate that by Monday, he was going to need at least a snorkel if not scuba gear. So
+
+Heather 3:31
+maybe he didn't have time to source it. probably didn't
+
+Bret 3:35
+maybe you know, who's to say whether he was even licensed for such things. But let's just say for a
+
+Heather 3:40
+snorkeled.
+
+Bret 3:42
+Alright. One no longer needs a license for a snorkel.
+
+Heather 3:47
+God for that one once did the right the snorkel nanny state is long dead
+
+Bret 3:51
+this night. It'll be back. I have a feeling we will be licensing snorkels, the the snorkel show loophole is going to be a matter of much debate. It's a lots coming. So anyway, yes, there. There will be no Munk debate this Monday because there's no one to take the other side of the issue anymore, I think indicating that we've done well with the lab like hypothesis, we have certainly beat expectations. And although the world is rapidly scrambling to write the wrong story, so that nobody could possibly learn the actual lesson of the lab, like hypothesis saga, we'd have at least lodged in the public mind that this is not an improbable scenario.
+
+Heather 4:34
+It's almost like the media doesn't want us to be able to do science or recognize science when it comes our way.
+
+Bret 4:39
+It's like they need us not to be able to in order to keep doing what they do, right? I get it let's
+
+Heather 4:47
+you know, maybe change the business model a little bit such that science can happen and progress can happen. And we can say avoid things like what we're living through right now in the future by applying the scientific method early and often.
+
+Bret 4:58
+Totally, yes, I interrupted. Roll though. I'm sorry about that. Did you? I think
+
+Heather 5:02
+so What kind of a roll? Was it? That Kaiser roll, I would have thought maybe a dinner roll? Yeah, no, I think I think we're ready to talk to talk book. So Zack, if you would put up the website that we now have up for a hunter gatherers guide to the 21st century, this is our book that we've been talking about writing for well over a decade, I remember being in a comparative anatomy lab with students back in like 2010, talking about our ideas for this book, and it's finally come to fruition, we're super excited about it, we encourage you to, to look at the site. And to consider pre ordering we at the moment, there's there's people have been asking about getting signed copies. And there's not a way for us to interact with the publisher such that we can actually sign copies and get them to people. But two things, we're likely to put up a button here soon, that anytime that you have pre ordered, you would be able to go in and enter your information and get a signed book plate, which is not the same. But we're also hoping to do some live events in the fall. And there will also be more information about that coming coming soon. But at live events, if they have, you know, we will be trying to do some in places where there's actual interest. And if you showed up to that there will be book signings, as part of that.
+
+Bret 6:27
+We would far prefer to sign actual books that seems the right way to us as well. But if you think about the logistical problem of getting the books to the pen, and then to you it becomes
+
+Heather 6:37
+well that's actually that it's it's not the books to the pen and the books to you. It's the it's the the contractual agreement with the with the publisher. Oh, there's
+
+Bret 6:44
+an additional layer than I am. Yeah, no,
+
+Heather 6:47
+the the physical stuff I got that figured. But it's the it's the contractual stuff,
+
+Bret 6:52
+we would need another another structure or something. But yeah. So I will say also on the point on the, from the point of view of looking at the website, probably most of you will encounter things on your phones, because that's what's done. But you could go see if you can't dig up a laptop somewhere to look at the site from the desktop, because all of you who have been begging for a parallax scroll, you will only it's not a parallax scroll, there's a parallax scroll,
+
+Heather 7:19
+you know, so let's not go here that it didn't end up being what happened. So it looks like it's an animation rather than a parallax scroll. We do not need to go inside baseball on this, but the guys are working on this amazing job. And there were internal technical reasons as to why better
+
+Bret 7:33
+than a parallax. Well, we simulated a parallax scroll with animation, which is even cooler. So check that out on the desktop site
+
+Heather 7:40
+into it. So what we're going to do over the next 13 weeks or so, if you would just scroll up a little bit sac is each week we're going to do a segment of the podcast devoted to one of the chapters. And so I'll just read for those of you listening and not looking the names of the chapters and so started whenever our next live stream is we will do a little excerpt from and discuss the human niche. And then a brief history of the human lineage which is the deep history of of life, our life on Earth. Ancient body is modern world. CHAPTER FOUR is medicine than food than sleep, sex and gender, parenthood and relationship, childhood school becoming adults, cultural consciousness, and the fourth frontier. So some of those will be a little bit opaque at this point, but they will become less opaque as we talk about them. And certainly, if you end up reading the book. So today, what we're going to do is just read an excerpt from the introduction and then talk about it a little bit. All right. So this is the this is actually the second half of the introduction. The first half has a story of a, you know, nominally near death experience that we had in our very first season doing fieldwork many years ago, which I'm not going to read on air here,
+
+Bret 9:02
+it was one of our earliest near death experiences with the earliest near death experiences.
+
+Heather 9:06
+So I'm going to read from the introduction starting after that story. Many people have attempted to explain the cultural dissolution we face. But most have failed to provide a holistic explanation that not only examines our present, but also looks back into our past, our whole past and into the future. We are evolutionary biologists who have done empirical work on sexual selection and the evolution of sociality, and theoretical work on the evolution of trade offs, senescence and morality. We are also married to each other have a family together and have often been side by side while exploring many parts of the globe. Well, over a decade ago, when we were still college professors who began formulating the idea for this book, we stood on the shoulders of giants, our mentors and senior colleagues, as well as many intellectual ancestors who we never met. But we're also building curriculum that was unlike any that came before. We forge new paths and positive new explanations for patterns both old and new. We came to know our undergraduate students well, and as they engaged our curriculum, They asked questions across domains. What should I be eating? Why is dating so difficult? How do we create a more just and free society? The common threads throughout these conversations in classrooms and labs and jungles and around campfires are logic, evolution and science. Science is a method that oscillates between induction and deduction. We observe patterns, propose explanations and test them to see how well they predict things we do not yet know. We thus generate models of the world that when we do the scientific work correctly, achieve three things. They predict more than what came before, assume less, and come to fit with one another, merging into a seamless hole. Ultimately, in this book, and with these models, we seek a single consistent explanation of the observable universe that has no gaps takes nothing on faith, and rigorously describes every pattern at every scale. This goal almost certainly cannot be attained. But there is every indication that it can be approached. That we may glimpse this endpoint from our modern perch were a long way from reaching the limits of what can be known. That said, we are much closer to the goal in some areas than others. In physics, we seem tantalizingly near a theory of everything, which really means a complete model of the least complex, most fundamental layer of explanation. And here we've noted your brother Eric Weinstein's work. As we move up in complexity, things become less and less predictable. Near the top of the stack. We reach biology where processes inside even the simplest living cells are nowhere near fully understood. Things only get more complex from there. As cells begin to function in coordinated ways, becoming organisms made up of distinct tissues, the degree of mystery compounds, the unpredictability jumps again in animals governed by sophisticated neurological feedbacks that themselves investigate and predict the world. And once again, as animals become social and begin to pool their understanding and divide their labor. Nowhere are we more regularly stumped than we are and understanding ourselves. We Homo sapiens are brimming over with profound mysteries surrounded by paradox is one of the very things that make us distinct from the rest of the biota. Why do we laugh, cry, or dream? Why do we mourn our dead? Why do we make up stories about people who never lived at all? Why do we sing fall in love, go to war? If it's all about reproduction, why do we take so many years to get on with it? Why are we so picky about with whom we choose to do it? Why are we fascinated by the reproductive behavior of others? Why do we sometimes choose to impair and disrupt our own cognition? The list of human mysteries is endless. This book will address many of those questions it will bypass others. Our primary aim here is not to simply answer questions, but to introduce you to a robust scientific framework for understanding ourselves. When we have developed over decades of study and teaching on the topic. It is not a framework you will find elsewhere. We developed it by working from first principles as much as possible. first principles are those assumptions that cannot be deduced from any other assumption. They are foundational, like axioms and math. And so thinking from first principles is a powerful, powerful mechanism for deducing truth, and a worthy goal if you're interested in fact, over fiction. Among the many benefits of first principles thinking is that it helps one avoid falling prey to the naturalistic fallacy which is the idea that what is in nature is what ought to be. The framework that we present here is built to free us from these sorts of traps. It is intended to allow us humans to make sense enough of ourselves that we can, at a minimum, protect ourselves from self inflicted harm. In this book, we will identify the most large scale problems of our time, not through the limiting divisive lens of politics, but through the indiscriminate lens of our evolution. One of our hopes is that we can help you to see through the noise of our modern world and become a better problem solver.
+
+Heather 13:30
+Modern Homo sapiens arose approximately 200,000 years ago, the product of 3.5 billion years of adaptive evolution. We are in most ways a generic species, our morphology and physiology. Those staggering and marvelous when considered in isolation, are not special when compared to those who are nearest relatives. But we uniquely have transformed the globe and become a threat to the planet on which we still thoroughly depend. We might have called this book a post industrialists guide to the 21st century, or an agriculturalists guide, or a monkeys guide, or mammals guide or fishes God. Every one of those represents a stage of evolutionary history to which we have adapted and from which we carry evolutionary baggage, our environment of evolutionary adaptiveness or IE a to use the term of art. In this book, we speak to our environments of evolutionary adaptiveness which is to say not just the EA of the titles such as the African grasslands and woodlands and coasts on which our ancestors were hunter gatherers for so long, but the many other iais to which we are adapted. We emerged on the land as early tetrapods became lactating for bearing mammals developed dexterity with our hands and visual acuity as monkeys grew and harvested our own food is agriculturalists and lived cheek to jowl with millions of anonymous others as post industrialists. We chose to include hunter gatherer and the title of the book because our recent ancestors spent millions of years adapting to that niche. This is the reason so many people romanticize this particular phase of our evolution. But there was not just one hunter gatherer way of life anymore than there was one mammalian way of life or a single way to farm We are not adapted only to being hunter gatherers. We also adapted long ago to being fish were recently to being primates, and most recently to being post industrialists. All of these are part of our evolutionary history. This wide ranging view is necessary if we are to understand the biggest problem our time. Our species pace of change now outstrips our ability to adapt, we are generating new problems that are new and accelerating rate and it is making us sick physically, psychologically, socially and environmentally. If we don't figure out how to grapple with the problem of accelerating novelty, humanity will perish a victim of its success. This is a book not only about how our species is in danger of sorry, this is a book not only about how our species is in danger of destroying our world, it is also about the beauty that humans have discovered and created and how we can save it. And irrefutable evolutionary truth. undergirding this book is that humans are excellent at responding to change and adapting to the unknown. We are explorers, and innovators by design, and the same impulses that have created our troublesome modern condition are the only hope for saving.
+
+Bret 16:08
+I am excited.
+
+Heather 16:10
+I am to I'm very excited for this to be out in the world. And for us to be sharing pieces of it as as the week's Go on, is there anything you want to add to that part of the introduction that I have just read from?
+
+Bret 16:22
+Yeah, that means a number of things in there that are key, many of them will be familiar to longtime viewers and listeners, I think the idea, you know, I'm particularly fond of the idea that the goal is a seamless integration of models at every level, and that that cannot be achieved, and we already know it. But it probably can be approached, which is effectively the same thing, that that's a really important and subtle distinction. And if people understand that, that's what you're doing, it's not to to arrogantly think that actually a theory of everything is actually going to allow you to go from the particle level to predicting the next behavior of the person in front of you. Nothing of the kind, but the compatibility of all of these things is the objective. And the fact that they are wildly incompatible at the moment tells us what we need to figure out, right, it's the incompatibilities between things that drives proper inquiry, it is that it is a kind of perverse obsession with the inconsistency that turns you into a scientist, right? The need to figure out how A and B can both simultaneously be true. And they seem incompatible. As
+
+Heather 17:24
+we say later in the book paradoxes are like an X on a treasure map, right? They say dig here, figure like what what is this is consistency about in in a scientific worldview, worldview, you don't say, oh, let's agree to disagree. Let's figure out what the source of the disagreement is. And then figure out you know, who who's got the perspective that isn't actually a match for what is true,
+
+Bret 17:48
+even if it is best for the majority of people actually to agree to disagree and wait for somebody else to figure out what fills in the gap. You don't necessarily want a society full of people obsessed with the inconsistency is you might not be able to do anything, include feed yourself, if that's the the construction of your civilization, but a division of labor in which some people are obsessed by those in consistencies and driven to do all of the what seems like spinning of your wheels that is necessary in order to finally figure out what fits in these gaps, which is often you know, you can spend literally decades chasing something, and what you find is some elegant little thing that takes just a minute to describe right? So you know, that is a weird kind of investment regime, right? It's like having to drill 1000s of oil wells to find one, but the one carries the necessary fluid to fuel what you're up to. And so anyway, I'm very excited that what we have been doing kind of, more or less off the cuff on dark horse and what we did in the classroom, and, you know, very different between you and me, but a higher level of, you know, preparedness lectures that had been developed over years were deployed the upgraded each year and all of that, that, that mill, you now has a kind of third place that it lives, which is this book where we've taken the toolkit and tried to get it into a form where it's sort of you can hand it off, right? Yeah. And so
+
+Heather 19:18
+this is perhaps the best conscious manifestation of our efforts to use the model that we introduce that we talked about in the talk we gave at Princeton virtually about a year ago, that we introduced in the first chapter of the book and speak to a lot more in the 12th chapter of the book, culture versus consciousness.
+
+Bret 19:35
+Yeah, I mean, I must say, the experience of building it has been totally educational to me, you wrote a book before, I've never been part of book writing before. And you know, that process even within an individual article where you lose objectivity about what you've said, and so you're sort of in a race against time to get it out before you forget what it even looks like. That's compounded so much in the circumstance, because you're dealing not only with the individual topics, but you're dealing with, you know, how they fit together and what you may be set in a draft, and then it's not there anymore, but it needs to be. And so anyway, I'm shocked. And I must say, almost all of the work that went into keeping track of what we did and didn't say, and making sure that we got it all saleable and clear, and you know, the immense job of writing the book is not what I had no idea what it even was until we engaged in this project. And that work was almost all you I never could have kept track of, you know, a fraction of what was necessary to get this into a form that people can read it so
+
+Heather 20:42
+well. Here it is, proofs soon to be an actual round, even though that I just did it FedEx or something. But alright. One, just one more thing. So we got handed. I didn't actually know this because my first book didn't have an index. Or maybe it did, actually, I don't know, it's not in this room. But I don't remember anything about how my first book, which is about my research and life in Madagascar when I was in graduate school Antipodes. I don't remember anything about how the index, if it exists, even was created. So we just got handed a draft index that was created by someone at the publisher yesterday, and just began looking through it. And I admit to have a really geeky fondness for indexes and books. It's sometimes the thing if I'm back in the days when browsing and bookshops was a thing. And I loved doing it. And I hope to be really comfortable and excited about doing it again, any day now. When you know, everyone else is also engaged in that sort of thing. I will often actually look to the index first just to see what kinds of topics got pulled out, right. And so I think each week, we'll just, we'll just sort of throw a dart and raciest index ever, I love it. So just just the first one is is like eight things at the letter are just what begins the letter are in the index. We have of this hunter gatherers guide to the 21st century. radial symmetry, rape, rapid eye movement, sleep, rat enrichment experiments, ravens, raw food diets, and raise, raise raise as in skates and raise cousin, as in the other half of the contract. The isn't the elasmobranchs are sharks skates and raise?
+
+Bret 22:28
+Yeah, yeah. Awesome. This episode of The Dark Horse podcast brought to you by the letter R.
+
+Heather 22:35
+That's right. That's right. Yeah, maybe we should have have our excellent producer put together a Sesame Street Style. This episode brought to you by whatever, by
+
+Bret 22:44
+the letter R and the prime number 83.
+
+Heather 22:48
+That's right. That's right. Yeah, we're doing Sesame Street for adults here. All right. That's what we have on the book for this week. Zach, I think it's a lot. Yeah, thank you. Let us move. Let us you know, so one thing that should be obvious from the excerpt that I read from and from the little bit of conversation we had is that it's it's this issue of hyper novelty in our modern world that is making it so difficult for us moderns to, to keep up. And boy, have we all been living a manifestation of that for the last 18 months, yes, 14 months, 16 months something. And, of course those those of you who've been with us since the beginning have been hearing us talk about you know about getting outside how this disease doesn't you know, this virus doesn't transplant outside from the very beginning literally from the very first day that we live stream back in March of 2020. We've been talking about lab like hypothesis almost as long once the vaccines were up and running, we were talking cautiously about what the difference between the vaccines were and what it might mean. You know, what the, what the data that are out there might mean and of course in the last couple of episodes we've been talking a lot about ivermectin as as a really, seemingly a foe both effective and demonstrably safe drug could be used for prophylaxis and treatment so we're gonna go to ivermectin after talking a little bit about the lab like hypothesis and a piece that you just had published yesterday and unheard and Zach you can show my screen if you like or you can show it on your screen I
+
+Bret 24:34
+heard spelled very cleverly which it took me a long time to realize was not the standard spelling of that.
+
+Heather 24:41
+One of the things that happens in our household is when Brett or sometimes Zach now and occasionally Toby, even our 17 to 15 year olds will make upon that I find particularly egregious. I will say to them and they always know it's coming you know it's not spelled the same right,
+
+Bret 24:56
+right witness. Sometimes one doesn't know But sometimes one does no. And that's kind of the joke. Yes, exactly.
+
+Heather 25:03
+That's that's part of those, those are the ones that I find the most, the most powerful.
+
+Bret 25:09
+And actually, you know, certain puns don't work on paper. Because of the spelling issue. Sometimes you need them to be spelled differently. And sometimes you need them not to be
+
+Heather 25:17
+No, I think actually, this is part of why of literary types. Those of us who often prefer books to lectures, to seeing the thing rather than to hearing the thing are typically less fond of puns, perhaps then then those of you who are more, more comfortable in the auto audio sphere.
+
+Bret 25:36
+I thought you were gonna say prefer books to husbands? I'm glad that you didn't. But
+
+Heather 25:40
+well, I mean, the thing is, I can have lots of books.
+
+Bret 25:44
+I'm sure how to take that. But yeah, all right. So yeah, this piece in in unheard, which I'm quite proud of. They've got it. It's their flagship piece for the weekend. That's great. And the title, and I should tell you, I've gotten into a little trouble with unheard, because titles are never, almost never given by the authors of pieces they're put in afterwards, so they can catch you by surprise. And And anyway, this one is now titled, why we should welcome the lab leak hypothesis, which is frankly, a slightly awkward title at my insistence that hypothesis. Be there?
+
+Heather 26:25
+Well, I was just trying to show but my screen is showing that you can see in the URL that it's still got the original title there.
+
+Bret 26:30
+Yeah. In any case, what we should really welcome is the strong probability that this virus emerged for the lab, which I realized is going to sound crazy to people because that sounds like a terrible, terrible thing has happened. And in fact, a terrible, terrible thing has happened either way. But yes, the piece goes through the logic of why I believe that the emerging picture in which nobody will debate you taking the side of defending the natural origin because that's becoming an impossible position to sustain. Right that that's actually given the hat that COVID happened, it's a good thing.
+
+Heather 27:06
+So let's let's walk through it. Okay, so I mean, the pieces is terrific and well worth reading. But I think that in you know, in 3030 seconds that will take longer because we'll riff on it, but like we should encapsulate the argument because it's very important. Yeah,
+
+Bret 27:18
+so I'd like you to read it. And I will say in passing you mentioned your book about your time as a graduate student, and it occurred to me too late here I didn't realize it but I talked about my time as a graduate student studying bats, but I didn't think to have them hotlink the book in which me as a graduate student features as an important piece of the puzzle Yeah, and Elizabeth Wright's book the tape yours morning bath,
+
+Heather 27:45
+in which she identifies you quite accurately as a maverick scientist.
+
+Bret 27:49
+Yes, I think she was playing on Bret Maverick. But in any case, it's a it's a really cool book talk about a great title. I mean, doesn't the title tape here is morning bath make you want to pick up a copy and figure out what the hell that could possibly mean? And it
+
+Heather 28:03
+does me I'm not sure some people will.
+
+Bret 28:07
+I mean, if you know if you know tape here,
+
+Heather 28:09
+which I do? Sure, most people don't our tape here. So I actually
+
+Bret 28:13
+saw one last time we were in the Amazon, which was quite good
+
+Heather 28:16
+galumphing out, I got a terrible picture of it. That's the kind of pictures they like to have taken of him
+
+Bret 28:21
+to get taken. But anyway, so the my time as a graduate student studying bats shows up in this piece because of the following phenomenon. When the when Heather and I emerged from the Amazon and remind me of the date, January 2020, late January 2020, we emerge to a story our phones leaped to life after us being out of contact. And because we were in Ecuador, our phones actually awoke to Ecuadorian news and there was a news story in Ecuador about the first case of what was then still called novel Coronavirus in, in Ecuador. And we just became aware of what this was and we didn't know if this was going to be like SARS, or like MERS or like, you know, the threats of bird flu, h1, n one or whatever that had passed, or whether this was going to be some major story that we needed to worry even more about. And I did have as the basics of the story emerged, as it became clear that whatever this virus was ultimately traced its origin back to horseshoe bats. It kind of stopped me in my tracks because as a biologist working on bats, I handled so many of them so many times, and in fact, I handled them without any protective gear. And the reason I handled them with no protective gear was that that was the standard amongst the biologists who taught me to work with bats. And the reason that we didn't do things like wear gloves was that these bats are incredibly fragile and they get caught in the mist nets and nor To get them out of the mist nets, you need all of the dexterity and sensation in your in your fingers, otherwise you risk injuring the animals. And so anyway, we learned to be very careful with them and good. And, you know, it's not like we were constantly getting bit, we were very careful not to be a bit, but there were, you know, vampire bats and nuts sometimes and vampire bats have very, very sharp teeth, easily capable of slicing you open. But in any case, we worked without protective gear, and I thought, Oh, my goodness, we've got a pandemic, that is endangering the world. And it's come from somebody's contact with a bat in one way or another or something like that. And I thought was I risking causing something like this, by working with bats and not, not realizing that every contact we have with such a creature is an opportunity for a pandemic to start. And it took me months to understand why actually, that was very unlikely. And the reason that it was unlikely has a lot to do with the evolutionary job that a new pathogen that enters humans is faced with when it jumps, a minor jumps the gap, it has to get into a cell, it has to successfully reproduce. And in order not to be just in a single cell, it has to spread from one cell to the next. And then it has to jump from one person to the next. And it has to do it at a rate that actually creates spread, right? If it's too aggressive, it can burn out very quickly. If it's too timid, then people recover too quickly. And so it has to nail these things. And typically, the way that happens in those cases, when it does happen is that there's an evolutionary period in which a virus that is very poor at doing this job initially gets better at it by leaping from one person to another. And it basically gains evolutionary experience and adapts. So the point is, if I were to have contracted a virus in my field work, it would very likely not have been capable of these things, the chances of it making it into a pandemic are tiny, which then raises the question about whether or not our assumption about the hazard of pandemics is too great. And that elevated sense of danger is what caused us to do gain of function research, which Yes, we have not proven that that's where this virus came from. But we were at least creating the hazard that something would leak from the lab in Wuhan, or in North Carolina, or there's one in Texas, that something would emerge and create a global pandemic, that was a hell of a lot of danger to put us to and the question is, maybe we overrated the hazard that we were trying to control. Alright, so take a breath. Is there more to say before I say why I think we,
+
+Heather 32:53
+I think we just want to proceed, we just want the some of the conclusion so that people can encapsulate it and know, you know, what the what the, it's not a hypothesis here, but know what the thesis
+
+Bret 33:03
+the thesis is. So the thesis is, if you compare the two scenarios, one scenario, this is emerged from nature, right? If it is emerged from nature, then it's going to happen again, and the only thing we can do is study these things, maybe enhance these pathogens in order to study them, so that we can figure out what to do next. But if we enhance them, that means we're gonna have natural pandemics, we're gonna have manmade pandemics when these things leak from the lab, and we're just stuck with this forever. On the other hand, if this leaked from a lab, and the danger of leaping from nature is lower than we think, then we can stop taking these things into the lab and enhancing them and thereby eliminate the majority of the danger. So I have gone from initially saying, I really, really hope this wasn't a laboratory leak, because in some sense, I don't want science to have been responsible for this, it was the international scientific community. And I don't want that to have been the case. But at this point, that community has behaved so badly. And much more importantly, our well being as a species going forward, more or less depends on the fact that there's something we can do about this. So we don't end up with the next COVID.
+
+Heather 34:10
+Right. So if this turns out to have been a leak from a lab, what that will reveal is that the rot at the center of the social system that does science, both in the US and worldwide, is is corrupt, and has a rot at its at its core likely, and that's terrible. And I don't want that to be true. However, the analysis that you arrive at is, we have seen whether or not this is alive, like we have seen evidence of so much the corruption throughout so much of this pandemic that we're already most most of the wave the evidence needed for that conclusion, regardless, not the leveling hypothesis, but the conclusion that the social system that does science is corrupted and needs to be fixed. Then if you Take the the two main hypotheses. And there are others, of course, the two main hypotheses on on their merits without thinking about the social implications. If this is a zoonotic a natural zoonotic spillover event, that suggests that perhaps something about our changing way of interacting with the world changing population density is any number of things will will mean that this is just the first of many. And can the world in fact deal with another pandemic like this two more eight more 10? More? Probably not. As opposed to if this was a, a virus that was modified in a lab unlinked from a lab, we have control over whether or not future pandemics like this
+
+Bret 35:45
+happen? Yes, at least potentially. And I would say there are really two, there are two things here. One is the social system that allowed this to happen, which, to my mind is actually the much more frightening thing because right,
+
+Heather 35:57
+which is why I'm still on like, I'm still I still really wish I really wish that we that what we now is now know is true, wasn't true. But given that it's true, we've seen it, right?
+
+Bret 36:11
+Right. Nonetheless, we've encountered this failure, so many different places. COVID is, you know, the clearest I've ever seen it because And believe me, lab leak is the shallow end, right? This only gets worse and ivermectin begins to tell you just how deep the rabbit hole goes. But the social system surrounding sensemaking reporting, and then whatever this thing is, that is telling us what we are allowed to say and think and yes, it doesn't tell you in absolute terms, you can't say or think these things, but the pressure not to admit what you privately believe, is so great and so dangerous to us that yes, that thing and all of the things that's connected to the the social media platforms, the regulatory apparatus, the scientific and academic apparatus, all of that has some sort of rot within it that is putting us in danger.
+
+Heather 37:02
+Well, I'm point of correction, it is in fact telling some people quite directly No, you may not say that by by shutting down, for instance, social media accounts, right, what it is we're doing, we're by reversing the decision on papers that have been peer reviewed and accepted and then saying actually, not by keep by keeping data and analysis away from the public eye away from scientific analysis. And then also by keeping most of you know, the rest of us who aren't actively doing research in this area, from you know, keeping many people from actually saying what they think the conversation is beyond being steered.
+
+Bret 37:39
+Well, okay, this is my my error. Some people have been told what they can say and or think others are not, the differential nature of this thing is bewildering, because if you look out and you say, you know, you can't mention ivermectin, really, I see it mentioned all over the place. In fact, we've mentioned it many, many times. How is it that we can mention it and others can't? Right? On the other hand, if you go looking for the control mechanism, it's unbelievable, right? This thing is actually resulting in accounts being suspended, etc. So well, and
+
+Heather 38:09
+you know, our, our clips channel, got its first first thing. And, you know, this week for talking about ivermectin, well,
+
+Bret 38:18
+our clips channel got the first, it's technically not a strike, it's technically a warning, but you get three warning or strike per channel, and then they take it. Yeah. So this is this is Google firing a shot across the bow on our livelihood, right? They have picked a video, right? They have claimed that we violated these guidelines in some way. They're not specific. So we can't challenge it. There's no venue, you can file an appeal, who knows what happens there? But it's very obvious. I mean, it happened, you know, in conjunction with this, you know, and I did the podcast with pure Cory live because I wanted it to get out, right? So then we get this warning, right, which is an indication that Google has targeted our livelihood and would like us to know that it has, and you know, what it is that they would like us not to be talking about? And you know, okay, this was a control mechanism. It's not absolute, right. I don't expect anybody to show up with weapons. But the fact is livelihood is livelihood, and they're threatening it. So that whole social layer, which is somehow connected to academia and journalism, and all of the rest of that academic layer is one of the failures and the other failure has to do with gain of function research and how we got here, and the gain of function research problem is tractable. But the problem is, in order for us to learn the right lesson, and to fix the gain of function research problem, we have to understand what happened and what happened involves that other layer, right so one of the things I'm watching which is actually causing my blood to boil is the process of the struction of the replacement narrative, the one that does admit that this could well have come from the lab in Wuhan. Right? So they're going to admit that at some level now they're still playing games and saying, most scientists believe this is unlikely, but we all want to investigate it, as we all did all along, which is, of course, total bullshit. But the other thing they're doing is they are steering the conversation away from the people who saw it most clearly early. Right? So some of those people are us. The one that is most galling now is the way Yuri Dagon is being shoved out of the position of having systematically gone through and I would ask you, if you haven't read through Dagens medium piece, go back to it, right here is a guy who, like us, was not looking for this to be a lab, like, in fact, was looking for it not to be and one of the evidence so that he would be in a good position to repel the claim that this had come from the lab. And what he found out was, the more you dig, the more it looks like it probably did come from the lab. So that's an honest broker. This is somebody who's got the chops to sort it out. He's done a very good job he and Rosana segreto, have unearthed a tremendous amount of data that the world wouldn't know about without them. And so the idea that they're going to rewrite the narrative, right? You and I, and the other people who were early here, right, the Josh Rogan's, the the Matt Ridley's, they're going to be shoved to the side, Nicholas Wade is going to be the explanation for why the world suddenly realized that it was making a mistake, everybody's going to claim they wanted origins and investigated from the beginning, everybody's going to claim they never ruled out this possibility, the stigma campaign that was targeted directly at US was going to be, you know, erased from history. And the whole point of this operation, the whole point of generating the new narrative, is to make sure this point, our point, their point, what they're doing is they are creating the mechanism that frees them from learning the lesson of what what went wrong here. What they don't want to do is empower the people who got it right and result in the people who got it wrong. The elite, they don't want them to be ignored in the future, because they got this one wrong, right? They want everything to stay the same. And so they're going to slightly alter the narrative. So it's contains more truth, yes, this might have come from the Wu Han lab. But then everything else is going to be rigged around not learning the lesson. And a system that does not learn the lesson, right? is a dangerous system. It's exactly what happened at evergreen. Right? evergreen bent over backwards not to learn the lesson of the week of riots, right. And it is still not learning that lesson, and it is on the brink of failure.
+
+Heather 42:42
+And this actually, I'm reminded of one of them. One of the things that we've done consistently as parents, and which we also talk about in the irrelevant chapter in our book is when, you know when mistakes were made a we we seek accountability, be it in us or our children. But dwelling on the past is only useful so long as you can learn from it in order to not make the mistake again in the future. So those are the tagline that you started using on our boys. And that I do too now is it's about the future like this. Yes, there needs to be accountability. But this is all about the future. We won't change the past, no matter how much we come to realize that perhaps we made errors there. What we need to do is create a better future than we could have. If we put our heads in the sand and denied that we did what we did.
+
+Bret 43:36
+Yeah, and actually, you know, we have a few little tools here that work really well to get you into the right mindset. You know, it's about the future. Right. That's why you should be grateful that this may have come from a lab because we can fix that problem. Exactly. Yes. Lovely. Yeah. Right. So it's about the future. That wasn't your best work. And what you learn, you know, those three will get you a long way. Yep. Right.
+
+Heather 44:01
+Yeah. And it turns out that not your best work, as opposed to stamping gold stars on people's foreheads for any kind of effort at all, is a much better way to create resilient, strong and yes, anti fragile children that become anti fragile adults, then telling them that no matter what they've done, even if it is demonstrably crap is actually really, really good.
+
+Bret 44:23
+Yeah. And you will find actually that if you start using these devices that it is much easier also to critique yourself, right, like, Well, that wasn't my best. Just start from there.
+
+Heather 44:37
+I actually had one of these this week, so I was lucky enough to get out. Stand up paddleboarding on the Willamette twice this week and
+
+Heather 44:45
+usually I just make it easy on myself and I carry the ball I carry the board down to the water and backup separately from like the paddle and like jag and like all the other gear. But coming out, I go in like near daanish to avoid basically to avoid the fast boats. Because although they make it challenging and useful, it's more interesting you see more wildlife if they are turning the water around you. But by the time I came out there a lot of people were I had to come out and I thought you want to just want to get everything up to the car and rearrange there and then leave a bunch of my stuff down here. And so I sort of like hitched hitch the stuff to the board and was carrying it up these stairs and it's like bouncing on the stairs like God I'm doing a crap job here this is really not my best work at all and I could laugh about it and I could fix it. But you know, really overall just be like, nope, that that was not good decision making. I didn't nothing about that was my best work.
+
+Bret 45:37
+Yeah, not not your best work. And you know what you learned, you know? Yeah, two trips. Yeah.
+
+Heather 45:44
+Two trips. Yeah. So yeah, apropos nothing except not my best work.
+
+Bret 45:48
+Not your best way. Yeah,
+
+Heather 45:49
+yeah. Um, are we done with that you want to talk about ivermectin?
+
+Bret 45:54
+Yeah, I would just say there's a lot more in that article. I think there's a lot kind of buried in a lot of threads for future discussion. And you know, it's worth reading it's, it's, it's excellent. And check out Elizabeth Rhoades book on the long ago chapter of my life where I was a bat biologist. Yeah, tape here
+
+Heather 46:13
+is morning bath to tape yours morning bath. Alright, so um, many of you will have seen Brett's live stream with Dr. Pierre Cory, one of the founders of the flcc. Front Line, clinical critical COVID, critical frontline COVID-19, Critical Care Alliance, I think we did. Yeah. So flcc. And, you know, we'll we'll put a link again to that site up as as we did for the live stream. But one of the things he left us with, were some PowerPoint slides of data that that you didn't show and I just simplified them, I took some stuff out of all the slides, and I'm not going to show everything that he left us with and I made them, I made them simpler, without changing their their meaning at all. So we're just going to go through some of the evidence and you can show my screen now Zack from its Mexico, four states in India, Panama, Slovakia and Czech Republic. And after this, we're going to talk a little bit about you know what constitutes evidence. But for right now, this is of course, there was no explicit experiment. There was a response at the state level and all of these cases to to climbing death rates. And then there was a moment at which ivermectin was introduced in different ways in these different places. And Dr. Curry talks about some of those in your conversation with him from this week. And we also talked about some of them on our live stream from a couple of weeks ago, I think at one. But here we go. And I'm just going to just describe what we're seeing for those of you who are listening, although in this case, for those of you who are listening, not watching, I encourage you to come look at the slides and we'll figure out a way to put these these modified simple slides up as a link as well. So here we have Mexico COVID-19 fatalities and hospitalizations in which the national test and treat program began on December 29, which is going to be right about the break, basically, where you see the gray. You had deaths climbing over last spring and then declining in the summer and then climbing even higher last fall. And very shortly after ivermectin was introduced in the test and treat program, you have both deaths falling and hospitalizations falling. Okay. And these data go through, looks like the beginning of April. Okay. Next we have in Mexico, there's just excess mortality rates were actually excess excess deaths. Were continuing to climb as they would, of course, for a while after the introduction of the test and treat protocol at the very end of December, up to 280%, of what normal dusts would be. And as of the beginning of April, again, after the introduction of the ivermectin test entry program, excess tests were down to 6% of that 6% more dust than expected on on normal. And I'm not going to go into it. But there's some additional relevant analysis that also post on the video description from Reno at all in which they look specifically at Mexico City, and what some of the data look like there but there it's all consistent. Okay, then we have an India. You know, everyone was hearing a lot about India until I don't know a month ago, three weeks ago, and we were being told that it was a total disaster. And the data certainly do look like that. Here we have and I'm going to show all four of these states individually at close up but for right now at the sort of the aggregate view. We have Goa here again, fatalities and red and excuse me, deaths are no fatalities and red in cases in blue with the gray demarcating when ivermectin was introduced. So, very similar to what we saw in Mexico, similar thing in Uttar Pradesh, the Indian state of Uttar Pradesh over here, similar thing in Delhi, and then what the hell is going on in Tamil Nadu. And what we don't see there is any kind of decline. So just to show you guys these a little bit more close up here we have Goa looks very similar to what is happening in Mexico where fatalities in cases continue to climb for a short period after the introduction of ivermectin, but then they begin to decline precipitously. And one thing that is true that we heard Dr. Cory say that we've also seen in the literature that we've found is that,
+
+Heather 50:44
+as with all medications, but certainly and clearly for ivermectin, the earlier you get it into the patient, the better. And so it is much less likely to do any good. The you know, the sicker they are, the longer they've been hospitalized if they're on a ventilator. And that's not to say that it shouldn't be tried, but that it shouldn't. It should also not be surprising that if you introduce ivermectin to a population, many of whom are already very sick, that those people who are already very sick do not have the same kind of turnaround as those people who had just gotten it or maybe hadn't even been exposed yet. Yeah, I think
+
+Bret 51:19
+it's all antivirals are like this. There's a huge effect of how early you get to it. Yeah. So anyway, there's there's a lot
+
+Heather 51:28
+we have several more here got one Okay. Yes. So, this is Uttar Pradesh same very same, very similar curves, in which the fatality is continuing to climb for a bit after ivermectin is introduced, but then start to fall and and the cases similarly, this is Delhi very similar curves. And then what's going on in Tamil Nadu is you know, you don't see any gray box here. Basically the and I think I've somehow erased I didn't end up Yeah, I. Here we go. In the state of Tamil Nadu, the Chief Minister prohibited the use of ivermectin ordering remdesivir instead, and you do talk about this in your conversation with Dr. Corey remdesivir. At average price per dose of $3,000. Compared to ivermectin, an average price per dose of three to $12. We're talking about two to three orders of magnitude less expensive, not under patent. And oh, by the way, also, ivermectin as effective and remdesivir does not appear to be so in the state of Tamil Nadu, case rates and fatalities are still going up. And there has not been widespread use of ivermectin in Panama, we see something similar. Both Kate This is just this is the same kind of data, but they're both on the same graph where both cases and fatalities had an early surge back in the summer declined again back in the fall of 2020. Climb precipitously through last fall, late fall into the winter. And then, when Panama officially recognized ivermectin as a COVID-19 treatment, you see both cases and fatalities falling dramatically. In Slovakia, something similar. And finally, in the Czech Republic, Czech Republic is interesting because there were two earlier searches, both of which were recovered from. So it's, it's a little bit less clear. But really all of these curves look very, very similar and there's not a one. There's not a one that when ivermectin gets introduced, the case has continued to surge, the fatalities continue to surge. That is a pattern that we do not see.
+
+Bret 53:43
+And I should point out you need to think about what it means to introduce ivermectin in these states, it's not like somebody snaps their fingers and suddenly everybody has ivermectin at their disposal. It's like that's the moment at which it begins to enter the population. And Scott Adams tweeted yesterday over the Delhi numbers he said I want somebody to check this this looks fake, right? The numbers are so precipitous, and it was like 28,000 28,000 cases I believe it was on April 20. At the peak, April 22. ivermectin is introduced and 480 cases is the number as of yesterday right? So yes, like this amazing crash that is so dramatic. It's it's unmissable now of course skeptics and we should all be skeptics will say look, these are waves that go up and down right but
+
+Heather 54:40
+but the human here's the Delhi numbers that we got from the FL CCC and our to court not my graphs, I just simply All I did was simplify their graphics a little bit. I didn't change any of the numbers or the actual graphs. That's that that is what they are seeing as well. Those are the numbers that they're getting in the source here is from AP dot COVID-19 india.org. So I've got all the sources, you know, easy to see here on each of these, which, you know, people can go check, you know, it requires analysis. But, you know, but unless unless there's a cabal, like globally across all of these countries, fabricating numbers in the direction of a cheap drug that no multinational is going to profit maximally from in order to what save save lives, like I mean it, or like it's not saving lives and then what like there's, there's there's nothing else out there that we have seen that is having this kind of effect. So
+
+Bret 55:37
+the tool for this or the tool that I use, at least is okay, you've got some sort of a pattern, right? There's a clear pattern you see ivermectin introduced, you see case levels and deaths.
+
+Heather 55:50
+Absolutely. Hold on sec. Can I just tell my screen here? Thank you see the
+
+Bret 55:54
+cases and deaths crash, following ivermectin. Now, some part of you is probably thinking, well, correlation does not imply causation. And that's true. But here's the next step of that. These are not perfect experiments, right? In fact, they're not experiments at all. It's an observation of a pattern in nature, the pattern is rough, none of these. These locales are comparable with each other, they may have similarities, they will certainly have differences. The people involved are different. The COVID strains are different. Everything's different. It's a chaotic system, right? But what would have to be true to generate a pattern that clear over that many? Yes, non comparable places, right? So that's what you need to ask yourself is, what is the size and nature of the thing that would explain this? That isn't ivermectin? Right. And you know, you've just done it? It would have to be like, you know, some kind of cabal to fake a pattern to sell a generic drug to? I mean, it doesn't make any sense. So the point is, yes, there are things that data could not reflect anything that has happened medically on the ground at all, the data could be entirely fake. But what would have to be true
+
+Heather 57:07
+Panama, and Slovakia, and the Czech Republic and all of these states in India and Mexico, and also there's evidence from other countries, too, these just happened to be the ones for which we have nice clean graphs at the moment,
+
+Bret 57:17
+right? So at the very least, if your skepticism is about the fact that there is no, you know, there is no randomized controlled trial of a certain size that says X, Y, or Z. Yeah, that may well be true, but there's a whole heck of a lot of evidence, and that whole heck of a lot of evidence could in principle be explained by other things. But those other things are remarkable, right? So actually, I wanted to, I wanted to address this very thing because the, the smug insistence on Twitter and every other earthly venue by people who think that they are in the right for saying that the evidence on ivermectin is scant or not existent? Because it doesn't meet a certain standard, right. These people are. I mean, they're numbskulls at the very least. And the reason that they're numbskulls is this and you know you and I know this very very well. It's great when you have a laboratory environment in which things are clean and you can set up your experimental apparatus so that everything is limited to the one variance between the test and the control that you want to observe the consequences of that's great when you can do that huge sample sizes are freaking awesome, right? But these things are not necessary to do science they are not necessary to see patterns and to understand them and to test them rigorously. And you know, nothing proves this better than you know the work of field biologists because I mean, we have the most stupidly complex noisy uncooperative environments imaginable.
+
+Heather 59:01
+I'm actually reminded I'm so there's a lot of places to go here, of course, but when we were in grad school, we were in what was called an Integrative Biology Department, which is Meo going the way of the dodo, like most for the most part, you have the evolution in ecology people and like like zoology people, and botany people, like whole organism people in one department, and then you have the set of the molecular people or genetics or development or you know, whatever it is in a different place. And, and broadly speaking, this isn't entirely true, but broadly speaking, the cell molecular development, genetics, people are working in labs. And then over here in evolution, ecology space, we're working in the field. And there's of course, lots of lab work that you can do in order to discern the deep history of organisms and all of this, but it's sort of you know, fieldwork versus lab work is one of the distinctions of the type of work that we do. And one of the misunderstandings that used to drive us field biologists somewhat crazy was that the lab biologists having chosen of their own free will, what kind of science As they want to do, when, for, for instance, I was getting ready to go live in a tent for five months in a rain forest and shower and a waterfall and watch, you know, discovered the sex lives of poison frogs, which I can glamorize, I can make that sound awesome. And I can also tell you a lot of stories that explain why actually most people wouldn't last two weeks in that situation, they would say, oh, you're going to have fun on vacation. Right? And you're like, Okay, you want to be a field biologist? Go try it and see how see if you hack it. And of course, this is one of the things I also tried to do when I was teaching animal behavior, like, actually, what we're trying to do here is to see if your romanticized version of what it is to actually go into the field and study bats or frogs, or monkeys, or parrots or whatever it is, is any match for the nature documentaries that make it seem really easy and fun, and super comfortable. So fieldwork is fundamentally different. And the lab scientists have for a long time imagined that what we're doing is in quite serious,
+
+Bret 1:00:57
+well, true, it's not just the field versus the lab, though, it's also the subject matter, right? If you're trying to extract a pattern in the field, in a tropical rain forest, you know, you're up against the fact that it's not a lab, you know, you may have an idea that you want to set up a pool in, you know, a bunch of different locations with different light regimes to see, you know, what the effect is of X, Y, or Z on the type of frogs that show up or who knows what you're doing, right. And then you may have a tree fall, take out three of your pools one night, and the point is, okay, your experiment, just, you know, through no fault of your own suddenly got smaller. But the point is, it still works, right, you can still figure out what's going on in nature, in spite of the fact that you're, you know, you're wearing rubber boots, right, you're carrying, you know, your machete you're having to the point is the environment that requires these this is not a scalpel. Oh, no, it's not. Yeah. So you know, by the way, this is my actual field hat, I take a lot of crap for it as if I'm, you know, in costume or something. But these are
+
+Heather 1:02:11
+great. And this is my water brand new made for me by our friend Dave Stevens machete. So I have not actually had this in the field, nor have I taken a machete into the field recently. But there were a couple field seasons where I needed it. So
+
+Bret 1:02:21
+yeah, but you know, I think the point is, machetes are not scalpels. Right, right. But that does not mean that you are not capable of doing science, where a machete is the appropriate tool and a scalpel is in your use useless, right? The fact is, science works because the method is so freaking robust that it can actually tolerate all kinds of things like not having a randomized control trial, but having a natural experiment among different localities that have introduced the same drug at a particular moment. And you can see, even though these curves are freaking noisy, right, you can see that the effect is the same each time. So the question is, look, if you want to insist on these other higher quality experiments, less noisy environments for the experiment, better experimental design, that's great. But you're going to deny people a treatment that obviously works because it didn't you know, the because the experiment wasn't pristine. Good God,
+
+Heather 1:03:17
+do you know who didn't have randomized control trials?
+
+Bret 1:03:21
+There are a few in history who have made modest contribution. modest contributions. You have any in mind?
+
+Heather 1:03:30
+Yeah, yeah. Do Galileo. pasture.
+
+Bret 1:03:34
+Right? Galileo was actually Darwin. Oh, yeah. Right. So Darwin, the, the guy who his commute in the field, at least sometimes involve the riding tortoises.
+
+Heather 1:03:48
+Yeah, so you said this to me earlier today. I was like, I gotta find this. So apparently, it's in apparently the voyage of the Beagle. But you we have it and I was like, I can't find any here I find reference in peer reviewed papers that suggest that Yes, that's true. So that's, I can't find a quote from him saying today I wrote a
+
+Bret 1:04:06
+tortoise. Well, that's not too bad. But
+
+Heather 1:04:08
+what he but what he did do is, I mean, to use your language from earlier today, it was like he just flung all his finches into bags because he wasn't being careful. Yeah. Then afterwards, he went to this is your word for I didn't actually make sure that I bear that you went to Captain Fitzroy stuff who had taken better care in collecting these birds from different islands and like Hey, dude, can I actually use your specimens? Because I think I'm seeing something I think I'm onto something here I think I'm recognize a pattern recognizing a pattern that may actually unravel all of this glory. That is the universe we're living in. But I can't do it with my birds, because I was messy and data collection. And so yeah, he would he didn't do a perfect job on field biology from but he also did a, you know, one of the most important jobs in lots of other areas. Yeah,
+
+Bret 1:04:53
+he didn't have the degree that someone might want to insist on. Yeah, right. He, he rode tortoises. To work he's heard of your work I'm going to say he wrote toward
+
+Heather 1:05:04
+us to work he wrote a 19th century ship to work true
+
+Bret 1:05:08
+Nigerians I mean isn't this was a guy was brought on to the Beagle to be a proper companion for the captain who was going to drive himself insane talking to people of a lower class that is to say sailors for the entire voyage and so he needed somebody of a certain level of air addition in order to have pleasant dinner conversation and that guy happened to be Charles Darwin and he saw South America and he saw the Galapagos and then he realized what had been bugging him all along. You know, once he was already back home, you know, and he had to source you know, birds that had been more carefully collected because at first he assumed the birds from all the islands were interchangeable. So anyway, the point is, okay, what did he do? Well, he produced by an actually you allude to this very thing in what you read earlier. He Darwin created what actually there's a strong argument This is Dawkins argument strong argued to be made is the best scientific theory ever and I do mean theory, because that's what it is. Okay. It was offered as a hypothesis, but it is now a theory. And why do I say it's the the most important or best scientific hypothesis now theory ever, is because it explained more and assumed less than any other? That's the equation, how good is your theory? How much does it explain? And how much does it assume and that ratio,
+
+Heather 1:06:33
+Excel is more assumes less, is a maximally efficient fit for all of the available data?
+
+Bret 1:06:38
+There it is. And so Okay, these scientists who contributed more than any other by at least one strongly defensible measure, was working under weird field conditions in which experiments were difficult, if not impossible, he was observing patterns between islands that weren't comparable. You know that there are no two Galapagos islands that are the same. No way. Yep. I'm telling you. Wow. I know it's how can we know anything? How can you know anything? Right? They're not randomized.
+
+Heather 1:07:11
+Also, this is what statistics is for. But
+
+Bret 1:07:14
+Wow, statistics have? No that's the point. The Galapagos Islands, they're not comparable. Nobody randomized them their
+
+Heather 1:07:23
+method is Besides, like, all the hypotheses on the table people like no, you don't get to pretend that one of them is off the table and then reintroduce it. And you you know, you need to have careful experimental design and you're you're designed to test between that about this. These might be observational, as long as it's a test, it's still a test. And then you might you need to use fish sticks to determine whether now what you're seeing is actually unlikely to have happened by chance. And the most of that is not what Darwin was doing. He was seeing pattern and he was pretty sure that the pattern that he was seeing in the finches and in the tortoise is and and you know, all the other things that he was seeing that once he got back back home, like the mollusks meant something that was global. Right, it assumed less it explained to our it was maximally good fit for all of the data,
+
+Bret 1:08:11
+right? And so okay, that's like the greatest scientific theory of all time, because it covers something really freakin important. But here we're talking about a question that might be among the most important scientific questions of all time, is there a substance that's easily available on earth that could safely treat and prevent COVID and end this goddamn pandemic? Right? That's it like a similar magnitude question. And we're treating it with these sort of idiotic rubrics in which the only data we accept is data that's beyond anything one could hope to collect on a short timescale, which is insane, because we do exactly the opposite thing. with things like the emergency use authorization, where we realize this is an emergency, there are some vaccines, we can't go through the regular process. So let's speed it up. That same reduction, the same instinct to reduce the standard that I believe is correctly applied to something like a novel vaccine would be correctly applied here. And I would further say that there are only two explanations for these scientists and others who are parroting them, who are attempting to inflict this incredibly high standard on ivermectin for no obvious reason, they are getting in the way of good science in favor of almost impossibly great science. In light of the pressure, the time pressure here, the only two explanations are either they get it, and they're comfortable with people dying because they're going to set this really hard standard, or they're, you know, they're some of the dodos you were describing earlier.
+
+Heather 1:09:45
+Which ones the ones that are now extinct?
+
+Bret 1:09:47
+It's a play on
+
+Heather 1:09:47
+Dodo now. Yeah, well, I'm hoping their style of analysis and control of the world goes extinct. But yeah, I don't I don't see any evidence that they're those dodos.
+
+Bret 1:09:58
+No, they are very much with Yeah, very much obstructing this process. So that
+
+Heather 1:10:03
+went to the bottleneck. Also, I mean, not that we need it. But and I haven't had time to assess it yet, but Zach, just put up this preprint that I found just before we went to air called six RCTs and control trials, recently published in mainstream scientific journals that confirm major, statistically significant benefits of ivermectin against COVID-19. As reported in several prior RCTs. There it is. Again, I haven't I haven't assessed the article yet. But there are a lot of people out there who are trying to, to bring all of this to light. And we are some of them shows Zach,
+
+Bret 1:10:44
+something I wanted to send Zach, but I think I can't do it. Okay.
+
+Heather 1:10:49
+Finally, you want to talk about what you have been calling monkeying with the baseline? COVID edition?
+
+Bret 1:10:55
+Yeah. All right, monkeying with the baseline COVID. And we're done doing fieldwork? For now hoping to get back.
+
+Heather 1:11:01
+Oh, my God. Yeah, I very much want to get back to the Amazon. Alright, so
+
+Bret 1:11:05
+the monkeying with the baseline thing is actually in some ways a continuation of the same topic. And the idea is all right, we appear to have a safe and effective treatment. People who are looking at these massive waves of death in places like Goa and with our Pradesh and Mexico City are using it because they're just out of options. And what do you know, it seems to work up against that is the alternative that I think everybody who's thought about why we are not using the safe and effective treatment, you know why we are not foot on the gas on that solution has come to the conclusion this has something to do with an obsession about getting everybody vaccinated and obsession, which you and I have pointed out, and I haven't heard this said elsewhere. But the fact is, if your point is herd immunity is the way we get out of COVID, then you should be thrilled. Even if you think everybody who is vaccine hesitant is an idiot. You should be thrilled for all of those idiots to have access to ivermectin because it works. And if you put them together with people who've had COVID, and are immune people who've been vaccinated and are at least somewhat immune, and you know that that composite just has to get above whatever number it is that creates herd immunity, whether it's 7080 90%, we don't know. But you're a lot more likely to get there. If we do the composite thing. And if you say it's vaccines for everybody no matter what. So I don't know what explains their inconsistency on this. It seems to me that that does point in the direction of vaccine and business if you really want everybody vaccinated, rather than everybody immune through some mechanism that says there's something unnatural about the desire to put a needle in people's arm here.
+
+Heather 1:12:48
+Well, I mean, and there's just the obvious perverse financial incentive that we talked about with regard to the UAE not being able to be grateful if there had been a viable treatment.
+
+Bret 1:12:57
+Right. But here's the thing that occurred to me about this. And, you know, granted, this is still a new thought, and I'm still wrestling with its implications. They're very uncomfortable, and I even even if it's right, I think caution on the way there is, is warranted. But if these vaccines, these vaccines we have established through I think, incontrovertible logic here, these vaccines are not safe, right? Whatever we can say about the harm that they do or not, or don't do, the fact that we don't know anything about their long term impacts, at least opens the possibility that they do something that's bad that we shouldn't want to happen to people. And that means they're not safe in the same way. A gun of unknown loaded pneus is not safe, right? So if you were going to deploy a technology like a novel vaccine, that is in some way, not safe, and it is your business, right? These are business people who worry about things like liability, right? If you were going to deploy such a thing, you would have one eye on the what if things go wrong in some way, maybe we couldn't have even really foreseen and maybe we had no choice because, you know, the pandemic was what it was. Right. But for some reason, you're feeling as well, I really hope that there's nothing we don't know, because business wise, that could be a disaster. One thing that's true is if everybody is vaccinated, then it becomes much harder to know, what harms have actually resulted from vaccination. And so I know you have a skepticism about
+
+Heather 1:14:30
+Yeah, so yeah, you've said I guess you've said this to me before. That requires 100% like if you really so if what it sounds to me, like you were saying, is that the the push to get absolutely everyone vaccinated? could be an attempt to make sure there's no control group. Right. And the fact is that that there's not a population out there over, I don't know, 1000 people where everyone is going to get vaccinated. There's some people for They have health conditions that will preclude it. There are some people who are too young, there are some people who are just going to be hesitant for some stupid reasons and some smart reasons and everything in between well, so the idea that they actually thought that they would get to 100% and thus eradicate any control group seems
+
+Bret 1:15:20
+really unlikely to me. I don't think they thought that. But I do
+
+Heather 1:15:24
+think I thought, I thought that's what I heard you arguing?
+
+Bret 1:15:26
+Well, the logic goes that way. You know, ideally, if you knew that you were deploying something that might have some hazard built in, and you wanted to hedge out the risk that that hazard showed up in a courtroom and resulted in a massive judgment against you or something like that. You would ideally want 100%. Right. But you don't need 100%. Because for one thing, to the extent that there is a huge pressure to get vaccinated, even for people for whom this is insane, right, giving a vaccine to people who already have the very same immunity that the vaccine will give them because they've already had COVID. Yep. Right means that whatever unknown risks are downstream, you're exposing them to for no good reason. So that's weird that they are not mean even just
+
+Heather 1:16:14
+it is weird. But it doesn't like without being able to get the control group to zero, you still have a group that you can compare
+
+Bret 1:16:19
+it? I don't think so because we've seen what style of logic gets deployed in the space anyway, right? The same style of logic that says, You certainly couldn't know that ivermectin works if you don't have randomized control trials of a certain size, right is going to say we can guarantee that what it's going to say downstream is okay, you've shown us a difference between this population that didn't have the vaccine and that population that did
+
+Heather 1:16:46
+that is part right heart problems, hard problems,
+
+Bret 1:16:48
+strokes, autoimmunity, whatever it is
+
+Heather 1:16:51
+stick to one. Okay, so what's
+
+Bret 1:16:52
+the, but the point is, but these groups aren't comparable, right? For one thing, you know, you've got a huge number of people who are anti vaxxers, who didn't get the vaccine. And that's not a random group, because for one thing, those people are exposed. I'm not arguing, obviously, I'm making a garbage argument right now. Right. But my point is
+
+Heather 1:17:13
+a failure of imagination on my part to imagine just how garbagey the argument could be and still get accepted by a lot of people. The amazing
+
+Bret 1:17:20
+thing, yeah, that you are not imagining a really, really garbagey argument. Even though like four minutes ago, we were talking about a really garbagey argument that's being deployed in the present with hundreds of 1000s, or possibly millions of lives on the line. Right. So that's the point is still
+
+Heather 1:17:34
+it seems a little bit epicycles to be saying, oh, but they are they're gonna make this garbage argument. Like there's a billion garbage arguments that could be made. And, you know, I'm certain as you are that some of them will be made, and some of them will get accepted by way too many people. But this one seems like one among many that is, you know, patently garbagey. All right, and, you know, maybe would be one that they make, but
+
+Bret 1:17:58
+Okay, I'm gonna up my game, then. All right, okay, let's do it. These things are
+
+Heather 1:18:05
+always composites, these things being
+
+Bret 1:18:08
+if you are going to hedge out a legal liability, right? It's not like you're going to make one argument and go all in on it, what you're going to do is going to try to get as much of that argument as you can, right, you're going to try to confuse things as much as possible, right. And then you're going to use other stratagems and other arguments elsewhere. So, you know, on the one hand, you would want really good data on harps right. Now, for whatever reason, the system that collects data on vaccine harms has certain biases in it, right? It's hard to submit things to this system. And the limits on what is credible, are onerous. Right. And so anyway, the point is, the data itself is compromised by a system that seems fairly well designed to obscure many incidents that are actually probably connected, right? So at the same time, if you cause everybody as many people as possible to be in the treatment group, right? And then the control group is increasing, the bigger the pressure you put so that it encompasses more and more people who just say, Yeah, fine, I'll get the vaccine. Right. To the extent that you do that you create a more rarefied and bizarre group of holdouts. Right? The stronger the pressure the the more extraordinary the conditions are. That will put you in the holdout. Yep.
+
+Heather 1:19:39
+And those people are easier to partition off and separate from the herd and point to his weirdos and is especially so Okay,
+
+Bret 1:19:47
+you've got Hey, you just saw a really garbagey argument deployed, you know, an incredible amplitude with ivermectin and you're on the lab leak. What What did you see? Well, you saw the impact. ability for people to contemplate an argument based on the people that they thought were saying it being morally compromised by connection to Trump or whatever. Right. So, yeah, that's too. Right, though I,
+
+Heather 1:20:13
+I do not doubt the ubiquity of garbage arguments.
+
+Bret 1:20:15
+No, no, that's not my point. My point is, to the extent that the group of I think, those of us who are vaccine, what's the word hesitant, who are vaccine hesitant and COVID vaccine? Very, very well said COVID, vaccine hesitant
+
+Heather 1:20:34
+rabies vaccinated, yellow fever vaccinated and all the rest all the rest COVID vaccine hesitant COVID
+
+Bret 1:20:40
+vaccine hesitant that those people are going to be lumped in with the anti vaxxers. And the people who think that there are microchips in these vaccines. And all of that means it's going to be the same thing where it's like, you know, you can almost imagine them writing the arguments downstream. You know, if there were harms, they'll write the the article that says, Well, okay, it turns out now that Nicholas Wade has, you know, the data. He doesn't He doesn't deserve our Oh, he doesn't. And I liked his article. I just don't like the idea that the world is a pivot point. Yeah, right. It was a great article, but it wasn't the first of its kind for sure.
+
+Heather 1:21:16
+Right now. And there was I think, I think there was nothing new on earth there. Maybe there was a quote, quotation from the
+
+Bret 1:21:23
+certainly David Baltimore things pivotable. But it wasn't evidence. It was right. It was a it was an actual evidence, right. It was social evidence, not scientific evidence, right. But anyway, my point is, we've seen that argument isn't credible, because some people who are saying it are awful, right, that we've seen that argument already with COVID. And we've seen a really dumb argument over whether or not there's evidence sufficient to use ivermectin on COVID deployed. And my point is, those two arguments tell us what style of argument we're going to face here if there is anything to be said about downstream stuff on the vaccines. And my point is Yeah, it's not that they don't have to get to everybody. They just need to make a lopsided situation where the argument is hard for the
+
+Heather 1:22:07
+opponent they need to make all of us who aren't in on their game the deplorables right we all have
+
+Bret 1:22:11
+and we've been deplorable already on the lab like hypothesis. So this is just round two. Yeah, rats can be round three in light of in light of ivermectin.
+
+Heather 1:22:21
+I feel like that is working for them now. But it didn't work for Hillary Clinton when she first invoked that line, calling half the population deplorables and I just I wish I wish that the people who liked to talk about bringing everyone together and moving forward and finding justice and peace and freedom at all actually met any of those things.
+
+Bret 1:22:45
+Yeah, I mean, the disingenuousness hypocrisy is jaw dropping. Yeah, to be sure. To be sure. All right, so there's another topic but I think I should hold it for next time. I mean, all of these things circle back on each other. So
+
+Heather 1:23:03
+all right. Well, so next time which will not be again a week from now but will probably be before two weeks from now. We will be talking about chapter one of our book we encourage you to preorder that now at the website link that is already in the video description and will continue to be right now we're going to take a 15 minute break and for those of you watch we're back with that live q&a answering questions you have closed during this hour and during the next hour. again please please consider joining either or both of us at our Patreon mine you get access to a two hour private q&a that we do in the lesson of the month and it Brett's you get access to a couple of smaller conversations one of which is happening tomorrow are one of which happened today was excellent, wonderful. And you can access the discord server on both of those as well. We have our excellent moderator has an email at Dark Horse dot moderator@gmail.com where you can send not questions for us to answer in the q&a but logistical questions how to send us things how to ask questions, these this sort of thing. Our clips channel which as we mentioned, has begun to draw the attention of the of the Google monsters is going strong hopefully still will continue to it is generating a lot of attention. And that's mostly what we want. We want eyes on the content that reveals reality and an ability to discern what is true so please consider not just for this channel, but also the dark corpse, dark corpse gorgeous clips channel, a dark horse podcast clips, I think it's called subscribe to the channel, like the videos and share them as widely as you can across across platforms. So that if if, if one of the platforms is feeling censorious today perhaps another one won't be anything else to say
+
+Bret 1:25:00
+I don't think so. All right,
+
+Heather 1:25:01
+then. Be good to the ones with whom you live and eat good food and by all means get outside,
+
+Bret 1:25:10
+get outside achieve greatness. And if you see somebody monkeying with the baseline, grab them by the lapels and shake them vigorously
+
+Heather 1:25:19
+and get outside and get
+
+This transcript was generated by https://otter.ai

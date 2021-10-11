@@ -1,0 +1,685 @@
+Bret 0:09
+Hey folks, welcome to the Dark Horse podcast live stream number 66. Is it 66?
+
+Heather 0:17
+February 666.
+
+Bret 0:19
+February, and it is February 6, I was going to mention that just so somebody seeing this maybe in the future would know when this was done. useful, I guess we've covered it, we can just yeah, tick that box right there stamp is done. Now, there's some question as to whether or not we clash. And I must say I also I think you and I have a disagreement about this. But I also have some question as to whether or not two separate people clashing is a thing and whether this is not some kind of window into what it means for for people to clash color wise.
+
+Heather 0:53
+Whether or not what is some sort of a window into what it would mean,
+
+Bret 0:56
+here's the thing, we can all agree that there are certain colors, let's say that if you wear them together, they look bad, and somebody who sees you will think that's not right. And the question is, like if you took those two colors, and you were wearing one of them and somebody else is wearing the other one and they were sitting right next to you on the subway, would somebody look and say those two people clash or does the brain file that clashes within one person? In other words, it's an indication of whether that person is chromatically sensible? Or is it really something about the universe doesn't want those two colors together?
+
+Heather 1:30
+Yeah, well, I mean, I think the question is an interesting one, but I do think to the degree that obviously within a person within within a choice that a single person is made we agree that there is clashing possible but I think it is actually you're reading something about intent actually when you are assessing clash and so two people sitting next to each other on the subway is not the same category as us sitting here in this room. Oh,
+
+Bret 1:55
+that's interesting, right is some question of choice here at least theoretically,
+
+Heather 1:58
+right? Even even though actually we both showed up here. Having spent some time together earlier today, but not in the clothes we're currently wearing. So yes, when you sat down I said I really liked that sure on you. We might clash and I'm not sure that we actually do but i think i think it is possible for two people who are choosing to present to the world together to clash in a way that I would not say necessarily that to Strangers on a Train would be would be said to clash I
+
+Bret 2:27
+think I know how to handle it oh we'll just tell the people watching the podcast that they should have no judgment about us in this case because it is not as if we chose to wear these things we are much like people on a subway
+
+Heather 2:40
+Yeah, yeah. Interesting. So I will also say that for those of you listening not watching we have our our black cat our eldest carnivor and in the family sitting here on the screen, and he goes with everything he does the cat never clashes. Yeah, never never clashes. He's not thrilled about the conversation at the moment, but he's not clashing. So okay, we were Welcome, everyone. Thank you for being here. We are grateful for, for the audience and for the remarkable reception we are receiving in the world. And we get really
+
+Bret 3:11
+good reception. I don't know how many people we lost on that that joke, but it's probably
+
+Heather 3:19
+worth maybe just me.
+
+Bret 3:21
+That would be bad. That would be right. Let's avoid that.
+
+Heather 3:23
+Okay, so we're just gonna make a couple logistical announcements at the top of the hour, talk a little bit about where we're going today, and then then launch in. Okay. So as always, you are encouraged to stay with us if you're watching on YouTube for the q&a afterwards. And you can ask questions for the livestream q&a, which we did not post the audio podcast only this main hour hour plus goes to the audio podcast on Super Chat on YouTube, either in this first hour in the second hour. You can also get access to a private q&a on my Patreon or access to conversations longer conversations with Brett on his and you had one of those this morning already. And you have another one tomorrow morning.
+
+Bret 4:07
+Yep, we almost solved it. Wow, I know I know we didn't quite get so join quickly before next month, we're gonna nail down the final details of the new civilization we will all inhabit and I think you all are gonna love it.
+
+Heather 4:18
+It's gonna be good. If I didn't know know you. I would find that terrifying,
+
+Bret 4:22
+right? I'm just kidding. Yeah, we're still we're still working? I would think so. It's all being done in pencil
+
+Heather 4:28
+in pencil. Okay. Let's see what else you can email Darkhorse moderator@gmail.com for the physical questions like how do I ask a question on how do I pose a question or where can I get a fancy Dark Horse mug? Right that store dot darkness. podcast.org.
+
+Bret 4:45
+Yep. clarification. Yes. q&a is found on Heather's Patreon private key private q&a, but it's both of us.
+
+Heather 4:53
+Yes, yes. It is both of us once a month, last Sunday of the month, but we do live by The q&a is after every single live stream every, every week. So we're going to go today, we're going to spend some time talking about meat, a little bit about meat. a follow up to a comment I made last week, we're going to talk about why and when you should follow the science, right? And where to add weight to, and what to do when you find yourself somewhere you really didn't expect what
+
+Bret 5:25
+to do if you catch the science.
+
+Heather 5:28
+Like our dog, always after the deer, what would you do if you actually caught one of them? You have no idea. Talk a little bit about the New York Times suggestion this week about perhaps editing or moderating encrypted chat programs. Discuss an analogy that you have about the null hypothesis, maybe talk a little bit about a new, new Sony camera setting situation by which we can get gain entry into some evolutionary talk.
+
+Bret 5:57
+That sounds really terrible. But it will be more than I think
+
+Heather 6:01
+it really will be. And then I want to finish by talking about snakes and mangroves. And there is a connection between the two. That is not obvious. But this is this is the kind of stuff that I want to be talking about all the time. And because you know, we are obviously not going to get to so much of what is actually going on in the world which for many months, we were spending a lot of time on just like responding to what happened this week in the world. As always, if you would like our take, which you know, we might just say, I just don't know enough to say you can ask questions, Super Chat, and we'll we'll try to get to those questions.
+
+Bret 6:36
+Next mangrove item. Aside from the obvious I don't I don't know. I don't know what's coming. So this will be interesting. Yeah.
+
+Heather 6:42
+So you know, non teaser non hints. Really? It's not about snakes in mangroves.
+
+Bret 6:50
+Yep. All right. I'm working on
+
+Heather 6:51
+it. Okay, good. And I will give I will give you more and see if you I mean, you you once I talk about the snake angle, we'll be able to make the connection. I hope so. Yeah. All right. So before we talk a little bit about meat, though, it feels like something is breaking loose in the conversation in the visibility of the conversation around that oblique hypothesis, does it not? in service of that, I would say, hey, Zack, you can show our screen here for the moment. This is in the telegraph today. Which is a British paper did the COVID-19 virus really escaped from Busan lab? fingers have been pointed at bats pangolins and a shuttered wet market. But what if the truth is altogether more alarming? This published today by Matt Ridley annalena Chen, Elena Chan, being one of the scientists who has been tirelessly working on trying to figure this out. And, and there was also a piece on editorial, I think, in wapo, in washington post this week. Yep.
+
+Bret 7:49
+And yeah, there, there have been three, I think there was another one, but I forgotten which publication was in. But anyway, yes, something is clearly breaking loose. And I think this has multiple levels of relevance. Because on the one hand, there's the question, and I was very pleased to see Matt and Alina addressed this in terms of the answer to where this virus came from his I think they say it's maybe the most important question of the century. And I agree with him, I don't think we fully understand what we will be able to derive from the answer to that. But I know full well, there will be important aspects. Once we know whatever the answer is, if it's a natural origin, we need to know that because for one thing, if it's a natural origin, it's a very bizarre natural origin. It doesn't fit any of the others that we know about. And so, we will learn something about what is possible. That is very important. On the other hand,
+
+Heather 8:50
+well, it the the originally proposed hypothesis, which was presented as fact and you can't question it, right for SARS. COBie two was originated and a bat ended up in the wet market through smuggle. pangolins. Yes, which is, you know, there's just there's just no evidence for this at this point, practically, or there's a lot of evidence against Yes, but the origin story that is the mainstream origin story for SARS GAVI one is parallel to that and so like you know, it seems it seems like a reasonable thing to have thought at first, assuming that all of this is organic, and these are good faith players that SARS goby one was originally in a horseshoe bat and then showed up in a market in in a secondary you know, having having spilled over into a secondary host in what some kind of kind of run. Palm civet pumps have yet answered
+
+Bret 9:42
+it so this was a wet market situation, but it still doesn't match. Okay, so I must say there are questions about the original source code B one and and the proposal on service COBie two do not match the evidence. There's something new going on here because in SARS COVID one You did have rapid evolution of this pathogen in humans. That's one thing that you would absolutely. I don't want to say it's required because I could imagine, you know, in the way that birds and people are pigs, and people exchange certain viruses back and forth, it's possible that you're part of a long standing system. And therefore the evolution has already taken place at the point something crosses over. But in this case, that's not what appears to be going on. And so the idea of a virus that is well adapted to humans to begin with, and therefore takes off like a shot is unique and unlike SARS, COVID one
+
+Heather 10:35
+right, so just just to be clear about your settings, I think there are a lot of sort of dangling modifiers in there. This is the second trick to which you have referred both on Bill Maher and many times on on on here and maybe even Joe Rogan, when you run on Rogan last June. The you know, the the one trick is a notic diseases is switching hosts. And there, you know, there are a lot of additional tricks. But the other major trick that we saw was SARS, COBie two is all that we see with anything that becomes pandemic, is then being able to rapidly spread between humans, between individuals between conspecifics of the species of the new host into which it has spilled over. And that will almost always take time to evolve, that capability in the pathogen will take time to evolve. And what was so notable about SARS, covi. Two is that it was it had both trucks on board, as soon as we started hearing about it, or there's something that we've missed, or there's something that we've missed. Sure.
+
+Bret 11:37
+Okay, so a there's the speed B, there's the evidence that would leave in the phylogeny. Right. So if you do the phylogeny, you would have diversity that we don't see here and the initial thing, so it's possible, there's some phase of the story, we just don't know if this is a natural origin story, you know, the thing that gets said is, it could have circulated somewhere else that we still haven't detected. And then maybe, you know, somebody takes a train, and they end up in Wuhan. And we notice it, and it's already adapted because it's been circulating and evolving. But the point is, okay, there's been an awful lot of pressure to find evidence of that. There is no evidence of that yet. And so what we are left with is, is an anomaly one way or the other. And the answer to that anomaly is vitally important to figuring out what to do. And people have not. Alina and Matt, were very good about pointing out that it's there that they don't say what the value is. But there's that. And then there's the other question, which is more obvious, which is, if this is a lab leak, even if it didn't do anything for us with respect to preparing and fighting COVID going forward, it would do something for the next pandemic, which we are likely to cause by the same route.
+
+Heather 12:52
+If If lab leak, it is likely to have been, at least partially a result of the gain of function and research that involves serial passaging. And if that research continues, lab leaks are likely to continue to happen down the road.
+
+Bret 13:10
+Right. And in fact, one of the things that shows up in a lot of the good reporting on this is that there is a long catalogue of accidents where things have leaked out of labs. This is unprecedented in one regard. And another way it's completely mundane. You know that nothing about COVID is mundane, but the fact of something having leaked out of a lab would be anything but new.
+
+Heather 13:31
+Yeah, I guess I mean, just one more important distinction between SARS COVID. One and series COVID. Two is precisely that SARS COVID. One did not become a global pandemic, it precisely lacked being very good at that second Trek, it was able to move between humans, but not super fast and not nearly as effectively as Sarge Coby to seem to come out of the starting gates been able to do
+
+Bret 13:51
+so and burned out, which is another typical thing. So uniform is typical
+
+Heather 13:54
+thing for a natural zoonotic spillover.
+
+Bret 13:58
+Exactly. So but to the second point, I don't want to take too much time here. But there's two issues happening in parallel. One is what the hell is COVID? And why does it behave the way it does? And where did it come from super important COVID
+
+Heather 14:14
+or SARS COVID to the disease or the pathogen, or I was
+
+Bret 14:17
+calling it COVID just because the, you know, the pandemic, the the impact on people, the important thing, but obviously, the causal agent is, you know, okay, is where the evidence lives. But totally separately from that. This story, as you point out something new is breaking loose. This is a very rare example of the gated institutional narrative, not having effectively silenced some uncomfortable, awful possibility that needs to be investigated. And so that exceptional fact what it is that allowed this discussion to actually move in the direction of something reasonable and Although those of us who believe lab leak is a possibility differ I believe widely on how likely we think it is.
+
+Heather 15:08
+It's also worth noting though that in Ridley and Chan's piece in the telegraph today, they finish by listing a whole number of virologists and epidemiologists who in the early days, were saying very, very absolute things about this, it not being a possibility. And in fact, I believe I did not actually go back and check to make sure this is true, but that like 27 authored paper that was published in I think nature early the epidemic, saying there's no way this is natural zoonotic spillover, there's no as a lab, like how are now when asked by Jan or Ridley at? And they say and are willing to go on the record saying, Well, yes, it's a possibility. Yeah. And so we are seeing, we are also seeing a move on the part of the scientists some of whom were involved in participating in silencing this and silencing actual scientific inquiry in the first place. Yeah. So you know, you're great that we are actually people are actually now saying, yes, it's a possibility. But I would really not I would really not want to lose the history here yet that those people who have been involved and you know, it persists, you know, we're still being called conspiracy theorists and anti scientific for questioning what the authorities have already declared as true and stamped it on everyone's foreheads, like that, that is still alive and well, and it's still dominant, but sort of slowly behind the scenes are beginning to see a movement by the actual scientists who never should have come out as certain as they did in the first place. That was a big part of the problem. Yeah,
+
+Bret 16:48
+it wasn't certain than and there was a rush to circle the wagons around that certainty, which caused I think a lot of people who were paying slightly less attention to believe it actually was certain we made it very difficult to I mean,
+
+Heather 17:00
+yeah, as, as I said, on Mars, I said here, you know, because because the possibility of a lab leak came out of Trump's mouth, you know, half the country immediately said No way. No, how, and, you know, and the media facilitated that. Mainstream Media said, Oh, if he said it, you know, orange man says that, it must not be true. Guess what, guys? That's not only not the way science works, it's not the way reality works. It doesn't matter who says it. If it's true, it's true.
+
+Bret 17:23
+Yeah. And you know, the story is one, as with all of these stories, the nuanced position that follows the evidence and extrapolates responsibly from it lands on a slate of conclusions that doesn't belong in some camp. Right? You know, is there a possibility of a lab leak here? Yes, the evidence so far points in that direction and not the other direction, but not conclusively. On the other hand, is that mean that this is a Chinese virus? No, there's an awful lot of evidence pointing to the fact of an international failure of
+
+Heather 17:57
+the proper safety. It's an international collaboration virus. Yes,
+
+Bret 18:02
+an international collaboration virus. Yeah. And so the point is, you know, this isn't gonna play for one team or the other. And you've, you know, you've been fed two possibilities. And but they're both wrong, certainly. And the the right thing is going to involve having to parse these details, but
+
+Heather 18:18
+not actually want to muddle this a little bit more politically for people because i think i think that actually will help people lose their but I'm on the blue team, therefore, I believe this. I'm on the red team, therefore, I believe this stuff, which is that gain of function research has been contentious in the scientific community since it began. And it became it rose to the top of people's concerns sufficiently that in, I think it was 2000. I can't remember 2014 or 2015. That is during the Obama administration. There was a moratorium at the federal level in the United States put on gain of function research in the US. That stopped then now that actually probably facilitated some of this collaboration that then moved it off offshore, which we're not going to go there right now. But that moratorium that the Obama administration put on executive scan function research was in fact, lifted by the Trump administration at the end of his first year in 2008, at the end of 2017. And so which team are you playing for now? Like, how does that stuff make you feel about who the good guys are and who the bad guys are? Guess what, again, reality doesn't care what you think, or the politics of the people involved, or whether or not they're right or wrong about other stuff. You know, this virus has an origin and we don't know what it is yet. But you know, a year ago, we were already you know, as you say, the wagons were already being circled on there was only one story that we are going to talk about, says the scientific community. We are scientists, we are in the scientific community, and we never wanted to be part of a situation which says You don't need to know the evidence. But we've already decided what the truth is Nope, not science.
+
+Bret 20:05
+And if going forward, you want this never to happen again, you need to empower people to actually deal with the ala carte conclusions rather than signing up for a slate in a team. Right? The whole the whole point is that this is not a clear story. This was a screw up at multiple levels. We know that it's a screw up at multiple levels, even if it is natural origin, right? yet. The fact is, we suddenly are all aware that these viruses are being enhanced in laboratories. This is an obvious hazard whether or not it actually spilled over from the lab this time. But you absolutely have to have a free scientific discussion that then is allowed to impact policy without polarizing this because the polarization is going to have played a huge role if this was a lab like it's going to have played a huge role in this. The mother of all self inflicted wounds. Yeah, right. Yep.
+
+Heather 20:59
+Yeah. All right. Now let's get to the show.
+
+Bret 21:03
+Oh, right. Okay, I forgot that we were on camera. Yeah.
+
+Heather 21:08
+Excuse me. Yeah. So yes, our dinner comms conversations do sound like that. And for the most part, our two teenage sons are ready to ready to talk ready to do it. So the dog that the dog got so much, he's mostly interested in watching what's on our plate and see if any of it goes to the farm misunderstood her intent. Yeah, so our two D inch sons again, as I mentioned last week, Zachary, our 16 year old who is also the producer of Dark Horse, who's working tirelessly to put together an excellent show. So let's start I want to start with a correction clarification from last week on the inflammatory properties of red meat, which is something that I said is kind of a throwaway line when I was talking about the effects of diet on COVID. And from this Rishi at all 2020 paper, which I posted in the show notes, which is to say, I just I, I have the links in the YouTube descriptions and in the podcast descriptions as well. The line from the paper is, for example, plant based foods are likely to support a gut microbiome capable of inducing an appropriate level of anti inflammatory response in the host, in contrast to a plone, pro inflammatory immune response elicited by the gut microbiome of individuals consuming food products such as wheat, red meat, and alcohol, thereby resulting their forebears, boy, thereby resulting in chronic gut inflammation. So this was not the focus of the research that I had done. And so I sort of said it, and as I said it, I thought, Well, I'm not sure. And the reference that they cite Rishi at all site is another 2020 paper and luthra Gupta, Sarma and Gupta. Sarma, called inflammation begets hyper inflammation and COVID-19. Diet drive chronic inflammation, promotes runaway acute inflammation, resulting in cytokine storms. But it turns out that that paper as as well done as it is, in many ways, and I just I went to it and read it last night or this morning, that paper merely asserts the association, it doesn't even have a reference, it just asserts the association, it provides it so it provides no evidence. Now, that's not to say that there are a lot of papers out there that do exactly claim to find this association. But this actually wasn't one. So this was a reference that didn't, didn't actually belong there as a reference. And so this is just that, you know, I'm taking a moment here to say, you know, this is this is again, also also not how science is supposed to be done. When you have a reference, it's supposed to actually point you to the evidence for the thing that's being claimed. And when you are making and when there is a claim in your paper that is surprising or new, and there's no reference that is your indication to the world of this is your the author's idea. So there's a reference there went there, just an assertion, not you know, not scientifically deducible from from what was written. So I was asked about this in our q&a, which again, not on the audio podcast, but um, the YouTube q&a afterwards, appropriately. And what I said then was that I actually believe that the category red meat is not is a bit of a junk category not to use like a fairly generic term. It's and that at the very least, it's often.
+
+Heather 24:12
+But what I said was, I believe that to the extent that eating red meat is inflammatory, that this is going to be about these hybrid novel farming techniques, animal farming techniques that we're using, and that you're likely to have the closer to the ancestral diet of the meat that you're eating that animal had while it was alive, the less likely it is to cause problems for you when you eat it. So not just grass fed, which for those of you who don't know doesn't actually mean that the animal was allowed to eat grandiosa grass fed beef was not eating grass until the very end of its life. It has to say grass fed and finished. And you know, why wouldn't you grass feed a cow for its entire life. If you grass fed it? Well. You feed it green at the end and it's going to cause a weight gain very quickly, which means you can sell it for more but it also means that animals sicker at death and probably causing you problems when you eat that meat. So grass fed and finished beef, I argued in the q&a is likely to have fewer inflammatory properties. I stand by that, that that I believe is is true. But maybe an even bigger issue of the junk Enos of the category red meat is simply like Whole Red Meat versus processed red meat. So this, there is there is a lot out there. And I'm not going to spend much time here. But several papers, several good papers I, I skimmed a bunch of them today do distinguish between these categories sufficiently that in 2015, the International Agency for Research on Cancer, issued a press release on the results of the evaluation of the carcinogenicity of red and processed meat. I'm quoting here from a Domingo and adult 2017 paper, based on the accumulated scientific literature, the consumption of red meat was classified as probably carcinogenic to humans, and processed meat as carcinogenic to humans. So any of the why processed meat, it's going to have a lot to do with the nitrates and nitrites. And yeah, maybe for another time, we can go there. But
+
+Bret 26:12
+also there's a potential supply chain issue here, referencing back to our last live conversation. Yes, processed meats are almost certain to be much, much farther from, you know, between farm and table, and therefore, you know, breakdown of valuable molecules the conversion into some semi random or arbitrary set of other molecules. I don't know if this is true or not, that's a prediction. But
+
+Heather 26:39
+now I think that's it's,
+
+Bret 26:40
+it's quite possible.
+
+Heather 26:41
+I think that's right. And it reveals. Also, this finding that we talked about last week about long supply chains for foods being correlated with things like metabolic disorders, there are likely to be a lot of reasons for that, and this is going to this, this, therefore, I think this the longer your supply chain for food, the less healthy you're likely to be, is actually one of these few, like, actually, that's a snapshot rubric that I think is gonna stand for all sorts of reasons, there's gonna be all sorts of ways that that is true. And so far, at least I haven't thought of any things that would run in the other direction.
+
+Bret 27:18
+Yeah, I mean, at one level, you know, you and I, I think thematically are on board loosely with the idea of paleo diet, the sense that our diets, the more removed they are from ancestral, the less good they're
+
+Heather 27:34
+going to be, but very loosely, paleo tm. Yeah,
+
+Bret 27:37
+that's the thing. paleo is a narrow phenomenon is wrong. But anyway, loosely speaking, the more ancestral your diet, the more likely it is to be healthy for you. And the point is, long supply chain introduces an arbitrary number of new phenomena, some of which may not matter, but the chances that something that matters will be between you and you know, and the farm is high. And so yeah, I see this as, as likely and they're, you know, probably ultimately, there'll be a catalog of phenomena. And you know, what's different when you buy the food from the farmer at the farmers market, right?
+
+Heather 28:16
+Yeah. Let's see prompted something there. Hey, you've got a hemiptera Yes, I do. A true bug. A true bug right here in the podcast. Probably not visible on camera, though. Boy, I was just gonna, what was I gonna say in response to you? supply chains? Yeah, I'd pay early on I kind of lost them after and drew my attention. And now he's making a move on my computer. Oh, I know about, you know, so there's a lot to say about paleo diet as well. Let's not let that emitter and actually into any the ports of my computer. That seems like a mistake.
+
+Bret 28:54
+You know, that that's where the term computer bug came. Originally,
+
+Heather 28:57
+probably not. That much smaller, like an ant. But
+
+Bret 29:00
+But yeah, it was a whole different scale. Right, right.
+
+Heather 29:03
+Yeah, I remember I remember those computers. My father, having been a computer scientist in the 70s and 80s. Shaking before that these were programmed with Yeah, oh, with cards and
+
+Bret 29:12
+wires, you've plugged in large wires between devices.
+
+Heather 29:16
+Okay, so the the problem with paleo diet, the sort of trademark paleo diet is that it imagines a single pass for all humans, and that there is also only one environment of evolutionary adaptiveness that is the one to which we are adapted. And, you know, the whole The, the premise one of the premises of our book hunter gatherers guide to the 21st century is that yes, we are hunter gatherers, we were hunter gatherers, and that means, evolutionarily speaking, we still are, by that logic, we are also fish, right? And we are also reptiles and we are also mammals, and we are also primates and monkeys and apes, and humans and within humans. Yeah, we're hunter gatherers, but we're all Also agriculturalists are also post industrialists. So we are all of those things and we are adapted to varying degrees to all of these things. And that, you know, the parts of us that we retained from our fish ancestry that have been unchanging since then, are really the word and evolution of allergies basil. And you would tend to hear it's a primitive, but it's a word we try to avoid, because it has these connotations about it. But you know, those those very basil characters like having like, like having the kind of circulatory system we have, aren't going to change and, and then, but once you get to mammals, and we get the origin, the evolution of a four chambered heart, you know, that's somewhat newer. And yet once you once a four chambered heart evolves, actually twice separately in mammals and in either birds or birds and dinosaurs, depending on Pro, it's hard to tell, but probably birds and dinosaurs, like there's never any reversals. And so it's like, it's really going to stick now. Also agriculture tend to 12,000 years ago, old or so, evolved separately convergently in several different places around the world. Yes, Mesopotamia, which is the thing we all learn about in elementary school, but also in the New World, at least a couple of times in China a couple of times in, in, in several places. And it doesn't seem to ever reverse people don't go people don't go back. And so we are almost all of us descendants for 10 to 12,000 years of farmers as well. Which means we it's not that we're not adapted to grants. No, that's not right. That's that's just not right.
+
+Bret 31:38
+Do you know what this is unrelated to the diet issue. But do you know what characteristic I learned this week is a holdover from our aquatic past. No, I don't. Dad jokes. Turns out all right, that would work pretty well. Also puns, yes. Both like now Okay, jokes are good to go. Yeah. Well, I
+
+Heather 32:03
+so that was funny. I didn't see it coming at all, which is the way it should be. But I immediately began to try to think of Okay, like what fish paternal care don't work and fishy fish unless they have paternal care cuz you never meet your dad. So dad jokes always fall flat.
+
+Bret 32:20
+Yeah, they get it. They have to be made at a distance. Yeah.
+
+Heather 32:24
+Socially, distance touch statue. There you go. Okay. Oh, so Oh, just one more thing. No, a couple more things on this. So I've also got this really good book, actually, which I don't know if you can totally say, called food and Western disease, health nutrition from an evolutionary perspective, a 2010 book by Stefan Lindbergh. And the setup for just the sentence that he writes is that it's now thought that inflammation is a an important off sometimes causal, pre existing condition for many cancers. Now, there is reason I think, to think that inflammation is becoming this like catch all category and blamed for maybe even more than it should be being blamed for but yes, we have a growing understanding of the role of inflammation in in human health and disease. And what he says here, citing citing one of his many, many references here is vegetarianism does not seem to lower the risk of death from cancers, suggesting that meat is not a major culprit. And the reason that the way that connects in is if vegetarian diets and omnivore diets I'm going to just put aside entirely carnivore diets for the moment, if vegetarian diets and out of our diets have equal rates of cancers. And if we are right, that if the if the current medical thinking is right, that cancers are very often associated with inflammation, then you would also imagine that red meat is not particularly associate with inflammation that it will be about the diet of the animals who are eating and the degree of processing of the meat that you're eating. Yeah, I guess one. One more thing here. It should be obvious that talking about diet, there's an evolutionary perspective right? And while I'm sure there are people out there going but you're not dieticians, you're not registered nutritionist you've never even used a balm. colorimeter Have you? Oh, you did? Okay. Well, then that makes you it's not an expert still once right? I wouldn't.
+
+Bret 34:36
+High School, we did a thing. Okay. measure the amount of energy and I piece of carrot?
+
+Heather 34:41
+I don't know, something like that. Okay, well, oh, maybe. Maybe I have to,
+
+Bret 34:45
+I don't know if you've forgotten, and I blocked it out.
+
+Heather 34:48
+I wouldn't have liked it out. But I mean, given that we actually for two years of high school, knew each other and that probably would have been in physics and we were actually in physics together in high school, so maybe we used a bomb calorimeter together. Yeah, anyway, point is obviously an evolutionary perspective, which most nutritionists and dieticians actually lack is absolutely necessary to understand and what it is that we are as humans, and therefore what it is that we should be eating. And it's not a very far leave to say, when people say to us, but you're not biologists, you're not public health experts. You're an epidemiologist, stay on your land, go back and do evolutionary stuff over here with the dinosaurs. Exactly. Your evolutionary biologists you must be working on dinosaurs, mustn't you? And like, this evolution stuff, guys, sorry, if this offends you, but it's everywhere. If you want to talk about rocks or corks cool, we will stay out of it. But almost everything else is evolutionary. And it is exactly the lack of evolutionary understanding that is likely at base causing some of the confusion in the world I actually got, I heard. I'm not going to name names here. But I heard on a popular podcast, a, you know, a person who is has been put forward as one of the experts in talking about this pandemic, based on this person's research was describing all of the animals for sale at the market in Wu Han. Right? And what you know, explaining like how many possible, you know, spillover species there were, and they said, you know, what, here's their breeding from reading from a website. Here's the Species of Wild animals. And here's the species of domestic or farmed animals. And this person then paused and said, Well, I have no idea why they'd split those lists up. But let's just proceed it listening to this, I thought, if you honestly cannot understand why it's important that wild animals and domestic animals be separate on a list when you are trying to understand the possible origins of this virus. And it is, for instance, known that different viral conditions evolve under captive conditions on for instance, poultry farms, then you frankly, have no business pronouncing yourself as an expert here. Yeah, like no business. And that's not to say that we won't all you know, even the most, the people with the most facility with evolutionary thinking will miss some of the evolutionary angles. But you need to have the perspective of any time you change the conditions in which something is potentially evolving, you create a new selective environment, and you can expect that that will have effects downstream.
+
+Bret 37:30
+So I'm going to introduce a concept here, which I think we've probably talked about here before, which is a path dependency, or what might be called historical contingency in biology. But the idea is that certain things are the way they are not because it's the right way for them to be but because there was a sequence of events that led to it. So you know, when you end up with the bicycle actually depends on all of the things being in place, you don't have a functional one until you have dunlops, pneumatic tire, which is the thing that kicks loose the safety bicycle in the end. But anyway, the thing that people don't get is this many, many fields in and around biology, right, including all of the fields of medicine, came of age in parallel to a new and crude understanding of evolution. And evolutionist did not branch out into everything, because we didn't have the tools to look into, for example, the cell until very recently, and so you have to you have a failure from both sides, right, you've got fields that are thoroughly evolutionary, and in which an evolutionary viewpoint is absolutely essential. But these fields proceed as if Darwin had never written the origin of species, you know, medicine and psychology being two places where we do a tremendous amount of harm, for lack of an evolutionary perspective. But on the other side, you also find that evolutionists have gotten used to looking at the world. They're very focused on animal behavior. They're very focused at the phenomenal phenomenological level, they're hard to interest into mechanism and things like this. Because our discipline grew up where the power tools were conceptual, and they, you know, the microscopes were crude. And so in any case, we are left with a world in which a tremendous amount of harm is done, because nobody knows what evolution is or for right, including the evolutionist half the time, or maybe more than half the time. So anyway, it's about time we got over this. Every field of biology is equally evolutionary with I think one exception, the one its ecology, the one field that we typically if we're going to get rid of the evolutionist and put them in a separate building, we usually housed them with the ecologist,
+
+Heather 39:49
+can I just say that there are lots of things that people try to cancel you and me for? Yeah, and then occasionally you say stuff where I think, like, no one's gonna come after him for this, but like, that's the actual life Potentially cancelable offence right there.
+
+Bret 40:02
+But here's the problem. I'm right. Right. So it's a it's a kind of immunity. But the point is why why do I say
+
+Heather 40:09
+right is a kind of immunity? Right there, okay.
+
+Bret 40:14
+But so why do I say ecology is not as thorough and it's not that it's tremendously useful to understand evolution in order to do Ecology and Evolutionary ecology is a marvelous field that kind of never got off the ground, because classic ecology took up all the oxygen in the room. But the reason that I say this is that creatures are evolved, right? combinations of creatures only sometimes, and in a very different and lower level way. Right. So ecology is the study of interactions between creatures in general interactions between creatures of different species. And that had, there's lots of implications of evolution in that process. But the relationship does not evolve, the creatures on both sides of the relationship evolve. And so it's like one step back from normal, proper evolutionary logic, whereas cellular biology, there's no point at which you, you know, you get down to things small enough that evolution is no longer the key way to understand them until you get down to particles.
+
+Heather 41:17
+So you introduce this by saying, Let me introduce talking about path dependency and sort of historical constraint for the child constraint. To me, what you've just landed on is one of my absolutely favorite core concepts and evolution, which is that of shared fate. Like, if you're trying to understand whether or not two things, whatever they are, are, are, you know, are evolving together have an evolutionary relationship? Do they, in fact, have shared fate? The ecologist once said to you,
+
+Bret 41:50
+was wondering whether I should mention him.
+
+Heather 41:53
+So why don't you say this, and I'll finish when I was, so I was sentenced to death.
+
+Bret 41:57
+After it's an amusing story, I should tell at some point, but I nearly failed out of graduate school in prelims. And it was a pre trans fallacy issue where I already understood something that I wasn't expected to understand it and made it so that I would not answer questions in the way that they needed to be answered to pass the test. So anyway, it wasn't the only flaw I was a hard student to deal with, I guess. But anyway, I got sentenced to remedial ecology, which was like torture, right? Because these people routinely said crazy things from an evolutionary perspective. And I think the expectation was that I would either learn to keep my goddamn mouth shut, or that I would say inflammatory things and be driven into the sea. And either way, problem solved. But there was this one instance where it was Earl Warner, and hierro, if you're watching. Anyway, he was lecturing on the basics of ecology, and I was sitting there in the back trying not to scream, and he said, he said, trees in a forest compete like cells in the body. Right? And, no, that's not true, right?
+
+Heather 43:10
+And precisely because of shared fate, right? Because cells in your body, if you if one of your cells kills off your body, the other cell dies, they have shared fate. If one tree in a forest dies, the other trees may be affected, it might be positive, it might be negative, their shared fate is all much looser. Yeah, it's the same thing,
+
+Bret 43:29
+not only looser, but there's just no basis for competition to evolve between the cells in your body because they have the same genome. And the only way that almost all of the cells in your body reproduce is if they act in a collaborative way such that your gonads get a chance to, you know, to produce a zygote, you know, it's
+
+Heather 43:45
+interesting, actually, I had never thought of like that there was also simultaneously in in that department a move afoot to demonstrate that competition was you know, overrepresented in thinking about ecology and cooperation was underrepresented and as we've said many times you know, humans in particular, but really all organisms are both competitive and collaborative and it depends on what scale you're looking at and what kinds of interactions you're looking at. But it may be your that confusion may actually be downstream downstream of this imagining that there's a perfect analogy to be made between the cells in the body and trees a forest because cells in the body do not compete. Like if if some ecologists are claiming that they are the ones overfitting competition to the world that's not what's going on. And the trees in a forest are competing actually and there's also collaboration going on and you know, especially for instance between like we talked about this in our private q&a last week, you know the Miko rising the the fungus in the soil and in in collaboration with the rising the roots of trees that help both species do better in the world.
+
+Bret 44:52
+Well, it was a simultaneous overfitting and underfitting, right it was imagining competition in the cells that isn't there. And it was making the competition in the forest more benign by analogizing them to a system that didn't have it. Right. Yeah. You know, I pointed this out? And the answer the thinking was, well, there are resources that have to be divided, there aren't enough resources for every cell necessarily to have everything at once. Therefore, there must be competition, right? And the point is, actually, they're evolved to settle the competition. So it doesn't exist because it makes all of them, you know, a cell that dies. Because it doesn't because it decides not to take up resource, but whose genes are then transmitted by the gonads, winds evolutionarily, as weird as that sounds.
+
+Heather 45:47
+And there are trade offs. But that's not the same as competition. Yeah. But anyway,
+
+Bret 45:51
+all to say, evolution, the logic of evolution, although we are still new at it, and we have to get better at it. But the logic of evolution is suffused through every biological discipline equally, the number of people who die per year because medicine and psychology has failed to grasp the implications of Darwinism for what they do for a living is very large. And anyway, we're we're awaiting this recognition. What gets in the way of it is basically academic politics, that you are incentivized not to see these connections because it you know, lets the hordes through the gate. Right? We being the arts, I guess.
+
+Heather 46:30
+That's right. Okay. Well, that. That was item one. Okay, let's
+
+Bret 46:34
+move on to Item b.
+
+Heather 46:36
+Yeah. So, this section I have titled follow the science except when we want you to follow us and we're just gonna pretend it's because we're talking to science. One of the many executive orders that Biden introduced President Biden on January 21. requires masks in national parks. Many of you will have heard this reports news reports on this tend to say masks required inside and outside when in crowded areas like overlooks, which you know, that that would sounds reasonable. That sounds like Yes, 100% when you're indoors with strangers, you should be wearing masks at this point. And, you know, in a really crowded place on overlooks, okay, sure. But the actual Yo, you can show my screen here for a second, Zach, is this is the executive order on protecting the federal workforce and requiring mask wearing the second paragraph accordingly, to protect the federal workforce, and individuals interacting with the Federal workforce, and to ensure the continuity of government services and activities, on duty or on site, federal employees on site, federal contractors, and other individuals in federal buildings and on federal lands, should all wear masks maintain physical distance, and adhere to other public health measures as providing CDC guidelines. Thank you, Zack. So that doesn't actually specify that they they're not that you're not required to wear a mask if you're away from people outside. And that worries me. Because everyone who spends any time outside now and you all should be, especially if you should be in whatever form you can be. But if you're taking walks right now, I assume anywhere in the world, and I certainly assume anywhere in the United States, although there may be parts where this is less so I can only speak to Portland, Oregon, and from your very brief moment last week, Los Angeles knows the social pressure that is, is being brought about by this pandemic. Those of us like me who walk around with a mask in my pocket, or depending in my hand ready to put on, but not on, ready to put on at a moment's notice. Should it be necessary to get assessed as if we're all walking around like sneetches that like that this is something I was talking about a lot last summer, it's like we are star bellied sneetches and stages without and there are indicators by which tribal assessments are immediately made. And once made, you were slotted into a whole lot of other things. If you are not wearing a mask, some people's eyes will seem to say and I have indeed seen some I have not been involved in any of them. But I've seen some sort of yelling altercations between people. If you're not wearing a mask, that must mean you also believe all this other crazy nonsense, you know, read the team's stuff. And therefore we don't like you and you're putting me at risk and you know, I might die. You know, we quickly end up in hyperbole and drama and performativity and it's, again, anti scientific. So the assessment of like, Oh, I get it. You're one of them. No, I'm, I'm not one of them. Like I'm not showing you my belly. You can't see if I have a star or not based on whether or not when I'm outside. I don't have a mask on because guess what the science actually says Is that there's almost no risk of transmission for any of the variants that we have yet seen for which there is our data that you can that this virus is transmitting outside. Look at all of those, yes, ill advised protests, massive protests, that became riots. Daily, in some places like Portland, last summer into last fall, there were no super spreader events that I know of, those things were happening outside, even with a lot of people jammed together like that many of them were not wearing masks, there was very little viral transmission. This virus is not spreading that way. Why? Probably two reasons, probably more certainly two reasons. One, it's about airflow. And, you know, just just boundary layers, and if you've got any sort of airflow, this, this, the risk of getting the disease and the risk of the severity of the disease being high, once you get it are both density dependent on how much virus virus you were exposed to in the first place. So you can expose to a little bit, maybe it even provides long term, a little bit of immunity to you, and I'm not, I'm not arguing that you should go and try to get exposed to a little bit of it, but that might actually be productive. And, you know, again, in service of just getting some nuance going here, also vitamin D. Alright, so airflow, and vitamin D, you go.
+
+Bret 51:23
+Alright, so are you ready for a bit more nuance? Okay, are you sitting down? You're not sitting there. For those of you listening rather than watching? I don't know if he's sitting down because it's pitch black in the studio.
+
+Heather 51:37
+I'm also very short. Also, she's
+
+Bret 51:39
+very short. Yeah, no, here's the here's the thing, I want to a, let's say that I, you know, let's hope this doesn't happen. But if we were stuck with COVID, for good, if we just have to learn to live with COVID, then we should develop a way of taking care of each other relative to the virus, without causing undue harm to ourselves, right. And lots of things function like this, right, the sophistication around pathogens and washing one's hand and, you know, food service and all of that. These are mechanisms in which there's shame directed at those who misbehave and for good reason, because there should be a social penalty for behaving badly. Another problem with the current COVID case with respect to masks functioning as stars on the bellies of snitches is that you've got two sides, who look at the other as you're not taking care of us, right? So the one side is saying, You're not keeping us safe from COVID, you're gonna spread it to us because you're not wearing your mask. So put it on all the time broadcast that you are one of the people who doesn't want to spread COVID. And the other side is saying, You're not taking care of us, you're participating in this authoritarian garbage. These people don't know what they're talking about. They're crashing the economy and pretending it doesn't matter. You know, all of these things. And you know, there's a degree of truth in this, those who refuse to wear a mask are definitely putting other people at risk. And those who are imagining that if you're wearing a mask, you're a better human, and therefore wearing them all the time is a good idea are participating in spreading authoritarian garbage. Now, the problem, the hyper nuanced issue, as we've been saying, from the beginning, COVID does not appear to transmit outdoors. But that doesn't mean it couldn't learn that trick. If it learns that trick, how will it do it, it will do it because people are careless outdoors, and therefore, some, you know, virus that has a little bit of a an edge in that regard, for some reason or another, just by luck, will end up transmitting, and creating more cases, and it'll get built up the way every other adaptation does. So the point is, at the moment, we appear to have a gift, that we have a way to stay away from COVID and make ourselves healthier, and make ourselves psychologically more sound. And it works. But if we treat it carelessly, we could lose it. So I think the right place for that line to go is exactly where you said, if you're at an overlook outdoors, and it's crowded, you should wear your mask, even though the evidence says you're not going to get COVID there, right? Why? Because we have to protect the loophole that we've got. Right? And so I want to see and in fact, we've lived by
+
+Heather 54:33
+that, if you're alone, or just with people that you're already in parting with. You should not be wearing a mask right actually potentially going to create more health problems for you, especially if it's winter in your otherwise all covered up and your face is literally the only place that couldn't be exposed to the sun. Yep, you want to be exposed to the sun.
+
+Bret 54:53
+Yeah, for vitamin D reasons which are very directly relevant to COVID. So what you really want if we could just take the politics completely out of this question, what do we really want is for us to have a collective discussion like the one that you and I have been having since March, in which we built up a model that would allow you to know whether somebody was being an asshole, or whether they were just simply taking advantage of a safe situation, right? In other words, as you pass somebody on the street, right, the fact that you pass them on the street, and you don't pull a mask up is not necessarily bad news. For one thing, we can keep each other safe, I sometimes hold my breath, I'm not going to put a mask on to do something, I can hold my breath and know that I'm not exhaling COVID. If I have a three second, you know, situation where I pass through somebody else's personal space, if we can pay attention to these things, you know, the way we do all sorts of stuff about public health and, you know, disease transmission, then we don't have to, you know, persecute people for doing things that are actually perfectly safe and which they're doing them is not evidence that they're insensitive, it's evidence that they have a good model.
+
+Heather 56:07
+That's right. That's right. Yeah, so if you, like I said, if you cover everything on yourself, while you're outside, you're probably not going to get COVID. That's true, but you're also not going to get any vitamin D. and for similar reasons, I would advocate not hiding yourself under thick layers of sunscreen, we've talked about this before. There is finally now after years of some of us thinking this and talking about it, beginning to be evidence that slathering yourself with sunscreen. And therefore reducing the level of sunlight you get is actually linked to some life illnesses that yes, people who don't slather themselves in sunscreen, end up with a little bit more skin cancer, I think is the result, I didn't go back and look at this, but they're less likely to die from it, and they're less likely to die of other diseases.
+
+Bret 57:01
+And if you understand the, you know, just as with the case of there being a threshold dose of COVID that you need before you catch the disease, there are nuances that frankly, I don't know what the mechanism is, but it's quite clear that a short break from the sun gives you the ability to go back into the sun. And that one can Marshal this in place of sunscreen. And if you do that, then you know does the slight increase, persist? My guess would be it doesn't. Yeah,
+
+Heather 57:31
+I I agree. So in general, I guess the The take home here I mean, there are several but is that I and I know you as well, are not a fan of reductive solutions to complex problems. So I've been preemptively skeptical of pretty much all of these one word or one phrase, the single note solutions to the pandemic you know, hydroxychloroquine vitamin D vaccines ivermectin like, really, that's like it's just gonna be the one thing that seems like a very and nuanced and on careful approach that said just on that list that I just gave those four things. Two of them, at least have incredible promise and almost no risk. So vitamin D, and ivermectin, ivermectin as potentially prophylactic, but almost certainly useful in reducing symptoms, if you do contract COVID-19, widely available, not still under patent apparently, so quite inexpensive. As as a as a treatment rather than a, you know, a vaccine level prophylactic for COVID. Is has has huge promise. And I want to say it's just beyond promise, like it's just being used in a lot of protocols at this point. And there are a lot of papers that that show some, you know, that are beginning to be out about vitamin D. You know, the problem is, you're better off getting all of your stuff in the ancestral form and so better than supplementing if, if you can at all to get out in the sun. And, you know, I've heard this thing like, well, I live so far north that there's no chance of me getting enough vitamin D. at this latitude and being healthy during the winter. Guess what? People lived far north before there were vitamin D supplements. Now in some cases, like in the North Atlantic, they were dealing with that by eating a diet rich and Cod, for instance, there are there are historical solutions to these problems, it is simply not possible that you need a novel solution to an historical to a problem. That would have been a problem for historical people living where you were living now if they didn't have access to your novel solution because people were just living well and one caveat, which is I was just about to make the cut. Okay, but no, I just I know go for it. Alright.
+
+Bret 59:57
+The caveat is that there is no good guarantee that your predispositions match their level of solution?
+
+Heather 1:00:07
+Yes, right. Actually, that's that's a step beyond what I was going to say. And you may not know actually so our our dear friend and former student and also research research assistant on our book, Drew Scheidler. I think we took it I think it's not even a footnote anymore. But exactly this on the question of actually, exactly vitamin D, and historical living where you do that, that in the Far North Pacific Northwest, the farther north you go, you're told this thing. And his point was, if you are from the population that lived here, two or 10 or 15,000 years ago, look to your ancestors, wisdom, look to the cultural practices that they retain, and maybe those that ancestral wisdom will apply to you, even if you are from a different population, as you know, as he is, even if you're Anglo, living in ancestrally, obviously, Native American land, maybe their solutions or work and maybe their solutions are actually particular, to the population to which they belonged. Usually, they won't be but sometimes they will be. And like, you can just you can, you can decide this carefully and like a step by step basis without having to reduce it to a single, like, wear a mask wear sunscreen, you know?
+
+Bret 1:01:33
+Yeah, the key is you need the model, you know, so it's perfectly possible for light skinned people to, for the ways that dark skinned people deal with UV radiation near the equator to be insufficient for light skinned people faced with the same hazard and vice versa, it's possible for the solutions that light skinned people have for vitamin D to be insufficient for somebody with dark skin, if you move far enough north, so you got to pay attention those things. But the point is, if your model says, here's how vitamin D is produced, right, and here's how I interfaced with that model I you know, am either advantaged or disadvantaged relative to vitamin D production based on melanin content or something like that, you can at least figure out whether you've got something you need to correct for. And the ancestral way will do it or it won't do it. In which case you might have do something else. Yep.
+
+Heather 1:02:27
+Good. So rather than show you a couple of these papers, why don't we we've got a lot more stuff that we wanted to get through. And we're already at over an hour. So why don't we move on to a totally different topic? You wanted to say a few things about this New York Times piece from this week, which is titled, our private messaging apps, the next misinformation hotspot, Zach, I think you're gonna want to show this
+
+Bret 1:02:54
+Yeah, I can scroll up and look at the ad. So this was a trial balloon floated in the new york times this week about, I don't want to frighten people. But their claim is that misinformation can be transmitted over private messaging apps. And there's no way for us to prevent misinformation if we can't read what's in those apps. So things like signal where your communication with your intimate contacts is encrypted, and therefore, unreadable by authorities is a very frightening prospect.
+
+Heather 1:03:30
+That is terrifying, you know, what we might need, actually is some sort of like closed circuit television in every room of everyone's house, they just keep an eye on things keep an eye on and they can just, I mean, probably you don't want everyone being able to see everything in everyone's room, but like some, some authoritative body watching, right? And what everyone is doing at all times can be useful for this. You can't
+
+Bret 1:03:52
+know when you're being watched. So you have to behave as if you're being watched. How about that?
+
+Heather 1:03:57
+Well, I mean, you know, if you're in your home, you're being watched people
+
+Bret 1:04:00
+are shouting Pan opticon at the sure at the screen, yeah, of their computers. But okay, this is an obscene claim here that the fact that misinformation can be spread on encrypted text apps is reason for us to potentially eliminate the rights to have such apps. And I would just point out bad people, serial killers. Okay, you know, what serial killers have used since the invention of roads,
+
+Heather 1:04:32
+granola roads,
+
+Bret 1:04:35
+they've used roads, right? You could say, well, the idea that serial killers use roads and serial killers are bad and we all agree to that. And therefore we need to, you know, have checkpoints on every road. Now this is it. There's obviously such a huge price to be paid in freedom. If to you know, yes, I have no doubt that terrorists will use paper. They will use paper clips. They will Use roads, they will eat food, they will go outside, they will make vitamin D without your permission. They will do all kinds of things. But in any case, the fact that this article didn't create more of an uproar, I think is troubling. They are setting us up this this article was
+
+Heather 1:05:16
+it's certainly it's it's it comes under the sort of the heading
+
+Bret 1:05:19
+tech fix. Yeah, tech fix, right. And you know, the basic probably one of their usual the basic premises is, of course, we can kick people who say false things off of tech platforms. But what chat. And you know, again, as I would point out every single time this idea comes up, those of you who are focused on the fact that untrue, bad ideas circulate in an environment and therefore think shutting that down is a good idea without giving a thought to the question of how do you distinguish wrong things from novel things? How do you take the next big idea, which is still not understood by people to be true? You know, what would have happened, for example, to the lab leak hypothesis, if that authoritarian entity, whatever it is, had been able to shut down what it can spit considered a conspiracy theory, which was actually just an obvious hypothesis in need of tests. And how
+
+Heather 1:06:16
+many of those are we living downstream of?
+
+Bret 1:06:19
+And how many of those have we had the proper inquiry shut down, because somebody pointed themselves the truths are, and in fact, I believe truth czar is proposed in this absurd article. Yes, no. Well, certainly proposed in Yeah,
+
+Heather 1:06:35
+you keep talking. I will I will search on truths are
+
+Bret 1:06:38
+I think Tsar would probably cover it. Find it?
+
+Heather 1:06:46
+No. I mean, unless they're spelling it the Russian way
+
+Bret 1:06:49
+they are, I believe.
+
+Heather 1:06:51
+No, no. All right. There's the way that I would spell my article.
+
+Bret 1:06:54
+Okay. Different article. Okay. That's it. I just wanted to call people's attention to the fact that in encrypted chat is the next frontier in civil rights elimination. Yep.
+
+Heather 1:07:07
+Great. Well, from there, there's no natural I couldn't figure out where that should go relative to anything else we're going to talk about so another unnatural segue to talking about the nature of the null hypothesis. Are you ready? Yeah. Okay, so this is this is an observation that you made this week. And just to let your brain switch gears here, I'll slowly set you up here. In general, if a new virus emerges, the it seems like the null hypothesis. That is the default hypothesis, that is to say the thing that is most likely to be true, absent evidence, the contrary, is that it is a national origin. Right. And that seems to be although I've never seen anyone say that in this year that we've been living with this. That seems to be sort of implied in a lot of the arguments, you know, straordinaria ideas, extraordinary claims require extraordinary evidence. What's your evidence for lab like, as if the you know, pangolin mediated wet market story? is a parsimonious null hypothesis, which frankly, it never was. And you came to dinner, maybe one time this week and said, okay, that but maybe in this case, natural origin should not be the null hypothesis. Yeah,
+
+Bret 1:08:22
+I mean, I'm not saying it should or it shouldn't. But the point is the assumption that it should is obviously absurd. I do want to go back and say, I heard Eric say, on clubhouse last night, something that I have often said myself, I don't know if I've set it on dark horse. But this idea of extraordinary claims require extraordinary evidence, not a scientific principle, right. In fact, the rules of engagement are perfectly clear. Right. And the point is, I don't care how extraordinary the claim is, is, you know, is the hypothesis better supported by the evidence? And are there any other hypotheses? If not, it's a theory if it is better supported, but there are other viable hypotheses then it is what it is the best supported hypothesis. But
+
+Heather 1:09:05
+yeah, I hope you could detect the mockery in my in my language when I said that, but it is one of these things that trotted out as if it's a scientific rejoinder to something you said, well, scientific claims require a sign extraordinary claims require extraordinary evidence, not right inherently No.
+
+Bret 1:09:21
+And if correlation is not evidence of causation, what is so this little brain teaser? correlation is in fact evidence of causation if there was a causal hypothesis pre existing the observation of the correlation and correlation
+
+Heather 1:09:38
+so correlation is evidence of causation when preceded by a hypothesis that predicted the correlation.
+
+Bret 1:09:44
+Yep. I mean, that's that's it, right? Yep. That is it. So in any case, there are all of these little landmines distributed across the landscape, but in this case, so we're gonna get in trouble as always happens when I talk about null hypothesis in this informal philosophical way, because no hypothesis has a very narrow definition with respect to a statistical test. And in this case, I'm not talking about a statistical test. What I'm talking about is the default assumption, right? We can say the default assumption for a new virus is that it emerged, you know, as anodically. Right? Now, that's not necessarily true, because we can say, is that true for New York? Right, if I see a new virus that I haven't seen in my clinic in New York, is the default assumption that it has emerged from an animal here in New York. Now the default assumption assumption is, it probably came in at the airport or the train station or over one of the bridges or something like that it came from somewhere else. So the point is, you could make the argument that the default hypothesis would be zoonotic emergence. But in that case, now there's more, there's a clearly more likely possibility in any locale. Well, yeah,
+
+Heather 1:10:56
+zoonotic emergence. But with an additional step added to account for the geographic unlikelihood of a spillover event in the middle of a major city, right?
+
+Bret 1:11:07
+Which gets to the analogy that I came to dinner, shaking my fist at the air, about which was this and I, I haven't been to a circus in a very long time, I hope they no longer use bears. But the idea of the analogy is where you let's say, in downtown Dallas, maybe you're at the, you're at the target, you're in the target parking lot. And the circus is in town and a bear wanders by, right? You could say that the null hypothesis is that the bear has emerged from nature. But there are no Grizzlies in Texas in Texas at this point. And there is a circus, and it might have bears the obvious first assumption and the one that any rational person knowing the circus was in town, and having seen a bear walk across the parking lot would make is maybe the bear got away from the circus or the zoo. Right. And the point about this is, in the case of the Wuhan Institute of virology, we have this exact case, it's more subtle, because you can't see viruses. And so where they are and aren't isn't familiar, but we don't have these beta Corona viruses circulating in horseshoe bats near Wuhan. Right? They're 1000 kilometers away in eunan. Right. What we do have in Wuhan is an institute that brings those viruses into study them, right. And so the point is, we have been sold the idea that the the burden of proof is on the hypothesis that suggests anything other than zoonotic emergence. But in this case, there's a strong argument to be made that standing in Wuhan and observing this pandemic break out that actually the default assumption, probably is that it came from the place in Wuhan where these viruses actually are known to exist. And not that it is zoonotic an origin and previously undetected. In any case, I'm not going to say that is, but I'm going to say the the, the argument that is deployed that, obviously, this the hypothesis that the virus came from the Wu Han incident Institute is so extraordinary that it requires overwhelming evidence before we even begin to talk about it is nonsense. It's clearly one of the hypotheses that belongs on the table, I would argue that the one with the burden of proof is the is the more extraordinary of them, which in this case, would be that, you know, zoonotic emergence happened without our detection, refined the virus turned it into an a virus that transmits very well between human beings, and then suddenly filled up without leaving any evidence that we can see in Wuhan, right near the Wuhan Institute.
+
+Heather 1:13:54
+Yeah. So I mean, you're, in fact, arguing that the lab hypothesis sort of has some parsimony already built in on the basis of some of the evidence that we can see even without the help of any of the potential players on the ground there. And it looks like we're not likely to get any help from the potential players on the ground there. So the evidence is going to require some sleuthing. But it seems more parsimonious at from the starting gate.
+
+Bret 1:14:22
+Well, it seems more parsimonious from the starting gate. And we now have a history it's not a real long history, right? We're talking about one year, but you know, we had these hypotheses traveling in parallel, and yes, one of them faced a whole hell of a lot of stigma. That one remains consistent with all of the evidence that has accumulated in the intervening period. You know, what has not the natural origins hypothesis, you know, involved a story that now is strongly suspect at least two counts, right? The the wet market and the pangolin. So the point is, over time one of these hypotheses is getting stronger. One of them is getting worse. And you know, doesn't mean it couldn't turn around tomorrow. But, you know, at some level, it was clearly a hypothesis in need of testing and those who tried to shut it down, did the world know service? I guess
+
+Heather 1:15:16
+I want to try to be a little, maybe a little bit more careful than that, because I don't think that that is the that is the fair comparison between the two hypotheses that lab leak from one of the labs, in Wu Han, leaves a lot of the details on on described, right, and there are several that we have talked about ourselves and sometimes publicly, and it could go a lot of different ways. You know, it could have been a function it could like it, there could be a lot of particulars there. And natural zoonotic spillover event is, I think, more appropriately the right comparison. So what we were sold, you know, a year ago was, you know, muon wet market and pangolin. And that had a high level of specificity, which is part of why it seemed like, Oh, well, so I just know, it's pangolin Wow, what are the chances? Alright, but, you know, so the details of the thing that was sold to us, in appropriately so strongly, early on, have fallen by the wayside. But I would say that we that really, you know, it to compare similar types of similar like levels of granularity of hypotheses, we want, like lab leak, and naturals and IQ spillover. And I still agree with you. I think, you know, lab Lake looks like it is more appropriate the null hypothesis here, but lab late compared to, you know, Wu Han wet market spillover from horseshoe bat to pangolin to human is unfairly stacking the deck against that as a possibility.
+
+Bret 1:16:45
+Yep. I mean, I take your point, I think philosophically, it's the right one, which is that you need to compare, things have similar levels of precision. Yeah. But at some level, the way I would do that is I would say, you know, lab leak is a cluster of hypotheses, as people saw on the diagram that I put up, as is on otic. spillover. Yes. And the The question is, does anything in Zone A? Ludwig zand? Up Yep. Lovely cuz Zone A does anything in Zone A remain consistent with all of the information that we have as of this date, and then we can do the same trick over here of all the kinds of zoonotic spillover is anything still completely consistent? And the problem is that the things within zoonotic spillover that are completely consistent with everything we know so far, would have to be extraordinary. I think that's the thing that has me animated is that you could tell a story that would explain every piece of data that we have about SARS, covi. To that would be consistent with a notic. spillover. But it'd be quite a story and the chances that had happened without leaving any evidence that we would have yet found even though the Chinese at least are feeling tremendous pressure to find a zoonotic explanation seems very unlikely. Again, nothing here is conclusive. But in terms of figuring out how to feel about it, to the extent that you've been browbeaten into believing that those who talk about lab leaks are wild eyed Oh, sorry, we need to cover this I think okay. The it turns out, we have learned in talking bravely about this question, that there is a misunderstanding amongst people who evaluate these various possibilities and that the deck has weirdly been stacked against the idea of lab like because people think what is being suggested is much more extraordinary than what is actually likely to have happened. So to the extent that people when they hear, did the virus come from a lab, and they imagine that the allegation has something to do with this virus having been assembled in a lab for a purpose, right, that it's either a completely synthetic virus, or you know that it was built up like Lego wise. And it's not that that's not a component, right, we have Chi mannerism, which can be used to take strengths from one naturally occurring virus and strains from another naturally occurring virus and put them into a single virus that has both strengths, right? But I've
+
+Heather 1:19:23
+not seen anyone compellingly argue that this was created from scratch. There is a it originally in a bat virus backbone to this thing, no matter what, right maybe it's entirely bad virus would spill over maybe it's bad virus backbone, but this other thing that some people are coming back at us anyway, saying like are you kidding me? Like No, no, literally no one as far as I can tell. Yeah, seriously proposing that, right? literally no one? No,
+
+Bret 1:19:51
+it's overwhelmingly similar to ra t g 13. which turns out to be 4991, which is another piece of evidence of something is going on here,
+
+Heather 1:20:01
+again describes was Ridley and Sham paper that will link to
+
+Bret 1:20:04
+right which article people should read. But the point is what is being hypothesized with respect to a lab leak is not out of the range of what we know was going on in the Wuhan Institute. In other words, these techniques are known, they're extraordinary. But extraordinary does not mean that we are guessing we actually know because they published the various labs involved in this work, published reports on what they were doing. So we know that all of these techniques exists, we know that they were being applied.
+
+Heather 1:20:35
+But I mean, I guess, again, to get back to like, Well, what do evolutionary biologists have to say about this, like the nature of this research is precisely we are going to pass the virus through different selective environments and see what pops out. It is not conclusion driven. It is not like we are trying to get to there maybe maybe they're trying to, but there's it's actually like, hands off, let's see what mutations pop out and what sticks. And you know, that that is exactly evolutionary evolutionary process like it is there was no other way to describe it. And the I think the and careful and nuanced image that people have in their heads that unfortunately, many virologists, many people doing this kind of research are happy to have people imagine is, Oh, you've got a technique. And so you know that when you want to have virus A with B in it, you just go choke. And like, yes, there is some of that there is some of the colorism comparison, but the gain of function research, the serial passaging is not like that it does exactly produce results that you cannot completely control
+
+Bret 1:21:41
+not only not completely control, but effectively evolution is being used to do things that we don't yet know how to do exact So,
+
+Heather 1:21:47
+and we don't know what we'll get. We don't know what all the effects will be. And we have no way to control them if they happen.
+
+Bret 1:21:54
+So the importance of this would be hard to overstate. And you mentioned I think, I think you actually mixed two papers. There's a Lancet paper and a nature paper that both showed up very early to shut down any inquiry into the idea of lab
+
+Heather 1:22:11
+like the Lancet paper was like the many, many signatories you're right with
+
+Bret 1:22:15
+dastak on it. Yep. The nature paper made the following argument. It made the argument that although the the receptor binding domain of SARS COBie two is very well adapted to bind the protein in question. We did not know enough to make the protein that way. Anybody who knew what they were doing would not have made the protein this way. Therefore, it must be natural. Yes. Which is a nonsense argument in light of the fact that you've got gain of function research to accomplish what you wouldn't know to ask
+
+Heather 1:22:56
+precisely. So question, are the scientists doing this research that confused about the research they are doing that they themselves don't recognize the power of what they are doing and how it works? Or are they being intentionally deceitful either way, either way, you need people who actually understand the tools that they're using and the implications if they're going to be allowed to do this kind of research at all. Again, remember, there was a moratorium on this research in the US from for four years, just lifted at the beginning of the Trump administration. And that that claim, I'm sure, I don't know where it was picked up. But I'm sure that was part of a contributed to the See, there's no way this could be lab like, we don't know enough to do that. Yes. But you know, what we do know how to do we know how to play God well enough to set evolution on a problem and say go to it. Yeah, second evolution, and it happens, and we do it, we cannot predict what's going to happen downstream.
+
+Bret 1:23:54
+So in effect, what we have is a piece of non evidence, the fact that we could not have specified in advance the, the sequence that we wanted, or that nobody who knew a lot about this would have specified it, because it would have sounded like it wouldn't have worked
+
+Heather 1:24:11
+very well. Yeah. And that was actually it. Was that even a weaker claim? Actually, no one would have done this,
+
+Bret 1:24:16
+right. You know what, no reasonable person would have done this. Well, no, we're not saying any reasonable person did it. We're saying evolution is cleverer than reasonable people. And, you know, so but here's the thing, the paper, I believe it's Christian Anderson's paper in nature is still used to silence people who say the lab hypothesis is viable, right? The fact of there being a paper in a major journal peer reviewed that claims that this is rock solid evidence, doesn't matter that it has been. It has been illustrated to be nonsense, because it is not responsive to what actually is imagined to have happened, right. That's a very important fact.
+
+Heather 1:24:57
+Yes. All right, boy it's like an hour and a half we got Sony camera. We got snakes and mangroves
+
+Bret 1:25:07
+Oh my goodness. All right. Should we do it? Yeah okay Sony totally, totally different totally yes Sony Coronavirus is a new deeply secret camera this week I guess the Sony Alpha one and it's a doozy But anyway, I was watching a doozy in a good way. Yeah, it's it's well here's the thing cameras,
+
+Heather 1:25:31
+for those who don't know, and maybe most of you don't. Brett's a Britta camera guy.
+
+Bret 1:25:36
+Well, yeah, I have been shooting since I was in high school. And I'm I do nature photography is primarily what I do. But in any case, I pay attention to cameras, and I've noticed some things. One thing I've noticed is that cameras have gotten incredibly capable. And that if you look at the rate at which they are getting more capable, it's approximately the rate at which the earth is getting uglier and less interesting. That's unfortunate probably Yeah. But anyway, they're getting great. So you know who did well it's still better to document the end, right? Exactly, exactly. But anyway, Sony released this amazing piece of technology. This alpha one camera and there are a bunch of reviews because it's really you know, it pushes the envelope in many ways. But I noticed in one review, Zach, can you show the so this is from Tony Northrop's review of the Sony Alpha one here. By the way, Tony is great, does amazing work. But here he reveals that their new eye autofocus, which is, eye autofocus is a great thing if you're in nature photography, because the camera knows enough about what it's looking at to keep your focus right on the eye, which is a huge benefit.
+
+Heather 1:26:52
+But so for those listening who can't see the screen, what are the options for
+
+Bret 1:26:56
+the options for eye autofocus are human, animal and bird and I really don't want to hold them to an absurd standard. Obviously, humans are animals, but I wouldn't expect you know, if the thing said human and animal, that would be fine. that distinction is intuitive.
+
+Heather 1:27:15
+we all we all understand. And those of us who traffic in this sort of thing tend to say humans and non human animals, we're making that distinction. But that's word a, there's no room for that here
+
+Bret 1:27:24
+to be on a menu that way fine. The problem, though, is the distinction between animal and bird. And this is something you and I run into in all kinds of circles, where it's
+
+Heather 1:27:33
+gonna seem like a little micro pet peeve that the only people like us would care about Hetty,
+
+Bret 1:27:38
+except I can prove it's not petty in this case. So the problem is that birds are of course,
+
+Heather 1:27:45
+like, I want to actually add, you know, we are teaching here, we don't have an ability to like, get a feeling for the room, but like, what do you think a bird is? Like? What is it? Is it a rock?
+
+Bret 1:27:56
+It's clearly an animal? Is
+
+Heather 1:27:57
+it a cruciferous vegetable? Like what is it? Right? If it's not an animal? So
+
+Bret 1:28:01
+I think this comes and actually it would I be curious if the same conflation happens in other languages because I think this has to do just with the fact that mammal and animal that kind of my, my, my, my, my, my leather word, you know, that that causes people to think animal and mammal, or maybe because most of the animals that they interact with and think about are mammals, you know, the pets, the farm animals, and all of this. But in any case, the problem is and why I say I can prove that this matters is that actually I don't know how to operate the camera with those menus with those choices, right? Because I want to focus on the AI. That's true, irrespective of what kind of animal I'm focused on. If it's a human, I got it right, if it's a non human animal, okay. It's quite possible algorithmically speaking, that birds are special algorithmically. And therefore birds are a unique category of animal and that if I'm looking at a lizard, or a, a dragon fly, that the algorithm will actually work correctly if I have it set to animal
+
+Heather 1:29:16
+but we don't know what the algorithm is right? And so phylogenetically Yeah, a bird is more closely related to a lizard than it is to us right? Okay. But a bird and mammal a bird in us human and bird are equally close as closely related to a dragon fly. Yeah, like we're no more closer to a dragon fly are more distantly related to dragon fly than a bird is we because we have the most recent common ancestor that is between us and dragon fly through evolutionary speaking. So my guess would be not knowing anything about their algorithm that like if I was shooting a lizard, I'd go with the bird one, but just because it's gonna be caught like a butt address. I can find no idea.
+
+Bret 1:30:01
+I don't know I think the problem is is that we can't know. So first of all, people take more photographs than ever can share photography is more popular than it has ever been. And the camera Candid Camera industry is dying because by and large cell phones have gotten so good at this job that you only need a DSLR for certain things. One of those things is nature photography. Right? A lot of the people who do nature photography are bird specialists, right? So it is not surprising I think birds are weird enough looking, and challenging and challenging, right
+
+Heather 1:30:34
+and far away. They have this nasty habit of flying away from you,
+
+Bret 1:30:37
+right? But it's not surprising to me at all that the algorithm would break birds out from everything else I would not be shocked if actually a lizard or a salamander was closer in algorithm space to a dog I would also not be terribly surprised if what they mean is
+
+Heather 1:30:56
+again salamanders actually equally distant related to humans and birds, right lizards, but
+
+Bret 1:31:00
+my my point is, you know all they care about so what they care about is that the algorithm finds the I what I care about is that I know what to set it on right in order to take the picture I want to take and these things are very badly documented. So I don't know if there is no setting for a lizard or a salamander. If it's in animal and bird is a special category of animals
+
+Heather 1:31:21
+human and bird are or if animal is all the everything else all the other animals that aren't humans are birds. Yeah,
+
+Bret 1:31:31
+right. So anyway, the way you say this because so many people get into this puzzle you know, you could say birds and other animals there's nothing wrong with saying birds and other animals, birds and other animals is correct, but you don't want to see say birds and animals, right birds and animals is B for one thing please don't it just drives us crazy. really drives us crazy to hear that. But
+
+Heather 1:31:53
+I do think asking people what they think they are then you're like, Okay, so what what is a burden? Right? If you've got that you've got this collection of birds and animals. What are they?
+
+Bret 1:32:02
+I mean, that question gets tougher at like, you know, sponges and things.
+
+Heather 1:32:08
+I don't see a sponge option on the Sony
+
+Bret 1:32:10
+Exactly. The point is it's actually you know, people have to stop and think if you say that about an insect you know, is it an animal yeah is a fly an animal? Yeah, it has to be what else would it be but you know, it takes people a little bit to get there and I get it that's fine but anyway, they should they should correct us. The only saving grace of this story is that the camera is so expensive that this is a completely academic question. I don't have to interact with that menu. Never well, right. Although Sony if you wanted to fix that problem, I would be okay. I'd be I'd be willing, huh? Yeah. Oh, you're so generous, very generous by nature.
+
+Heather 1:32:47
+All right, um, snakes and mangroves. Okay, let's do snakes first. All right. This question comes to us from the quest from from the perspective of how many ways that snakes move around in the world. So here we go. This is an old site but it's a site of a friend of ours Zach if you would show this this is Brad moon who we went to grad school with awesome awesome researcher specifically focusing on I mean lots of stuff but biomechanics of snake locomotion is a big part of his his research and this is again this is literally from like a 2001 you can see it was updated in 2001. So that explains why it looks like it's from 2001 but he's just describing like five types of snake locomotion and you have most snakes moving in what is called lateral undulation. Just you know this
+
+Bret 1:33:40
+just slowly back and forth, right traditional snake motion,
+
+Heather 1:33:44
+traditional snake motion, you also have concertina motion, where they sort of they do that and they sort of like back themselves up and then they like, go forward. I don't know how to do this for the
+
+Bret 1:33:56
+sounds sort of thematically a little bit like a caterpillar? Yeah,
+
+Heather 1:34:01
+yeah. And you have rectilinear where they're just somehow moving straight and boy did we want see this happen? in Costa Rica our first research season, kind of what was it some soap I load things up a lot. It was a fucking gigantic fast moving black snake that came out of nowhere.
+
+Bret 1:34:22
+It's a snake that hunts poisonous snakes and they are one of my friends described them as all piss and vinegar. Very scary snake that actually has a hood that run in the opposite direction of a cobra hood it's a very amazing animal
+
+Heather 1:34:36
+so it's like it's like an N a gamut or something like a lizard anyway anyway, we saw this snake just come out of nowhere and what did it go up or down a tree
+
+Bret 1:34:48
+it came up a tree and a tree. Yeah,
+
+Heather 1:34:51
+yeah. And then slide pushing is another thing but the but the maybe this slide pushing. I didn't actually remind myself it It doesn't have a Sidewinder. No. So my point is let's just skip slide pushing for the moments because it's one that most people aren't going to be particularly familiar with side winding is probably the second most common kind of snake locomotion that people think of even though most of us including myself have never seen it. I'd love to see sidewinders in the wild, you can give me my screen back now, Zack, thank you. And a New York Times article from this week, which reports out on a paper that I actually can't find even with our awesome access at the moment to Princeton's University Library, but it's, it's a reason at all 2021 paper from penis from Proceedings of the National Academy of Sciences called functional consequences of convergently evolved microscopic sin skin features on snake locomotion. Okay, rather than go there, we are going to go to hold on this article. The skin deep physics of Sidewinder snakes, I'm just going to read. Read two paragraphs here, as we know, from Okay, hold on a second, give me back my screen for just a second. Yeah, these are the two paragraphs I wanted to read. Okay, as we know from trying to move on sand in a beach or other places, it can be difficult to move on these materials that yield underneath you as you move forward. So Jennifer riser, a professor of physics at Emory University in Atlanta, interesting as an alien, it's a physics professor rather than biomechanics, functional morphology bio person doing this. That's why sidewinders slither sideways. Although some snakes can move laterally under certain conditions, Dr. riser said sidewinders, the common name for group of three distantly related Vipers. Wait, does that mean that the side winding is convergently? evolved? Yeah, hell yeah. Isn't that awesome? Okay, so that we're gonna get back to that. The sidewinders the common name for a group of three distantly related Vipers found in the deserts of Africa, the Middle East and North America have raised this unique form of movement to an art. The sidelining rattlesnake, for example, can travel at speeds of 80 miles per hour, making it the fastest snake in the world. So I love snakes, but that's terrifying. Like that's, that's a fast sidelining snake that's gonna come at you. So
+
+Bret 1:37:16
+that's a snake in the world. Okay, who is a flying snake?
+
+Heather 1:37:23
+It depends on how fast it drops raw,
+
+Bret 1:37:26
+how high the trees get, but I'm just saying there are
+
+Heather 1:37:29
+actually I used to use in my vertebra Lucian lectures on snakes. Some of the videos that he had of snakes that were quote unquote, flying and they're not really flying there and valant they don't get they don't get left, but they glide and they have you know, surfaces that allow them to sort of, sort of steer and you know, maybe I should ask him if I can, if I could show them in a future episode. Sure, I could anyway, so they don't don't don't worry, guys. They're not actually flying. But oh,
+
+Bret 1:37:58
+they're plenty worrying. I mean, flying.
+
+Heather 1:38:01
+Charming. I think they're wonderful. But yeah, you have to get the I don't know what terminal velocity for a so called flying snake is. So you're okay.
+
+Bret 1:38:12
+It's gotta be fast inside whining. But anyway.
+
+Heather 1:38:14
+Yeah, I mean, the terminal velocity such that they then don't die upon landing, right? Obviously terminal velocity that isn't terminal. Yeah, I guess it's not terminal velocity. Okay. Okay, so what? This is not the mangrove angle yet, but like, what do you think they do? How do they manage it? How do they go so fast? No. How do they sidewind how give given that, like a rattlesnake? Can't sidewind and sidewinders apparently, don't do quite as well doing the lateral undulation thing that say rattlesnake does and I'm just picking rattlesnake because they're relatively closely related. We are I could pick I can pick anything. Any, any thoughts on Well, I'll be doing
+
+Bret 1:38:58
+so you said rattlesnakes can't sidewalk. Yeah. Aside from Sidewinder rattlesnakes? You mean?
+
+Heather 1:39:05
+Aside from the three snakes that we call sidewinders? Yeah, so Okay. Like a timber rattlesnake or something?
+
+Bret 1:39:11
+How do they do it? Well, I'm, I'm thinking that through here, and I really need a few minutes with a piece of paper. Yeah, does it have something to do with the rolling of the particles of the sand?
+
+Heather 1:39:22
+I you know, I think I think it is going to have something to do with that actually. So again, I couldn't access the full paper. So I'm just going off the abstract of the paper and the New York Times piece here. But check this out. Here we have two micrographs of on the left a skin of the skin. This is the underbelly, the ventral skin of the Sahara and sand Viper. And on the right we have a micrograph of the Venter of the belly adventure of the belly, the Venter of a Mexican Lance headed rattlesnake. And there are spikes in the scales at a mite this is I think it's an SEM although they don't As scanning electron micrograph of their little tiny scales that basically hook and provide the friction that allows the lateral undulation of most snakes, which is what we see here on the right with these little tiny hooks. And on the left you have rather than hawks you actually have pits you have little tiny pits Not to be confused with like the pits of pit vipers, but little tiny pits in the in the belly, and it's totally smooth. And presumably, and again, it can't see the original paper yet. There are other surfaces to which they can grab it all.
+
+Bret 1:40:34
+So I'm still not sure I understand these both of these images are from different clades of sidewinders.
+
+Heather 1:40:41
+No, no, this is this is a regular lateral. On the right, I have a lateral laterally undulating
+
+Bret 1:40:47
+so inside did have that standard pattern yet somehow I've never seen before. There are little pits that grab individual grains of sand.
+
+Heather 1:40:57
+You know, the the How do they make it work is not described. And I think it's actually not about grabbing individual grains of sand, but rather not being trapped by those individual grains of sand that if you had these little hooks that were going in the same direction as your body. If you're trying to go sideways, you get stuck, right, you would not be able to go sideways. Whereas if you have these pits, you now should be able to move equally well in any direction and presumably not as well going forward as a snake with the hooks on the bottom. Cool, right? So I think that's super cool. In part because I like snakes, but also because
+
+Bret 1:41:33
+you still haven't told us what the mangroves are doing. Exactly.
+
+Heather 1:41:36
+So I think maybe the most interesting thing here is the snakes. But the convergence like side winding evolved three different times in in crotalus in pit Vipers. And this put me in the mind of mangroves. Yep, yes. So, mangrove is also a convergent category. There is not an evolution of mangroves and then we see them in various places all over the world. It's a an adaptation to a problem, too. It's a solution to a problem that the animal has encountered. So just like three side whining snakes exist in in environments where they have very loose substrate. mangroves have evolved several times in the world. In in places where there is either regular flooding and or a lot of salinity in the water,
+
+Bret 1:42:35
+you call them you call them animals, which I think is cool. I think they've earned it. Did I call the mangroves animals? Yes, you did. Cool.
+
+Heather 1:42:41
+Okay. Birds aren't but mangroves are there it is. Okay, so I want to just read this is from a piece that I wrote. I posted on my Patreon A few years ago, about the fabulous Field Station novel patio, down near the Sonora Sinaloa border on the mainland of Mexico, looking west towards the Sea of Cortez, which Steve Harbin, Steve Harmon, who was an extraordinary naturalist North ologists, who died last year who was one of the nearly founding faculty members at evergreen who you described prior to I talked about actually I think it was Episode 17. I had I had recently heard of his death and I give homage to him. He really was extraordinary. And he was I was actually hired to quote unquote, replace him. Often faculty positions are like that. And he was people described him as prickly. And I think he was just fed up with the stupidity that was rife in almost everyone and he liked to be pushed. He'd like right away upon meeting him I was willing to disagree with him and he adored that which actually is the sign of a excellent scientist, right? So he had found this place that is now called Nava patio many many many years ago and at one point early on, a student of his Adam Han accela was going down with him and he took Steve's daughter Sally Sally Herman, down she is a botanist. And to surprise tea for his birthday anyway, long story short, which I described some of in this piece. Adam and Sally for many years ran of a party I was a labor of love. And it was an I was I was lucky enough to spend I don't even remember like just 1012 days or something down there many years ago with Adam and Sally and several evergreen students. And it's just it's a it's a glorious place, unlike anyplace else. And actually, I believe, I believe that our former student micros wiki is now running Nava potty. And that it is it's fabulous and it's open for people to you don't have to be an active researcher to go down there. So we have a standing invitation. You know, I encourage people to look it up. But the very I give all of that background In a conversation was supposed to be about snakes and sidewinders. To make sense of this third from the last paragraph of this piece on my last full day at novel patio, Sally Herman leads me through the mangrove Labyrinth on the island, we paddle over, then mostly pull ourselves through holding proper roots and branches gliding looking emerging into an inner Lagoon, then do a hidden exit through more mangrove. Here, there are three species of mangrove they look different and accomplish what they do in different ways. But by virtue of their shared habit of having their roots immersed in the tidal zone, and having therefore to pull saltwater in and convert it to fresh would give them all the name mangrove. But oh again, the problem of names. In this case that word mangrove reflects shared solutions to shared problems without reflecting shared history. There are at least 36 unique plant families in which mangroves have been identified. And those families are generally not entirely made up of mangrove forms. To be a mangrove has to be convergent with many others, not of your own kind, none of your lineage but others who have encountered a problem, there was salt in this water all the time. And also the trade off on the other side of that problem. There are a few other plants here few who could compete with me, if only I could figure out how to clear the salt from my system. And so mangrove the strategy evolved many times over in many places around the coasts of the world. So there is Lifetime's to say about convergence, but the connection there is mangroves, I mean, this this is I did not go back and see what the current phylogenic thinking is. So that was the current phylogenic thinking as of whatever, three or four years ago, but 36 times Yeah, the mangrove habit has evolved in the world six times.
+
+Bret 1:46:39
+That's amazing. I will say, of convergence, this, that, if not for convergence, everything in evolution would be a single data point, and we would have no idea what's going on. And so I think convergence is in many ways, the most beautiful of evolutionary processes, because when you see evolution, do the same trick twice, you know, an awful lot about what's going on that you couldn't say for sure. You know, in fact, things like feathers, right? You would think that the evolution of feathers would be a straightforward thing to explain. And in fact, it's not there. I don't haven't checked in on this recently. But there are multiple hypotheses for the evolution of feathers. And it's very difficult to sort out because feathers have arisen exactly once.
+
+Heather 1:47:27
+And asterisk, which will intrigue like two of our viewers, the order in which feathers and thermae and flight and arborea. ality evolved in basil birds is actually a contentious issue. So you might imagine that flight was, you know, that flight couldn't have happened before like that some of these things are inherently true, but actually, it's a live debate.
+
+Bret 1:47:53
+Yep. So anyway, it's a it's a beautiful process. And thank goodness for it. And just another final little piece of that is that there are two parts to evolutionary biology and they are really mirror images almost exactly. Right. So you have phylogenetic thinking, where you try to figure out what's related to, to what, right? And then you have adaptive thinking, which is, why does it look that way? Right? Why does it behave that way. And in order to have any idea why it looks or behaves that way, you have to have a phylogeny that allows you to see who's actually related to whom, in spite of who seems to be related to him. And in order to do the phylogenetic work correctly, you have to swamp out the false signal that comes from convergence, which they call homoplasy. and define as an error and it's like, Okay, guys, you've just taken the most beautiful process in evolution, and you've called it error because it gets in the way because it fools you and you don't like it, which I understand but nonetheless, in some ways, these you know, you would think evolution was one discipline and it's really like two disciplines that meet at an uncomfortable border. Yeah. And but we have a history in both of those traditions, but
+
+Heather 1:49:10
+and the best you know, in as in any field and for anyone, the more specialized you are, the harder it is to see across the gap to see across into places that you don't have deep familiarity. But our two advisors, and we really both both worked with both of them, but on paper deck Alexander was your advisor and he was on my committee but our no clue he was my advisor and Dec Alexander, you know, knew deep things about phylogenic systematics but he was in no way a systemic test. He was he was a micro guy. He was a behavior and population level processes guy. And Arnold Coogee was a deep history guy who also actually published a monograph, based on like almost a year studying the point studying frogs in the Canal Zone. Panama I can't remember at the moment which clade it was. And I'll kick myself nesbo Gladiator frogs. frogs, yeah. pipeline road on pipeline road. Yeah. But But he, you know, he made his name for himself. And he was I mean, he still is alive, a towering figure in systematics doing the deep history stuff. And I remember going to him at one point late in, in my dissertation, after having heard him sort of rail against, you know, finding convergence places where it was really irritating to find a guy like Dr. gluggy. This, you know, this is entirely what I'm doing, you know, this, this is my work, and I'm your student, and, you know, are you in fact finding, finding what I'm doing nothing but error, nothing but noise. And, you know, he, to his enduring credit, he was shocked at the question, right? It's like, no, you're, you're doing terrific work. It's not phylogenic work, but it's different. So where you are spending time he said to me, what would be noise to me his pattern for you? And vice versa? And you know that that is one of the the additional truths about doing science is that depending on where you're standing, what questions you're asking, the things that you're trying to, like, reduce to the level of, I don't need to pay attention to that might be exactly the things that other people are trying to rise up to the surface to try to explain.
+
+Bret 1:51:24
+Yeah, in fact, noise is completely defined with reference to what you're studying, right? It's all pattern of one kind or another. But yeah, noises. It's confounding, literally. But yeah. All right. We're there
+
+Heather 1:51:43
+we are there. Do we want to show the thumbnail picture for this week, or just have it be up? Maybe quickly? Okay, Zachary, if you can do that. All right.
+
+Bret 1:51:54
+So we are going to change up our thumbnail game because pictures of us behind this desk all look alike, more or less. So we are going to try to use a new photo, we're setting the challenge of finding a photo that we take each week of something worth photographing. And this is your photo. Heather, you want to say what it is?
+
+Heather 1:52:14
+Yeah, just the the night Scott, the sky at dusk, last night was extraordinary for was and you went out on your bike, and I went out on a walk. And the it had been dark and dreary and rainy all day, and it cleared with high fluffy clouds, right about, you know, half an hour before sunset through half an hour after sunset, at which point you couldn't tell anymore. And on this walk, I found myself approaching this tunnel. And it I guess it struck both of us as potentially appropriate to use as a thumbnail. As you know, you can't it looks like what's at the other side of the tunnel is the same thing as what is on the side. But you can't totally tell when you just you know there there are a lot there are a lot of such paths that we are all finding ourselves on right now that well do I turn back? Or do I just go through the tunnel and see what happens next? And I would say in general, we shouldn't be going through the tunnels.
+
+Bret 1:53:11
+Yep. So this has some meaning for me because the kids and I had played around in this park on this trail system. And anyway, so I think I had mentioned it to you at some point long enough ago that you hadn't remembered that I had mentioned it and so you came back excited about this
+
+Heather 1:53:30
+place covered this park
+
+Bret 1:53:31
+I had no idea existed. Right. And so you know, in a little bit a few questions later, it became clear I discovered it you discovered it. Yes, in rather the same way that crystal ball cologne discovered the American. Exactly that sort of discovery. But anyway, it is sort of interesting a to have you happen on to this place that had really struck us many months ago. Yeah. And, you know, then to discover that was the same place and even just the weird human fact of like, you know, if we didn't have language, we could have been there many months ago. And then you could have ended up there today. And there'd be no mechanism for exchanging the information or comparing notes. But anyway, it ain't like that.
+
+Heather 1:54:16
+Yeah, it's not like that. So, okay, we are going to take a 15 minute break. If you are on Youtube, we encourage you to join us after that for live fire q&a. We'll be answering questions from Super Chat. If you are listening to the podcast, we'll be back in a week. Before then, though, for for both YouTube watchers and podcast listeners, there will be an additional episode of Darkhorse that Brett is doing that Brett has recorded that will be up maybe Tuesday, Wednesday of this week with sure Daniel Schwarzenberg should be a terrific conversation. Well, it was a terrific conversation only you and Daniel know that at this point. I guess sec.
+
+Bret 1:55:00
+I think we're both pretty jazzed on it. Excellent.
+
+Heather 1:55:02
+So Daniel is a friend of ours. He's fabulous. And we encourage everyone to listen to that as well. We will be back as usual 1230. Pacific Saturday next week, please consider supporting us at either of our Patreon is mine, Heather Hein has the Dark Horse membership where you can get access to the once a month private q&a, which we leave up as a link after. So even if you can't join us live, you can you can watch it's a two hour q&a.
+
+Bret 1:55:30
+We do not guarantee that the answers remain true.
+
+Heather 1:55:35
+Yes, there's a there's a statute of limitations on the veracity of the answers.
+
+Bret 1:55:41
+There is very that's not the right
+
+Heather 1:55:43
+description. No. You have conversations at your Patreon including tomorrow morning tomorrow,
+
+Bret 1:55:51
+it has been moved one hour earlier than has been our traditional to
+
+Heather 1:55:55
+nine o'clock nine to 11 on on Sunday, on either of your Patreon ends at $5 or more per month you can get access to the discord where there is an ongoing a lively conversation I hear.
+
+Bret 1:56:09
+There's also I think it is now safe to say that we are also I have done one where I drop in and do a q&a there. Maybe you will join me for one of those in the future. But I will certainly head back and do that. I
+
+Heather 1:56:22
+think you're actually on the schedule for next week sometime.
+
+Bret 1:56:24
+I believe that is true. Yeah.
+
+Heather 1:56:27
+You can you can get your first against the wall club and other merchandise and we'll be coming out with something new again soon at Star store. Dark Horse podcast.org. And maybe that's not yet that could be yet. That could be it. Okay, we'll be back in 15 minutes. For some of you and a week for the rest of you guys outside.
+
+Bret 1:56:47
+Yes, immediately.
+
+This transcript was generated by https://otter.ai

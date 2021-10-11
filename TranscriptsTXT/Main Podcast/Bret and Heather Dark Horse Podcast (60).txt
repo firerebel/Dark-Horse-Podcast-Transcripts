@@ -1,0 +1,589 @@
+Bret 0:16
+Hey folks, welcome to the Dark Horse podcast live stream number 60. Apologize for the late start. Our Tech has gone totally 2020 on us. Merry Christmas.
+
+Heather 0:30
+Now Christmas Happy Boxing Day.
+
+Bret 0:32
+Happy Boxing Day. I know that one's right. Will you tell me I am old enough that I should absolutely know this having grown up around many Christians? Do I say Merry Christmas now that Christmas is over? Or do I not? I have no idea. You have no idea? You don't know. All right, well, definitely have a merry Boxing Day.
+
+Heather 0:54
+So where are you all about protocol. Anyway,
+
+Bret 0:56
+I it's I'm a late bloomer in this regard, at least. So yes, I don't know. I don't know what that's about. I think I'm I'm feeling a certain amount of trepidation. I think a lot of us have been assuming that 2021 is simply going to be vastly better than 2020. Just by simple matter of reversion to the mean, it is very likely to be an improved year. But there's no telling. I mean, it could be that whatever it is that put 2020 in motion, the way it did is going to continue into 2021.
+
+Bret 1:31
+Gee, I wonder whether or not that could be the case. Whatever put 2020 into motion the way it did say the the public reveal of a virus on literally the last day of 2019 could perhaps follow us into 2020. Right? not obeying temporal boundaries that are in fact entirely human constructs, even while the astronomical realities of things like substances are not human constructs?
+
+Bret 1:56
+Well, I was I was thinking that the larger context in which COVID is embedded, right might be might be different. Obviously, COVID is a very unlikely to be cured by the beginning of the year. And so I don't know, at least at least we have no presidential election scheduled yet. 2021. So likely to be better on those grounds alone. Yep. But I don't know. I mean, we none of us really have a good sense of exactly why everything seemed to come to a head in 2020. Although I have a hypothesis,
+
+Bret 2:33
+I honestly have no idea what we're talking about. Can I just stop for a second for a sec? Is there any way that we can get a view on the camera or is that just not going to happen? All right, it's just a little disconcerting to be talking into blackness. Okay. All right. I'm
+
+Bret 2:51
+gonna save my hypothesis.
+
+Heather 2:52
+No, go for it. Please go for it. Nope,
+
+Bret 2:55
+I'm holding it back. Why what's just happened? Let us move on to the material of the podcast as we had it scheduled. So what was the
+
+Bret 3:08
+I'm eager to hear your hypothesis.
+
+Bret 3:11
+I I'm going to hold a more appropriate place in in the broadcast. So we had
+
+Bret 3:22
+this so far, this is a very rocky start. Welcome to Episode 60. Everyone, here we are. We're going to talk a little bit about those weird interstitial spaces between moments that are important and that mark transitions. Hey, there's a screen. Thanks, Zack. And then obviously, we're gonna talk a little bit about locker rooms and climate change and the brain cases of shrews, and maybe a little bit about traffic. So you know, all very coherent narrative as per
+
+Bret 3:54
+2020. Right, right. We'll just we'll read kick it off. Welcome to the Dark Horse podcast live stream number 60. area we are staring down the barrel of 2021 and raring to go. Oh, we
+
+Bret 4:05
+are raring we are. Darn what is raring.
+
+Heather 4:08
+Not sure. Well done, I
+
+Bret 4:11
+get to you. Do you ever hear that word? absent being followed by to go? Are you ever raring all right? on the couch,
+
+Bret 4:22
+New Year's resolution? I'm inspired. I first New Year's resolution is going to be at some point during 2021 at a moment when it's not wasted. I'm going to use the phrase, raring to stop.
+
+Bret 4:37
+I like it. Very good. Okay, well, I'm excited. For the moment when you are raring to start raring to start. Yes, yes. All right, so great. So we are yesterday was Christmas.
+
+Bret 4:49
+Merry Christmas, if that's still appropriate.
+
+Bret 4:53
+Christmas to you. Thank you, and to all of you and Hanukkah had long since ended. The Solstice was Four days prior for this prayer, and of course, the new year is is coming right up. And for me growing up in a house that celebrated Christmas, I'll be it without very much really any religious associations with it even though my father had faith this week between Christmas and New Year's always had a particularly strange, somewhat wistful, somewhat sad, but also hopeful feel to it. You know, it's, of course, when you're a child, if you're normally in school, you're not in school right now. I mean, our children haven't seen the inside of the classroom since March. So this feels very much not like not nearly as unusual as it normally would. But so the fact that that you would normally not be in school, and that your parents, if they both work normally have at least several days off, contributes to that. But it's also I think about just the fact that there are these two major holidays, regardless of whether or not you actually celebrate Christmas, in the US, it is so ubiquitous, a part of the culture that it is all around you everywhere, and and by by this moment, Hanukkah is almost always completely ended. I think there may be some years when it continues on past into very late December. And the New Year, of course, is both a human construct in terms of us defining it as whatever it is five days from now, but also reflects an astronomical reality that is absolutely salient and important with her and would have been important to you, anyone trying to make a living on the planet in any way. Until, until very, very recently, it's only the very strange modern condition of being human, in which maybe it doesn't really matter to you that you've got a full cycle around the sun. Right? But so there's also this like, just like this, this interstitial pneus of it. It's it feels it feels liminal. And I actually want to return. I don't want to spend a ton of time today on this question of, of liminality. But when karneval happens, when that time, you know, and within, I don't know what it is this year, but in a few months, I want to come back to this question of what Carnival is, as someone who has now taken students into Latin American Carnival in a couple of places, and and talk about what this this moment is sort of shutting identity and playing with identity is it's almost returned to childhood. And this moment in time feels a little bit, a little bit like that, like it's got this potential of, okay, as much as that year was whatever that year was, let's see if we can finish this up. Like if we can, you know, if that thing is gonna burn to the ground, We'll rise from the ashes. Can we make it something better unexpected emergent, that maybe no one including ourselves has imagined before?
+
+Bret 8:07
+Yeah, it is. It is a weird kind of a status. And you know, there has traditionally been a period in many calendars, because you and I have talked before I think maybe even we talked last week about the fact of the calendar being very hard to calibrate, because it's not an integer number of days, which can be dealt with in a number of ways. You can either physically instantiate the calendar where the exact presence of the sun on the horizon at some location is used as a marker, that marker doesn't
+
+Bret 8:42
+move, the most famous one that people will be familiar with being Stonehenge, Stonehenge,
+
+Bret 8:45
+but there are many, many of these Earth clocks. And in fact, there's one, I didn't know we were going to be talking about this or I would have looked it up, but there's one. Somewhere in northern North America, there's one before the population had figured out how to calibrate their clock they had tried to do it, I think based on the moon, the moon phase, which is also not an integer number with respect to the year the number of complete moon cycles. And so anyway, there's paleontological evidence of them having dug up their clock and rebuilt it again and again and again, trying to get it. Right. But anyway, yes, so the interstitial space here after the solstice, and before our new year, the New Year, obviously being arbitrary. You know, as you were speaking, it occurred to me that it would not be arbitrary if it had been on the actual solstice. And I do wonder if in fact, obviously many their calendars differ as to when they placed the new year but this one doesn't seem to be so accidental, and it does sort of suggest a sort of near miss. Yeah, this doesn't a start of the year. You know, if it had been on the 20th
+
+Bret 10:00
+Well, 21st but I actually feel like there's value in it. So you just said, between the solstice and the new year, I was thinking you really the week between Christmas and New Year's, but it's, you know, in terms of astronomical something, the solstice, and whatever moment, you've decided to call the New Year, still being reflective of Okay, one year ago, we were in the same place relative around the sun. And it's a way of keeping track of your own life. Having that delay of in the case of Solstice to New Year of, you know, 10 days ish, we can have actually potentially has value, right? Like it, it allows you time to reflect, and it's not just okay, we're looking forward to this thing, and boom, it happened, it's over. And now you move forward like this, it actually allows for a slowdown, most people do not feel like we need more of a slowdown in 2020. Right, like there's been, there's been plenty of that, thank you very much. On the other hand, as much as we have been much more at home, still, you know, not going out not experiencing things that we would have been experiencing all of us as a result of COVID and resultant political and cultural response to it. There is it has been difficult to get any distance enough to reflect and maybe maybe we can use not us necessarily right now. But maybe all of us can use these next few days to think on what actually we we we personally did. That was appropriate, it may have you know, the the the virus and its downstream effects may have revealed things about our own selves that are useful to us. Both in terms of Wow, I actually have that capability or, huh, that came out and I didn't I wish it hadn't. And now I can see it, and maybe now I can act so that it is minimized in the future.
+
+Bret 11:52
+Yeah. So there's there's two things, there's sort of a, you know, personal growth, you know, monitoring from a fixed period before and then there's also a question of, you know, how different things are obviously, this year, you know, basically it is a year since COVID, broke into the world framing. But at some point, for example, we will face a year in which the price of fossil fuels has changed so much that getting coal in your stocking is a good thing,
+
+Bret 12:22
+huh? Yeah, yeah. Okay. Even if you're a child, you think?
+
+Bret 12:26
+Well, sure. I mean, for one thing, you know, it's worth enough. You can trade it up for a PlayStation or whatever it is that you really want.
+
+Bret 12:35
+I think our children would actually prefer the oranges.
+
+Bret 12:37
+The oranges. Oh, sure. Yeah, sure. Yeah. That's one of the reasons that we get the mind.
+
+Unknown 12:44
+Your whole crate?
+
+Bret 12:46
+Yep. Yeah, absolutely.
+
+Bret 12:49
+Yeah, so I mean, there's there's a lot to say here about the value of tradition and about, especially at a moment when it's very hard to, to have many of our normal traditions to consider what their value actually is to not overthrowing them just because it's what you did as a kid and you think you've outgrown them, or because you can't do what the value is, you know, Chesterton's fence in the form of Chesterton's traditions, the sort of thing, and that's not to say that all traditions have value or need to be need to be carried forward. But think before you get rid of them, and maybe in this, you know, unfortunate sort of whittled down moment, consider whether or not there there are more that you might create and establish, and they might be annual, they might be, you know, when they're sort of daily, we tend to call them habits, rather than tradition. You know, there's some there's some temporal scale long enough, by which we tend to call it a tradition. But even you know, seasonal, you know, this. People who celebrate for instance, the astronomical realities of the solstices, and the equinoxes have those as rituals or traditions and it helps remind them of sort of, yes, where they are in the seasons, but also to say, ah, last time I did this, I was here I was in this headspace, I was with these people I felt this way. It's also you know, it's one of the reasons that people journal it's one of the reasons that people you know, leave, leave clues to what they used to think for their later selves to find, because it actually can calibrate you in your world.
+
+Bret 14:25
+Perfect. All right. Here's what I think here's my hypothesis. This is the one that you were going absolutely awesome. Okay. Now mind you, if this is true, it's important and you need to pay attention. 2020 is what happens if you eat the silicon gel? That's the hypothesis. So I don't know who ate the silica I
+
+Bret 14:46
+don't think it was collectively you don't think all of us see.
+
+Bret 14:49
+One person needs the silica gel 2020 is the kind of gear you get. And so basically we all need to get on that we got a collective action problem here to beat the band, right? We need everybody to just resist To the urge to eat those little packets of silica gel, just throw them out with the box. Do
+
+Bret 15:04
+you think it was an anti authoritarian? Who just could not take any more? I was like do not eat really do not eat? Really? I'm just
+
+Bret 15:11
+Yeah, exactly. Yeah, exactly. It was a rebel, who was just To hell with it and didn't. I mean, he didn't hear the risk. They were putting the rest of us had no idea. Yeah, well damn them, drive them right out.
+
+Bret 15:25
+So we did before we talk about things, totally distinct from this. We actually did something this week. That used to be in your life a lot when you were growing up and was in my life a little bit. And we had before this week, never died as a family. I hadn't done this in decades. Our older son, our producer, had been had been taken out for like, an hour once. And you had gone out with our younger son twice last year, two days. Yep, two days. And then COVID shut the whole thing down. So what is it and what do you want to say about Yeah,
+
+Bret 16:01
+so the thing is skiing, which is its own weird kind of phenomenon, but skiing, alpine skiing, yeah, downhill skiing, as they used to call it. Which is, you know, it's a very fun, slightly artificial but very much out in the fresh air and in a beautiful place, kind of an activity. And anyway, it's been something that has been hard for us to do I mean, it's expensive, it's often far away. And it just so happens Portland has good skiing within a couple of hours. And so anyway, we just finally bit the bullet and did it and
+
+Bret 16:39
+found ourselves in a beautiful volcano one lovely Wednesday morning. Yes, on
+
+Bret 16:43
+Mount Hood. Now Toby and I had sort of innovated the process, you know, basically, it's a couple hours away, so you drive there and you drive home and working from your car is a whole different way of dealing with it. So anyway, Toby, and I figured that out last year, and then after two days, the ski resort actually made us a deal for a little bit extra. If we just paid less than one extra lift ticket, they would give us a season pass for the rest of the season. And so we did it and then COVID ended the ski season abruptly and we've been resenting it ever since. So anyway, this is our chance to get back on the slopes. But I do want to show you a couple of pieces of video and then I want to make a connection which I'm not 100% certain of but I'm pretty sure so Zack Do you want to show? I don't know why don't we start with Toby.
+
+Bret 17:33
+So this is going to be Toby on his third day of school
+
+Bret 17:36
+This is his third day of skiing ever. And this is actually
+
+Bret 17:41
+for those of you who know Mount Hood This is timber line.
+
+Bret 17:43
+Yep, this is timber line right up at timber line. resort and this is you know, here's the end of the day so actually Tony's getting tired here but man look at him for three days. Right? It's stunning. He's pointing he's 14 and taking to it like water Alright,
+
+Bret 18:07
+expression because the fish who live in water presumably always have
+
+Bret 18:11
+yes exactly like a mudskipper to mud maybe would be excellent better.
+
+Bret 18:17
+It's less than I think it's gonna catch on. Oh,
+
+Bret 18:18
+I know it is. Alright, Zack you want to show the other video of the other son skiing on his first day of skiers Zach This is he This is day one point for him.
+
+Bret 18:30
+So what do you say afterwards? He says it's pretty quick too because he has like an hour yes our previous January of this of 2020 Yeah, but anyway,
+
+Bret 18:39
+check this out. This is a guy with I mean, this is not quite the end of the day. So this is less than one full day of skiing and look at him go amazing now. So I could just be a proud father looking at my two antastic coordinated sons zipping down the mountain and feeling a kind of elation and it might mean nothing to anybody else but it means something to me well sure it means something to you. But here's the B hypothesis about this. Both of these boys have taken have picked up skiing at a rate that I am not familiar with. This does not look like you know a few days in or in Zach's case one day.
+
+Bret 19:23
+Yeah. And let me say before you continue that because you will not say this that you are an extraordinary skier like you. You just are you've skied so much as a child and then you're new and you also went out as a teenager with a good friend of yours who was also an excellent skier and you pushed and pushed and pushed each other. So you really you know, you know skiing and yeah, you're both fantastically comfortable even after you know decades not being on the slopes. But you know what you're looking at, you know, you're talking about
+
+Bret 19:52
+So just to clarify this I was after many years of skiing and aggressive all mountain skier when I was Dealing with my you know, teenage male friends we pushed limits and skied places that we shouldn't have and all of those things. And then you and I got together you weren't. You hadn't done as much skiing nor was a teenage boy no you were you were not a teenage boy that you could give them a run for their money. But anyway, you and I perfected the art of goofing off on skis,
+
+Bret 20:22
+which is taught me how to ski backwards. We spent a lot of time of what's it called in the slot country? In the trees in the powder? Yeah, so I just called slack
+
+Bret 20:29
+country it is now Yeah, but but anyway. So anyway, I very much like goofing off on skis. I think I like it quite a bit more than I like the Daredevil stuff, you know, gets old very quickly. But anyway, yeah, I do know what it looks like to learn to ski and skiing has changed a lot. There have been major innovations in the equipment, the slice of and recognizable loop on the top of Bhutan, that allows you to pull the tongue up so that you're not in quite so much pain. I mean, that is a marvelous invention. How did we ski before that?
+
+Bret 21:03
+I don't know. I remember it being painful. It was
+
+Bret 21:05
+painful. But anyway, back to the point. The point is, why are these boys learning this sport so quickly? And I think the answer and the boys concur. They've obviously only learned to the ones but the answer has to do they are they are both very coordinated and athletic. But the other thing is, they both have learned and are much better than me actually on electric unicycle, which is a very odd little device. Very interesting. And at some point, I'm going to do a podcast on it with a friend who is kind of an important person in that little world of electric unicyclists. But anyway, this is a device, it's a single wheel, with two petals on either side. And it's motorized, and basically there's a little computer in it that causes it to balance you as you tilt forward, whoops, tilt forward, it zips ahead to get back under you, as you tilt backwards, it would zip backwards to get under you. And you control the left right balance and you steer by, you know, doing what you would do. And the thing is, it's not exactly like skiing. In fact, there's one way in which it's a mind bending distinction from skiing, which is in skiing, if you put weight on a ski, it becomes your downhill ski. That's how you turn even before you ever think of it that way. on electric unicycle, I believe it is actually the reverse, which is very strange, I think because it is powered rather than gravity pulling you downhill. But anyway, it's a confusing little puzzle. But But the thing is, other than that, the similarities are many, right? The way you control the thing and getting used to controlling the thing as
+
+Bret 22:50
+your mo sense of precariousness. And you need you need to have some faith in your body and in the in the tools you're using to not fail. If you're constantly worried, excuse me, if you're constantly worried that something is going to fail on you, you can't you just will never get going particularly
+
+Bret 23:07
+Yep. And there's something about the control of momentum, the trusting you know, as you're skiing down the hill, you know, you're not you are using the sort of fluidness of it to to get down I don't even know how to explain it in words properly. But the basic point that I want to make is that the it is weird to find two things that are so dissimilar for which one is such a useful developmental experience for the other that in fact, I don't know how fast relative to somebody who had just never been on either device. This progress is but
+
+Bret 23:50
+what so as you know, I don't I have not yet mastered the electric unicycle. I haven't I haven't really tried yet. But but we're also a biking family. We all we all bike and we all have really solid skills on both pavement and trail on on bikes. And yet you don't raise biking as an interesting and relevant precursor to to having an advantage in learning how to scheme and Is that it? Do you just not think of it? Or do you think that there's really a difference? In which case, you know, my observation that you have to really trust? The tools that you're using isn't necessarily apropos? Because the same thing would be true of biking?
+
+Bret 24:33
+Yeah, I mean, it may be I'm sure it has relevance in one regard. There's something about the experience of moving at that rate. And it being safe, which I'm sure just, you know in nerves due to the fear you might otherwise have on skis for the first time, but I don't I think the way that you control a bike is sufficient. Gently different, you know, and also, you know, maybe what it is. There's something precarious about all sports in which you have, you are perched over a very low center of gravity, the way you control yourself on skis requires you to deal with, with that in the same way that a skateboard would, or skates or any of those things. And the electric unicycle is similar in this regard, in a way that a bike isn't, you know, a bike you can kind of barrel over large obstacles if you have, you know, tires appropriate to it at all. So I think I think it's distinct. It's distinct, but I'm sure then I'm sure there's some relevance. Yeah. Yeah. All right. All right.
+
+Bret 25:47
+Anything else to say about skiing? I mean, no doubt, but right now?
+
+Bret 25:51
+Um, yeah, there should be I don't know. It's, it's, it's interesting to return to it after so many decades, really have no contact with
+
+Bret 26:00
+it? Yeah, literally decades. I'm sure I was. It was, you know, early, mid 20s. Last time I was on skis. Yeah. And it was just wonderful. And, you know, obviously, being outside was a perfect day. It was cold. It was cold, but it was sunny, and there was little wind, and this and the snow quality was quite one remarkable. Yeah, for groomed slopes.
+
+Bret 26:25
+It was really nice and Mount Hood. And in fact, Timberline, where we were skiing is especially nice. It's kind of small. I grew up, skiing in Mammoth, as you did in Mammoth is huge. Yeah. And, you know, this is, I think, six total lifts. But it's interesting. It's, you know, the lodge itself, where you start is right at the tree line. And you've got this, you know, glorious, immense peak above. And anyway, it's a very nice and nice little place to scheme.
+
+Bret 26:58
+Yeah, indeed. All right. Well, you wanted to talk we've got we've got shrews. We've got locker rooms, we've got a rare bit of good news regarding the present climate change. Maybe you want to you want to do that. Yeah, maybe maybe a rare bit of good news regarding anthropogenic climate change.
+
+Bret 27:16
+Yep. So let's see that get us to get us there. Let us talk about what I think is the biggest scary part of the whole global climate change picture which has to do with frozen methane clathrates in the Arctic. So basically, methane gets trapped in various forms. One of them is frozen methane, under the permafrost on land and under the sea floor. And there is such an immense amount of this stuff, trapped that it dwarfs any contribution that humans would make to global warming. And the problem is that the PA just
+
+Bret 28:00
+just because it's not a word that I am familiar with, except from hearing you talk about it. Methane clathrates. Yeah, word you're using. And people may also have heard things like gas, hydrate, hydrate, even. Fire ice. Yeah, in some context, one is the same thing.
+
+Bret 28:16
+I just thought about it, I would have had a video you can actually see in certain places in the Arctic, methane on fire emerging from sediments and things. So anyway, you can look that up. You can find it. But yeah, it's basically these structures, these methane structures that hold they hold methane stable in a frozen form. And the crystalline structure and evolving method involves water. And anyway, they're also chemically interesting. I don't know if you scroll up, maybe we
+
+Bret 28:50
+can find this is it this is just Wikipedia. Yes. But, but they
+
+Bret 28:53
+should have a picture of one chemically, somewhere. Maybe not,
+
+Bret 28:57
+not so much. Okay. In any case, there I mean, that's just
+
+Bret 29:01
+so yeah, there you go. It's too small. But yeah, there you go.
+
+Bret 29:06
+It's meaningless to almost everyone.
+
+Bret 29:08
+So I believe that's going to be the methane there in the center. But anyway, this is a very potent methane is a very potent greenhouse gas. And there's a huge amount of it tied up in these frozen clathrates in the Arctic. And some of it's under permafrost. Some of it's under the sea floor. But the danger is that it's you know, it's stable because it's frozen. And as the earth warms, it is going to be released at some rate. And what we have seen there's a particular Russian academic outfit that does a lot of studying of methane releases and they found these in Siberia, mostly Yeah. And in the ocean. Um, it's a it's a, it's a marine census,
+
+Bret 29:53
+maybe different. So
+
+Bret 29:53
+they've found these huge plumes of methane. And the problem is we don't have good baseline Data like, do you expect huge plumes of methane? If so, are they more common? Are they bigger? We don't know, I probably we know more than last time I checked in on this. But we because we don't have 100 years of data on these methane plumes, because in general, they're not of consequence. We, it's hard to say how alarmed to be about the fact that there's suddenly huge amounts of methane bubbling up in the Arctic. But the danger is that we could get to a place where positive feedback would take climate change completely out of our control, because to the extent that it gets warmer than historically, it has been, it will release faster, yeah, warmer faster, it will release a bunch of methane that was frozen that would otherwise have stayed frozen, that methane, because it's a very potent greenhouse gas will cause the following year to be that much warmer. That following year, will then release more methane. And so what you'll get is eventually a release of a huge fraction of that stuff. And at the point that that happens, there's basically nothing we can do, right? This is no longer a question of us controlling climate change, it's a question of us adapting to whatever is coming at whatever magnitude. And so that Dragon's Breath hypothesis is or that class rate gun hypothesis, the idea that it would go off like a gun is a very frightening prospect. And those of us who are most concerned about this happening are have our eye on this. And my contention has been the day on which climate change is no longer something that we could control even in principle, it will not make the news we will not know it has happened, we will not know that threshold has been crossed, it will just happen and then we will live downstream of it. But
+
+Bret 31:55
+you might not even be disciplined retrospect. Right, like, you know, 510 20 years later, right and pointed a little bit but
+
+Bret 32:03
+I think we will have a sense of it. Now we're doing enough monitoring. But it's the point is it's a it's a threshold, we will cross but it's not you know, it's not a threshold that can be named specifically I believe in the presentation is too too complex. So what emerged and actually I owe my good friend Kevin. h shout out for pointing me towards this. But Zack, could you put up the actually before you put up the article? Could you put up the pictures of the craters, the yamo craters? You can just start with any any of it. Okay, so this is the floor of one of these craters in the Yamal Peninsula of Siberia. Can you go to the next one? Here, some people rappelling down ends, you get a sense for how big these craters are, go to the next one. Okay, so here you can see from above, and those of you I know I talked about this on the podcast with Katy Hertzog. These craters are, I believe, very ominous, and I think that the images of them ought to be on everybody's mind. I don't see these images nearly often enough, given what they suggest. The these craters were
+
+Bret 33:19
+discovered. I mean, I guess we saw a persona. last ones. Yeah, we're talking a couple 100 feet across and
+
+Bret 33:24
+feet across. These were discovered, ironically enough by fossil fuel petroleum workers who were traveling over the Yamal Peninsula by helicopter, and they saw these holes in the ground initially, we did not know the explanation for them. The Dragon's Breath hypothesis that this was somehow an explosive release of methane was tested and turns out to be the best hypothesis probably true for what created though.
+
+Bret 33:51
+And the idea is, this is such an unpopulated region that there are no people around to report Oh, yeah, we heard that and we went and looked in that was never there before. Right now I witnesses to these correct craters being formed. Correct.
+
+Bret 34:02
+Now, I will say that the Yamal Peninsula is pockmarked by geological processes. So, how rare this actually is, I don't know. But it is certainly rare within geological experience. In fact, it's so rare that this particular formation does not have a name, right? So we have names for other things. And in fact, there were hypotheses that this was a pingo pingo being a geological formation that arises when water freezes and ejects dirt out of a hole. But it doesn't look like this. It's not explosive, right? Just like it's like cracking massive dirt and it would be there rather than they would be dirt remaining. Right? So this is not a pingo. Turns out, it's probably due to the explosive release of methane. And that's very frightening because what it tells you is goddamnit there's, you know, there's stuff going on on the methane released from the Arctic channel. That is profound. In terms of its scale and new enough that we don't have a geological name for it, right? As studied as geology is this is new. So that's scary, and we ought to be very worried about it. So in light of that having Yeah, why not? That's still the guy repelling their fourth picture. Okay. So now Could you show the article? So my friend Kevin forwarded me this article, which I cannot read it that scale. Yeah. And so anyway, this suggests something which may be the rare piece of good news that we get on the climate change front. What this article describes, is the discovery initially about tides and their effect on methane release and basically the idea was the higher
+
+Bret 35:57
+the moon here in the Titan, the headline title is just about the moon controlling the tides. Yes. Okay, that basically
+
+Bret 36:03
+the moon's effect on the height of the water column above the float frozen clathrates controls how much release the more water is standing on top, the less likely the methane has to be released, which stands to reason certainly so
+
+Bret 36:16
+there's it's not a binary Are you covered with water? Or are you not? It's actually the depth of the water by which you are covered is predictive, this is a continuous variable, the depth of the water which you are covered, is actually the, the greater the depth, the more protective against clathrate release, right? Is, which is is what is Yeah, served or it's a hypothesis. No,
+
+Bret 36:38
+no, this has now been tested. Okay, of course, always should be reversed. But yes, the idea is, the more water that's sitting on top of these, these methane hydrates, the less likely they are to be released, the smaller the plumes that we get. And the reason that that is good news is because it suggests a negative feedback on methane release, which is to say, if you take the scenario that we described up top where methane release or something else causes the temperature to warm, that warming temperature then causes more methane to be released, which causes it to warm further, that's a positive feedback, right? There's no controlling that it will be controlled by some other process. The water on top however, is something sea levels you all know are slated to rise if the temperature goes up. Why? Because the ice that currently holds a lot of that water will flow off the land and into the sea, causing elevation sea level, that's a bad thing, especially if you live on the coast. It's a bad thing for lots of reasons. But it may have this positive outgrowth, which is it will increase the depth of the water on top of the methane that is the greatest danger in this whole global climate change story. So the warmer it gets, the more water will be on top of the methane clathrates the harder it will be for it to be liberated. So it may be a buffer rather than an accelerant of climate change.
+
+Bret 38:07
+Wow, that so that that would be terrific news. These clathrates, which are it sounds like littered across the what pencil the yamo, the yellow pencil in Siberia. This is this is tied lands or it's dry land but low lying such that even with relatively small amounts of sea level rise, they would potentially be submerged.
+
+Bret 38:31
+As always, when we do this off the cuff Yeah, there's the danger of my saying something sure dumb, but it is Arctic permafrost. So these are it's dry land. low lying. And basically it's tundra. tundra is I think the right sir
+
+Bret 38:51
+Arctic permafrost, which could therefore become sort of marshy if things warm up, right, maybe depending on where the water table is, what the elevation is. And
+
+Bret 39:01
+yeah, and I have no doubt actually, that some of it is marshy some of the time. But there's a there's a permafrost layer that is buffered from the sun. And below, which resides an awful lot of methane, apparently, oh, the test, I should say the test and those craters involved descending into those craters to detect the levels of methane, which were sky high. So anyway, yeah, so we're piece of good news one. And you know, I must say in the better discussions of climate change, that I haven't done it recently, but I participated in years ago, there was always this sort of hope that buried somewhere in the complex system that controls the Earth's temperature was a hidden feedback that we had missed that could work in the right direction. And while this probably isn't sufficient, in fact, you know, it is the warming that it is the rise of sea level that brings the protection so that's not a good thing. But nonetheless, it is a feedback. At least I had never heard of before. That would work in our favor rather than against us.
+
+Bret 40:05
+Well, just fabulous. Hope it's true. Yep. Hope we don't need to rely on it.
+
+Bret 40:11
+Yeah, it would well be great for us to get our ducks in a row one way or the other. My sense, having thought a lot about all that we might do is that mitigating the release of greenhouse gases, it's too little too late. And that really our only plug and play hope for reversing what we know is coming is fusion power. fusion power, if we can, if we can get there actually would allow us to pull carbon out of the atmosphere, right, you can pull actively pull it out, you could pull it out of the atmosphere, the way trees do, for example, but you could do it as a result of a process in which you could basically use huge amounts of energy liberated from between these subatomic particles. And that you could use that make building materials out of co2 in the atmosphere and use it for something useful and lower the temperature? Well, it Yeah, probably we're not investing nearly enough in fusion power to get there in time. I don't know why we're not I cannot imagine why we are not investing more in it. We are investing, you know, small 10s of billions of dollars, which sounds like a lot until you realize now compare investing hundreds of billions of dollars, you know, globally in things like text messages. So anyway, yes, we are being very foolish not to pursue fusion. Yeah. Hopefully we'll get there.
+
+Bret 41:46
+Let's talk briefly about shrews. Of course. Yes.
+
+Bret 41:49
+I mean, it's that point in the podcast, where the mind shifts to the subject of shrews and other insect divorce
+
+Bret 41:56
+and other insectivores. Okay, so let's let's just start there with a brief phylogenetic note from your sponsors deep history. So shrews are insectivores, which sounds like it's a description of their diet, because we have these this language of like carnivore, omnivore and sack devore, full of or herbivore. But there we are using that term, and it's phylogenic meeting. And so and actually, actually, I made a comment maybe last week or two weeks ago about the car never ends with whom we live. And that is not a standard use of the term that is actually that was a student of ours, Brendan Brendan, who, in talking about the difference between ecologically eating meat being carnivorous, and phylogenetically, being part of the lineage, from which all extent carnivores, being part of the lineage who had a most recent common ancestor from which all extent carnivores, members of this clade belong. Those are called the carnivora. But not all the carnivora not all the carnivora eat meat. There are for instance, fruit eating Kinga juice, some of my favorites, and there are plenty of things that eat meat that aren't in the carnivorous. Right. So there are the carnivorous ones, which include basically the feel of form ones, which are like cats and hyenas and weasels and such and kaino form ones, which include dogs and bears and seals and lots of other stuff. Yep.
+
+Bret 43:20
+So, people who caught your explanation there, yes, well then make sense of the fact that snakes are tetrapods by virtue of the fact that they are in a tetrapod lineage without being quadrupeds. Right? So even
+
+Bret 43:37
+though tetra and I don't know which is Greek in which is Latin but tetrapod and quadruped Ed mean exactly the same thing, right? But four footed in this
+
+Bret 43:44
+family, we segregate these two things so that we can talk about snakes being tetrapods without tripping over it. But quadruped Ed refers to things that actually have four legs. Exactly.
+
+Bret 43:56
+So snakes are tetrapods who do not have four legs because they are part of the lineage tetra pota can get us our conference without ever eating meat because they are part of the lineage that includes all of the carnival runs. And there are insectivores insectivore an extra cash there's some new Latin name for that Glade, I
+
+Bret 44:17
+think. I think that clade turns out not to be a clay it's not a clay.
+
+Bret 44:22
+It's not so we're talking about that. Oh boy. Yeah, so I don't even remember then who belongs Where?
+
+Bret 44:28
+But But what Rest assured we'll figure it out and get back to you on that.
+
+Bret 44:32
+What trues are not as rodents, they're not ribbons. Okay. So, you know, half of all mammals are rodents, more than 2000 species of rodents on on the planet. Other corner of all the mammals are bats and that leaves every other single thing you can think of that's a mammal in that remaining quarter. And the insect divorce, which includes shrews are included in that quarter as well. So shrews have little tiny heads under the best of conditions and It turns out so there's this Polish zoologist Auguste analysis. This is old news and zoology. And I'm just learning about this this week. And given everything else that's going on, I'm not sure exactly why I was so taken by this, but I just kind of can't think stop thinking about it. Augustine now is poor. So Allah just made the observation back in 1949. He's long since dead. That the not just the brains, but the brain cases, the actual skulls of shrews shrink in winter and regrow in the spring. They are you looking for a shoe skull? Yeah, I'm sure we have one somewhere.
+
+Bret 45:36
+I do have one, but I'm not sure where it is.
+
+Bret 45:40
+We're always misplacing archery skills. So often, yeah. And so that, that became known as the nails phenomenon, the fact that trues shrink their brain cases, and also probably their livers and their kidneys. And that's amazing. But there's something about the brain case itself, the literal the skull, shrinking by 15 to 20% or so in the winter, and then re growing in the spring. That's so remarkable. But to know only observed this, he didn't, he didn't do what's called a match pairs. Experiment. He was just looking sort of population wide. And noticing that, I think it was museum specimens that died in the winter had smaller skulls than those that were alive in the spread that died in the spring and summer. And so maybe this is just about selection acting differently on animals that had smaller skulls in the winter, and in the summer, but in 2017. So again, not totally new. We find this published in Current Biology, profound reversible seasonal changes of individual skull size in a mammal. And these guys did the work. They tracked individuals, much to the dismay of the shrews, no doubt.
+
+Bret 46:51
+Oh, and to their significant others who no doubt, thought this was kind of cool the first time they heard it, but then dinner time after dinner time they kept I was certain
+
+Bret 47:01
+you're talking about the pair bonded shrews and their significant others.
+
+Bret 47:05
+But I can't speak to that. I
+
+Bret 47:06
+mean, yeah, so I don't think these shoes are pair bonded. Yeah, I don't think so either. No, but the authors here might well be and I'm sure they were sick of your is this are you? Are you saying to me that you wish I would stop talking about shoes? No, no,
+
+Bret 47:19
+no. On the contrary, I'm imagining that in general, the significant others of these true studying biologists were not themselves similarly interested in our case. No, I'm all for this discussion. Yeah,
+
+Bret 47:33
+it's really it's our children who are downstream of our enthusiasm, but we are equally enthusiastic about exactly the skulls of shrew shrinking in the Zack decagon. My screen back. So so they actually demonstrate it. For sure. So this, this denials phenomenon, turns out to be true. And apparently there's some evidence from weasels, too, which is fascinating because we azoles as per our conversation, you know, five minutes ago are actually current evidence. So they're not very closely related to shrews. And I guess the reason that I am so surprised by this Yeah.
+
+Bret 48:09
+Here I got it. Well, I don't got it, but I got a piece of it. If I'm remembering my Mammalogy correctly, both shrews and weasels do not hibernate.
+
+Bret 48:25
+This is absolutely true. So this this has been observed. The shrews are apparently eating some crazy multiple of their own body weight every every day to to maintain themselves and winter it's hard to come by food and brands are very expensive to feed. And if you just drink your brain and not your brain case, it's going to rattle around in there and not be not be very effective come springs, you're going to shrink the whole thing. So you know, in terms of what the adaptive advantage might be, I can see that although it also feels to me like everyone else is also hungry in winter. And if you've now got less brain by which to evade predators, this might be challenging for you. On the other hand, shrews emit some odors that make them quite unpalatable to at least mammalian predators. I don't know about hawks and such I don't know birds birds are such different sensory
+
+Bret 49:17
+most birds don't traditionally thought as you know, most birds don't have a very sophisticated sense of smell they're they're exceptions, right? like vultures
+
+Bret 49:28
+right? And I don't know about the the meal like the exhibitors, the Hawks and such Falcons but the reason I find this shocking, honestly is because we have in organism biology, a pretty old actually didn't go and look in the history to see how old our understanding of the terms determinant and indeterminate growth are. But this what these terms mean is if you have determinant growth at the point at some point as you reach adulthood, you hit A size and you do your bought your skeleton does not grow anymore You can obviously grow out you can always you can always get fatter but your your your long bones don't continue to extend for instance right and you know, we got sort of three types of skeletal stuff but I think even the, the cranial skeleton really doesn't you know, just doesn't your, your appendicular skeleton and your cranial skeleton, your and your axial skeleton are all there and this is this has been understood to be what mammals have and what birds have determinant growth there is maybe not a predetermined size because it's going to be affected by things like diet and environment. But at the point you hit it, and some other developmental things happen. You don't keep growing. Compare that to organisms with indeterminate growth, which include most fishy fish, crocodiles, squadmates, like lizards and snakes, which actually do keep growing, continuing continuously throughout their lives. Now that rate of growth slows dramatically and it almost looks asymptotic like it almost looks like they're approaching some some size at which they will stop but they don't it seems like they just they keep growing that's called an indeterminate growth. So if we were seeing this, like braincase shrinking in winter and the regrowing again in spring, in an organism with indeterminant growth like a crocodile, that might be scarier, that is true, but I wouldn't be so shocked by it. Like whatever is going on with regard to skeletal growth and development in like crocodilians is clearly different. It's more labor it's more flexible over the lifetime of the organism than it has been understood to be in mammals. And this thing that we're seeing in shrews suggests at least some mammals have this ability to not just turn back on change in in bone but actually reverse actually go smaller. Yeah, which I I just didn't even know this was possible. Well, frankly, blown away by it
+
+Bret 52:02
+My guess would be that there's a whole landscape of this stuff that we just don't know yet because it's not that obvious. 100% and this you know, stuff in the neighborhood, right, like, antlers. You know, antlers are bone. True, true. Yeah, that doesn't get reabsorbed. It gets dropped and regrown but there's some something there. So just
+
+Bret 52:22
+so yeah, it's not it's not reserved, but but you do get you know, something about male development prompts growth of new bone with a with an ability to then drop them at the end of the season. Yep, yep. Okay.
+
+Bret 52:37
+So one thing I want to point out though, is that this actually is reflective of something that you and I have long argued in many contexts, which is that the any hypothesis about brain size that does not include the understanding that brain is the last thing you want to be big, without a reason, right? That any size that you find in in the brain is there because it served the ancestors whose existence caused that very clumsy said but the fact of the brain having grown larger over time cannot be explained by any drift like cause because
+
+Bret 53:22
+he Brett I thought we only use 10% of our brains, right? Exactly.
+
+Bret 53:26
+That kind of nonsensical claim just doesn't stand up scrutiny because a the brain is so freakin expensive to run most expensive organ in the body. The size of the braincase, makes it vulnerable, right, so the bigger it is, the more likely you are to crack it and die.
+
+Bret 53:46
+In it wildly increases mortality for women in childbirth
+
+Bret 53:49
+wildly increases mortality for women in childbirth, and
+
+Bret 53:53
+then the hip widening decreases stability of walking right for the baby
+
+Bret 53:57
+to be born early, which causes a period of helplessness which is much harder for the parents to deal with. The loss of heat is proportional to the size of the branch. And heat is a huge expense. It's something like 85% of calories for endothermic that is warm blooded creatures like ourselves so the point is the number of things that push in the direction of cheese if you can get away with a smaller brain and do it yeah is huge. So to Pinto true if
+
+Bret 54:25
+you can.
+
+Bret 54:27
+Yes, be a pen headed true if you can. There's advice for all take that one at 2021. But anyway, so this does suggest that there's intense enough pressure on these things that even within an individual a seasonal opportunity to shrink the brain however that works is a good thing. Yep. And that selection has found it sounds like maybe twice and
+
+Bret 54:50
+maybe twice. Yeah. Which which then of course raises the question of like, really just twice. Are we sure right,
+
+Bret 54:55
+and it probably won't be but then here's the question. I want to know. You know, the Think about the brain is it's not like, more is good, right? More is good by virtue of how the neurons are connected to each other. So exactly what way are these creatures economizing and then rebuilding? What sort of structure? Is it that they can rebuild the brain? That's of any use at all
+
+Bret 55:18
+right? What are they? What are they losing access to? Right? Like, what Can't we do in the winter that they can do in the summer? I had to get and yeah, I actually Okay, so. So do I have it? Yeah, it's a little bit poorly formed. But I got it in my head. Yeah.
+
+Bret 55:33
+So I had two things. One is maybe they're not losing the neurons, maybe they're basically collapsing the structures intact. So there's a weird result in development, where the cells of the baby are present long before they are fully infused with resource, right. And so the point is the resource, you don't put the resource. pregnancy is dangerous. And you don't want to put the resource at risk before you have to because that's, you know, a penny saved is a penny earned, metabolically speaking? And so is it possible that the brain is being shrunken in size that basically, you know, the
+
+Bret 56:18
+play, but they're still walking around? Well, right. Obviously,
+
+Bret 56:21
+there are lots of parts of it. That won't be but yeah, are there sets of circuit as opposed to fully lost, right, as opposed to last and then regained, but yeah, mighty hard to imagine how that could be productive?
+
+Bret 56:33
+It is. On the other hand, we know that for instance, migrating songbirds literally lose their testes and regrow a pair upon landing in their northern migrating their, their northern breeding grounds. Yeah, because carrying around balls is too is too heavy to fly with for these birds. And so, you know, the thing that I was wondering about shrews is, is whatever you if it's lost rather than trunk down, or either way, really yeah, it's partially going to be about sort of whatever the true equivalent of mating and dating is, that they don't need in the winter.
+
+Bret 57:09
+Exactly. That was gonna be my hypothesis also was that there was a whole, you know, complexity surrounding reproduction that, you know, you're not going to need but again, I wouldn't imagine it would be lost. I would imagine it would be cold storage as it were. Yeah, but in passing, you just blew right by Oh, no, regrow a pear. Oh, no, I,
+
+Unknown 57:32
+yes. Well
+
+Bret 57:34
+regrow a pear. Now, that is an insult. Perfect for an era in which so many people are losing their ability to say normal things in the face of a crowd of people shouting at them and I think aren't going to start telling people to regrow up here.
+
+Bret 57:51
+Oh, I've actually I've, I've begun doing that occasionally.
+
+Bret 57:54
+Yeah, yeah, that's a good one. It's a good one. I like it. Yeah. Yeah, it
+
+Bret 57:59
+has broader applicability than if you were a bird landing in his northern breeding grounds. I think there are a lot of contexts in which we grow a pair. Is
+
+Bret 58:07
+that case? That's a pair, right. In fact, yeah. I mean, the right bird looked at you and said, regrow a pair. You know, it'd be a good sign.
+
+Bret 58:16
+Absolutely. Yeah. Get on with it, buddy. Yeah, exactly.
+
+Bret 58:19
+Yeah, exactly. Alright, well, are we there with the cruise? And
+
+Bret 58:23
+I think whatever the show is, yeah, I think we've done shrews. Britain, our already. Good lord.
+
+Bret 58:28
+Oh, my goodness.
+
+Bret 58:29
+How did that happen? Even? Well, we probably do want to talk about the transgender kerfuffle in the Evergreen locker room,
+
+Bret 58:37
+of all places. All places. Yeah. So how do we want to do this? We want to show them the Cairo video.
+
+Bret 58:47
+Well, let's just say yeah, set up very brief. And then we'll show you a two minute ish video from local news up in Olympia, Washington, our former home for 15 years more than that. And then we'll talk about it. So I know you want
+
+Bret 59:02
+to set it up? Well, sure. All right. So let's be you know, as always, we need to make an effort to be completely fair about this. Let's just describe what apparently happened and this will be largely in the video Also, but apparently, a trans woman that is someone born male, and you will hear them stumble over that very claim in the news report, but
+
+Bret 59:26
+not the person not the transcripts. No. One of the parents
+
+Bret 59:30
+know Well, actually, she does too. But anyway, yes. The news report says that this person was born a man nobody is born a man. Nobody, you know what I'm saying? Male Yeah, born male would be the traditional way of saying that in
+
+Bret 59:45
+and not assigned male either born male, born male, right? So anyway, sorry, we're not
+
+Bret 59:49
+doing a very good job. We're doing a terrible job. This trans woman, born male transitioned to female as an adult was apparently in the locker rooms at the Evergreen State College now evergreen is a college but those locker rooms were being rented out or somehow local high schools
+
+Bret 1:00:13
+and go and swim teams with elementary school kids.
+
+Bret 1:00:16
+Oh, I didn't know that elementary school as young as six. So these girls from these schools encountered this trans woman who has not surgically Not,
+
+Bret 1:00:30
+not pre op either, not not knowing no intention to have surgical change.
+
+Bret 1:00:37
+So male genitalia in a female locker room were
+
+Bret 1:00:42
+a middle aged man where there's teenage girls and younger, right,
+
+Bret 1:00:47
+and some of the girls parently reported this to their parents and the parents requested that something be done to get this situation remedied. And anyway, the remedy? Oh, yes, there's maybe we should just show them the video at this point. Zack, do you have it?
+
+Unknown 1:01:15
+person at the center of this controversy says she is being discriminated against forced to leave a facility. She has a legal right to use.
+
+Unknown 1:01:23
+I looked at her and said excuse me, and she said you have to leave. I'll be right back.
+
+Unknown 1:01:28
+Colleen Francis says she was using the sauna and women's locker room inside the Recreation Center at Evergreen State College two Wednesdays ago. The same facilities used by two female High School swim teams from Olympia, who practice in this pool. A woman told Francis to leave.
+
+Unknown 1:01:43
+She wouldn't identify herself she all she said was that there were a couple of girls that came upstairs to the pool and said that there's a man in the sauna.
+
+Unknown 1:01:51
+But Francis who acknowledges she was born a man says she has lived as a woman since 2009. Still, someone called campus police and local parents got wind of it.
+
+Unknown 1:02:01
+They're uncomfortable with him being in there, her being in there. And they are a bit shocked by
+
+Unknown 1:02:08
+it. Christie holderman. His daughter was one of the swimmers. holderman complained to evergreen college officials tell us they have been working with the Olympia School District, which leases space at the pool. But state law requires equal access to state facilities regardless of sexual orientation. So local school officials tell us they came up with a temporary solution
+
+Bret 1:02:28
+with a smaller private locker room next to the the main locker room there at the pool. And they've been using that.
+
+Unknown 1:02:34
+But Francis says she believes the students need an education.
+
+Unknown 1:02:38
+This is not 1959 Alabama, we don't call the police for breaking from the wrong water fountain.
+
+Bret 1:02:45
+But Alright, so there you have it. So this obviously raises interesting questions and creates a pretty good illustration of why inventing pronouns and forcing some kind of new usage is not a solution to the problem. Did you notice this, that the spokesman for evergreen there says that the college has attempted to come up with a remedy and that it has found some other locker rooms that they now use and it is unclear in the report whether they refers to the girls the swim teams or whether they refers to the single individual in question. Now, in fact, in writing, they remedied this in a clumsy way. But in the written piece, you they clarify it in parentheses, and they say that in fact, it is the swim teams that are using these separate
+
+Bret 1:03:54
+smaller, less good facilities. Because of this one person who in a separate report is revealed served in the military for 20 years and is now wearing a low estrogen patch and lipstick, apparently, and that that is I'm sorry, this makes me so angry. Well, you know, so we've talked about trans a lot in a lot of places. I encourage people to look at my letter wiki exchange with Abigail Schreier. If you're concerned that I'm not being respectful, we have trans friends. We say over and over that trans is real and actually one of the I think the first question we're going to get to in our q&a this this next hour is some people who are really concerned that what could we possibly be talking about when we say that but greatest system that's capable and it's gonna get gamed and how dare any system put girls and young women at risk because uh, Dude wearing lipstick who has sort of girly affectations wants to be in the sauna with his bits hanging out? It's not okay. Yeah, I got okay. I
+
+Bret 1:05:10
+agree it's not okay. I'm not, you know, I'm not sure her name was revealed. I think there's no harm in using it. Colleen here, you know, I'm not sure that the onus is on her to figure out how to navigate this. But I do think that the institution has an obligation to protect those girls first and foremost.
+
+Bret 1:05:35
+Well as as was the case in 2017, when what happened at evergreen happened there. It is not primarily the individuals who are spouting garbage fault. It is the responsibility of the so called adults to walk in and say you're spouting garbage and you will stop now and we are going to take whatever power you have arrested illegitimately away from you. This person Coleen is it has the frickin audacity to say this isn't Alabama 1959, I think is the random year that she comes up with rather than I think 57 is probably what she 55? I don't remember. No, it's not and frankly, a guy with an estrogen patch, and lipstick is not a black person using a drinking fountain. A guy with an estrogen patch and lipstick naked in a sauna with a bunch of girls. It's a different situation. And everyone knew that until yesterday, and this is something we talked about this is you know, Douglas Murray's formulation like it's it's one of these things that we all knew until yesterday. And how is it that we are all pretending that the Emperor has clothes? emperor has no clothes here?
+
+Bret 1:06:53
+So I agree with you, I still think the onus is on the institution. And while I think it is very clear, for many reasons, some of them biological, that the analogy to the drinking fountains is completely out of place. It's despicable. Well, it's despicable.
+
+Bret 1:07:11
+It's despicable that this person would claim that they were fighting a civil rights fight. Well, what they're actually fighting for, is the right to be naked in front of young women.
+
+Bret 1:07:19
+She shouldn't be in that locker room, you and I agree on that. The question is, this is on institutions as a reflection of the rest of us to get this right, and to prioritize those who actually are needed protection. And so in this case, what you have is somebody born male right? Now, why is it that women have their own locker rooms? Why is it that they have their own, you know, divisions in sports? And well, you know, why prisons? Right? We that exists, because males, for reasons, it's not our fault, but the fact is, evolutionary history gave us a power advantage. And that power advantage in the case of sexuality also creates a special hazard for women, not only are men in a position to overpower women on average, but the harm of having done so is that much greater. Now, this is partially historical. But just the simple fact of women carrying pregnancies means that the Jeopardy here is all the greater so do women deserve protections from men? Yes, they do. Right? For reasons that aren't any of our fault, it just happens to be the situation, there's an asymmetry in the biology, and that asymmetry justifies a protection, that protection does not reverse because you decide that you're female, or because you feel female. And therefore, the institution absolutely has to provide protections to these girls, rather than what they have apparently done here, which I can't say I'm all that surprised, given how frequently this institution flies in the face of logic on such things, but has prioritize the rights of this individual trans woman that is to say, born male, transition to female, they have prioritized her rights over the rights of numerous girls who are both disadvantaged by having been born female and therefore likely being smaller, are disadvantaged by virtue of their age. Right? And so they're actually vulnerable. And so what I want to be careful of is when I saw that interview with Colleen here, I thought the fact that she acknowledged that she was born male didn't seem sensitive about it was willing to talk about the fact that you know, one of these girls had apparently complained about a man in the locker room. She talked about it in an adult fashion, so I wasn't, you know, I'm sympathetic that there's actually potentially something to be solved here. But there's no question Who needs to be protected in the situation from home. Right? I don't know that Colleen is a danger. I assume she's not. But the fact that we segregate women, because somewhere in amongst men are men who are dangerous means that those protections should should remain no matter what. Yeah, I
+
+Bret 1:10:26
+I'm going to end up ranting, if I if I say much more about this well, so you know, a 16 year old girl who walks into a women's sauna naked and sees someone with cock and balls, and reports that there's a man in the locker room, the person in possession of said cock and balls not being offended, that someone saw them and identified them as male, that's a really low bar, is a really low bar for being impressed with this person's response. Well, I mean, come on,
+
+Bret 1:10:59
+I do think I do think we because and I agree with your, your assessment that we have, you know, this is a dangerous thing to say, but I believe it is a literal thing, and that you're quite right about it, that you have the phenomenon of trans whatever it may be. And then you have a bunch of people utilizing the opportunity to opt into two oppressed classes. That is to say trans people have a difficult road based on perceptions of them. And females are of the are able to avail themselves of protections for the reasons we've already described. And so the ability to opt into two protected categories is irresistible for some men, and they will do it there are unscrupulous men and they will do it. But I just don't don't know, I never want to assume that that's the explanation is something that can be revealed. In some cases.
+
+Bret 1:11:57
+I guess. There's one more thing and I did allude to this earlier, but this case, makes my blood pressure spike, in part because the interview which we showed you guys, has this person doing little sort of girly things, with their hair and their necklace and like this, and this feels like and I'm not the first It's not the first time I've said this, I'm not the first to say it. And it will be said many, many times again, but this feels like the most regressive and misogynistic view of what woman is that I can I mean, maybe not the most misogynistic and regressive view for a woman is, but it's incredibly retro. It's incredibly woman hating actually, like that's not that is not doing this doesn't make me a girl, right? No, that's not what
+
+Bret 1:12:51
+it is. It reduces it to an affectation. Yeah, yeah,
+
+Bret 1:12:55
+exactly. And there are there are plenty of us women out here who don't do that. And there are plenty of women who do and in neither case does the doing or not doing things like playing with our hair, make us a woman. No. And if like if, if you're a dude who wants to play with your hair and act that way? Okay. But there is no way in which that makes you female? No, no,
+
+Bret 1:13:21
+all right. But I still think the, the object of our ire really ought to be these ridiculous, phony progressives, who actually imagine that in some biological sense that you become female by virtue of having declared declared a pronoun or two. I think we ought to refer to them as she jerk liberals. So Oh, boy, there's that.
+
+Bret 1:13:59
+Okay. She jerk
+
+Unknown 1:14:00
+liberal liberals. Yeah.
+
+Bret 1:14:02
+I think you know, there's other places we could go. But I think that's a good place to stop for today. Actually, on that bad sheet. No, not that good. She jerk liberals.
+
+Bret 1:14:11
+All right. Okay. Well, yeah, I guess we have then reached abruptly the end 60 of live stream on the Dark Horse podcast.
+
+Bret 1:14:22
+Yes. Yes, no, I think I think we have tomorrow actually is our private q&a. So we are gonna we'll be back in 15 minutes for those watching with our our q&a here today. But tomorrow is our private q&a, where we do a two hour private q&a for questions that have already been asked by patrons on my Patreon and if you joined before, tomorrow at 11am, Pacific Pacific $5 level or more you can join in that conversation. it's small enough that we have the chat visible to us and we can actually look at it unlike any of these live streams. You have your $100 Patreon conversation for a handful of people next Saturday before this livestream. You're looking at me like holy hell didn't I just have one?
+
+Bret 1:15:12
+No, no. You said for Yeah. It's more than a handful, but it's a nice, a nice group of people,
+
+Bret 1:15:19
+two hands and two feet falls.
+
+Bret 1:15:21
+Something like that. Yeah.
+
+Bret 1:15:24
+fingers and toes. Yeah, I
+
+Bret 1:15:26
+presume they have fingers and toes. I don't know. Yeah.
+
+Bret 1:15:30
+So you can you can find access to that at Brad's Patreon. You know, there's there's much listed there but but all the we're gonna bring it out some new stuff at some point soon. So rather than talk much about that, if you have logistical questions, you can email Darkhorse dot moderator@gmail.com you can access the discord server at either of our Patreon ads. And we have a clips channel that is putting out clips of what we talk about in these longer forums. Nearly daily at this point, I think, lots of stuff, lots of stuff. And so please join us in 15 minutes. And if you are listening only, we will be back in the new year.
+
+Bret 1:16:14
+Awesome. All right. Merry Christmas, if it's appropriate, happy new year, and we will see you shortly one way or the other. Be well
+
+This transcript was generated by https://otter.ai

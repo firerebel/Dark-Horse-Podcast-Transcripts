@@ -1,0 +1,604 @@
+Bret 0:06
+Hey folks, welcome back to the Dark Horse podcast live stream q&a number 86. That's right, we are ready to go with this brand new system that we've been working on with its primary architect for so many months now. Yeah, it's very exciting.
+
+Heather 0:25
+Let's go. So again in the chat or by email, you can ask the moderator if you've got questions about this, and it is finable at Dark Horse submissions calm.
+
+Bret 0:36
+We were going to mention the Goliath shirts are selling very well. We are appreciative of people buying them and we also hope that you will wear them because the key to that weapon is that it be deployed publicly so that it will humiliate those who are behaving in a indefensible way with respect to censorship. They are available in both white and black and they look great, but where? Oh, they are available at I never remember. podcast store. Dark Horse podcast.org Yeah, it just came to me. Because Zach said it.
+
+Heather 1:15
+Yeah. Yeah. Okay. Oh, we're gonna start with the discord. So in future weeks, I will. We will pull a few of this week's questions and and start with them in the future weeks, but we don't. The last couple of weeks with the Twitter questions was chaotic. We don't have any but we do have a question from the discord this week, every week. People on the discord court who want to participate, vote amongst themselves on what question they would like most have us answer and this week's question has a slightly longer version and a short version. I'll read them both. One of the earliest remarks made by Brett in the early ITW days was that humanity is going to need to level up on its understanding of game theory. And coming to understand how game theory can describe and predict outcomes and modes of action. It seems really important to learn to teach children to understand it, and how to teach their children to understand it. How would you recommend starting that level up chain with children? shorter version? Can you give concrete examples of what you did to teach your children game theory? Wow, I have Yeah, it's a great question. And it's a it's kind of a doozy of a question of course. But I think actually, that the answer that I came up with and I this this when all of this madness with COVID is over I would love as we have talked about before, like devote whole episodes to things that have nothing to do with any of that and and episodes on how it is that you basically level up children which you know, children are in the process of leveling up. That's literally what they're doing. So
+
+Bret 2:46
+let's try but SARS COVID you to extinction. So we can do that. Yeah, great plan, let's
+
+Heather 2:50
+do that. But I think I think maybe the best way. And you may, you may disagree with this, to assure that your children will understand game theory is to let them play without supervision among other children. And a lot of them and a lot of the time. If there are always adults, telling you telling the children what the rules are, or informing them that that kids a bully, and that kids not being included, and everyone needs to play and it's it needs to follow certain parameters, kids won't learn it. And if it's only via formal sport, which is great, you know, we're advocates for formal and formal sport have played some ourselves. But formal sport doesn't isn't going to teach children the game theory the same way. But a group of 3579 Kids hopefully also have somewhat different ages not all have exactly the same age, you know, not all in fifth grade, or eighth grade, or first grade or whatever, who are you don't just have some time to explore and make their own games and to realize that everyone gets out aligned sometimes, and someone will have an immediate insight into how you bring them back in line. And sometimes that immediate insight is wrong and mean itself and, and who's going to correct the person who was trying to do the correction and you know, all of these things are sort of the ways that you see emerging games, you know, get games emerge, and then get formed into some kind of shape that actually makes sense. And, you know, some aggregations of kids may always make up a totally different game every time which I think would suggest to me that they probably haven't, you know, haven't landed on something that actually has the corrective has the sort of the corrective in it. But if, if you find children starting to revive refined something of their own creation over time, part of what they're doing is they're leveling up their understanding of how to make a functional system.
+
+Bret 4:52
+I think those are excellent answers. I would say I do think there's a role here for the use of Have animations and computer generated experiences that teach these lessons which are hard to I mean, the thing about game theory is the important part of is is the counterintuitive part of it. And so there there are ways to demonstrate this. Using you know, you could use a computer to organize scenarios in which there's something at stake, and you have a prisoner's dilemma or a race to the bottom scenario where people can recognize that what they're expected or their desired outcome is, doesn't manifest even though if everybody else to simply went along with it, it would, right. So experiencing that that isn't, there's in some ways, no substitute. It is also really important to talk to your children about these things, because it is possible to learn the lessons without words being applied to them, it's very hard to discuss them with others. So they're at the point that some game theoretic hazard emerges in a collective endeavor, you need to be able to talk about, here's, here's what has happened, here's why it happens. And then here's how we route around it, how we rigged the incentive such that the failure doesn't occur. Something like like that,
+
+Heather 6:07
+well, I guess I would, I would just add what was in my head, but I didn't say to the model of just letting kids play like kids always used to play and now we're, we're mostly restricting. We're many, many parents and much of society is restricting children from the ability to play, certainly school is, and many laws are, too is that saying that there shouldn't be an adult around supervising? And, and and micromanaging does not mean that the adult, the, you know, the relevant adult, the parent or whatever, shouldn't afterwards say, you know, ask questions and, and ask to be included in how that child understands what was happening, and in fact, help steer their understanding, such such as they can when it seems necessary. So you know, I think children at different developmental ages fall into particular kinds of traps in their thinking, and being able as a parent to say, Oh, yes, well, you saw, you know, you saw that happen between Mike and Sandra today. My prediction is that's going to keep on happening between Mike and Sandra, how might you, as you know, as an outsider to that dyad? And, believe it or not, we did talk to her children sort of that way, but how might you as an outsider to the two of them, you know, help them move past the thing that they're going to keep on getting involved in. And your kid might say that I'm going to keep doing that I okay, let's, you know, let's come back to this in a week, or you don't even have to say that. And then, you know, maybe you were wrong, but often you won't have been because adults do have more insight into emerging dynamics between individuals than children well, and being able to come back having predicted and having made a prediction to your child and say, Oh, so how are Mike and Sondra doing? Oh, man, they're still doing that same thing. Remember, I said that? They were, I wonder if we can figure out how it is that you might, you know, how you might address that how you might help them get out of the trap that they're in.
+
+Bret 8:00
+I'm remembering, I believe it was David sirach, who was a early participant in Patreon discussions, who was actually in the process of generating some illustrative computer interactive computer programs to show how these game theoretic failures work. I should check in with him and see if they're finished. And if so where they are, I would also point out, I've been very fond of game theoretic hazards that have been solved, and illustrating to children that basically the point is not that the tragedy of the commons is inevitable. In fact, it's not l&r Austin's work shows that you can structure things so that it doesn't happen, but you can't just wish them away. But I love the solution. I divide, you choose the right, right, I divide you choose as a solution to a game theoretic problem, and it's elegant. And so just the recognition that it's not possible
+
+Heather 8:58
+that not everyone, so if you find yourself with one cookie, and two people who want the cookie,
+
+Bret 9:03
+right, and the idea is well, the person who divides them is not the person who chooses which one they want. So if if you imagine that the parties are, you know, driven to act selfishly, the person who is doing the dividing has an incentive to get them as even as possible, because to the extent that they're uneven, the chooser will choose the large one, right? And so anyway, it's just an elegant solution to the puzzle
+
+Heather 9:25
+when it also I mean, I remember actually conversations with our children about exactly this, that that is true. And the cases in which you don't need it is when the desires of the two participants actually went in opposite directions. Like you don't need to simply apply this tool every time you're trying to divide something. Yeah, only when you both want exactly the same outcome.
+
+Bret 9:43
+Right, right. Right, right. That's true, too. Yeah. Yeah. So good question. Yeah. And hopefully David's Iraq has finished his model and then we have an actual tool to deploy in this. Yeah.
+
+Heather 9:53
+That's cool. Okay, first question. From our new system, we should we should come up with a name for it.
+
+Bret 10:02
+Yeah. All right, I'll work on that.
+
+Heather 10:04
+Good. You're good with those. But that sort of thing? A lot of things, you have a lot of things.
+
+Bret 10:08
+Thank you. Yeah.
+
+Heather 10:10
+Why does it seem like the words safe and dangerous have lost all meaning safe relative to what dangerous relative to what compared to lots of things we do everyday COVID is safer for most people, the vaccines compared to other things are more dangerous in absolute terms, both are very unlikely to kill the average person. I feel like this issue is at the heart of a lot of debates around this. How do you and Heather think about relative versus absolute risk in these times?
+
+Bret 10:37
+Yeah, I would just say, oftentimes, the reference point is really should be implied by, you know, the question, and that actually, I think, I think the question asker here has as hit on something, because it is often assumed by the vaccine enthusiast crowd, that the comparison is no protection, right? And that that is false. And in fact, what I find myself increasingly pulling my hair out over and you can't detect it yet, but at some point, I will pull that enough hair that you'll be able to see I can't tell is the fact that we have a system, it is crudely structured, but it is structured to prevent the exact predicament that we are in. If there is a safe and effective treatment, there should be no emergency use authorization. So the point is, the argument was already one before the particular objects were ever in play. And it is only because we somehow skipped that part of the analysis and now are subject to a campaign to prevent the analysis from being done in real time that we even have to make these arguments because the point is somebody, our forefathers in this endeavor, handed us a system that says why would you deploy something that has the risks of a novel intervention? If you have a safe and effective intervention available to you, you wouldn't wouldn't be rational. And yet, we find ourselves unable to make that argument because it sounds extreme to some people.
+
+Heather 12:06
+Yeah, no. And I think I mean to to also, the point I was making in the first hour, hour and a half, whatever it was. You also, it's also not binary, which is part of what you're saying. But it's also not that the only possible kind of intervention here is pharmaceutical like ivermectin, which we are on prophylactically is a pharmaceutical intervention. And we are compelled by the evidence that I am particularly compelled by the evidence for prophylactic use. You are even you are equally compelled by the evidence for treatment. And I am I think it's strong. Let me just finish I was saying that, that that's all very well and good. And we can talk about repurpose drugs. And you know, what else might be on that list and good for things like prophylaxis and treatment. But with regard to prophylaxis, there's also all this stuff around of the comorbidities that exists that you have control over work on decreasing comorbidities such that you are less likely to both get and if you get less likely to be to be killed by this disease like that. That's actually a tool in your arsenal and the public health messaging would seem to suggest that we have we have no no tools at all, you know, the, the our our quiver has one arrow in it, and it's vaccines and that is it.
+
+Bret 13:28
+Yeah, there is something increasingly conspicuous about that. The thing that seems to be driving a lot of the fervor for the vaccines is the simplicity of the answer,
+
+Heather 13:38
+simplicity. And people are like, Well, okay, if you're fully vaccinated, you can take your mask off if you're outside, but don't worry if you don't feel comfortable yet, because it's totally fine. If you're not comfortable. You just keep those masks right on. Like, you know what, no, actually, yes, no, it's actually it's not neutral, even, it's not good for you,
+
+Bret 13:56
+right? It is not good for you to wear your mask outside for multiple reasons. One, you'll spend less time outside to you'll make less vitamin D. Three, you won't have social interactions that are as reasonable and therefore your mental health will be more full of stress and all of these things and
+
+Heather 14:11
+yeah, no, we're doing those we are veering into medical misinformation territory, right?
+
+Bret 14:15
+Is that right?
+
+Heather 14:15
+Yeah, I think so. 
+
+Bret 14:16
+Yes, 
+
+Heather 14:16
+yeah.
+
+Bret 14:17
+Well, um, you wouldn't want to make too much vitamin D, because there's no evidence that it will not cause you to make spelling errors that autocorrect will then translate into, I don't know, there's no evidence, 
+
+Heather 14:34
+oh I thought you were going skin cancer that's what I thought your spelling errors was. 
+
+Bret 14:37
+Now, my point is from the style of logic that is used against us where there you know, there is no evidence that x right, so like, for example, if you did a study and you know, car accidents, were dangerous at a certain level. And then you asserted that the same thing is likely to be true of trucks and somebody said, There's no evidence that truck accidents are dangerous. And it's like, well, actually, the presumption would be that there are because the differences between a car and a truck are not a significant factor.
+
+Heather 15:09
+You know, it's a lot of things all the way down. Yeah. But one of the things that is all the way down is category errors. Yes, category errors all the way down. Like, what are you anti vaccine? Like? Can we even just talk about whether or not these should be called vaccines at all? Then if like, if you're going to go there, I'm also going to go there because no, I'm not anti vaccine, right? Look at this list of things that were vaccinated for, which by the way, you're not. And And hey, why not? Why don't you vaccinate against yellow fever? Oh, cuz you don't read into it. Okay. That's actually a legitimate response. And so is our response to Why aren't you vaccinated against but like, honestly, there are a lot of reasonable people who are saying, being put into the category vaccine is itself a category error,
+
+Bret 15:52
+right. And in fact, you can see this on the flip side, because if the idea is skepticism of any vaccine is, you know, it is tantamount to being anti Vax. And the point is, let's suppose the alternative is, if you oppose anything that comes in a syringe, right? So the point is, if you're pro surrenders, then surely you're in favor of shooting smack, right?
+
+Heather 16:18
+I'm pro book, which means I like and approve of everything. That's an effort, but every any book ever published.
+
+Bret 16:24
+I did not know that about you. And I've known you a long time you have Yeah, yeah, no, you're right. It's category errors all the way down all the way down. Yeah, there was something else I wanted to say on this point. I'm trying to remember what the exact question was
+
+Heather 16:38
+about safe and dangerous. COVID is safer for most people. than a lot of what people do everyday vaccines compared to other things are more dangerous. Relative versus absolute risk.
+
+Bret 16:50
+Yeah, I forgotten what it was okay. Yeah, I think then we got it.
+
+Heather 16:53
+All right. I'm gonna hit answered on that. Hey. I'm not sure I know what this means. But I'm gonna read it to you. All right. And you? Hoffman's fitness beats truth theorem. Do you know it? Yeah, I don't know. So I'm going to read it, but neither of us recognize it by the name. Hoffman's fitness beats truth theorem argues in an evolutionary context, perception strategies that seek to maximize expected fitness payoff, do consistently better because they require less resources than seeking the true world state. Please consider the tension between institutional fitness and individual truth seeking.
+
+Bret 17:36
+Well, let's just say that the first part amounts to metaphorical truth. It's the same, same insight.
+
+Heather 17:41
+Yeah, I think that's right. I don't know. There are a few Hoffman's out there. And what Hoffman I don't know where that emerges from. So I'm always uncomfortable being like, I'm gonna respond to this. And I don't know what all right, you read it there. But it's tied to Yeah. So just the the final sentence, though, is please consider the tension between institutional fitness and individual truth seeking.
+
+Bret 17:59
+So that sounds like a game theory. discrepancy, well, then an individual
+
+Heather 18:03
+versus population level analysis that then puts you in this game theoretic landscape of you know, which thing which thing, actually, am I maximizing right now? And, you know, the naive libertarians would be like, never the population like that. You can't do it that way. There's too many of us, and we're social and we live in a society, you cannot do it that way.
+
+Bret 18:22
+Well, and you know, I'm not exactly sure what the question is getting at. But it is very clear that at some level, you cannot personally solve your COVID problem. Right, right. You can't solve it. Because let's suppose you know, let's suppose ivermectin is perfectly effective, and you take it and you're therefore immune to the disease, right? Well, you still haven't solved the problem, that society is now writing rules about where you can go and how you have to behave there and all of that. So at some level, we are stuck with the downstream effects of everybody else's behavior, whether that behavior is sacrificing the truth to an overly clear and pure narrative about what good behavior and bad behavior looks like, whether or not it's exposing people to risks that they don't know about without informed consent. You know, so the point is, we have a collective problem. Yeah, we need a collective solution. And what we don't have is agreement on what that solution looks like. You and I have presented what I think is the best solution I've heard, which is composite herd immunity. Right. And composite herd immunity. Still haven't heard it anywhere else. Yeah. I mean, you do hear people talk about herd immunity amongst the vaccinated and those who have had COVID, which is a versus this three pronged with a three pronged version is superior. And frankly, it's, you know, it's
+
+Heather 19:40
+just, I mean, I think we just implied it strongly, but it's combined the populations of those who are vaccinated plus those who have had COVID previously, and those who are on a prophylactic regimen of ivermectin, and that's, those three populations taken together are what are By increasing the chances that the entire population will reach heard and read herd immunity,
+
+Bret 20:03
+and frankly, at a global scale, I think it's the only thing that does I mean, unless you're really inclined to wait for such a large fraction of the population to have had COVID
+
+Heather 20:13
+especially if they're not, you know if like if boosters for these mRNA vaccines are going to start showing up in September, which is what I read yesterday, you know, tied up with flu shots. Like your most of the world hasn't had access to the first round yet. Right? And, and we're already being recorded, like people are already being told they're gonna need boosters, what, 678 months after the first one,
+
+Bret 20:32
+right, and what dystopia are we getting? This is not sustainable, I suppose the the weird world, somehow get some regime of regular boosters that are safe enough, and then other parts of the world don't have access? And then the question is going to be
+
+Heather 20:49
+one of the dei activists now like, seriously, this is I mean, it's it is so but I
+
+Bret 20:53
+don't mean that I mean, what will it look like, even if you're narrowly focused on the weird world, right? How exactly will the world interact? If the weird world figures out some way to keep boosting you to immunity, and some other part of the world doesn't have it? Right, then what exactly are the rules of border crossing? going to look like? Right? Yeah, Mac's
+
+Heather 21:16
+match that Team Blue with open borders? Go for it. Right? Like That doesn't mean you can't make those two things go together. Yeah, yeah. All right, answered. Britton, Heather, do you think it's possible that your own experiences at evergreen in Portland have led you to a cognitive dissonance to overestimate the chance of things blowing up into total chaos on a macro level?
+
+Bret 21:43
+Well, I would say, evergreen was not our first rodeo. I would say the degree to which evergreen happened. We were then asked what it meant. We said something people regarded as preposterous, which is this isn't about free speech. It's not about college campuses, it's going to spill out everywhere if you're not careful. And that's going to be a disaster that turned out to be true. So what I would say is, I think the level of discernment and predictive power flowing from that incident is high. Obviously, we are all the product of the experiences we have had. And there will be some bias that arises from that. But no, I really don't think that there is a a major distortion that arises from that. I do think that there is an awareness of what can go wrong and an increased sensitivity to seeing the conditions that cause it to do so. Yeah,
+
+Heather 22:43
+I think that's true. And I mean, you and I don't, don't land exactly in the same place with regard to what we see is the chance of things blowing up into total chaos on a macro level. And in fact, I was listening to your conversation with Lex Friedman. And, you know, as won't surprise you, in general, I find myself it to the degree that you guys were disagreeing at all, and there were a lot of little places, but to the degree that you were at all I found myself almost always agreeing with with you, which, you know, doesn't always happen here at home. Right. But one of the places that I you know, I think I'm more aligned with with Lex is when he was talking to you about basically, you know, your optimism, or, or lack there of with regard to what what is going to happen. So, you know, I think you know, the fact that you and I don't Matt exactly the same place with regard to our estimates at the chance of things blowing up into total chaos is useful, because we both provide correctives for one another, the places where we, the places where we agree completely are the places where we are most likely to be not most likely to be wrong. But most likely to if we are wrong to remain wrong for longer, because we don't have the corrective within our dyad. To say, yeah, I'm going to keep poking holes at that.
+
+Bret 23:58
+Yep. I prefer to have these discussions about what
+
+Heather 24:02
+listen to anything. We're just thinking about what you're going to say next. That's
+
+Bret 24:06
+not what happened. But we're going to have these disagreements that it happened within 48 hours of the Gulf of Mexico having caught dramatic fire, because who knew that these Oh my god, that was pretty wild. I think the fire is out. So it went pretty well. But
+
+Heather 24:22
+it didn't blow up. So people may not know
+
+Bret 24:24
+like, everybody's seen it.
+
+Heather 24:26
+I think I just saw it right before the livestream. I hadn't seen it. Yeah, well, so yeah, the Gulf of Mexico. It's another rig. It's another pipeline line,
+
+Bret 24:36
+a gas pipeline. And so basically, gas bubbled up. I don't know what lit it on fire, but it could be as simple as a boat, you know, with an engine, something that is on fire. Yeah. And so as the I think the way this is supposed to work, there are protective mechanisms that shut down the flow of gas, but there's enough gas in the pipeline. Yeah, it still leaks out. You saw boats, true. Getting water trying to corral the
+
+Heather 25:03
+flaming cauldron in the middle of the
+
+Bret 25:04
+right. was really amazing Mexican, right? What else? Don't we know,
+
+Heather 25:08
+shades of Deepwater Horizon? Yeah, I mean it was, it didn't look the same, but it's like
+
+Bret 25:13
+God, it's like same place Water Horizon meets Aliso Canyon meets one random smoker. But anyway, yes, let's put it this way. I want to get to the place where the likelihood of things going seriously awry drops because we start getting good at saying, Well, actually, how could this go awry? And what might we do about it in advance so that we don't discover it when it's already on fire? Yeah.
+
+Heather 25:43
+Congratulations to Zach. And are you interested in novel hypotheses regarding evolution? COVID and censorship related to previous Dark Horse podcast? If so, what's the procedure to reach you Darkhorse admin Patreon message? In in the abstract, yes, but we get so many so many communications. And we know that we miss a ton of good ones. And if we if, if one or both of us misses, we missed the majority. We don't we aren't able to spend the majority. And if we miss yours, it might be because we saw it and thought I don't know what that is. I don't have time, or it doesn't rise, or it's wrong, because and sometimes I have responded and said, Yeah, I don't think so here's why. But usually, usually I won't. But there's also a good chance that it either didn't get seen or like oh, I want to respond to that. And it's one of my literally over 1000 flag email messages now where you know, every three days my organizers offers like, look at your flag messages. Like 80 of those things, like look at this thing where you put things you want to get back to
+
+Bret 26:50
+Did you get an overwhelming number of those, but yes, I so
+
+Heather 26:54
+what you know, what's the best? You know, the emails that you can find on our websites are? are pretty good. Yep. But, but we're not promising that any of them guaranteed to get to us
+
+Bret 27:06
+at this point. They're monitored, though.
+
+Heather 27:10
+I probably shouldn't say this out loud. I do, at this point, at least see everything that comes into my patreon messages. So
+
+Bret 27:21
+I've done it.
+
+Heather 27:25
+I've done it. Alright, I keep on forgetting what, okay, there it is. Okay. Our straw man arguments, psychological analogues to vaccines, ie introduce a harmless or ridiculous version of an idea to ensure people become resistant to it before they have a chance to encounter the genuine article. I really liked this. Yeah, I didn't do it first. I didn't get it. But
+
+Bret 27:50
+no, I think Yeah. And, you know, I think we see actually not just straw man arguments, but an army of, for lack of a better term sockpuppet accounts, whose purpose is to make the conversation allude to something that would cause you to be dismissed, right, just simply to create, you know,
+
+Heather 28:09
+well, like what I was saying, like, we don't engage in medical misinformation, but other people say that we do, like, you know, say false things about us. Right. And I mean, just because I was standing near that thing that lied about me to make it what it said,
+
+Bret 28:22
+the Wikipedia thing is precisely this, right? If somebody is trying enough, they've never heard of us. And they suddenly go to our Wikipedia page to find out what happened. And it's like, inside of, you know, 14 seconds like, oh, they've just misinformation multiple time. Oh, they were early on loudly. God. Rose. Yeah, yeah. So yeah, I think that some straw man or some straw man arguments are self protective of the people making them and don't have a larger purpose. In fact, I would say most of them, but some of them a lot of the straw man arguments that we are seeing in this weaponized environment are actually about the thing that you hypothesize.
+
+Heather 29:04
+Not a question. Oh, this is nice. Not a question. But a heartfelt comment. As a lifelong conservative, I recognize that you are, quote, two of the finest human beings on the planet. This is exactly how I promote Dark Horse podcast others.
+
+Bret 29:17
+Really appreciate that wonderful sentiment.
+
+Heather 29:24
+And actually, there were a couple of just in the comments that I'll get through here. And before going back up to the questions greetings from Somerset, UK, thanks for what you do. And doubled my Patreon. Keep up the good work. And this is not a comment. Thank you. Yes, and I'll go back up to the higher dollar value questions, but I did want to make sure to get to this one. Someone asks, please do a few more. Excuse me, please do a few more. Ooh. I shouldn't be doing that. No, girl frog. Well, but your male frog you We've always
+
+Bret 30:00
+you know, tended to certain male activities, gender non conforming and gender non conforming frog you are Yeah.
+
+Heather 30:12
+Yep, yep. What, if anything, now back back to our regularly scheduled programming
+
+Bret 30:18
+and type of vocalization?
+
+Heather 30:21
+What, if anything, do you know or understand about the vaccine spike protein shed? Is there any evidence of this? Is anyone looking into it? Or is it just internet rumor? I don't know. This is a tough Yeah, I don't know the answer. Here's
+
+Bret 30:34
+what I here's what I would say. This is speculative. This is thoroughly this hat over here, and not this, hey, these are really secure effects that are not in keeping with the policy. Right? This is thoroughly speculative, labeled as such. It is essentially certain that people who have COVID and probably people who have been vaccinated, in light of the fact that the spike proteins do seem to circulate independent of the cells that made them it is essentially certain that some of them will be secreted somewhere. It is very hard to imagine these things crossing open space enough to have a meaningful effect on anyone else. Could you construct a scenario you could. Now there is one way in which this could work in some capacity that would be worth considering. And that is, if there is a prion like effect. Right prior
+
+Heather 31:34
+to the prion question we'll get to that next year being
+
+Bret 31:37
+a prions being cases where information about the folding of proteins is transmitted without going through a DNA or RNA phase. So that is to say misfolded protein causes a propagation of the misfolding This is the explanation for things like spongiform encephalopathy right? So anyway, I don't I have heard discussion of the possibility of prion like effects in this case, I do not know how good the evidence is. But that is I think, the only way that you can imagine enough shedding to matter for a person in proximity but I bet against it.
+
+Heather 32:18
+And the spike protein on its own yes is bad for you. Yes is toxic, do you know fact checkers notwithstanding but the spike protein on its own doesn't have the same capabilities as the virus with the spike protein attached. And so you know, if if you've got circulating spikes against Brexit, if you've got spike, circulating spike protein in your body, and you sneeze it out? It is I would guess, much less likely to be able to damage to someone on the receiving end of that sneeze than if you had COVID circulate or SARS kobie to circulating in your body and you sneeze that out because the virus the spike protein attached, like is a functioning organism,
+
+Bret 33:04
+whatever it is, it can duplicate itself. Right?
+
+Heather 33:08
+And, you know, the spike protein? Like I don't even know what the mechanism would be and not to say that it's not possible but like what, so someone might be dropping spike protein, it's just a spike protein once it's out of your body like how would it be taken up by another
+
+Bret 33:27
+company? You know, I mean if you still man we mostly
+
+Heather 33:30
+Aren't you know, it's not spreading through the original viruses spraying the surface, right? Mostly if you
+
+Bret 33:35
+inhaled it or ingested it. Right?
+
+Heather 33:40
+If you were on the receiving end of someone else's vaccine and
+
+Bret 33:44
+we take in lots of toxins at such tiny amounts that they're not meaningful, right? So the question is, is there something about this one that you know if you think about the decrease in the amount of spike protein as between the individual who has it circulating and the individual that they have sneezed near and has breathed in you know a certain amount of it it's a tiny fraction Yeah, right. Almost by any measure, the amount you would output in any one go would be very very sensitive for the virus as well. Well, but the virus as you point out, the virus is particles that are capable of increasing you can take once a single particle has gained things they make more
+
+Heather 34:29
+the spike protein itself doesn't have replicative capacity which is which is
+
+Bret 34:33
+critical the one the one way that that could be false and I do not believe it is false is this prime mechanism
+
+Heather 34:38
+Yeah, and let me just let me find the one thing I can't do here is like search as I could in my spreadsheet do I thought I saw a prank Well, here it is. Yeah, comprion like domains from the the jab Cause I always forget what's called creutzfeldt. Jakob. Yeah. So that it's it's it's abbreviated there. So without the full word, Jakub
+
+Bret 35:11
+civil apathy. Yeah,
+
+Heather 35:12
+it's a properly spelled out. Maybe right, just as per your,
+
+Bret 35:19
+let's put it this way. Can these ones do that? Not as far as I know, right. But is that a plausible mechanism by which you could? Yes, you know, a pathology could happen. It is a plausible mechanism. Yeah. So
+
+Heather 35:36
+yeah, that's right. If this maybe, this maybe got? I don't see the whole question here. If it were possible to educate the masses in logic, rhetoric and scientific methods for decision making? How would that so we can sort of fill in the rest of the question?
+
+Bret 36:00
+Well, you know, I think you've got to, you've got multiple domains of the puzzle, right? How do you make a logical mind, one thing that you and I have been strong advocates about forever is you give the mind direct contact with physical systems. That basically in which conservation laws apply, in which you cannot fool yourself into believing that you have understood something when what you have understood is actually false.
+
+Heather 36:28
+Both and what we have said is both in which you are moving your body through the physical world, either alone or in group sport, you know, team sports, or dance or something, right. And also ones in which you are applying your logic to physical problems, where you're trying to solve or build or create physical things in the world, right?
+
+Bret 36:47
+You cannot do those things different, you cannot will the tower to withstand a force, you cannot wish an engine into functioning, you have to understand your or
+
+Heather 36:58
+or claim that you scored a goal when you didn't, right.
+
+Bret 37:02
+So all of these things, train the minds to understand how the world actually works. And to the extent that some systems are better models for things that you want to think about, they will also train the mind better. But basically, what you want is a mind that is driven to interact with those systems, like sorting out puzzles within those systems. And that mind will be good. And then the question is, how do you get that capacity to Intuit how the world functions, right? to link up with the logical language part that can convey these things can jockey back and forth with an argument. And you know, that's kind of the well rounded version of it. But it is not to say, one meets, if you especially, you know, if you travel to places where you meet a lot more people who work with their hands and you know, build things and fix things. You meet a lot of people who are incredibly bright, but not necessarily able to say why this thing works. What you see is the facility with some system. Now, of course, we're a little bit hobbled, sometimes in those circumstances, to you know, because there's often a language barrier. But nonetheless, I think the key recognition is to recognize that your mind understanding how something works, and your conscious mind being able to convey it are two separate things. And really, you want you want both capacities.
+
+Heather 38:28
+Yeah, and let and let them struggle with each other and play off against each other. Yep. Here we get called Mama, Heather and Papa Brett, how might a lab origin affect the seasonality of COVID? If it becomes a permanent fellow traveler of humanity?
+
+Bret 38:44
+Well, I've, I did a lot of thinking about seasonality of diseases before when I used to get lots of respiratory infections. Largely my issue with them has been cured by our children growing up and not going to daycare like scenario where everybody's drooling on everybody else.
+
+Heather 39:04
+Well, you made our producer laugh. No, I mean, there was something about like January when we went back to the classroom and then our children also went back to the classroom. I was like, you just guarantee
+
+Bret 39:16
+right? Yes, sir, countering everything, and everybody comes back from wherever they go home to exact right. So that phenomenon not being a big part of our life helped and I had a generalized inflammation problem that had to do with wheat. As soon as I figured that to get that out of my life, it solved a lot of stuff. However, I did a lot of thinking about seasonality back then, because the exposures were highly seasonal. I am now persuaded that our model of this is not so good. And that there are certain things like I saw a pretty interesting lecture I'm not sure 100% by it, but it's at least a provocative and worth testing model which basically says there is no No seasonal disease, what theirs is seasonal vitamin D deficiency? Yeah, I guess what I would say is I believe vitamin D deficiency is going to be a huge contributing factor. And it may be that they're a seasonal disease, and C is no
+
+Heather 40:15
+vitamin D deficiency easy test of this for which the data exist, right? I mean, just like look and see if there are seasonal diseases on the equator.
+
+Bret 40:24
+Right, and there's much less of it actually. Okay, right. So things like influenza, are much less prevalent.
+
+Heather 40:30
+It's not it's not perfect, because cloud cover doesn't totally reduce the sun's rays, but it does somewhat and while the tropics don't have seasonality, while the equator doesn't have seasonality with a credit daylength, it does have seasonality with regard to precipitation, and therefore cloud cover and so you would you you might then also predict for particular places with highly seasonal cloud cover and rain seasons at the equator, that you might get some seasonality that follows the rain seasonality rather than the photoperiod. seasonality? Yeah.
+
+Bret 40:59
+And I bet we could actually come up with, you know, a dozen predictions from this. Yeah, right. Yeah. Hey, you could just simply, you know, the brute force method is you people who have a vitamin D deficiency will get more seasonal illness than people who don't, right, you could, you could just empirically test how much vitamin D they have. You could also play games with altitude, different weather patterns. Anyway, though, all of those things lead to predictions that would allow you to test this, my expectation is there is some seasonality to the pathogens, and there is a some contribution of vitamin D and vitamin D is a bigger part of the story than we tend to enter into it.
+
+Heather 41:41
+You know, what else actually, you so you go first, you finish what you're saying, Well,
+
+Bret 41:46
+what hat so a great news if vitamin D deficiency is a big part of the story, because it is something we can modify both through supplementation which has to be done carefully. Because the simple fact of having taken something you know, that you bought that says it's vitamin D doesn't mean that you're going to absorb it and therefore benefit from it. far better to produce it through photosynthesis. So anyway, there's a behavioral synthesis, photo synthesis of vitamin D, I believe that is a defensible term for the chemical pathway, medical misinformation dude.
+
+Heather 42:23
+Definitely never heard anyone call us photosynthetic before.
+
+Bret 42:26
+Well, now you have. But so anyway, what happens season seasonally, one thing that is going to happen that is guaranteed to happen is people are going to spend more time indoors. And one thing I would say a place where you and I have slammed dunk this in our own life is we have modified our approach to being indoors so that it minimizes the likelihood of contracting this disease, right? You have all sorts of things at your disposal. Windows fans, the ability to take a break outside to move from one place to another. So you're not just constantly you know, in a cloud, I would say you want to think really carefully and this is harder, it's harder for us than it would have been in our last house here, harder for other people than it is for us. But the ability when somebody contracts something to isolate them enough that you're greatly reducing the chances of them transmitting or
+
+Heather 43:23
+having you know, a teardrop trailer or mother in law suite or just just an actually dedicated guest bedroom dedicated
+
+Bret 43:32
+to dedicated guestroom and a house culture that incentivizes the recognition that you have a symptom that could mean that you have a transmissible something or other and that it is time for you to isolate until you know and you know, as somebody who does this, most of the time you feel a scratchy throat you think oh my god, is that something and then two hours later, it isn't something but you have to be you don't want to you know, be in denial and then come around to Yeah, I guess it is something or other you know, our many hours late
+
+Heather 44:06
+so the thing I was going to say before is that apropos your the conversation that you that we were having in the first hour about? Well the little altercation that you and Claire layman got into with regard to you know, it seems like she like many people really just believes that vaccines are the way it's like wearing your seatbelt. Another example of these of this where actually it's not like wearing your seatbelt. It's more like what we think is going on with vaccines is sunscreen. And most dermatologists would tell you that you're questioning putting on sunscreen is insanity and people are gonna start falling over from skin cancer immediately. And in fact I was out I was I was out early on the river yesterday. Like 6am The sun was up but it was super overcast was kind of chilly. I was I was paddling and in the parking lot with me there were only there were two other people. And it was two other women, my age maybe a little bit older and they clearly they agreed to meet there and they're going for a walk, they weren't going out on the water like I was. And as they were asleep or like exchanging tomato plants or something before they went on their walk, and I was overhearing their conversation, one of them says, Oh, do you have sunscreen on because I have some if you don't, and the other one says, Oh, no, I've got it already. Okay, well, I have it with me in case in case you need any more. Kind of like, you know, you're going for a walk on a wooded trail at six in the morning. And you actually need sun on your skin, and you're slathering yourself with sunscreen at a moment when the sun isn't gonna even hit you. The sunscreen itself has some potential harm and not and you're different from the vaccines, but not getting access to the sun, unlike not getting access to COVID to saris can be to is going to have harms and there are a few dermatologists now who are recognizing this and that, gosh, there's a great study out of Sweden. And I I would have to look it up. But that found that people who limited their sun exposure to basically nothing by either spending no time outside or no no, they controlled for a while by slathering themselves with sunscreen whenever they were outside had as much bad health outcomes when control for everything else that they were doing, as people who were regular smokers of cigarettes, that keeping yourself entirely away from the Sun caused health outcomes to deteriorate like that of being I don't remember what it was like a packet a smokers as opposed to getting sun exposure and is getting sun exposure going to put you at some risk of skin cancer. Yes, it is. But overall, the benefit of getting the sun exposure was so much higher than not getting sun exposure.
+
+Bret 47:04
+So I don't know that this is pushback. But a little more nuance here. We actually now know a lot about sun exposure and cancer. And the picture is way more complicated and has a lot of counterintuitive features to it right? sun burns puts you at serious risk. sun exposure does not right. Am I going to say that there's never a mutation that comes from a UV ray getting through something or other without a burn No, but but it's not a serious hazard. What you need to do is prevent sunburns, which you can actually do behaviorally by taking little breaks from the sun. So you get the benefit of the exposure, the photosynthesis, yes, I said it again, misinformation, as some will argue that it is. But you'll get the benefit of the vitamin D production and the other health benefits whatever they are, you won't suffer the cost of putting these chemicals on your skin that potentially can get through. So there's lots of reasons to do it. But in this case, not only was it six in the morning, which means the sun is coming through a lot more atmosphere there in the forest, right? The sunburns that are most likely to harm you or sunburns. You get early in life, right? And the reason for that we've covered on darkness a few times. But it's a till America issue where the patch of cells if you get the first mutation that causes cells to over replicate, right, the patch of cells is much bigger in a younger person because they have more of their reproductive, their cellular reproductive capacity ahead of them rather than behind them. So these women would have had some protection from that. They're also pretty far into the northern hemisphere, which means that the angle of the sun is coming through is that much lower, but
+
+Heather 48:44
+we are but we're close to the solstice. So we you know, it's as bad as it is here at the moment because we're very close to the summer solstice. But, but yeah, that early in the morning on a largely wooded trail, right. I just I cannot imagine what goes through your mind that you say and I'm going to need sunscreen. Right? You know, I was out on the water. Yeah, I mean, even even when I'm out I mean I tried to go early, just to just so that it's it's quieter, and there's more birds and all of this, but um, even when I was out like 930 in the morning and it was blazingly hot and you know and you know, hot doesn't mean anything here, but you know, clear blue skies and 930 in the morning, which is getting up into that period where you know, it's you know, they they say, like 10 to two ish and it's gonna slide with like daylight savings time and such but there's like a good four hours in the day when the sun is at its apex and you're getting most of its rays and all and I'm out there going like okay, you know, I need to find shade every 1015 minutes or so, like get close enough to an island that I'm in the shade. And then back out there because the sun is actually valuable,
+
+Bret 49:51
+right? The sun is actually valuable. valuable. Yeah, absolutely.
+
+Heather 49:55
+Okay. Boy, I'm not sure we're getting through very many of these questions. But that's good 50 minutes oh you know I'm going to refresh this and then see what new questions have come in and do it by date
+
+Bret 50:09
+notice that we say we refresh it but we never say we fresh it I hadn't hadn't noticed that but now you will not be able to unnoticed I that's
+
+Heather 50:23
+probably true. Yeah. Okay so there is I realize a slight issue here.
+
+Heather 50:37
+Hi PCR cycle numbers give false positives. Why don't you acknowledge that most COVID cases are false? Why do you ignore faked us testing such as in Lisbon? So I don't know anything about Lisbon in particular? I mean, I think we and you know, most COVID cases are false. I don't I haven't seen anything to suggest that most COVID cases are false. But we thought we had talked about pacifically. I mean, and specifically with regard to the high PCR cycle number, I mean, that that's, that's exactly the framing that we provide that, that means that there will have been a lot more cases recorded than there actually were.
+
+Bret 51:13
+And we have also talked about the death from COVID versus death with COVID. If you Yep, back in the beginning of these live streams very
+
+Heather 51:20
+true. In the case of intense pressure toward viral spike protein mutation, might we expect some drift toward protein morphology that looks more like important endogenous proteins? Like sing? sensitive? Is our missing letter in there? Maybe, oh, god, what have I done? I know, sensitive, I'm not sure I'm not familiar with that protein, or it feels like there's a letter Miss.
+
+Bret 51:46
+So that mechanism exists, I am struggling to remember what the name of that mechanism is. But yes, there is a pathway by which you get mimicry of endogenous proteins, because those are automatic holes in the immune systems recognition structure. So yes, that that is a likely outcome for any virus, whether or not to vaccinate the evolution towards self proteins, which may be involved in in the production of autoimmune disorders, because the immune system is then caught in a bind. Does it trace down proteins that are too close to one's own structure to be safely traced? Or does it allow them to escape?
+
+Heather 52:31
+I guess the only correction that I would make is that it's not that's not drift them. That's Yeah, that's not true. That's not drift. That's like the
+
+Bret 52:38
+drift. This is what they're saying is drift in a colloquial sense. Yeah. They're talking about genetic term revert. Yeah.
+
+Heather 52:47
+So I'm going to just share some of what I'm seeing that look like maybe glitches so I have the beginning of a question here. Love you both taking ivermectin instead of vaccine. Thanks, mass question if the ends, so I don't know what the rest of that question. Well,
+
+Bret 53:03
+that person may have been eaten by a crocodile. Really sorry. Yeah. Too bad. I hope not. Yeah, I
+
+Heather 53:09
+hope not, too. I mean, crocodiles got got to survive. Somehow, crocodiles got
+
+Bret 53:13
+a crack. Yeah.
+
+Heather 53:18
+That's not a thought I've ever had before. Thank you.
+
+Bret 53:21
+It's almost the only thought that crocodiles have. The only conscious. Got a crocodile, right. Yeah, they get up in the morning. And it's like the first thing they start doing.
+
+Heather 53:30
+Yeah, no thought of brushing their teeth. No,
+
+Bret 53:33
+no, they're birds to do that.
+
+Heather 53:35
+Yeah. I was going to riff on crocodile teeth here, but I think I'll hold that I'll hold off because there's interesting stuff going on with crocodile teeth, actually, but no, well, we'll save that we'll save that for another time set you up and you walk no way you're not doing it? Because there's a question about panda bears here. Oh, grateful for you too. Why do panda Why don't panda bears seem to blend in with their surroundings compared to other bears? Boy, it's been long enough since I've taught vertebrate evolution for our pandas are sets are they actual bears? like red raccoon thing that turns out to be I believe a process? It's a process it's an actual record, I suppose to was that gets a red record anyway. But pandas r vs r i believe
+
+Bret 54:20
+pandas or vs. Okay. The reason that they are colored that way is that historically they have had to blend in with workers and penguins wherever they are camouflaged. And it is because of their recent evolution to their current forest niche that
+
+Heather 54:36
+you know actually we talk a lot about the secondary returns to the sea in mammals, right? So we have these four returns to the sea. And they therefore four are the only secondary terrestrial secondarily terrestrial organism where they
+
+Bret 54:50
+emerged from the sea where they were hanging out with work as well
+
+Heather 54:53
+now having emerged from the sea with the early tetrapods, you know, Oh, right, right and then and then become, you know, Become mammals and then went back into the sea is your is your main mammals but back into this having been hanging out with the penguins which were never mammals and therefore we're not remaining mammals but with also the orcas which are mammals. And then having emerged back on to land as secondary returned to land for the panda bears. That's your answer.
+
+Bret 55:16
+I think there have just achieved the least informative answer in all Darkhorse live stream, maybe I'm
+
+Heather 55:23
+not sure it's so much uninformative as completely wrong.
+
+Bret 55:27
+Yes. All right. I will say this a serious answer is that sometimes camouflage is surprising things that when you when you scrutinize them are very visible actually, when you are scanning for them are disruptive of pattern seeking. I'm trying remember something just emerged on the zebras that surprised me. Maddie does not like this new results on zebras actually what it was, you didn't see it, no. But anyway, something that breaks up.
+
+Heather 56:02
+So I've never been more pandas live. Do they live in bamboo,
+
+Bret 56:10
+they eat bamboo so they live near bamboo.
+
+Heather 56:12
+So like so it might like the image I have in my head of the habitat they're in. I have a map like the frogs that I worked on as you know, sort of specialized on at the point that I was working on them they were specializing on this bamboo that actually was introduced but it introduced a long long time ago so they've just they made their homes and these bamboo stands and there was there were other eyes these little pockets of bamboo, between which might be several kilometers of you know, sort of normal Malagasy loion greenforest Jungle totally stuff but the bamboo itself had a very different field the bamboo stands where my frogs mostly hung out with the males were territorial and had a very different light regimen and there's the bamboo being so linear and so stark it felt like created cast shadows that were more like more like from the digital street lamps than the digital the like led street lamps than that those are arguably digital Yeah, I guess they are and they certainly create shadows that look digital right when you walk through one of these street lamps shadows like oh matrix it's kind of terrifying I hit them but but the the shadow scape in bamboo stands in my case, because I have not been where the the pandas are, did strike me as more stark almost more digital and like those sharp lines of pandas might well be a kind of crypsis within bamboo.
+
+Bret 57:35
+I will also add as an almost certainly useless but true factoid, okay, in this place. So you will many will know that I used to study bats, I studied tent making bats, and there is 110 making that which was actually not it did not get far enough south to be in either of the two places where I spent most of my research time but the the bat is the Honduran white bat. And the bat has black wings, but it has this beautiful cotton ball white fur on its body. And I didn't know that black wings. Yeah, they have black wings, it's really an interesting animal. But anyway, this bat roosts in banana shaped leaves that it cuts along both sides of the rib, the leaf folds down and so you'll have like a bunch of bats lined up on the rake of the leaf.
+
+Heather 58:27
+And the thing on the underside and little cotton balls lined up on the underside of the leaf. Every picture that's
+
+Bret 58:31
+been taken out of these things, including my own pictures uses a flash and they show up as these very stark white balls under there. And so you don't realize that the white actually in the absence of the camera is reflecting green light, which is the only light falling on the animal and so for example, as it's interesting, you know, so anyway, the point is it doesn't look like camouflage under certain circumstances, but under the circumstances that matter It seems to function that way.
+
+Heather 58:59
+Yeah. Oh, yeah. That's good. I like that. Yeah, and part of the point is, you know, this is this is something that we both thought a lot about, but you know, I especially because I've been I've worked on these Atmos Matic animals that you know, appa Semitism being, I have some kind of weaponry on board, usually a poison in the case of the poison frogs. But I need to alert you the potential predator to that so that you don't eat me thus, you know, hurting both of us. So Apple somatic. For instance, coloration is the warning coloration that signals Actually, it's not just that you don't like red, it's that the red is signaling that I'm also going to, I've also got poison on board. And you one thing that's remarkable when I was working in Central America on the dark poison frogs is you take one of these frogs and you hold it like in your hand in a sun flak, and it's totally obvious like the blue jeans frog. For instance now afrasia permelia with like, a bright Read back and like blue jean blue legs and like neon light blue spots on its center on its belly. But then you put it down where it was hiding. And like I actually lost it. You can't see it. Right? So crypsis crypsis depends on the environment in which the organism hangs out.
+
+Bret 1:00:18
+And of course, visual system of the creature in question. Right? So Right, right. Yeah. So I would say there's very little chance that pandas are toxic, but it could be a warning that they would whip you upside your head. They might with them. Yeah. Nice. I
+
+Heather 1:00:34
+think they'd be happy to do that. Now, I lost that question. Okay. Yeah, why is sick care promoted over healthy lifestyle? Go home till your lips turn blue? Yeah, I feel like we've been talking about that one.
+
+Heather 1:00:55
+Yep. Can I think this also, this question also stopped midway somehow, can ivermectin be made potentially more efficacious by using a sublingually disk? Something sublingual.
+
+Bret 1:01:16
+So I did see, unfortunately, there was no paper associated with it. But I just saw a report of a liquid formulation of ivermectin.
+
+Heather 1:01:28
+So different formulations would suggest that there's a problem that's being solved. But I haven't seen any claims even that the pill form is not efficacious. You know, what we have, what we have talked about here before is that you should take it, if you're trying to treat an existing parasite problem. You take it on empty stomach. And if you're trying to take it in order to basically circulate and provide prophylaxis protection, you take it with fat, so that it because it's fat soluble or
+
+Bret 1:02:02
+fat soluble. So I guess yeah, I think your question is right, is there a problem being solved the report that I saw, which claimed that there was a paper, but I didn't see the paper suggested that it increased the rate of uptake. But again, I don't know that that's a serious issue. And one can imagine a manufacturer solving a problem that doesn't exist because it results in maybe it could even result in a you know patentable form. And if people believed it was useful, that would be profitable. So I don't I don't know.
+
+Heather 1:02:36
+Yeah. If so, I'm just trying to get used to this lot of questions. I'm not I'm not sorting Well, at the moment. If the bad conduct of Fauci does suck at all, etc, rather, intentionally misleading, the public is proven, what should be done with them?
+
+Bret 1:02:58
+I think it makes sense to avoid trying to answer that question.
+
+Heather 1:03:03
+Yes, sir. My instinct was to say something snarky and mean, right and helpful. But I think
+
+Bret 1:03:09
+the answer is I, it is essential that we figure out what happened. And it is essential that we figured out as what the lab leak itself, if the lab leak happened is essential that we know that it happened, so we can make sure it never happens. Again, we have to get to the bottom of it for that reason. In the same way, if the science policy structure failed us in a way that put us in jeopardy of a laboratory leak, then that is a failure. We also need to understand to make sure it can never happen again, whether it's about a lab leak or not, whatever it might be about a failure in which people, you know, circumvent a ban on a certain kind of research, right? It makes sense to ban certain kinds of research. Why? Because they're too dangerous, right? The circumventing bands of such things would be bad, and it may have happened here. In fact, we know the circumvention happened, what we don't know for sure is that a lab leak was the consequence of it. But in any case, what I want to see is us take the best shot at getting to the bottom of this that allows us to protect ourselves going forward. If that involves punishing individuals who have behaved badly, if it can be proven, then if that's the best way, then we should do that. But I don't know that it is the best way. In fact, we have seen cases in history where the best thing to do is truth and reconciliation where you accept that you are not going to punish people in exchange for the information on exactly what the hell happened. So anyway, I don't I don't pretend to know the answer to that question. But the most important thing is that we figure out what happened so we can make sure it doesn't happen again.
+
+Heather 1:04:48
+How and when did early hominids know to support a newborns head? This raises the question of how wobbly the heads of chimps and bonobos are when they're born. Hmm, I have no idea. I think he just didn't have many parents who were failing to support a newborn said, Who? loved huge numbers of progeny.
+
+Bret 1:05:16
+Yeah, I agree. It's the kind of thing that to the extent it's important, you would imagine such intense pressure to develop that instinct that it would happen very, very quickly and stick quite well. Yeah, I wonder if it's not, you know, so first of all, you could imagine, you know, that wonderful Monty Python skit where the hospital imagine the city is part of the miracle of producing a child and overwrites its contribution to, you know, it basically treats the birth of a child as a highly technical phenomenon. Anyway, the point is, there used to be a way in which children were born. And it involved generations of women who had gone through the birthing process conveying the essentials to women who were just embarking on this for the first time. And it will have been very different and very different in different populations. But the point is, information yet.
+
+Heather 1:06:11
+So there I mean, there are cultures where there are pre industrial cultures where women go off alone, this is such a cult, right? But that does not mean that they are then you know, mothering alone, they come back around with them, they're there, you know, depending on if it's, you know, matrilineal or Petra look at their kin group or their friend, or like, whatever. They're there a lot of other women around them with expertise and insight and opinions, and well,
+
+Bret 1:06:36
+and they don't go off alone with the instruction, you'll figure it out. Right? Exactly, yeah, all of the wisdom that that they would be handed by those who have been through it. So the point is, you could imagine that the information on holding up the child's head would be conveyed, genetically, that would be an instinct, right? Or you could imagine it would be transmitted culturally, it actually makes, it makes one kind of difference. But from the point of view of does the child's head get held up, it doesn't make a lot of difference as long as everybody gets the information. But the point that presumably, in the 1950s, because that's where this kind of logic all comes from, somebody decided that women were, you know, a distraction in the birth process, and that this was going to be between doctors and infants. Right? At the point that that happens, the conduit for cultural information that would generally have been transmitted woman to woman is broken, and women become helpless in the process. And at the point that you realize that maybe doctors had less to do with the production of those babies, these babies then they believed at the point you get there, you have to how do I say this? cultural information evolves, it takes time for that to happen, but it can be lost in one generation, which is not transmitted and regenerating. And it's not a simple matter. So that may have been what happened
+
+Heather 1:07:59
+now on this, like Michael Pollan's point about food with regard to you know, if your grandmother wouldn't have recognized it, it's probably not food. And this, of course, is his advice that will be dated like, you know, he wrote when was Omnivore's Dilemma? Like mid aughts, sometime 2007 2008, I think something like that. And so you're you know, you're he's writing to people who had grandmother's at that point. And you know, this will this, this, this advice will age out of relevance. But I think something similar can be said for all of these things, you know, for the birthing process as well. It's like, okay, at the point that you decided that doctors who are in the 50s when this was happening, it was almost all male doctors who like literally have no direct experience of birthing but yeah, learned a lot of good stuff in textbooks. They and and they were also this is also this is a good thing that is changing, I think in, in the practice of Western medicine, is that for a long time, it's like well, doctors do the doctor ng and the nurses take care of the soft squishy stuff like you know, thinking about the patient's feelings and what they actually say they need. And of course, what the patient actually says they need and their emotional state is a big part of their health. And often it turns out the patient knows something about their health, but the doctor has not yet intuited it so right listening listening to them can be useful and
+
+Bret 1:09:21
+you could there could be information and it could be Yeah.
+
+Heather 1:09:27
+Biologically Why are some of us global citizens and experts and others have no interest in world travel?
+
+Bret 1:09:35
+I think that there's an economic driver here and you know, I I always proceed from what I think is actually a pretty good assumption. It sounds wrong and it definitely sounds like so naively liberal that it is suspect in heterodox circles but I really think people are pretty damn similar except for the The circumstances of their development, right. In other words, we have very different, this is not true, actually, between sexes, males and females seem to be different. I'm all for seeing the rules violated, but as far as people's different instincts for access to nature for different kinds of fun, right, these things have a lot to do with pets, you know, with basically what we call historical contingency. And then, given similar developmental environments, those things, I don't think, you know, barring things like, you know, if you're, if you're from a very tall culture, you might like basketball more, because you like winning, and if you're from a short culture, probably basketballs less rewarding, so it could ever feed back through that sort of thing. But but the, I would imagine, those of us who have had the, the advantage of being able to travel of having families that encouraged travel that took us places, right, we have some idea why you would want to go, right, and the fact is, travel is a huge goddamn pain in the ass, right? But it's worth it. Right? If you if you go places where, you know, if you have the taste for it, if you don't mind, as we were talking about yesterday, if you don't mind, the fact that if you transport yourself to somebody else's culture, you're liable to make mistakes, that they will probably forgive because that's the nature of people that will be recognized that you're not from here, and therefore, your full pas are full pas, that could be forgiven, but there's a lot of discomfort to it. There's a lot of insecurity to it, you know, just the simple fact that you're going somewhere and you can't you don't know what's going to be there. So, you know, are you forgetting something that you won't be able to source that you actually need? All those kinds of concerns that, you know that if you're going somewhere really far, the awful fact of, you know, a long transit, long layovers, you know, it's hard on the body, really, but if you've done it, and you've been to the other side of one of these things, and you've had marvelous experiences that you find yourself mentally returning to, because they resist stimulating of thought and all then you're more likely to put it on your priority list of things you want to do, if you haven't had that advantage, you know, and I think also there's something to it makes all the difference in the world. If somebody who knows how to do it shows, yeah, here's how you here's how you travel, such that it minimizes the parts that are really awkward and unpleasant. So anyway, I guess the point is, you've either had a history in which this is, is brought you to things that are rewarding, or you haven't In which case, you would have to, you know, you would have to infer that it wouldn't be worth all of the hassle.
+
+Heather 1:13:01
+Or, you know, or you always dreamed about going to, you know, stumble, right? Paris, right? Like you read about the Hagia Sophia in a book when you were a child and you really want to see it so like that can be the thing that drives a person. But otherwise, I would say it's I mean, that's still a developmental influence. But otherwise I would say it's Yeah, it's it's being lucky enough to have been in a situation where you had family who was able to an interested in taking you places that you've never seen before, and that were entirely unlike where you were born and where you spent most of your time. And I will say also that as much as like my the field seasons that I did in Madagascar most of what you were with me on were were ridiculous in some in a lot of ways right? In a lot of ways I had an amazing and I wrote a whole book about it. So you know that's that's out there in the world if people want to know more, but that's Antipodes. But one of the things that I remember thinking was the most hateful thing of all was the packing for the trip because where I was where I ended up choosing to do my actual long term fieldwork. There was just there was nothing like not only was an island off the coast of Madagascar, but at that time anyway, Madagascar had toilet traditions that didn't involve toilet paper. And so when I was packing for for instance, the trip that you weren't on, it was a five month trip. And I needed to figure out in advance like how much toilet paper does a person pack into this giant trunk to get to guarantee that they couldn't get to five months and you know, and everything else sealing solution for contacts, you know, like all of the supplies, which was I found it hateful because you really didn't want to overpack right, but even more you didn't want under pack but you were paying for a lot for every ounce that you were putting on that plane and hope that air Madagascar didn't trash it, which they did some of the stuff. But there was also a real value in having to do that a few times and I remember just like our, our living room floor just disappearing for, you know, a week in advance under the piles of stuff being like, okay, no can't afford to take that that's too heavy, it's too bulky. And you know, just kind of going through the like, actually, if I really am going to have everything here is what I'm relying on for five months. And here's the non negotiable stuff because I need that for the actual research. Like what else is left? You know, how many? How many books can I take? Right for, you know, for instance, you know, in a place where I had, I was putting the other electricity system and so I had some power that I could draw on, but this is before ereaders anyway, but anyway, that even even some of the stuff that's the most banal and most hateful as it felt at the time, it's about has a value. Yeah, yeah. Okay, let's get through what how would we add sec? Okay, let's get through three, three more. How about all right? Do you feel then I'm just going that we've got a, we've got it sorted. And it's going to the three at the top here, sorted by dollar amount and likes and the time it came in? Do you feel that being let go from evergreen was fate since you now get to teach worldwide about the truth and save lives? For instance, ivermectin.
+
+Bret 1:16:30
+Not fate? Yeah. I
+
+Heather 1:16:31
+don't I don't believe in fate that
+
+Bret 1:16:32
+way. I don't believe in fate. But I do believe that fate is a it's a metaphorical truth. Right? It's a useful fiction. Yeah. And so I think the point is, yes, I do feel like we're doing what we should be doing. I don't feel like it's the only thing we should be doing. I don't necessarily You know, it doesn't. We there could be a next transition to something that would make even more sense. Yeah. But I do you know, I do feel like the all of it, you know, the what you and I have described as feeling like a tornado picked us up at 930 in the morning on May 23 2017. And hasn't put us down yet. That tornado is, I mean, the reason tornado is the chosen analogy is that it has introduced a ton of chaos into our lives, and the chaos just doesn't stop. But it has filled our lives with meaning. And our lives were full of meaning before, this is filled with a different kind of meaning. And I don't regret that.
+
+Heather 1:17:34
+And it's reaching, like, we are reaching more people. And that has value with
+
+Bret 1:17:38
+us. So as if, as if faded.
+
+Heather 1:17:46
+So something interesting is happening. I hit go, and then it disappears. Two questions. So there was one that I was just going to get to and, and I know this happened once before, too, there was Yeah, fresh it. Yeah, no, it's not here. No, no, no. So anyway, this there was one that was written pretty aggressively asking us why we're being so soft on all the medical malpractice and, and not talking about. So I'm just doing it from memory now, because I don't know where it went. Yeah, I'm not talking about the high rates of miscarriages post vaccine. There's this one paper that I have not spent any time with yet. So I'm not I'm not gonna say that I know anything about it. But what I've seen by way of analysis is that it clumps all of the trimesters together. But if you split it out by trimester, you find an alarming rate of miscarriage post vaccine early early trimester, and not not so much in the third. And you know, of course, that would be true, like, no matter no matter what, right? There's a reason for instance, that the morning sickness happens in the first trimester, and not in the third. A few women talk about being nauseous throughout their pregnancy, but you know, that's your body saying stop eating something that you're eating or being exposed to something you're being exposed to at the point that the fetus is so so so fragile, and the fetus is still plenty fragile at the point that the kid is born. But, but a lot less fragile with every passing week.
+
+Bret 1:19:29
+I was gonna say it is an analog for what we have been saying about the longer you can delay encounters with things the more development is behind a child and therefore the safer it will be and you don't need to know about the particular influence to know that that's true. It will Slavs influences novel Yeah. So, hey, I don't think we've been I don't think we've talked about as much about that issue
+
+Heather 1:19:51
+yet. Well, I just I mean, that paper I think is fairly new and I haven't I haven't read it yet, because there's, you know, 800 papers that I'd like to read at the moment, but the idea that we've been soft pedaling is kind of amazing. Let's
+
+Bret 1:20:01
+put it this way. crime of the century. That doesn't pull any punches. Yeah. I have said repeatedly that I believe that that is just actually a literal description that if you follow the evidence that that's that's what this looks like, yeah. And you know, centuries young, it's not saying as much as it will be in 2070. But the fact that this even looks to be that way based on the evidence is that that was a challenge to people. If it's not the crime of the century, then how the heck is that working? Because that's what the evidence looks like. So anyway, yeah, I don't feel like we're soft pedaling. And, you know, I would love to know what the ideal was, was to make the point so that people really got it or if there's something about it that we don't understand. I'd like to find out what it is. Yep. But yeah, not softly.
+
+Heather 1:20:52
+Okay. So I feel like we answered that even though the question I didn't. This is a glitch that we'll have to figure out because I do think we disappeared a few questions that I wanted to answer, and they're just not here. Now. One last question. grateful for your work, can already vaccinated people do anything to limit potential harm from the vaccine?
+
+Bret 1:21:15
+Let me see if you and I agree with that question means a person who has been vaccinated and is concerned about harms that they may suffer from the vaccine is there's
+
+Heather 1:21:26
+two possible interpretations. If I've been vaccinated, how can I limit the risks to myself? As opposed to if I've been vaccinated? How can I limit the potential risks to others?
+
+Bret 1:21:38
+Wonderful. Yeah, there are in both cases, and then there's a third category, which I don't think there's anything to be done about. So in the case of short term harms, it appears and I'm going entirely on the clinical experience of PR Corey and his partners in the NFL, Triple C and bird group. What they say is that ivermectin is effective against post vaccine syndromes. Yeah, right. So it is interesting to all of us that it appears to be effective for post vaccine syndromes, it appears to be effective for a long COVID. And it appears to be effective for COVID. That is something I don't think anyone would have predicted it as a clinical observation. But it's a useful one. And so the, you know, as I think I've said before, if ivermectin were a dangerous drug, we'd be in a much bigger pickle. But the fact that it's a safe drug means that, do it in conjunction with your doctor, get your doctor on board with what the evidence is. And then if you have the sense that there is harm done, if you have one of these serious symptoms that people seem to suffer, try it out and see whether or not it is effective. And if it's not, you've given up very little. And if it is effective, then that's fantastic. In terms of the risk to others, and this is a place Actually, it's another place where the official CDC and who advice is not only wrong, but of noxious. The idea, the rewards that are being deployed for vaccination, I understand in principle, the idea, but the rewards very frequently are like you don't have to worry about masks anymore. You don't have to worry about whatever the restrictions are. And the point is actually this issue of variants being triggered by vaccination means that that is not a simple calculation. Right? And, you know, what's the way to deal with this, it's to study it so that we have some idea how frequent these breakthrough cases are, how transmissible they are. And basically the idea is, you want to treat the possibility of a breakthrough case that results in variants being conveyed to other people, you want to deal with that in sort of the way that society deals with washing your hands after you go to the toilet. Right? You wash your hands after you go to the toilet, not to protect you but to protect others. And it makes sense to recognize that a vaccinated person is not a perfectly safe person walking around. Hopefully they're very safe, but not perfectly safe. And the crucial thing is when a vaccinated person does have a breakthrough case, and they pass it on to somebody else. The logic evolutionary logic says that they are more likely to transmit a an escape mutant rather than the original version of the virus and therefore that is a hazard that we should be especially alert to now If you have a breakthrough case, I can't, I would love to hear a clinicians perspective on this. I would love to see evidence. But there's no reason not to be using ivermectin for those cases as well, which is very likely, if it functions like it does in a naive host, is very likely to reduce transmission. So, in any case, again, I think one of the themes that we should be developing is no matter what you think about whether people are being right or wrong about this, if ivermectin works the way, the evidence suggests, it is useful in all sorts of cases, including the things that are not so perfect about these vaccines, like breakthrough cases.
+
+Heather 1:25:39
+Excellent. Well done, man. I think we've come to the end The end of the thing, yeah, we will not be back here next Saturday, we will be picking one of us will be picking up one of our sons at camp and for Northern California, hopefully not. catching on fire, the fire season has begun, weed is on fire, the the lovely town of a weed is on fire.
+
+Bret 1:26:08
+Here's something you don't know. When we are apart, and one of us drives through that town, we always send a text message that says I'm out of weed at the point that you're no longer in the town. That's true.
+
+Heather 1:26:24
+Yep. So I have my notes here, they're totally or we're not going to take a 15 minute break, we're gonna take like a two week break. But we may it may be more like nine or 10 or 11 days, we may come back and do it do one. Do a episode before two weeks from now. But in the meantime, we really, really do support support. So we really appreciate your support and are grateful for the questions that you've asked using our new q&a system. We are grateful for your support on both of our Patreon so we encourage you to join those. You should go to that store dot Darkhorse podcast.org and pick yourself up one of them go either shorts and then wear it. Wear
+
+Bret 1:27:11
+it actually, should we have them? post a picture of them wearing it outside while not wearing a mask somewhere? Cool. Could be your front yard. But you know, what's the hashtag? I think the hashtag is divided by zero
+
+Heather 1:27:25
+divided by zero divide by zero, which is also the code that you can use at the store through the end of this holiday weekend. To get 10% off
+
+Bret 1:27:33
+Yes, now the code is divided by zero with zero as a number. I'm not sure if a number works for the hashtag Yes, it does. But if it's a if it doesn't, if there's sure it works, all right, divide by zero same as the coupon code,
+
+Heather 1:27:45
+di di di BY number zero and do it
+
+Bret 1:27:49
+camelcase that's the cool way to capitalize each of the words. In the coupon code, it's all capitals. That's not like oh no, it's all falling apart.
+
+Heather 1:28:00
+Yeah, no, and you're just adding so much complexity. Yeah, the the the code for the store is all caps it has to be all caps apparently.
+
+Bret 1:28:10
+Okay, let's do it all caps.
+
+Heather 1:28:12
+Why are we here? please consider subscribing to and this just sounds like a big ask but really it's just like subscribing to all four of our channels at this point both of them on Odyssey and both of them on YouTube.
+
+Bret 1:28:27
+That's fast
+
+Heather 1:28:29
+we know that YouTube is paying attention and so having those numbers continue to climb is is useful but regardless of what happens there we intend to also be here on Odyssey so so definitely subscribe to both this and the clips channel here and to hear anything more man
+
+Bret 1:28:48
+no I was just going to tell them that this is it we're going to be off for a while I'm going to just continue to drive you crazy just you know in personal space without the cameras rolling but anyway it continues even when you are
+
+Heather 1:29:02
+it does we speak to our children in ways that normal people don't even when they were tiny and and this this continues as well. Okay. Be good be good to the people you love bread. Yes and eat awesome food and get out side.
+
+Bret 1:29:20
+Be well everyone
+
+This transcript was generated by https://otter.ai

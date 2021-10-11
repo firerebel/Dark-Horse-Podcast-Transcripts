@@ -1,0 +1,427 @@
+Bret 0:24
+Hey folks, welcome to the Dark Horse podcast live stream number 82. Make note 82 is not a perfect square, it's not prime, it's not special in any way except for it's being so darn on special. But the episode is going to be great.
+
+Heather 0:42
+It's been a busy week here for us and in the world. But as a result of the business in in our lives, we're going to do more riffing today than perhaps we we often do. But first a few announcements a little bit about where we're going today, one ad and then we'll all jump into it. Tomorrow is the monthly private q&a that we have over at my patreon from 11am to 1pm. Pacific time, please consider joining us and before next week's live stream, Brett will have his first the first of his two conversations that he has monthly at his Patreon. So consider joining us There we are. We are going to talk about the state of the discourse right today the how it is that conversations are happening in the media and in the name of science. And of course, this is a topic that we come back to reliably but both you and I had some framings for what it is that we're seeing that that I think are at least at least new to us. I'm not sure if they're they're new, although I think yours is a very good chance of being so before we launch into that, though, we have we have one, one ad with which to pay the rent today. So public goods is a company that aims to be your new everything store. It can be your one stop shop for high quality, everyday essentials, all made from carefully sourced ingredients and available at an affordable price. public goods has toilet paper and shampoo all purpose cleanser conditioner, coffee, avocado oil. They even have quirkier niche items like chocolate covered almonds, which we got in our first shipment. And I particularly liked those and they were just different from the rest of what they have on offer. public goods cares about sustainability and health both for its customers and for the planet. They source their ingredients ethically, and an eco friendly manner. And the products are free of many of the unhealthy ingredients that you will find still common in drugstores and grocery store shelves. public goods also pays attention to design. So because you're buying stuff all from one product, or from one, all from one brand, you get a streamlined, simple aesthetic that's really quite quite lovely, no garish colors, no screaming for attention, they disappear into the background, which for most of us is what you want with the products that you're buying. And you don't have to sign up for regularly scheduled deliveries, but their subscription service is efficient and easy to use as well. And rather than buying from a bunch of single product brands, you can buy all of your premium essential oils both in one place, which obviously is something that other services offer but from one brand as well. They also plant one tree for every order placed and they incorporate sustainability in every part of their company. So if you're interested in making conscious choices, you might consider public goods. So for our listeners, for Dark Horse listeners, we have the following offer receive $15 off your first public goods order with no minimum purchase. public goods is so confident that you will absolutely love their products and come back again and again that they are going to give you $15 to spend on that first purchase. Therefore, you have nothing to lose, go to public goods.com slash dark horse or use code Dark Horse at checkout. That is p UB li si g o d s.com forward slash dark horse to get $15 off your first order. Try it. We think you'll probably like it.
+
+Bret 4:08
+And we think morning Dark Horse we do. Alright,
+
+Heather 4:13
+right. All right.
+
+Bret 4:15
+How are we going to enter into this discussion here?
+
+Heather 4:19
+It could be either of us as you like. Well,
+
+Bret 4:23
+I'm not wedded to either approach I think it will all out in the end. Well, okay, I'll start Alright, fair enough.
+
+Heather 4:32
+I was I had reason to be thinking about universities and how to fix universities and what, what good things have happened in universities and how often those good things have been gamed in in specifically this week. And of course, since well before evergreen blew up but that was that was a turning point. And in so doing I ran into a document about an incident that happened at evergreen and 2016 in which some some people had put up flyers that indicated that the Black Lives Matter was perhaps not the awesome organization is being presented as and so I want to show just this is from a 2016 document from evergreen that was put out by the administration in response to just some flyers being put up that says, bias messages are unacceptable, and we condemned the biased content on the flyers. There was nothing violent it was it was just questioning whether or not black lives matter was actually standing up for all black lives. So it says bias messages are unacceptable, and we condemn the biased content on the flyers we value and want to support all members of our community. And the college does not condone such acts of intolerance, intimidation, messages that are one dimensional presented as propaganda and question the legitimacy of a social movement advocating for social justice for black people in the United States, kind of a bias against people of color. It further says these flyers convey a message of opposition towards the Black Lives Matter movement. And Black Lives Matter is a movement drawing attention to racism and violence toward a community of people that have historically been oppressed, marginalized and discriminated against throughout US history. messages, such as the one on these flyers diminish the disparities experienced by people of color. Now, we spent a lot of time last summer, in particular, talking about how the message of Black Lives Matter, seems to be a poor match for what's actually inside the organization. And we know anyone interested in that in that kind of analysis and go back to really almost any of our live streams from last summer. But this put me in mind of wondering if there's a name for this situation, you've got recognition of a real problem, in this case, racism. A solution is proposed, in this case, Black Lives Matter. And then the leap, the logical leap, that seems to be ever more accepted and acceptable in polite society, is those who resist the solution that's been proposed, or accused of denying that the problem exists at all. And so in this particular case, you have anyone who resists Black Lives Matter as a solution to the problem of racism, you instead of being told, actually, you know, we wish you wouldn't do that, or here's why we think Black Lives Matter is all of that, we are told, if you reject the solution that we've come to, then you reject it, there's a problem at all. And of course, it will be true that all of those who reject that there's a problem, we'll also project that a solution is necessary. So that is a tiny subset, right of the people who reject the solution. But in fact, most people who reject a solution to a well known problem are not in fact, saying therefore the problem doesn't exist. But this is a way that we get slandered effectively and get shut down. And it serves to confuse a whole lot of people when we are told by critiquing that solution, you are denying, you know, the humanity of the people or the racism exists, right? So I was thinking about that in that context. And then I was thinking about exactly the same framing in the context of COVID. In light of a conversation I had with in light of a conversation that I had with a doctor who was trying to compel me that our 15 year old child needed to be vaccinated.
+
+Heather 8:30
+I went in and said, He's on prophylactic ivermectin, which has a efficacy in terms of the prophylaxis that's on the same level of magnitude as the vaccines and has a safety record that is 40 plus years long. And that, you know, clearly, I think that this is serious that the pandemic is serious. And he responded to me by trying to make me scared, by trying to make me feel guilty. And furthermore, by trying to demonstrate that what I was doing was proof that I didn't believe that COVID was serious. And so once again, the framing is you've got recognition of a real problem, in this case, the pandemic, which we've spent, you know, since since March of 2020, talking about recognition of a real problem, a solution is proposed, in this case, the solution that is acceptable in again, polite society is vaccines. And anyone who resists the solution that has been proposed is accused of not recognizing that the problem is real. Once again, those people who actually don't think COVID is serious or think it's a plot or you know, whatever, will of course, also project the solutions. So, you know, all those people do belong in the subs and the subset of in the category of people who say, Actually, I'm not taking your solution. But the majority of people who are skeptical of the solution are saying, Yes, real problem. There are probably multiple ways to go about solving that problem. Here's another one. To which we are with, at which point we are confronted with, no, you're not allowed to have multiple solutions. And if you consider multiple solutions, you're denying that a problem exists, and therefore you are an anti vaxxer. You're a COVID denier, you're a racist, you know, whatever it is. And this is a rhetorical trick that is super powerful, and I think incredibly widespread.
+
+Bret 10:24
+Yeah, I would say it is actually you've described more than one trick that work as a system, right? So there's, you know, there's subsets of this there is the the label on the box does not match the contents, there is the label on the box is itself a Kafka trap. Right? How does one oppose a box that says black lives matter? Right? How does one oppose the Patriot Act? Right? That the trick is, as soon as you attempt to engage the thing, it's like a million different versions of When did you stop beating your wife? Right. And it is reflective of two things, I think. One is a stratagem, as you're describing, and the other is an overwhelming failure of baby Basie and thinking or nuanced thinking, right, in favor of categorical thinking, right? So you know, if it is true that you have concerns about the vaccine safety, and if it is true, that somebody who is against all vaccines will also have concerns about this vaccine safety, then somehow you are burdened with their presence, roughly in the same general neighborhood, even though your positions are actually in no way connected, right? They, they may be resistant to vaccines, because they think it's a government plot to implant microchips. And you may be resistant to novel vaccines, because you don't know what you don't know. Right, which is obviously just factually true,
+
+Heather 11:56
+right. And, you know, hallelujah, it turns out that there's something for which the safety data are abundant. And the evidence of efficacy and both prophylaxis and treatment seems to be strong. Having having a member of the medical profession, try to fearmonger me into it into providing a novel solution that we are being told is the only responsible solution, as opposed to one that many researchers, many medical professionals have said Actually no, ivermectin is effective here, and, and, again, safe.
+
+Bret 12:36
+So I agree with your analysis of what happened. I strongly suspect the doctor in question had no idea that he was doing any such thing. He was actually a victim of a campaign of fear mongering. And the interesting thing is that the fear is contagious. It is deployed in such a way that somebody who responds in you know, they've been given a very narrow view, they've it's one of these, it's like an anamorphic presentation, where they have been told stand right here and look at only these things, and voila, a very clear picture emerges. And then having absorbed that picture, the point is, oh, now now you're an agent, dispensing the stand here and look that way message when in fact, if you look from almost any other perspective, it's not clear. And there's indeed an obvious question about, okay, how does one individual rate for example, the likelihood of unknown, serious harms down the road from novel vaccines, right? And reasonable people experts can disagree over how one would rate the likelihood of those things? Because there's a question of, you know, is this one novel technology or more than one, right? Is it a novel vaccine? Or is it a novel delivery technology and a novel message, right? So we can have that discussion about what the most reasonable way to view those hazards are, but we can't have it if the point is, everything is black and white. And anybody who has stood here can't possibly mistake the message. And they are actually morally required to inflict fear on others so that they will stand there too, and see the same thing.
+
+Heather 14:16
+I think that's exactly right. And, you know, fear enhances the ability for people to see things in a binary way, you know, in a black and white way, you're either with us or against us. You're either being careful and rational, or you're not. And I was, I was lucky to be part of a conversation this week, with a number of very smart people, one of whom said, part of what we are experiencing society wide right now is a primacy of fear of love. And what we need is more love less fear. And this, this struck me as one of the most salient points that that I've heard in a long time that it's easy to point to the fearmongering and say, My God Do you have to stop? What right do you have to try to make me more fearful? And I think that, you know, to the degree that there are, presumably you know, many other doctors trying to convince many other parents that if they have an alternative thing that they can do for their children, that is actually as effective, that that is dangerous, that those parents will respond with what feels like love for their children, as we hope all children all parents have, but which is actually driven by fear. And, you know, I did have the sense the sort of like mama bear sense, like you stay away from my kids, then because you are using your fear, to try to invoke fear in me to get me to do something that in my non fearful state, I have assessed and feel confident, and I'm always looking for more information, but feel confident that this is a far better path forward for this person with his developing brain and body. And that is out of love, not fear,
+
+Bret 16:02
+right? Now, there's something, it's very hard to do this job well, because when somebody is saying something that you have reason to believe actually creates a hazard for someone that you do love and for whom you have responsibility, it is natural to view them as, you know, an enemy rather than a victim. And in this case, the self deploying contagious fear mechanism means that you should actually be in the frame of mind of, you know, how do you deal with somebody who's responding to an endogenous delusion? Right, somebody may be dangerous, because they are in the midst of trying to protect you from monsters that are trying to attack you. And then you know, so one has to simultaneously recognize that this is actually not a moral failing, this is a confusion that is resulting in a hazard. And that's not easy to do.
+
+Heather 17:00
+Right. And, you know, to the degree, you know, we've begun to hear in recent years that sometimes dealing with elderly patients with dementia, that going along with their narrative entering their narrative is actually the easiest thing for everyone involved, at least for a while, right? It confuses them less, and what harm does it cause? And in general, the elderly who have dementia are not, are not off on some genocidal rage or something, right? This, of course, is different, you know, how do you you can't use the same technique, you can't calm the person by pretending to go along with a delusional narrative,
+
+Bret 17:38
+right? And in fact, you know, yes, the problem is because it's contagious, you know, it's, it's actually odd now that now that I see the picture, you're dealing with a contagious narrative about a contagious pathogen, right? And the obligation, the person's sense that they must convince you to take your share of the action that's going to shut down the contagious pathogen is mirrored by the actual necessity to sort of halt this narrative. So it does not cause us to do self harm and harm to others that is easily avoided. And you know, how we deal with it, you know, it really is mind virus stuff. And, you know, we're just gonna end up at layers of an onion here, but the degree to which the trick requires and I don't know where the trick comes from, we've talked a little bit about where it might come from, I feel an obligation to leave the door open to other explanations, the explanation that we have explored being so diabolical, that
+
+Heather 18:44
+which, which thing are you talking about, that
+
+Bret 18:48
+the need for emergency youth or youth use authorization for the vaccines has motivated a, a campaign of untruths, about ivermectin,
+
+Heather 19:02
+he always never could have been enacted, or deployed if there had been a viable treatment and so ivermectin cannot be a viable treatment.
+
+Bret 19:09
+Right. And we will we will get back to that. But But the point is, the trick involves all sorts of things, right? So for those of you who are not familiar instantly with the idea of anamorphic art, right? anamorphic art is art. You've all seen chalk drawings on sidewalks and things that appear to be like chasms that people are standing on ledges over right and they're they're very compelling 3d images that look amazing. What may or may not be obvious is that they look that way from exactly one perspective, right? The artist drew it with the expectation that you would stand in the exact place and if you walk by the art, it just looks distorted and strange. And so the point is built into the art is the description of from where it will be viewed. So anamorphic arguments are ones require that you stand in a place where you can't see the things that put the lie to them. And in concert with that, you have a campaign and I have to say I am shocked at how out in the open it is. You don't know if you don't know to look for it, you can't see it. But if you do know to look for it, it's trivial to establish that it exists, right? What's the campaign? A campaign involves the removal of videos from YouTube. It involves the blocking. So
+
+Heather 20:30
+we're talking specifically about not being allowed to talk about ivermectin as prophylaxis, or treatment for COVID. That's right. That's the topic and
+
+Bret 20:36
+at some point, we're going to get to the question of why these things are the same question, right? Why the question of what to think about novel vaccines. And the hazard they may or may not pose to you is the same question as what the heck is going on with ivermectin and Why does everybody seem intent on preventing us from talking about the evidence? Right? Those two things turn out to be the same question for reasons that it actually took me a long time to figure out, but I think it's pretty clear. But nonetheless, the point is, okay, you've got an anamorphic argument that requires you to stand in a particular place, but that's not good enough. Because from that place, you would see things that were inconsistent with the argument that's being made, but for the fact that the landscape has been purged of them so that they don't show up. Right. And so how do you purge that landscape? You just take stuff down, right? Wasn't there some doctor who testified to Congress about ivermectin, and didn't he have all kinds of evidence at his disposal? And, you know, wasn't he highly credible and didn't have exactly the right credential? Right?
+
+Heather 21:38
+That sounds like a favorite dream, honey, right? can't show you.
+
+Bret 21:41
+But then, of course, YouTube, check it down. So the point is, it's not visible from lots of places that it would otherwise be visible. So that that the anamorphic argument is somehow part of the strategy in which your point is, you're going to be dropped into a trap, where if you express skepticism of x, then you're definitely guilty of y. Right? That's, that's the thing. Yeah.
+
+Heather 22:07
+To use your variables, why is Gosh, now I'm going to abandon your variables. There's a thing x, we're proposing solution y, you say I don't like solution y, or I'm skeptical a solution y? Or can we at least come up with solutions? z two, and then compare them? And their responses? Oh, are you one of those people who don't believe in x? Like I didn't say anything about that? Actually, no, x is real. It's the solution that you propose that I don't agree with? Oh, man, you're one of those.
+
+Bret 22:37
+Right. And it's also the solution where I'm speaking generally, I don't necessarily mean financially, but it's the solution where the profit is to be made. So if you're selling something, right, if you've put it in a box, and then you've labeled it in a Kafka trap manner, right, and the point is, what you want is the payload in the box delivered, right? You're not necessarily invested in the label, right? You may even be hostile to the label, or at least indifferent to it. But the point is, the label is the thing that gets the Trojan horse through the gate. And it puts those of us who try to unpack these things at a disadvantage. It's much easier to miss label an argument, right, in order to get a payload delivered than it is to explain, you know, I find myself saying things like, Well, how do I feel about black lives matter? I'm very much for the sentiment and very much against the organization. And the reason for that is something that they have now taken off of their web page, but I swear it was there, right? It's like, Well, right now you sound like a crazy person, right? What do you know? It's
+
+Heather 23:41
+like It's like dealing with a sociopath, actually, and you know, I'm not I'm not saying that the organization is a sociopath or do that analogy would fall apart to some degree anyway, but when when you are actually being targeted by someone who is sociopathic and you try to explain to someone else, whether or not they have any interaction with that person, you sound like the crazy person.
+
+Bret 24:03
+Okay, now, I think this is another layer to the onion. It's important I actually think sociopath is the right description. And or I don't think it's at all unique.
+
+Heather 24:12
+So if but what which thing here is sociopathy
+
+Bret 24:15
+the term I think we're lacking is defecto sociopath or emergent de facto sociopath. Granted, not all that catchy. No, really not. No. But But the point is, there are lots of mundane processes, business processes, for example, that cause a corporation to behave as if it were if if you anthropomorphize it, it behaves like a sociopath, right? Has nothing to do with there being any sociopaths present, right or often aren't right? But it behaves like one because the point is the same kinds of narrow, self interested calculations, even just the fiduciary responsibility to shareholders can cause sociopath like behavior in the emergent entity that is the corporation so that same thing happened. In, you know, organizations like, like Black Lives Matter, right? It behaves in this way where it delivers Kafka traps in a way that no nice person would write. Why does it do that? Well, it works, right? The organizations that maybe attempted to do something along these lines that didn't use tricks like that, maybe we don't even know what their name is. So the fact that we find ourselves tripping over our own, you know, evidence and logic in order to explain why it is that, you know, yeah, we're with you right this far, and we're not any of this, everything over that line is the place where we no longer believe this, you know, though, that's, you know, that's, that's the purpose of, of the structure? And, yeah, you know, it is emergent, not entirely, there's definitely, you know, collusion happens, but you don't want to assume more collusion than you need in order to explain the behavior. And sometimes you don't need very much at all. Well, it
+
+Heather 25:57
+is once again, as as we say, like a welcome to complex systems and be the the problem that, you know, the selective forces that create, that allow individuals to behave sociopathically within organizations and profit from doing so. And for organizations to themselves behave in a sociopathic manner, is an evolutionary process. And that statement is without value judgment, it is an evolutionary process. And it is part of what we're trying to do by having these conversations public is put enough meat on the skeleton of Okay, that's evolutionary, such that we collectively can be figuring out okay, if the problem is evolutionary, presumably, the solution is also evolutionary to say something that does to say that something is evolutionary is not to say that it's immutable. It's not to say that it's good or bad. Again, no value judgment implied. But to the degree that we know that evolution has produced all sorts of horrors, genocide, rape, incest, and all sorts of beauty, mother's love, and romantic love between people and the care of society for all people, regardless of their circumstance. These are all products of evolution, some ugly, some beautiful. So what kind of solution? Can we what kind of evolutionary solution? Can we generate for some of these things like this sort of this Kafka trap thing that you were talking about, that allows us to do an end run around the uglier parts of the selective processes that we that we are facing now?
+
+Bret 27:33
+Yeah, no, I should caution. There's one way I would say that the thing that the solution needs to be is evolutionarily stable, it may in fact, be counter evolutionary in the sense that men need to sideline the genes and don't sit down and shut up. Well, yeah, we enhance the the compassion, and we down regulate the backstabbing and other products of, of selection. But anyway, it's a small, it's a small quibble, really the point? Well, but
+
+Heather 28:01
+I mean, but the compassion, the backstabbing, all of that is evolutionary,
+
+Bret 28:05
+right? Oh, it's all evolutionary. And then the point is, well, what are you going to do about it? Well, they're the things that we actually want. And they're the things that we're capable of that we'd rather not have. And you want to build a system that leans in one direction and away from the other. And what it has to be is it has to endure the tendency of evolution to unhook such systems and return you to the natural state. So anyway, that's probably too far inside baseball. But it is, it is a very interesting predicament. And anybody who has faced this stuff, I think will immediately recognize the feeling of like trying to bail a boat in a way that just cannot compete with the rate at which the boat is flooding, the hole is too big for the bucket you have at your disposal.
+
+Heather 28:54
+At at best, they succeed. At minimum, they succeed in wasting our time. Well, and you know it, for the most part, they do a lot more than that the the would be the sociopathically acting. People and actors who are making claims like x is real y is the solution. If you don't accept y as the solution, then you don't believe in x.
+
+Bret 29:20
+It's important to remember though, what they're actually doing, right? The thing is the sociopath, the emergent sociopathic impulse that we see in these organizations is about the objective and the objective is the contents of the box, which means that as you attempt to oppose it, it doesn't care if it destroys you. It doesn't care. If you figure out a way to make living in the world discussing the problem. It doesn't really care. The one thing it cares is that you can't stop it, right? It cares that whatever happens the payload gets delivered. Right, the gates are opened, the horse goes in, the payload emerges. And that's the thing that it is hell bent on accomplishing, which then creates a whole landscape of people doing various things, including exhausting themselves, feeling crazy, making a living, discussing the thing, all of those things are happening, right? And occasionally, very occasionally, we actually stop one of these Kafka boxes and reveal its contents before they are deployed. And that actually, I wish that the vast number of people who are currently grappling with this incredibly rapid transition of civilization in the direction of all of these payloads, I wish we spent more time thinking about what happens when we win. What's different about those instances? And what can we learn from so we can do that more, rather than how do I individually position myself relative to all of these mislabeled boxes and payloads? Yeah.
+
+Heather 31:04
+I agree. All right. So it feels I thought you were about to segue into talking about buzzsaws. I think I'm gonna do that. Yeah. All right. And this is not a pro bono ad
+
+Bret 31:11
+either. No, it's not for both saws. Yeah. To be honest,
+
+Heather 31:15
+what is what what? What sod is bizarre for? That must be a table saw?
+
+Bret 31:19
+No, I don't think so. I think it might even predate it, I think, Oh,
+
+Heather 31:22
+you think it's an actual thing? Yeah, I
+
+Bret 31:24
+think I think it's like a saw and a saw mill.
+
+Heather 31:29
+I'm sure we'll hear
+
+Bret 31:30
+Yeah, we're gonna find out big terrifying saw. Big saw, right? The things get pushed into but yeah, alright, let's, let's talk about that sauce. So in some ways, what I'm going to describe is actually just what you're describing, viewed from a different perspective. It is the question of as you try to navigate this landscape, how do you recognize the components of the machine, right, irrespective of what the particular question is? What are the components of the machine that gets the job done that gets the payload delivered? And if you were going to actually defeat it, rather than fall into the Kafka trap, what would you have to do? Right, and so I will say, I've seen a number of these things before I've encountered them, I've lost some, I've won occasionally. And they do have a kind of structure to them. And to me, what it looks like is, you've got a desired outcome, as we've been talking about, and then you have a weaponized buzzsaw that is placed somewhere and just think of it as an object, a tool that has a label on it, right? And the point is, if you say, well, let's take the the obvious example for us. Let's say that you were, I don't know, professors at a college that was about to descend into welcome madness, and let's suppose that it was your obligation to do what you could to stop that. And it was your moral obligation as an individual to oppose it, because it's destructive to at the very least the education of the students that it's your job to deliver and protect. So you're going to stand up against against work policies, and happened to unfortunately, for these purposes, be white, right? When the point is there's a buzzsaw over in the corner and it's labeled racist, right? And so as you're pointing out, there is no explanation for why you would oppose Diversity, Equity and Inclusion proposals other than being against diversity, equity and inclusion, you were, therefore a racist. And so standing up the point is, well, I'm going to have to talk about the problem that you're creating with respect to the large number of innocent students, many of whom are white, right? Oh, suddenly, you're interested in the well being of white students. I guess you're a racist and you get shoved into the buzzsaw. And the point is, that buzzsaw thing is perfectly generic. If you were to try to talk about the situation of how we address COVID in mid pandemic, right, you are going to have to talk about the problem of what we don't know about the effect of these vaccines and you're going to find a wide landscape of things that we don't know in which very scary possibilities are, scientifically at least plausible. It could be that there are serious harms to the vaccine in the short term. We certainly can't say that there aren't serious harms in the long term. Because these things have existed for less than a year. It's quite possible that the deploying of these vaccines in mid pandemic rather than in advance of pandemic will drive the evolution of escape mutants. There are all kinds of possibilities here, right? What did you say? Do you think that the vaccines may be dangerous? Well then you get shoved into the anti Vax buzzsaw, right? Yeah. So my point is you could take all of these Go ahead.
+
+Heather 35:10
+I was just I was just going to summarize what you just said just put it in slightly different words, so that people hear it as many times as possible and I know you're not done but and I think there were three things although you only formally did to stand up against critical race theory at your college. The buzzsaw is your racist. Yeah, right. The Case for ivermectin can't be taught can't be made without talking about vaccine safety. And so you stand up and try to talk about ivermectin and almost always the buzzsaw is you're an anti vaxxer and then the third one that's implied in all of that is you stand up against there can only be one possible explanation for the origin of COVID and hey, it might elite from a lab, the buzzsaw that you get pushed into is your conspiracy theorist and actually there's a double buzzsaw in that case you're racist what because the lab happens to be in China Are you kidding me? That's a stupid bizarre but a bizarre it is yeah, I
+
+Bret 36:05
+think Glenn Greenwald, scratching his head on Twitter this week was like him. Somebody explained to me why it's racist to wonder if this came from a Chinese lab, but it's not racist to wonder if it came from a Chinese wet market. It's right I mean, it's a great point, right? Yeah. But yeah, okay, all of those things. And then actually, there's the interesting odd case in which we can watch the buzzsaw under construction. Oh, yeah, fun. Yeah. Oh, it's great. The buzzsaw is labeled turf.
+
+Heather 36:32
+Oh, yeah. Oh, that's, that's that's well, that's that's fully operational.
+
+Bret 36:37
+Well, it's operational in a sense, right? But because the term is brand new, it doesn't function in the same way yet there you know, so the idea and we've all seen it right. So
+
+Heather 36:48
+let me just so there are a lot of people who've lost livelihoods and such associated with being called turf Yeah, so the the distinction here the new thing here is not that you're trans rights activists are brand brand new on the scene although they are within the last 1015 years ish and you're really getting power in the last three to five but the the other terms that we've used either buzzsaw terms that we use racist conspiracy theorist, anti vaxxer have all been around for four decades or much longer. And so turf is a brand new construction in terms of the particular name that will get invoked that particular episode. So buzzsaw epithet.
+
+Bret 37:30
+That's it. It's a brand new construction. I can't say that I remember the exact first moment that I encountered the term turf and had to look it up. But it was recent. Right? That's a new term. And the idea is it is simply deployed as if it's an epithet. Right? It's deployed as if it's a vile accusation. And if you're guilty of it, wow, there's something so wrong with you. And so anyway, because the word exclusionary and right, but you know, racist is as old as the hills, right? conspiracy theorist is actually and I know there will be pushback on this because it is not entirely clear that it is the first use, but it is certainly deployed by the CIA in the post Warren Commission era in which they are trying to shut down discussion of the widespread concern that the Warren Commission report was not accurate, right, with regard to the Kennedy assassination, right? So an anti vaxxer I don't know how far back the autism it goes. But the point is, it's at least decades old. So all of those are quite old. And then this turf thing is the new one on the block. Yeah, you're right. It's been used a bunch of times, and it's done a hell of a lot of damage. But the point is, it's still, I would say, a kind of prototype of the buzzsaw phenomenon. But in any case, the question is Alright, let's suppose you were sick of this crap. And you decided, I think I'd like to win against these things. And I would like to stop seeing the payloads in these Kafka labeled boxes. So effectively deployed, right? What would it take, right? Because I know there's a buzzsaw over there and having one now a couple of these things. I think it is time to basically say well, okay, what did we learn? Right, right. Now in the case of the Evergreen fiasco, and the buzzsaw, which was labeled racist, you know, it was a mixed win, right? The win was You and I, that label did not stick to us, right? We did have to, you know, leave our jobs and, frankly, bootstrap a new way to make a living for our family. But nonetheless, we escaped the fate of being disappeared as a vile, morally compromised couple, you know, etc.
+
+Heather 39:59
+or something. Some place or silenced
+
+Bret 40:01
+in place, right? Yeah, the more likely fate the one that they expect is that you'll see the buzzsaw and they'll say actually I get it I'm not treading anywhere near that thing when instead what I did was I said actually, that accusation is so is such a poor match for just even the basic facts of my life that I can actually endure a close pass with that buzzer they won't be able to shut me in it.
+
+Heather 40:27
+Yeah. Yes, it's a mixed metaphor, but I just like Bring it on. Like, you're so far off,
+
+Bret 40:34
+right? I can't I don't think you have the firepower to push me into the buzzsaw is the thing. So okay, let's say that the another mixed metaphor. Yeah, another it's not quite right. That's, that's the way they win. They, they force you to mix your metaphors. And then we all know that once you've mixed your metaphors
+
+Heather 40:48
+lose the respect of the linguists, and then it's all downhill from there.
+
+Bret 40:52
+Right? Yeah, it's an uphill battle from which it's all downhill. Something on which you never write the hill, the uphill battle downhill on which terrible, awful it's just getting worse. But okay, so the formula for some kind of a win, is you need to have the capacity for a close encounter with the buzzsaw in which it doesn't make a meal. Right? Yeah. So in the case
+
+Heather 41:20
+of you got to get close enough to see that it's there and know that it exists.
+
+Bret 41:25
+Right? And the fact is, actually they advertise that it exists. You know, you'll watch a dozen people will be accused of being turfs and then you'll have your encounter. But the question is what you know, I think frankly, one of the things that you and I are doing well that works is we make a really lousy villains, right? Like you can think a lot of stuff about us but you know, we do a lot of talking into cameras and I mean, like coyotes we fear and like coyotes Yeah, there's lots of human stuff about us but but anyway, the The question is all right, if you had a really good track record on race, then you can afford an encounter with the the buzzsaw labeled racist. if you for example, were highly vaccinated and had been enthusiastic about vaccines as one of the great the very few great medical technologies that humans had ever devised, right? The other two on our list being surgery and antibiotics, right? If that's your profile, then the point is when people shout antivax at you, it doesn't necessarily carry enough weight to get you into the buzzsaw right? So you know that that's useful and then on you know on lab lake and I have to say I want to revisit this because I'm still watching all of my favorite people in the battle over lab League, move in and out there most of them will say hypothesis some fraction of the time but there's no discipline around the same person will say hypothesis in one breath, and then say theory and another. And my point would be part of avoiding the buzzsaw on lab leak was not overstepping what the evidence actually said viable hypothesis, right? a hypothesis tells you what the rules of engagement are. And because it is a bit of an arcane word, it is necessarily have it has a scientific connotation that is unescapable where a theory doesn't everybody's got a theory or so they think, right? But to have a hypothesis means Actually, I am approaching this in a scientific mode. And it is very hard to accuse somebody of being a conspiracy theorist, if what they have done is have a hypothesis that there has been some sort of collusion, right. It doesn't linguistically line up, it doesn't put you in line with the buzzsaw. And it also allows you to say Actually, no, I'm not expressing something with certainty. I'm suggesting that the evidence here is suggestive of something that needs to be investigated. So creating a profile of arguments and highlighting those features of your What's another word for identity? I don't have one but but Hi. No, well, that's it for Dark Horse today. The Yeah, yeah, highlighting those aspects of your pedigree or your history that are inconsistent with the accusation that is set up in advance. And that's really the thing that I think we're both converging on here. It's set up in advance. The argument that is that you know, the hill you're going to somebody set up a hill, and it's labeled die here, right? And the point is, yeah, and
+
+Heather 45:03
+you're funneled into it,
+
+Bret 45:04
+you're funneled into it. And so winning involves the move that allows the possibility of a win is the move that allows you to escape the, the gravitation of the buzzsaw, or the hill that you're supposed to die on, or the black hole that you're supposed to disappear into, or whatever it is, can you stay far enough away that you can have your encounter and it doesn't kill you? And I really think we just need to start modeling this for all of the places that it's being deployed. Because once you realize that it's a dozen different versions of the very same strategy, it doesn't make sense to one off the solution to
+
+Heather 45:43
+true. Many people cannot afford to lose their jobs, though, right? Right. So choosing to go against your social group may actually cause huge cascading effects and you might be unwilling to do it. But that still is a willingness issue. And you might feel very isolated, you might not know how to find people who are actually willing to talk with you openly and freely exchange ideas with which any number of people might disagree. But for because because we are now seeing, you know, for instance, just to pick the two big categories we've talked about here today, critical race theory, becoming just fundamental in so many organizations in the force in the form of Diversity, Equity and Inclusion officers and in the whole vice presidency is at academic institutions and such. And then with regard to the mainstream narrative on COVID. We are hearing now that the solution, the one solution may be mandated by employers, for instance, right that that vaccines may be banned. dateable. And, and you know, frankly, it's it's a different landscape. If there's really no other possible treatment, this is exactly why the emergency use authorization reads the way it does, right. If there's really no other treatment, then we should be willing to take more risk to get a treatment to stop a global pandemic, we of course, should. But there is an alternative treatment. And given that there is the idea that many people are going to be forced to vaccinate to vaccinate their children or to attend school to vaccinate in order to travel when there is an alternative treatment, which Furthermore, if you are on it, presumably but i do i have not gotten I've said this before, I have not seen data on it, presumably people who are vaccinated. Add to that people who have recently had COVID add to that people who are prophylactically on ivermectin, that's your herd immunity population right there. It's not just the people who are vaccinated, those of us who are in one, any of those categories are in fact, doing our part. And that is important. I am just not going to be shamed about this anymore. This is insane and diabolical and mean spirited and dehumanizing and dangerous, and wrong,
+
+Bret 48:02
+and wrong. Yeah, yeah. All right, I want to add two things to that. One of them is kind of an ancient piece of technology in in my kit, but I think this is the place for it. I absolutely agree with you about the fact that most people just can't afford to lose their job. And so the idea of fashioning some strategy in which you can you know, you can potentially endure an encounter with the buzzsaw doesn't make any sense because you know, if there's a 10% chance of going into the buzzsaw, and it's going to cost you your ability to keep a roof over your family's head. It's it's a non option, but but nonetheless, so here's the model, the ancient piece of kit here is about what I call cultivated insecurity. cultivated insecurity is the idea that whatever the origin, I don't know that anybody formulated this as a plan. However, it came into being though, there is a control mechanism that involves a huge amount that stands between you and destitution actually coming down to a very narrow set of relationships. So for example, for most people, their ability to pay their mortgage, their health care, their retirement, you know, their ability to continue on in the world is tied to the relationship with an employer. You know, it's even worse if it's a career and even worse, if it's a career where you can't easily move, right where, you know, as we, you know, found in academia, it wasn't like a professor at one place could just simply decide they'd had enough of their employer, they could tell their employer off and go get a job somewhere else. That's not how academia works. So what this means is that your insecurity causes you always to be thinking about what can I afford to say what I think, and in general, people don't do it. So their insecurity is cultivated because it keeps them docile where they might know more, and I would point out Just in passing, in passing, the number of conversations a week that I now have with very intelligent people, many of them well positioned in the world who express the inability to say certain things that they believe out loud in public is amazing, right? It is stunning how much people are self editing, because they have fears almost no matter how secure they are. So something about the insecurity has gotten out of control. And the point is, if you recognize that this cultivated insecurity is a means It functions as a means of keeping keeping people from saying dangerous, true things, then the solution is to cultivate their security, right? If you want to see more people doing something courageous and standing up against things that are threatening to us cultivate their security in one way or another, which is in part actually what our audience does for us. Yes. But and you know, what they did from the beginning, right? I think in part people stood up to defend us and to keep us going, because they were just thrilled to have somebody saying what they couldn't. Right yeah, so that's an important part of the puzzle is the this model about both saws isn't necessarily about you standing up and you know, fighting if you're in too much danger, but it's about somehow us collectively figuring out who is in a position to do that, right, who's secure enough to survive a close encounter with with the buzzsaw?
+
+Heather 51:30
+Yeah. And I think one thing that I was thinking, as you were talking about cultivated insecurity is that the old, the old thing that used to happen, and I don't know my history well enough to add any detail, but the idea of a company store where people live all in one place, and maybe the housing supply by the company, and there's literally only one place to get the things that you need and maybe you even pay in scrip and you don't ever, you know, you pay in the same in the same means that you get your salary from the company for they have control over, over everything about your existence. And of course, you have cultivated insecurity. And of course, it's you know, it's it's not serfdom, but it is, you know, it's it's a form of that, and this this is like, this isn't company store. This is like populist store, or I don't quite have the analogy, but the the censorship that we're creating the the buzzsaw that you're talking about is creating a kind of cultivated insecurity on the same in the same domain financial, potentially, for a lot of people social and financial, the same way that the company stores have old created cultivated insecurity, financially and socially for people.
+
+Bret 52:45
+It's a personhood choke point. The degree to which, for example, one, you know, I mean, it's the flip side of something wonderful, right? The fact that Google provides you the tools to, you know, like, put out a shingle and start a podcast on whatever topic you want, and start to earn from it if people show up in any significant numbers, right? That's a great thing. But the degree to which it gives Google veto power over whether you continue to show up in the world in the way that you're pioneering, is shocking, right? How the hell can it be that you can actually, you know, carve out some innovative new, you know, interaction with some audience, you can find them, they can decide, they like your content, and Google can suddenly one day decide, well, we don't, and you know, suddenly you go back to back to square one, right? That's a, that's a very dangerous and I do like your analogy, it is very close to company store, right? It, they make it really easy, in some ways, just as a company town in which, you know, you're being paid and you're paying. And, you know, the point is, you just never escape it. Right? So it's a, it's a whirlpool. But the other thing I wanted to point to is a kind of battle that I've gotten into, repeatedly with people in our circle. So I'm frequently approached as you probably are, by people who are faced with some kind of what they see as analogous to what we've faced. And they ask what they should do. Right, right. What should I do? It's heartbreaking. And I, I know, I know what they want to hear, right? They want to hear, okay, here's what you do. Here's how you survive it. But definitely be bold. Stare him down. Right? do that thing. I have always felt that I cannot in good conscience give that advice, right? Because the for one thing, I don't know how many people did what you and I did, who we've never heard of because they were successfully, you know, effectively silenced. Right? And they didn't find a way to make a living. So I don't want to give people advice that gets them harmed, right when I'm in no position. To even calibrate how dangerous the action
+
+Heather 55:03
+is, right? Or how many people depend on them for their current situation, right?
+
+Bret 55:08
+So in my sense, and what I tried to tell them, because I think I'm now convinced, not the right thing to say, too complex and not useful is look, but you can say it here anyway, well, I'm going to reveal that this is the advice I've given and that I've, I've changed my position on whether it's the right advice. The advice is, look, you've got to figure out whether or not you can afford to have the confrontation, and whether you've got the right kinds of characteristics to endure what's going to come back at you, because it's very, very ugly. And if you take it personally, you know, it can really screw you up. But if you do, then, you know, I can say a little bit about what i what i would pay attention to and how I would plot a course.
+
+Heather 55:50
+So that's it surprises me that you are rethinking that that seems like you know, that's an invested response. And it's a caring response. And it's true.
+
+Bret 56:00
+It's the right response for the individual. What it is, and I feel weird about this, but several people have convinced me that in some sense, the thing to do is to advise people to be bold, despite the costs. And I do think that in some sense, you wouldn't ask if you weren't looking for something to embolden when you lead
+
+Heather 56:27
+here by saying you know what they want to hear. And so you've been resisting, telling them what they want to hear. And what you're saying now is I should be telling them, if they're coming to me in the first place, and I do I think I get fewer of these than you do. But I do hear from people. And what you're saying is no, actually, you're looking for someone to sort of say yes, do that thing. So I'm going to go ahead and say yes, do that, though,
+
+Bret 56:49
+right. And in fact, if we look back at, you know, at the Evergreen situation, we had a large number, it wasn't the majority of faculty, but there were a large number of faculty who knew better than what happened to the place who didn't stand up. And the point is, they didn't do themselves any favor. It's not like they actually preserved their well being
+
+Heather 57:12
+Yeah, if 20 to 40% of the faculty, who knew what was going on was wrong, and destructive, had actually stood up on mass.
+
+Bret 57:23
+Yeah, it could have done something about it. As it happens. They're just, you know, the places hemorrhaging and they're trapped. Right? So anyway, I think there's something to be said for an argument that pays attention to both the individual's well being and the fact that the individual has a short and a long term predicament. And
+
+Heather 57:42
+then, so is it isn't that argument, then find reinforcements before you stand up?
+
+Bret 57:48
+Well, always except, you know, it was amazing how hard that was to do. In in the Evergreen situation. One of the things that I think was different here in the lab league situation was that there were people with different in many cases, non overlapping skill sets, who all found themselves. I mean, in fact, I think almost everybody who ended up in drastic or otherwise confronting the fiction of the US natural origin, they they all had the same kind of encounter with the central fact.
+
+Heather 58:26
+Right? Yeah. Well, I guess I mean, that it's a fundamentally different thing, because there is there are facts whether or not there, they will all ever be known. Right? As opposed to just sort of random slanderous claims about you know, and, you know, and and easily falsifiable claims. In the case of evergreen, he was the most racist institution ever, like, do we have any evidence at all? No, okay. Right. Whereas you had you had scientists doing the work, which is not, you know, we are scientists who came in, in the sort of hybrid role of communicating between, you know, in this interstitial space between, like doing the science, which is not what we were doing, we were interpreting the science. Yeah. And, and speaking as, as journalists should have been, but for the vast majority of them, we're not doing and the fact is that, as you said, you know, the drastic group and, and Yuri Dagon and many and and, and, and others were, were staunch, they think they knew what they saw.
+
+Bret 59:25
+They knew what they saw and you know, again, I think I'm the only person saying this out loud. But the fact and this this goes right to your point about there were facts. In the case of the lab like there were facts and by saying this is a hypothesis, one defined the terms the rules of engagement they defined the VA mil you and the standard by which things are judged and it was scientific, which meant that people couldn't, you know, pull all of these, you know, crazy illegal things on you because you had to find you said look into scientific question. And here let's show how that piece of evidence actually, you know, does or doesn't fit.
+
+Heather 1:00:10
+Allow me to read you a paragraph from a a nature news article published two days ago that if you haven't been into it, you both won't be surprised and will be further horrified at what the conversation sounds like. So here we go. Zack, this is called divisive COVID lively debate prompts dire warnings from researchers. allegations that COVID escaped from a Chinese lab make it harder for nations to collaborate on ending the pandemic and fuel online bullying some scientists say Here we go. calls to investigate Chinese laboratories have reached a fever pitch and United States as Republican leaders allege the Coronavirus causing the pandemic was leaked from one. And as some scientists argue that this lab leak hypothesis requires a thorough independent inquiry. But for many researchers, the tone of the growing demands is unsettling. They say the volatility of the debate could thwart efforts to study the virus's origins. Who is creating the volatility? I mean, the this article and all of the others like it, but this is actually in nature. This is in one of the top two science journals in the world. These saying those people who actually want a full slate of hypotheses on the table are responsible, not just for what political thing might happen, if this is disgust, but the tone of the argument. And it didn't need to be an argument at all. Those of us who were saying from the beginning, hey, hypothesis, why are we only being told one thing that we're allowed to consider? It doesn't sound like science to us. It is our persistence. And is the tenacity of those actual scientists who discovered things like the front fear and cleavage for include site and such? Who are have kept this alive? And, you know, yeah, are people bedraggled at times, and sometimes a rate and you know, irritate, of course, and that's not on us, or the scientists who were doing the work, or the few journalists who are becoming more and more common now, who are saying, Wait a minute, we better talk about this, the tone of the conversation is our fault. That's amazing.
+
+Bret 1:02:17
+You're right. It's a complete reversal. I mean, you know, and so many of these things are just, you know, they're like, true to the negative one. Yeah, they're the inverse.
+
+Heather 1:02:26
+I got I got one more pair. I mean, there's plenty in here from the same article. Others were that the rhetoric around an alleged lovely has grown so toxic, that it's fueling online bullying of scientists and anti Asian harassment in the United States, as well as offending researchers and authorities in China whose cooperation is needed. So a we have your even if you're not racist, for considering it, you're creating racism. And you don't want to offend the people who might have done it. Yeah. And in fact, really, that's the standard that we're going to be held to
+
+Bret 1:02:59
+apparently, that's the new standard. But it occurs to me, you know, we we talked about this several livestreams ago, where we were looking at the Barrick the paper that beric is a co author of with Lena Chan and others. And I was of this of the opinion that they were creating, they were revealing a rationalization that had allowed people who absolutely knew better the whole time to lie about what they knew, which was that they were protecting their Asian colleagues from anti Asian sentiment. And so I think this is the construction of the fallback bus saw here. The initial buzzsaw was you're a conspiracy theorist, and after shouting that at us for more than a year, then the point is, well, if you're going to insist on, you know, actually continuing down this road now that we've cried uncle, now you're putting Asians in danger, right? And I would say, all right, if we're worried about that, surely we should take a look at ivermectin right, discovered by an Asian right. Wouldn't it be marvelous if this came down to the fact that this wasn't really about being an Asian or not being an Asian? Yes, some Asians in the CCP seem to have at the very least covered up something about the initiation of this pandemic. But it is also true that an Asian discovered this marvelous, quite safe drug that works on so many things.
+
+Heather 1:04:26
+Not only was the person who did the discovery, Asian and God how I hate that we're having this conversation. Absolutely. Where was it discovered? ivermectin, itself is in Japanese soil, right, like, so. I mean, this is completely insane. We are now going to invoke racism because the thing itself may have been created in like in a particular space. This is upside down world. There is nothing that is coherent about these arguments and this, frankly, people don't like it when we swear. Some people
+
+Bret 1:05:00
+But this they're gonna learn to fucking put up with
+
+Heather 1:05:04
+this article is scientific malpractice. It is its and its nature news it's not pretending to be a research article, but the news section of nature is supposed to be the the pinnacle of science journalism. And what we have here is people who are claiming the mantle of science journalism. And I believe this person writing this actually has a PhD in a science who clearly don't know how science operates, what our hypothesis is why you need to actually include all of the hypotheses when you're trying to figure out what something is and what you cannot let your politics decide what questions what possible explanations for a problem that we are now living all living downstream of can be, can be considered, we have to consider all of them
+
+Bret 1:05:49
+right. And you know, for it to be nature also, which published that appalling Christian Andersen natural origins argument in which the experts in the field preposterously claimed that there's no way that we just simply didn't know enough to make a virus like this, which is, you know, in one way trip, we wouldn't have known enough to design at spike protein, but it doesn't, you know, these people obviously knew about serial passaging. Right? They knew about the ability to hybridize to two sequences. So, you know, it was effectively a lie. But yeah. So the long and short of it is, there are all of these techniques, they involve, punishing those who stand up. At the point, in the rare case, where we win a battle, like has now happened with the lab like hypothesis, they don't stop punishing you. They don't admit that they were wrong, that you were right, they don't do any of those things, they then go on to immediately setting up the next buttstock saw and threatening you with new stigmas. And it is absolutely appalling.
+
+Heather 1:06:57
+Yes. I'm going to read one final paragraph from here because I think that it sort of wraps it up nicely. Just trying to figure out who the person that is mentioned, this final paragraph is Fiddler and I'm just not seeing it. So I'm just going to read it as is with no explanation for who this final person being quoted as, again from this nature news article published on May 27. So with a pressing need for biosecurity policies, Fiddler thinks the United States should focus on fostering pandemic diplomacy through meetings between us and Chinese ambassador, as happened with climate change discussions in April, quote, don't we actually have some things we need to do to get ready for the next pandemic, given the debacle of this one? That presumes that the origins of this virus have nothing to teach us about how this pandemic has unfurled. And if anyone is posing as either a scientist or a science journalist, who actually thinks that if this is a wild type virus, versus a virus that experienced gain of function research in the lab has no implications for how it is acting out in the world. Anyone who thinks that has no implications has no business in this space? It is this is like evolution. 101. Right? And, okay, you know, we're being told to stay in our lane, and we're saying, you know, what, it's all evolutionary, all of this. And no, we're not specialists in any number of these fields. But it's evolutionary, if biologists can't do basic evolutionary thinking to understand that if you have enhanced selective forces on a virus, and then it has escaped, as opposed to it's a wild type virus, that somehow was immediately able to jump both to humans and between humans really well, rather, to humans, between humans and within tissues in humans. That is a very different situation. Yes, we need to avoid the next pandemic. But one of the steps in doing that is to understand what this pandemic is, yeah,
+
+Bret 1:08:58
+what it is, and you know, we just simply have a right if this came from the lab, we have a right to know what were the protocols, what creatures tissues, etc, were used to degenerate it was it ferrets? Was it humanized mice? Was it airway tissue? What was it and you know, those things might not give us any tools. But all of those who are so sure that this is strictly about the next pandemic are really, you know, covering their assets. That's
+
+Heather 1:09:21
+what they're doing. That's
+
+Bret 1:09:22
+what they're doing.
+
+Heather 1:09:23
+That is what they're doing.
+
+Bret 1:09:24
+Yep. All right. One more thing. I want to talk just for a moment about Zack, can
+
+Heather 1:09:29
+I have my screen back? Thank you. I
+
+Bret 1:09:31
+want to talk just for a moment about the simultaneously easily demonstrated and seemingly invisible campaign of censorship that is currently being faced by the most prominent prominent scientists advancing the case for ivermectin. So, the COVID critical care, Twitter account has been suspended for something like a week. It is not obviously suspended if you just casually go through there you have to look at when their most recent post is in order to detect that it has been suspended but it is suspended there are system when you're talking about Yeah, okay cuz critical Caroline's
+
+Heather 1:10:23
+frontline COVID-19 critical care at COVID-19 critical.
+
+Bret 1:10:26
+and scroll down what are the most recent posts
+
+Heather 1:10:30
+may 23, may 21 22nd. Okay,
+
+Bret 1:10:33
+so that account is frozen. Now I've faced this with articles of unity write articles of unity account is still suspended. It reads this that if you go to the articles of unity account on Twitter, but anyway, this is something that Twitter does, it decides that some group of people is not allowed to speak, and then it silences them. But this is so subtle that you don't notice it. If you don't realize that there was a rate of posting and that it suddenly came to a halt. If you're not in contact, you don't detect that that's what's going on. This also happened apparently on LinkedIn. Now, I don't know if LinkedIn has been involved in the other censorship campaigns that we have seen in the last year. But I do know that in this case, they took down a diagram indicating the efficacy of ivermectin in in treating a wave of COVID. Now, also interestingly, the following thing emerged Zack, you want to put up the screenshot I sent you. Can you put it where we can read it? So this is an amazing this is an amazing post that was made on LinkedIn by the former director of intellectual property at Gilead Sciences, which is the producer of remdesivir. Yeah, I will try to read it. It says it's simple use what works and is most effective period ivermectin used in combination with other therapeutics is a no brainer and should be standard of care for COVID-19. Other viral infections are treated most effectively with combinations HIV HCV, etc. Thus, there is no reason why ivermectin with a superb safety profile should not be combined with other generic and patented therapy or work or patents or therapeutics, right? Yep. For example, as recommended, as a recommended treatment add on or formulation, unless there are adverse drug interactions or legitimate IP patent business reasons, which would be rare for such an old generic drug. The best expert physicians know this and are already doing this, not only with antivirals, but with the anti inflammatories and anticoagulants with great success, efficacy and safety. For example, see the link below and we will post that link. Everyone should be following their lead and approach. Not only would this be good for business and help avoid criticism, bad PR and potential civil criminal liability for censorship, scientific macaque misconduct, etc, for misrepresenting ivermectin and other generics, but most importantly, it would save countless lives and end this pandemic for good. Wow. So I just want people to think I am seeing and participating in battle after battle on Twitter where it's hard to establish that there is even evidence that it is safe and effective, when in fact, those of us who have looked at the evidence find that much clear, right, we can have discussions about whether or not it is the best approach. And we can talk about how we might value the various hazards and assets of the different treatments, we can talk about how they might be combined. But the idea that we are having to battle with our hands tied behind our back over whether or not there is even evidence that it works, when there is obviously evidence that it clearly works and is safe is amazing. That is the result of a censorship campaign, and it is happening under our noses. We should be absolutely livid. Why does Twitter think it gets a vote as to whether or not doctors prescribe ivermectin to their sick patients? Or whether we get to talk about what the evidence actually says, Why does Twitter get a vote? And
+
+Heather 1:14:20
+maybe one thing we can do is to start reframe, reframing the question, why does Twitter want the pandemic to continue? Why is Twitter? And I don't know where it was that it was that taken out my twitter or was that
+
+Bret 1:14:33
+like, No, that was so LinkedIn,
+
+Heather 1:14:35
+what do I do any of the bit white? Why do any of the organizations that are censoring have an interest in continuing the pandemic having people continue to die having economies continue to fail, having people continue to suffer great economic loss and great health loss when there's actually a fix that was being talked about a year ago,
+
+Bret 1:14:56
+so I have no doubt that inside these Corporations as arrogant and stupid as they have become inside these corporations, if people look at what we've just said, they'll say, That's not what we're doing. We're saving lives. You guys are the ones jeopardizing my thoughts on
+
+Heather 1:15:09
+what they think. But let's turn it on, right, because that is effectively what they're doing.
+
+Bret 1:15:13
+I 100% agree. But my point is, they are in a position if they want to check this to find out that they are the villain in the story. Yeah, right. And that's what they need to do. They need to check they need to do what we've done. And when they see the evidence, when they see that people can obviously understand the value of this drug that it is potentially life saving, right, that they are obligated to say, how did we get here? How did we end up as the people shutting down doctors who have a useful therapy against a pandemic that has crippled Planet Earth? How did we end up in that role? Right? And that's what they need. They need to do soul searching. That's it? Yeah,
+
+Heather 1:15:54
+they do. And coming soon, you're going to have a conversation with someone on dark horse that is relevant to all of this. So hopefully, before we were back, live streaming again next week, right? So there'll be more more on this. If you're willing? Yeah. Did you want to finish by talking about puzzles?
+
+Bret 1:16:16
+You know that? I
+
+Heather 1:16:17
+do? Yeah. Is that is that where we are? Do you have anything else? No,
+
+Bret 1:16:19
+I think I think we're, I think we're at that point, okay. So this is a pro bono advertisement. For those of you who are averse to commerce, this will warm your heart because this is this is anti commerce. This is us telling you about stuff that you will want to know about.
+
+Heather 1:16:41
+Now, hold on. No, that's that's that's completely ridiculous way to introduce this. A pro bono ad is still no, we're not being paid. And we have no financial interest in people following through on this, but it's still about a thing that we like, and you might like to and so you might want to buy. It's much more commerce than anything else we've done.
+
+Bret 1:17:00
+No, I don't I don't see it that way at all. Our I'm not even going to show it until we agree. Right? Right, exactly. But the The point is, if we are going to use our voices advancing the cause of products to pay the rent for this podcast, yes. And we balance that with advancing the cause of products that are worthy of an endorsement. But there's no financial interest in our doing so then that is, in a sense, anti commerce. I mean, maybe it's pro commerce, but well, but but we're not involved in that commerce. Whether people decide that this is good advice or
+
+Heather 1:17:44
+profiting, but it's still about commerce. Alright, it's a background,
+
+Bret 1:17:47
+I take everything back, except the part about ivermectin being an effective treatment of COVID-19. Okay,
+
+Heather 1:17:54
+here's a small stack of wonderful puzzles. puzzles. Puzzles suck, right? Yeah, right. puzzles. Do. Puzzles do so. When you have little kids, you're like, yeah, we could do this one again. But can I do that with my hands tied behind my back? like can I do with my toes? It'll be more fun. Yeah.
+
+Bret 1:18:09
+So I always felt this way about puzzles not worth my time. Just not worth my time. That's not to say if you like puzzles, you know, that's not a judgment on you. Yes, it was. No, I'm formally preventing myself from passing judgment on anybody else's affinity for puzzles. However, however, I will say that you brought into our lives these puzzles at some point and I was of course at first skeptical
+
+Heather 1:18:33
+Liberty puzzles. Classic wooden jigsaw puzzles is what it says yes, yes. Yes. I well. Liberty puzzles classic wooden Well, I
+
+Bret 1:18:41
+can pick up there you got it. Okay, Liberty
+
+Heather 1:18:45
+puzzles, classic wooden jigsaw puzzles. Let's see that why can't read that. That's this is hummingbirds. It's a it's a rendering of a piece of art by Ernest haikal 485 pieces. And then you know, we I'm just gonna, you're gonna open it up. And he's got, you know, we've got a button. Yeah, we happen to have chosen.
+
+Bret 1:19:04
+They're very, very pretty pictures. But the thing is the and I don't know how it's done. I would imagine it's done with a CNC. The pieces are? Absolutely, yeah, right there. The pieces are nothing like the puzzle pieces that you're familiar with. They're a little characters that fit together in weird ways. So anyway, you've kind of got two levels of aesthetic in these things. You've got the picture on the puzzle, and then you've got the way that it was cut. And this causes a tremendous amount of mental hard work. In order to figure out how to put it together. You're going to depend on color are you going to look for, you know, a little shape that you would imagine you can find in the sea of other puzzle pieces. So anyway, what you
+
+Heather 1:19:55
+can you can't use any of the standard uninteresting jigsaw puzzle techniques like you can't do that. edge first, because most of the edge pieces don't look like edge pieces, right? And most of the things like oh, I just need that shape. Well, that shape turns out to be three different pieces somehow, even though it's tiny.
+
+Bret 1:20:11
+So it also ends up being an interesting social phenomenon, where I would you know, I mean, I'm sure an element of this is familiar for people who do cardboard puzzles, where you might have a puzzle that unfolds over many days. But the thing about this is, it's like a kind of a synchronous teamwork, right? Whatever fraction of the family is interested in the puzzle, it's out on the table, you know, you might sit there and you might stare at the pieces for five minutes and really not find a single place to make progress. And then you might come back to it
+
+Heather 1:20:40
+or in the case of this one, you might stare at the pieces for an hour and not get a single thing in place. This one is totally diabolical. Yeah, that that is this one we did while my mom was here, and we didn't we didn't even get it finished with her here. I think I finished it the day she left but this is 576 pieces. This is a Seuss Seuss drawing from Dr. Seuss from 1965. And, you know, even far more diabolical than any of the others that we've got,
+
+Bret 1:21:07
+it was definitely the hardest, the hardest one we've done. But there's something very good about it, it's a great break from staring into screens. I can't say that it is itself productive. But it causes productive thought because you begin if, at least if you're me, you start thinking very carefully about what you do and don't perceive how your memory works. All of these. These things are revealed to you about how your search algorithm works about you know, there's something interesting that happens as you know, you, you solve some part of the puzzle. And suddenly it causes a flurry of other things that you didn't realize you were tracking to I know where that pieces
+
+Heather 1:21:47
+or wait a minute, if I turn that 30 degrees, I think it might slot in there. But then that means that this other stuff doesn't go where I thought it did, right
+
+Bret 1:21:54
+you find yourself there are certain the way that the the B cuts are made, leave certain repeated elements all over the puzzle, and you find yourself naming them in order to
+
+Heather 1:22:06
+Oh, I do not find myself in a domain name. No, I
+
+Bret 1:22:08
+don't. Oh, my you know, I
+
+Heather 1:22:10
+think this is one of these places where there's a number of things that that just seem linguistic to you. And there's a lot of stuff that I do is like that's not in language space for me. And so puzzles, it's just not I know, I don't name them. So what do you name them?
+
+Bret 1:22:24
+You know, like, I'm looking for a piece with, you know, wiggly bits on two sides and a jagad a jagged edge. Right?
+
+Heather 1:22:35
+I heard I heard my mother naming things. And then your parents came into town shortly after my mom left and we started one with them as well. And I heard that your mom anyway name naming them as well. So maybe that's maybe I mean, you know, it's your the normies here.
+
+Bret 1:22:50
+I find what I'm doing at carpentry, I often have to if I take a measurement, and I'm going to go cut something, I have to kind of turn it into a little song in order that I remember what length I'm trying to measure.
+
+Heather 1:23:01
+Yes, that's that's different, though. You know, keeping your number in your head until you get to the final measure twice, sing twice. We have one yes.
+
+Bret 1:23:12
+All the way to the song. Yeah. But anyway, these there is I can't I feel weird, like, I'm defending something that's indefensible, but it's actually so good. And you know, it's just, it's good for the family to have the thing and you know, you sit down and you know, I might not have seen you, you might have sat there for a half hour and done some work. Yeah. And then I come in, and you're not anywhere to be found. But I see what you've just now done. And I see what that change is about what I was looking for.
+
+Heather 1:23:35
+Yeah. And it's actually, you know, I think a lot of things like this could feel very competitive. And it at least for me, it doesn't at all. And I think that I think that we I think that everyone at least who's been doing it in our home feels that way. It's a super collaborative thing. And like when you're starting out pieces, like Oh, you're looking at, you know, you're looking at things that do look like edges or things that are orangey, or things of that shape here. I'm going to I'm going to keep tossing you over things that look like that. And it actually really does provide sort of an engaging social landscape.
+
+Bret 1:24:10
+It does. And there's lots of room for, for humor for talking about how this is a pretty good fit, but it's not good because I hold my standard. That sort of thing is
+
+Heather 1:24:23
+they're not cheap. No, at the moment. They're still I think emerging from pandemic so a lot of people start doing jigsaw puzzles during pandemic and so at the moment you have to put your name down and then they contact you at some point. I don't know what it is now. 15 to 30 days down. Maybe this has changed actually I didn't check before today. But the this type article, Dr. Seuss, one had to put my name in and they contacted me 30 days later and said you have a 24 hour period order one and only one puzzle. And like I say they're not cheap, but they are super. Yeah, really good. They're worth it.
+
+Bret 1:24:55
+I would also say, you know, I wish there was more Evidence of this, but I have put together a certain amount of evidence that they actually prevent COVID if you do them outdoors, Hmm, yeah, yeah. Especially
+
+Heather 1:25:09
+let him blow away and you just sort of get your heart rate up chasing faces.
+
+Bret 1:25:13
+Yeah, it's good for you in all kinds of ways. Oh, yeah, yeah.
+
+Heather 1:25:17
+Well, okay, I think we may have come to the end of our show today, we will as usual, take a 15 minute break and pick up with a live q&a for your questions that you've asked this hour and we'll be asking next hour shortly. If you are interested in joining us for our monthly private q&a, our two hour q&a that's tomorrow, Sunday, May 30, from 11am to 1pm Pacific and the questions have already been asked those are we No, we leave them up for people on my Patreon to listen to afterwards. But for those of us who join us live, it's a small enough group that we're actually able to track the chat and engage with the chat so there's actually quite a lot of fun. Please consider joining us there. consider joining Brett on his Patreon where he has a couple of long form conversations each month on the first Saturday and Sunday
+
+Bret 1:26:09
+coming up because it looks like may is nothing we can do it's gonna come
+
+Heather 1:26:13
+to an end it is going to be receding in the rearview mirror any any day now. Let's see. If you have any logistical questions like how do I ask questions, that sort of thing you can send questions to Darkhorse moderator@gmail.com they also have the keys to the post office box address if you're interested in sending us stuff as we understand some people have been and we have received a ton of really interesting things for people thank you the discord servers also benefit at both of our Patreon and please like subscribe, share this video and go to eclipse channel and find shorter shorter pieces they're all of which come from these live streams and then also the conversations that Brett has that we post not live and you will be having another one of those this week that I think will be very important
+
+Bret 1:27:07
+yep I think so too. All right. So
+
+Heather 1:27:11
+so be good to the ones you love and eat good food and get outside
+
+Bret 1:27:15
+I can we add to that achieve greatness and achieve great achieve greatness. Alright, see you soon.
+
+This transcript was generated by https://otter.ai

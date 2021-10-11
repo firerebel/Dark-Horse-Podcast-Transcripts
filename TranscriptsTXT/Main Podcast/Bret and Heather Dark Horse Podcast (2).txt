@@ -1,0 +1,529 @@
+Bret 1:03
+Hey folks, Brett Weinstein here I'm here again with Dr. Heather hying, we are going to continue to explore the situation that humanity finds itself in, we will as always take a decidedly evolutionary viewpoint, a couple of pieces of business to get to before we we hit this discussion. I did a live stream yesterday, I was experimenting with new technology, including Super Chat. And I found myself very distracted, and I wasn't happy with the product. So I'm going to do a non live version of it. And I will upload that so that people have access to the content. From the perspective of streams going forward. What we're going to do is we are going to hold the super chats until the end, and then we will address the good Super Chat questions. At the end of it, the dialogue but we're not going to let it interrupt what we're talking about, which is good for us because we won't get distracted and it's good for you because you won't find the things that you're interested in listening to disrupted by questions that are farther afield. Alright, without further ado, Dr. Heather Hein, shall we start a further discussion of the Coronavirus and its effects on humanity?
+
+Heather 2:14
+Yeah, let's do it. All right. We had we had said last time that we were going to move into talking about effects on society more broadly, we also have a couple of points that are more strictly biological, who want to speak to and this may not be the time that we launch into an explanation of what the fourth frontier slash game b is, although there's certainly a lot of interest in that. Probably not today. But we do hope to do this maybe weekly. From now on. So we'll we'll end up getting there. So you want to start with the society level stuff or tag a couple things over in biology space first?
+
+Bret 2:50
+Well, I'm realizing actually seeing the monitor that there's going to be a certain amount of jeering at the bandana that I'm wearing. So for those of you who are not paying attention to the first live stream, I should just say that this is an epidemiological measure. And it's not that I dislike having an excuse to dress like a cowboy. But the point of the bandana is that I put it on in the morning and then I use it as needed, how effective it is. That's another question. You will see that in the piece I'm going to upload later on.
+
+Heather 3:19
+Well, the question has been raised as to whether or not your dress like a cowboy, a or a golden retriever
+
+Bret 3:26
+or both, you know perhaps about the best cowboys have a touch of golden retriever to them so anyway, you can take it as you will.
+
+Heather 3:34
+Well maybe let's let's just take a couple points in biology first before we before we hit society level stuff. Given that maybe we won't we won't start by showing you the phylogeny of what we understand about coronaviruses although that that scientific literature is somewhat interesting, there's a decent paper published from 2018 on that was prompted by both SARS one this being what we're living through right now being SARS two and MERS Is it the one that comes out of Saudi Arabia and gets transmitted through by camels to humans and now people are trying to plug in the basically the molecular finally Genesis to work on viruses are trying to figure out where SARS to fits into this. And and that's that's interesting for those of us who like to geek out on that sort of thing. Can
+
+Bret 4:24
+I just say if you're watching in Saudi Arabia, please put a mask on your camera. Yeah,
+
+Heather 4:29
+definitely. Definitely good because last thing we need right now is another Coronavirus outbreak of a different sort.
+
+Heather 4:36
+say so.
+
+Heather 4:37
+Okay, how about let's talk about the likelihood of three three points over in biology space, the likelihood of a vaccine, the likelihood that this turns out to have a seasonal seasonal manifestations such as it will dip in the summer as we know from flu viruses, which are a different kind of virus and density dependence of of this which we'll explain when we They're going to start with likelihood of vaccine.
+
+Bret 5:01
+Yeah, by the way, it's a beautiful list of topics, okay? Well take up many hours, but data first pass on them. So there's a lot of hopefulness about a vaccine emerging. And there is a lot seeming to be banked on the fact that a vaccine is somewhere near nearby around the corner. And so if we can just hold out long enough, flatten the curve, keep the medical, machinery humming, then we can make it to a vaccine at which point life goes back to normal. Personally, let me say, I suspect life never goes back to normal. We're not going to live in quarantine from here on out. But I think humanity just learned a very serious lesson about something that will be much harder to control than we imagined. Will there be a vaccine? Obviously, we don't know. But I would say we don't have a vaccine that works for the flu in the sense of banishing it permanently the way we do with smallpox, polio, even chicken pox and things like that. So the question about why anyone is confident that we will have a vaccine that is both effective and safe, and that we can get there in the short term, when obviously, there's a huge amount of money to be made simply banishing colds and flu and we've failed at that so far, I would say the likelihood that we get something that allows us to manage it is fairly high. I don't know on what timescale, but the likelihood that we just simply banish COVID-19 from the face of the earth with a vaccine that's effective and safe and soon, seems highly unlikely. One reason that it seems unlikely is that this is a retrovirus. And a retrovirus means that instead of the inflammation, and remember, a virus is really just two things. It's inflammation, and basically self deploying robotic code that allows that information to get into a target cell. And in the case of a retrovirus, reverse transcribe and then insert into the genome, at which point all of the machinery that does the work of the virus is the machinery of the cell that has been hijacked, not the machinery of the virus itself. So there's very little to attack in a virus. And in the case of a retrovirus, where the information is encoded in RNA, rather than DNA, which you may remember from your biology course in high school or college is that RNA, unlike DNA is single stranded. And because it's single stranded, now, this is a story we tell ourselves, but because it is single stranded, the mutation rate is much higher, which means that the thing morphs it's a shapeshifter. and building a vaccine that causes the immune system to recognize the pathogen is difficult if the pathogen is always changing shape,
+
+Heather 7:44
+Can I just add, why single stranded RNA versus double stranded DNA should have a higher mutation rate is that the double stranded nature of DNA is effectively an error correction mechanism. So RNA can change without there being anything to correct it.
+
+Bret 7:59
+That's true. The part of the story that makes me hesitant is that this looks very much like a feature and not a bug. And so even the phrase, the phrase error correction, suggests that the retroviruses are benefiting from some sort of an accident rather than an adaptive process. So in any case, that's probably too deep in the weeds. But these viruses that we are facing, are highly effective clearly at spreading, they have two characteristics that make this one particularly ferocious. One of those characteristics is the long time period with which the viruses can persist on surfaces. And the other is the asymptomatic stage in which people are apparently spreading the disease, those two things make this thing spread like wildfire, the vaccine would be lovely, but it's going to be very hard to create one. I mean, notice, we also don't have a vaccine for HIV, which is another retrovirus, despite the fact that it would be a huge boon to humanity and a huge financial wind for whoever came up with the vaccine. So there's lots of pressure to get one and yet we still don't have one decades down the road with respect to HIV.
+
+Heather 9:19
+This is not to say that there can't be a virus, of course, vaccine, of course. But the idea that anyone, any government or any individuals, or hospitals or healthcare systems are pinning all their hopes on the development of vaccine seems short sighted. Obviously, there should always be plans B through Z in place. And in this case, it's not clear to us not as virologist because we're not nor as medical doctors because we're not but as evolutionary biologists, which we are, that a vaccine is the most likely way that we will end up treating, treating this virus for the good of all humanity. So we
+
+Bret 9:55
+really have two levels of question with respect to the situation one is what What the hell do we do now that this thing is loose and nearly global? And the other is what is the lesson so that this never happens again? And frankly, the second of those questions is a lot more tractable, right, we may simply be stuck with COVID-19 for a goodly long time. And we may learn to manage it the way we now manage HIV, which it's a big cost to the system. And it's terrible for people who get it and have to be on drugs for their whole life. But nonetheless, it is successfully managed in a way that it wasn't two and three decades ago,
+
+Heather 10:36
+yeah. And this is like like HIV. This is a zoonotic infection, so notic pathogen, and these zoonotic pathogens will continue to emerge, we can do things at the societal level, and at the cultural level, to reduce the likelihood that they do emerge. And, you know, in the case of coronaviruses, which HIV is not, I don't think I actually don't know, I don't think so. But, but this is, and several others are. These they seem to be from one of several species of bats, as Brett addressed last time. But then they live in civics or camels or maybe pangolins. And so what is it that we can do to reduce the emergence of novels or Nadex into humans, it's not that these viruses haven't been extent, in whatever mammal species for the most part, sometimes avian species that they've been living in for, however many 1000s millions of years they've been. But the idea that they emerge into humans and are then the relationship with us is brand new. And this is part of what is making this so virulent, that we all of us are naive with regard to our immune systems and their ability to recognize this, or at least we were six months ago.
+
+Bret 11:54
+This is quite true. I do want to stop at this point. And just say number one thing on my list for preventing this from ever happening, again, would be taking all of the steps necessary so that bush meat is no longer eaten anywhere on earth. And if that seems extreme to you, if that sounds like that's going to have far reaching consequences. Consider the price that we have paid in living memory for bushmeat. If COVID-19. As emerged from either bats or pangolins. In a wet market, then we are paying the price the world has come to a halt, we are facing potentially an economic depression, potentially millions of dead for some buddies ability to eat a bat or a pangolin or something, some exotic meat that is not typically on anybody's menu. But even beyond that, but there's no that AIDS.
+
+Heather 12:55
+There's a distinction between exotic meat and bushmeat, though, so I think we do need to play that line very carefully. Go on.
+
+Bret 13:03
+Well, I'm not I'm not sure what the distinction is to be honest with you. People certainly don't generally eat micro bat, right there are two large branches of the bat tree. The Mega bats, the flying foxes, the tarapoto D are eaten in some places. This is a large enough animal. These are frugivores. And people do eat them in places where they are found. But the bat that is or the clade of bats that it is likely that COVID-19 came from is a small insectivorous bat. That's not typically on anybody's menu. So it is both bushmeat and exotic. Now I'm not saying that this did come through a wet market. But let me just say we also believe that aids emerged from traffic in chimpanzee meat now there Ebola
+
+Heather 13:51
+to maybe, right like
+
+Bret 13:53
+so. Nobody should be eating great apes for lots of different reasons. there's every reason to conserve them. And I don't mean to fault the people who are doing the eating or the hunting, although some of them probably deserve a certain amount of blame. Other people are doing this out of desperation or out of a simple lack of economic opportunities. So I don't I don't want to place blame but let me just say that from the point of view, of humanity's well being the idea that aids let's just deal with that one narrowly aids comes out of an interaction with an individual chimpanzee, chimp chimpanzee is or not sick from HIV, but they carry it. It jumps to humans, something like 32 million people have died of HIV. So we're talking about a you know, a death toll that's, I believe above the full toll of World War Two, all the deaths of the numbers million Russians, but in any case, humanity is paying an immense price for This very narrow conduit of contact between human beings and exotic meat that is being hunted in the wild. We can't afford this. We couldn't afford the price we've already paid. We certainly can't afford to have a new one of these emerging every few decades. So it's time to end the bushmeat trade. And that means providing the opportunities that will keep people from exploiting that one who happened to live close enough to the forest to hunt there.
+
+Heather 15:25
+I guess my my point then would be and probably maybe this isn't the place for it. So the bushmeat trade, yes, we need to end. And to the degree that there are people killing what is exotic to us in the weird world, in the western, educated, industrialized, rich democratic nations, who are providing the demand for what seems to us as exotic meats that needs to stop. And you know, anecdotally we saw when, when I was working in Madagascar, and when you were when you were there with me, we saw this not so much in terms of bushmeat. But in terms of the exotic pet trade, where there were people there were, there were Europeans mostly just because there weren't many Americans in Madagascar at this point in the 90s, who were coming in, who were paying local people a pittance to go into forests to ravage them of their populations of it turns out herps in this case, it was lizards and snakes and frogs for the most part. And, you know, a good portion of them died on a route. And, and this was to service people's desire to have exotic pets in their homes. Similarly, and it's far smaller group of people who can afford to eat pangolin or whatever exotic meat they might want on their plates. But it's a it's a well known, let me call it a fetish of rich European and European descended types. to want to eat meat that has been caught in rare places, you know, that is rare itself in cotton exotic places, and have it on their plate.
+
+Bret 16:56
+I don't know. I don't know that it's European, but it's definitely a wealthy thing that people who have the opportunity to taste exotic things often want to do it in the price that we pay is very high. But hold on. Do we know that anybody eats pangolin? I don't because I'm very popular in the exotic pet trade. And I'm wondering, so
+
+Heather 17:15
+what was this penguin doing right, anyway? Yeah. Well, it's so people people eat. I mean, I agree with Brett that great apes shouldn't be on anyone's menu ever. Right? That's the chimps, bonobos, gorillas and orangutangs. Probably the lesser apes as well, the so called lesser apes, the Gibbons, and Simon. And, you know, I certainly feel like no primate should be. And yet I know that in many places in the Amazon, for instance, primates, wild monkey meat is an important part of the diet of some of the people who continue to live in the ways of their ancestors from 810 12,000 years ago. What would it mean to make a diktat from a pie to say you can no longer eat primate me? I don't know.
+
+Bret 18:06
+I don't think we have to. First of all, there are uncocked uncontacted people in the Amazon. So the practicality of interfering with that way of life, it's not even available to us. But think about what we're really talking about, we've got populations in the Amazon that go back, maybe 10,000 or more years. They have a history of hunting the very monkeys that we're talking about. That means they almost certainly either have a methodological way of avoiding disease or a physiological way of managing the disease. In other words, their likelihood of contracting diseases that have these costs is presumably quite low. I would certainly bank on the fact that our isolation from them and their long standing proven method for hunting these particular creatures probably makes us safe enough, it certainly would not be my focus to worry about the monkeys, they're hunting now there
+
+Heather 19:08
+needs to be a break in the globalization chain. It needs not to hit markets that people might might pursuit that people might buy meat at that will then cross borders.
+
+Bret 19:17
+There's that and there's just simply it interacting with the world of people flying around on
+
+Heather 19:22
+airplanes, like that's the crossing borders part.
+
+Bret 19:24
+Oh, yeah. So a virus can cross the border is not necessarily the meat. But I would also say even with respect to people hunting in a ancient fashion, deep in the Amazon, for example. We are seeing new problems and you know, you and I were just in the Amazon in a place where the Irani are the indigenous hunters. And the place that we were was extremely remote. I mean it's really almost as remote as you can get there. So glorious. There's nothing for Many 10s of miles in any direction other than forest. However, what we do see is changes in the biota. And this region as a result of context, there are Waorani who live on the fringes of civilization. And there are Waorani who are uncontacted. But there is a flow of goods in particular there's a flow of firearms and metal canoes, and the distinction between a forest that has motors on the canoe, motorized, yes, which makes a huge difference. The difference in the fauna in places where there's any access at all to firearms and metal canoes, the foreigner, the large foreigner crashes as a result of the fact that a tiny number of people using modern technology can hunt those places out. Whereas using ancient technology, there's a natural balance they hunted, aerated depletes the populations, but the populations are capable of rebuilding and you have an equilibrium there. So
+
+Heather 21:04
+it's, we're not claiming that the will Ronnie are trying to do the best thing for the environment. You know, this is not a savage, noble, and noble savage story, right? It is simply the fact that these technologies that they have been using for 1000s of years, persisted, in part because they allowed their them and their prey to be in equilibrium with one another, those technologies that wiped out their prey. Well, that prayer is no longer there. And we don't see it anymore. Yeah,
+
+Bret 21:33
+it's the test of time, simply. But here would be my point. Let's say you've got an uncontacted tribe functioning in an ancestral way. But the effect of firearms roads, motorized canoes, begins to deplete the foreigner from their habitat, which is highly likely, they are likely to branch out and start hunting things that would not be typical for them. And so even they may end up bringing one of these novel viruses to our doorstep by virtue of effects that they had no control over and weren't even aware of just the simple fact that something that was ancestrally, hunted, disappears, forces them to branch out. So we really have to start thinking more holistically about why we are encountering these things, what happens when one emerges. And then finally, ultimately, what we do now that we have one on the loose, that seems to be quite devastating.
+
+Heather 22:30
+Yeah. Good. So we know that the flu tends to be seasonal ash. Right. You don't you don't hear about people getting flu in the summer. And because of the tilt of our planet, and and seasonality that means that when it's our flu season, it's not Australia's flu season, for instance, what are the chances that as has been widely hoped, and again, touted as the thing that will happen? What are the chances that this SARS cov. Two, is going to be seasonal, in this first season that we've run into it in this in this first northern summer, which is approaching? What are the chances that we'll already have a seasonal cyclicity and go underground for at least a few months.
+
+Bret 23:18
+So this is another place where I'm dubious of people's expectations, because I think they're simply not thinking in an evolutionary form, there is one way in which it is highly likely that we will see seasonality. And that is, the conditions outside do not appear to be conducive to the spread and persistence of this virus. So to the extent that people spend more time outside, when the weather is nice, the virus gets exposed to UV light, which is highly destructive of it, we're liable to see some change in how it gets transmitted during that period.
+
+Heather 23:53
+Sorry, but UV light being highly destructive of it. And high temperatures being highly destructive of it, we don't want to mean to suggest that you should be sticking UV lights up your nose any more than you should be sticking hair dryers up your nose. This is not going to help. Yeah, just just say
+
+Bret 24:09
+no. And it also it'll it'll drive off potential mates. So you know, lots of reasons not to do it. But Okay, so here's the thing about flu, and I'm reaching deeply back into my education here. So if there's new data I'm aware of, please let me know in some way or other and I'll update my model. But some years ago, I ran into evidence that the flu had actually it's always been seasonal, apparently, but it's switched seasons. And the reason is likely that human behavior shifted. And so it was true that people imagined people on the American frontier, for example, on the American frontier, during the winter, you might be hunkered down you're not farming, right, you're just trying to persist through the winter on your stored roots and grains and whatever you might have, and you're not spending a lot of time in town interacting with other people. So from the point of view of a virus, it's not a very good time to try to spread, right.
+
+Heather 25:07
+It's effectively social distancing, right, by by culture, rather than by dictated by
+
+Bret 25:13
+its ecological social distancing. At some level, though, the weather forces you into a kind of hiding. And then when people went into town, that was a good time for a virus to move from one house to the next, because people were interacting, you know, the hardware store and everywhere else. Okay, but then life changed and fossil fuels happened or whatever it was that caused people to be spending more time inside together during the winter, you know, imagine a classroom full of people gathered, studiously working away during the winter coughing on each other with the H vac system, transporting it around whatever the things are, that caused people to concentrate, during the winter in a social form, seems to have caused the flu to move from a summer seasonal to a winter seasonal. For for humans. Now, again, I don't know how true that story remains. But let's just say that it contains a bit of truth, which is that these viruses, what they contain, in their little strip of RNA, or DNA is a message that is built by selection to get this object deeply into the future. That's what all creatures are trying to do, including viruses. So having a informational packet that causes them to behave in a way that makes them more likely to be transmitted is obviously what is being favored. But here's the kicker, because this virus is brand new to humanity, there is no reason to think that it has a message, that's fine tuned about our seasonal behavior. So even if it is seasonal in the bat, it came from if that's where it came from, that doesn't mean it will have a coherent message with respect to seasonality. When it gets into ourselves. For one thing, our genomes are different. And for another thing, that the physiological triggers and the behavior of the seasons is not going to be the same as the back
+
+Heather 27:14
+for a third thing, this has spread so quickly. So globally, that is run into all manner of different seasons, climates, weather, and population densities. So whatever is going to be most adaptive for the virus. imagining that what adaptive means, again, is that it can get itself into the future. It's not, it's not trying, it doesn't want to kill its host wants to move into the future, that that will be different in different places, potentially,
+
+Bret 27:40
+it will be different in different places. Now, the difficult part, in order to think about this, evolutionarily. The difficult part is to understand that almost every line is a debt, right? All the COVID-19 that people have most of it, it may get from person to person to person, but then that line will peter out, there's variation in those lines. And some line will prove to have a brilliant insight about how to get from A to B, you know, for example, I'm not a novel writing kind of guy, but in my mind, I had the outline for a novel at one point about a virus that was spread by Amazon. I the surface, not the giant, right by the service. And the idea was that what you have is a basically a vector service and that a virus that could be transmitted on boxes. And you know, especially, you know, using the return service, you
+
+Heather 28:39
+know, you're scaring people.
+
+Bret 28:41
+I'm scaring people and the folks at Amazon are calling up legal seeing whether I've said something that could I don't know how to be banned from the earth, I guess. But
+
+Heather 28:49
+I mean, we just just to flag this we did point briefly last time to the idea that the virus can live on cardboard for up to 24 hours, apparently. So one one might if you can wait another 24 hours after getting your Amazon boxes, even though it may be one of the few inputs from the outside world at the moment in your life, just waiting for 24 hours, probably renders any remaining virus that could have been on those boxes. inactive.
+
+Bret 29:16
+Well, okay, I want to come back to the point I was headed towards, but I would say just think, okay, think about the object. You're looking at how long it's been since human hands touched it. Imagine that the person who touched her coffee or coffee, right, something, right, the outer box was touched within days, maybe hours, right? The inner box was probably touched in that same period inside the inner box has probably been months since anybody could possibly have touched it. So you know, the way to deal with these things, the way we're dealing with it, something arrives, we take it immediately to the garage. We take the thing out of the box, we let the boxes sit somewhere. We're We're not interacting with them after we've extracted the stuff, we wash our hands. And then we can pretty much imagine that the stuff from the inside of the box is not likely to have anything contagious on it. But anyway, the larger point was, okay, something could figure out that Amazon is how we're getting our stuff, right, and it could use Amazon to get from one place to another, that would be truly frightening, we can block that avenue by dealing really carefully with the stuff that is transmitted. And I must say, before you sue me, Jeff Bezos, I should say we're not worth it. Amazon is both a potential hazard here as a vector, or if it behaves itself, it's a potential solution, because it's actually facilitating social isolation without creating dire consequences. So one of the things that I know we need to be thinking about is how to be faster acting, and more deliberate when we shut stuff down to protect ourselves and more surgical. So we don't shut down the stuff that actually keeps us functional. Because we're now created, we've, we've set a timer with respect to people's psychology, right, where they're now going to get antsy. And that's going to create bad effects. And a lot of things could be better managed.
+
+Heather 31:13
+So that's, I mean, that's a great segue to talking about some of the society level stuff. But let's first talk just a little bit about the apparent density dependence of, of both the likelihood of infection from SARS, cov. Two and the seriousness of the disease. So from the perspective of so we I think we just have anecdotal, I don't I haven't seen this physical analysis yet of this. But healthcare workers seem to be getting sick at a much higher rate than the general population. And that speaks to density dependence of exposure, increasing the likelihood that you will get sick, this is pretty easy to understand from a statistical perspective, just that you are you you're exposed to more virus over more time, it's more likely that you will make a mistake and that you will end up infected, right. So that's this, that's nothing, there's nothing surprising that part strafe part is very straightforward. The second aspect of the apparent density dependence is more Spry, surprising, harder to explain at a mechanistic level. But something that if we recognize, even if we can't explain it in terms of what the mechanism is, its driving it can tell us something about how we should be behaving, which is that healthcare workers also seem when they do get sick to be getting sicker. They are even very, you know, very healthy people. health care workers in general are healthy people who are doing their jobs and when they're coming down with it, they seem to be again anecdotal, but they seem to be getting far sicker than you know, comparable people age matched health condition match before they got sick. In in Gen botton general population, so what what does that mean? If true, that the amount of virus you are exposed to is actually correlated with how sick you get, in terms of how it might mean we should be behaving both an individual on a public health level?
+
+Bret 33:15
+So first, let me explain why this is confusing. If viruses were toxins than the more you get exposed to the sicker, you're going to be perfectly straightforward, but that's not what viruses are viruses
+
+Heather 33:29
+like asbestos, or lead, right density dependence.
+
+Bret 33:33
+Well, it's best This is different because it triggers a cancer and okay, but anyway, yeah, lead lead or you know, arsenic or whatever the more of it you get exposed to the more symptoms you're likely to have. In the case of a virus. What we're dealing with is the rare instance that one of these particles successfully integrates its information into your genome and hijacks a cell. That's a rare enough event, that the fact that you were exposed to a bunch of it doesn't change, what should happen after that one cell jumps the gap and, or that one virus comes to gap and invades the cell. So it's kind of a head scratcher.
+
+Heather 34:11
+Unless it is mutating so quickly, that the immune system launches a slightly different response with each exposure.
+
+Bret 34:20
+I doubt it. I it seems
+
+Heather 34:22
+doubtful because the antibodies that we create must be somewhat generalizable, they can't be completely targeted to something that hasn't mutated in any way at all.
+
+Bret 34:31
+Well, at some point, I think I'm going to put together a lecture on the basic immuno biology that underlies our ability to fight off disease in the first place so that people can have a kind of context for this. I think I think it's sort of necessary to get to the the deeper answer, but one aspect of this is that we have an immune system that is capable of reacting to absolutely any path The gym we might encounter, it's not highly precise, when you get the pathogen a new, the system starts to learn evolves a new pattern match for the virus or the bacteria. And that's how you fend it off. But part of the issue may be that the system in order to recognize every possible thing you might encounter is, is distributed pretty thin. And so it may be that somebody who's been exposed to a big load overwhelms that part of the immune system that is actually anywhere in range. And so something along these lines may be resulting in that paradoxical dosage dependent degree of illness.
+
+Heather 35:46
+So might an analogy be that within the body, all of the workers are doing triage, and no one is allowed to specialize and figure out the solution?
+
+Bret 35:53
+Yeah, something like that. Yeah, or, you know, you're so overwhelmed that the cells are doing jobs for which they're not very well matched, or something like
+
+Heather 36:03
+that was forced into being a generalist, all the cells are forced into being a generalist, when what you need is actually for some of them some of the cell lines to be going deep to develop the antibodies to give you the immune response that you need, right.
+
+Bret 36:14
+But there is a message in here, right? For one thing, a, I should say, after our first live stream, we got a number of messages from people who had a story similar to yours about an illness that they had in January or February, which they did not understand to be COVID-19. But in retrospect, looks like it may well have been. There's also a lot of evidence emerging of these non of these non symptomatic infections, which I may have had when you were sick, or maybe I didn't get it, but but these non symptomatic infections have a kind of dual meaning to us. On the one hand, they're very serious, because if you're non symptomatic, but you're spreading this thing, you're you know, you're a hazard to those around you, you know, you may not have any negative consequences, but you could spread it, you know, to your grandmother, and killer, right. So that's very serious from an epidemiological point of view. On the other hand, to the extent that what is going on is that there is variation in the virus, and that some versions of it are causing less serious infections, or that somebody gets a low dosage, and they have a completely manageable infection there in that somewhere, is two kinds of hope. One of the kinds of hope is that the virus will quickly evolve to a more manageable state, that it will be less deadly, because pathogens tend to as they tend to automatically because it's not good for them to be killing people who can no longer spread the virus. And the other thing is that it may be that there's variation in the human population, which leaves a lot of people immune or near immune to this, and in both places, evolution can produce a more navigable, navigable scenario. But here's the the one that's most troubling, and the one that I'm most concerned people will take the wrong way. This is speculation, and I would really like to hear somebody epidemiologically you know, who an epidemiologist respond to this, but an asymptomatic infection is effectively a vaccine. Right? Now, that may not be true, as Heather mentioned, on our last live stream, there are diseases like dengue gay, that you can get twice. And in fact, the second time you get it, it's much more devastating than the first time so it's possible that this is like an inverse vaccine. But to the extent that immunity arises out of exposure, then, you know, I mean, in fact, Edward Jenner, when he invented the first vaccine that Europeans had, he used smallpox. Like he used cow pox to generate immunity by administering effectively milkmaids, he had noticed weren't getting smallpox and they did get cow pox which was a non lethal infection. So anyway, the question is, and you know, this is obviously tied up in the herd immunity that is being widely discussed, but some fraction of us seem to be getting the disease without getting the symptoms and they are effectively vaccinating through a non technical mechanism. At the same time, they may be spreading disease to other people. So I'm not advocating anybody pursue
+
+Heather 39:55
+the disease again caveat that having had it and having antibodies to It is actually protective and provides immunity, as opposed to actually put you at further risk for which there's just an asterisk, we just don't know there have been a couple of reports out of I think it's Taiwan, that suggest the dengue a model.
+
+Bret 40:12
+Yeah. It'd be interesting to see if anybody sees that pattern elsewhere. Yeah, it's really a vital piece of information to know 100%. Or one other point I wanted to make there sorry, to be hogging the space. I want people to notice the following odd fact that seems to have nothing to do with the situation at all. Despite the fact that we sometimes say sick as a dog, an expression I've never understood. dogs do not get illnesses that they transmit to people. Now, this is a very interesting anomaly, because we can get, obviously, if COVID-19 came from a bat, that's a pretty great phylogenetic distance for that virus to have jumped. We certainly get flus from birds, that's a much wider gap for viruses to jump. So it is readily possible for viruses to jump between very distantly related creatures. The fact that we don't get or that we don't give colds and flu, to our dogs, and they don't give it to us, is a conspicuous fact also true for cats. There's one thing that we do get from cats, which is toxoplasmosis, which is a whole other situation but
+
+Heather 41:32
+and obviously rabies can go between dogs and people, too. There's there's there's this one brutal, fatal disease that can go between dogs and humans, but it always comes with manifestations. It
+
+Bret 41:43
+comes with symptoms. Yeah. Now, actually, this is the perfect segue because you and I had a very jarring experience in Madagascar once when rabies began to spread in the dog population in the area that we were in Marne, cetera. And we came to town without knowing what was going on. Just
+
+Heather 42:04
+like I was working on an island off the coast. And we'd come into town every two and a half weeks or so to re up our rice supply and get a tomato salad. Basically.
+
+Bret 42:14
+When we came into town at this, at this one point, we encountered a dead dog by the side of the road that was not in and of itself, all that unusual. But then we encountered another, and another, and another
+
+Heather 42:27
+entire town was filled with them. Yeah, must, there were hundreds, hundreds of dead dogs just lying on the road. And in the night, they came, the sanitation workers came and cleaned them all up. They've killed them, they'd put out poisoned food, I think was one night, and they were left all day in the tropical sun. And then we happened to be there during that day. And then they came that night and scooped them all up.
+
+Bret 42:49
+So anyway, the way this all links up is there's no obvious reason that dogs should be immune to human flu and colds. And if you think about it, wouldn't it be a target for flu and colds to get into dogs to move from one person to the next, you know, one person interacts with the sick dog, they get the disease, they give it to a few people, those people give it to their dogs, it would be an extra way for a virus to move around. So what I'm guessing has happened is that when dogs have gotten sick with something, people are sick with my guesses, people have killed them, and they've started over which has selected for immunity to those things. And the reason I raise it here is that what I don't think we're doing enough of is considering you know, we're trying to behave in ways that prevent the disease from spreading. That's very good. That's the right thing to be doing. But we also ought to be managing how the pathogen evolves so that it moves in a direction that becomes more tolerable. And I confess I don't know how to do that. But it does seem that our ancestors may have handed us dogs that have exactly the kind of immunity that we are seeking for ourselves
+
+Heather 44:12
+and almost certainly took harsh measures to get there. And self you know self quarantine self isolation, this this flatten the curve, but is very, very hard on almost everyone. But it's a lot less harsh than killing all your pets. Yeah. Which may well be how we ended up with dogs that don't seem to trans be able to transmit anything to us. Other than rabies.
+
+Bret 44:32
+Yep. All right,
+
+Heather 44:34
+where are we at? timewise you're at about 40 minutes with you. Okay, do we want to continue on? Are we is there is there Super Chat stuff or or you're gonna want to tell them that they can also start up
+
+Bret 44:48
+drinking more for waiting now. Maybe we should. I think we've covered a lot of territory. It'll take people some time to digest it.
+
+Heather 44:55
+So let me let me just let me tag what some of the things we'll be doing next time so that we actually do it since we sort of promised a society level analysis last time, and we didn't get there. So we want to talk a little bit about conspiracy theories that are out there about this. Why public works are the answer something like the WPA from the 40s 50s 40s 50s 30s?
+
+Bret 45:22
+Well, we're going to look that up, okay.
+
+Heather 45:26
+And why social distancing measures that are in place, which are important, should not be conflated with stay at home. And, you know, unfortunately, some local governments are actually keeping people out of public natural places in the state of Oregon, all the state parks are closed, including a many hundreds of acres Park, it's walking distance from our home, which is frankly insane. So we'll get we'll get back to some of those implications on our next one. But let us say,
+
+Bret 45:57
+one more piece of business that occurs to me so we, when we were teaching at evergreen, we made a point when we had made errors in a presentation to come back and clean them up later. Turns out, yeah, you and I each made an error, at least at least one each, at least one yes. I feel free to call our attention to others.
+
+Heather 46:14
+So let me let me start I said that dengue wasn't a virus. And it is, I didn't know what it was. It's a virus. So there's that.
+
+Bret 46:22
+Yep. So I should say, as you said that I was shocked to hear that dengue wasn't the virus. And I briefly thought there might be a major hole in my education. But anyway, it turns out it's a virus. And I said that an acorn was not a nut. And it turns out acorns are of course not
+
+Heather 46:38
+so turns out to have been a nutty position. Yes, it was.
+
+Bret 46:41
+It was a non nutty position, but in a bad way. Yeah. All right. Super chats.
+
+Heather 46:47
+So I don't, some number of viewers, including myself until three days ago, have no idea what a Super Chat is. You want to say what this is, although maybe it doesn't matter.
+
+Bret 46:55
+Super. Right? Yeah. Yeah. Super chats are questions that people have paid to elevate to our consciousness.
+
+Heather 47:02
+Zack, we got to see it. There you go. Yeah, now we can see it again. So this is our awesome 15 year old son Zachary doing tech support for us. Thank you, Zack, I will have to change the timing of these when schools start up again. All right, I can continue to do our tech work.
+
+Bret 47:18
+So miles has told us that Heather's voice is very soothing to hear. Thank you miles. And I must say I feel the same way and have for a long time.
+
+Heather 47:27
+I'm very glad you continue to feel that yes. Yeah, it's a good thing.
+
+Bret 47:29
+Especially in lockdown like this, right? Okay. Second, is this going to end up like chickenpox? We encourage our children to get it early. Well,
+
+Heather 47:38
+it's a good question. We were talking about chickenpox at dinner last night with our children. We were
+
+Bret 47:43
+now I must say chickenpox is a it's a little bit of a dicey call. Because on the one hand, the reason that when we were kids, parents, the wisdom amongst certain parents was that you should encourage your kid to get chickenpox so they get it early, because getting it late, can be deadly. So there was a reason to get it. But of course, there is also a serious downside to having had chickenpox ever which is shingles, which is the same. I guess it's varicella virus, which re emerges from hiding. I would also point out as a biologist who specializes in trade offs, that's just the cost we know about we don't know what other costs there might be of having this virus latent for your whole life. So chickenpox was a case in which medical judgment amongst some people suggested getting it early was a good thing, because it prevented you from getting it late. This is another case where the the virus itself is sort of functioning as a vaccine, in this case, people having parties to convey the disease to their kids. Now we have a vaccine. For chickenpox. I'm going to annoy people by pointing out that we do not we cannot based on the way these things are tested have good information on the full downside of the vaccine. It just hasn't been around long enough for us to know. And my strong suspicion would be that we are not tracking cases well enough to know what happens to people in their 70s 80s 90s who have had the vaccine. But nonetheless, we now have a vaccine, which appears to give us an even better solution to the chickenpox problem, which is to prevent you from ever getting it rather than giving it to you as a child that prevents you from getting it late and suffering a serious harm or getting singles late which is survivable, but by all accounts a quite terrible condition to face. I don't know the answer to the question of are we going to encourage people to get it early? If our family had it? The case Zack had was not a minor thing. Yep. So it may be that the that the pattern that we come to ultimately recognize is that this is not as benign in young people as we think it is, or it may evolve to be different over time.
+
+Heather 50:04
+And that's right. So if we're going to get through these within 1520 minutes we should. I don't know if we're, some of these aren't questions? I don't think we really need to read those out loud. Should we stop eating human meat too? Yeah, I think that's a good idea. Yeah. Thank you for that question.
+
+Bret 50:21
+I have certainly stopped. Yeah,
+
+Heather 50:22
+I mean, a long time ago. And yeah, yeah. So next one, but what if it mutates? What is the likelihood that SARS to might mutate so significantly during this outbreak, that we have to make serious changes and what we do as societies to fight it?
+
+Bret 50:35
+Well, I think it doesn't have to mutate for that to be the case. I think that we
+
+Heather 50:40
+that we will change what we do is fine. Yes. And this is this is where some of what we'll get to next time, right? Yeah,
+
+Bret 50:45
+up at the top, I said, I don't think things ever go back to normal. And I really believe that whether or not I mean, one of my fears. Having now seen people respond to COVID-19. This is the first time in my life that I have seen society having a proper discussion about infectious disease, how its transmitted, what behavioral changes you can make, it's the first time in my life, the last thing I want is for the discussion to go back to normal. Right. But I don't think life is going to go back to normal because I think what we've just learned is that we have, we've acquired a new, what shall I call it? a stowaway, we've acquired something as dangerous and indeed, much more dangerous than the flu at this point. And as far as we know, we are stuck with that new fellow traveler, we cannot afford to keep acquiring new ones the burden to humanity, of having another phenomenon like the flu traveling at the same time, the flu hasn't gone anywhere. That's devastating. We can't keep doing this. So I do think that this is going to result in major alterations to the ways civilization functions. And the good part of it is that hopefully it has permanently upgraded our discussion, so that we can behave in a more reasonable fashion with respect to not spreading disease to
+
+Heather 52:17
+each other. For individuals, it was a kind of epidemiology school, assuming things return to something like what we recognize from before. And at the society level. It has revealed so much of the fragility in across all levels in society that perhaps perhaps we can begin to have that conversation. Is that can you scroll up so we can see, we don't know what we've done yet you need? Can you scroll through what you've done? Okay? Please try to go ahead, please try to answer, Zack, please try to answer if a person is asymptomatic and tests positive, how long? are they likely to continue to be able to carry COVID? to others? We don't know. But something you know, potentially a couple of weeks is the short answer.
+
+Bret 53:01
+Well, so I would say this is one where what we need is the best experts, we've got to answer that question directly. We're not in a position to do it. We don't have a lab, we don't study COVID-19. But knowing the answer to that question, and then knowing the answer to how persistent these things actually are, and that's a data that's going to have to continue to be taken because they can mutate and change in response to our behavior. So we don't know the answer to the question. But I would say you definitely want to err in the direction of staying away. And you know, I'd say a couple of weeks at a minimum. And then there's the question of if you're contagious for a couple of weeks, and you cough on something, and it can remain live on a certain amount of what you've coughed on to for another week or more. You're talking about a long period of infectiousness.
+
+Heather 53:59
+Yeah. So I just want to logistics question between the three of us in this room I'm not sure. we're generating more questions and we're taking so long with each I'm not sure we'll ever be done here. So I don't know if I think that we stop Super Chat or something. Stop answering the questions. Okay, are we still at the top here? Are we still or did you scroll down? Okay, even guys, hope you both Well, on the long term. How do you think our society and politics will change while the premix tech decline? Can we go there next time? Yep. Thank you for the question for next time. I'm not gonna read the next one. It's rude. Can you give a quick rundown on No no, no, no, no, really? Why
+
+Bret 54:35
+is a Jew dress like john wayne sidekick? First of all, not only john wayne sidekick, right? I am dressed like a bandit in my own right. And that is because inside of every nice Jewish boy, there's a cowboy trying to get out. Everybody knows that. Wow. Right? I didn't. Okay, well,
+
+Heather 54:52
+I was I didn't I wasn't raised in a Jewish Home. So you know, there's that's the problem in my own education.
+
+Bret 54:58
+Yeah. No, the answer is at the top of the live stream. This is an epidemiological measure. You can see Joseph Walker, the jolly Swagman himself who is in Australia tweeted a picture of himself in a hardware store mask. This morning, a hardware store mask is a dim shadow of this I've run a test this blocks almost all photons that are incident and likely his highly effective against virus on that same basis. So anyway, we will talk about that later. But this is an epidemiological measure and I recommend you get one too.
+
+Heather 55:34
+All right, can you give a quick rundown on your own mental health as it relates to this global pandemic, I would be curious how it has impacted you emotionally. You know, we're lucky we have a beautiful home in the forest and there are four of us living here and we all love each other and like each other do not always come together in the same relationships. We have been able to spend time outside we I ordered 16 cubic yards of a combination of mulch and soil and rocks as this thing is it was looking like we were going to lock down so Brad's been digging trenches and I've been digging holes and getting the boys to dig holes and smother a landscape with with mulch and soil. And we get outside we get moving, it's it's not easy. But I if there was anything that you can do to do physical work, honest, good physical activity together, do it.
+
+Bret 56:31
+I would also say I'm noticing a pattern in myself and in some others that I'm encountering, which is that for some people crisis, fills you with a sense of purpose and it actually gives you a pretty good idea of what you're supposed to be doing and so as much as I find our collective predicament frightening, there is also an aspect of this which is keeping me very busy. And I feel okay, and I think you know, if you're if you're feeling that too, it's not something to be embarrassed about. I will also say that in my traverse of various hardware stores I have noticed many more people than normal who appear to be involved in Do It Yourself home projects, which you should be very careful getting the materials for it, but I think it's a it's a healthy outgrowth of this people are getting to some of the stuff they never got to before because they're spending more time at
+
+Heather 57:33
+home this is not necessarily the moment to learn how to use power tools because this is exactly the not the moment that you want to end up in a hospital for some non COVID-19 related injury but but if you can do so safely, it's fabulous moment to get that sort of thing done. I feel like you scrolled past some ones that we missed. Japan is odd was infected early did almost nothing to stop the virus now has very few cases or deaths. Can you explain why? masks is one thing? It's it's there's no such thing, no social stigma against wearing masks.
+
+Bret 58:08
+Yeah, there there's a lot here. It could be something in Japanese culture. I don't want to. This is a dangerous topic because to the extent anything could be resident in somebody's culture, speculating about it is liable to leave you offending somebody. But it could be Japanese fastidiousness. It could be the lack of a social stigma around masks, it could be given the blood type appears to be an issue. It could be that there's something in the Japanese population.
+
+Heather 58:35
+Sure. The question again, Zack, just go back to the previous one. did almost nothing to stop the virus. So I don't know beyond this question. What it did or did not do that familiar. But did it leave its borders open?
+
+Bret 58:48
+It left its airports open. It restricted travel from only two Chinese provinces?
+
+Heather 58:58
+I believe so airports open is obviously huge. On the other hand, it is it is an archipelago. So any place where there's no land based border crossing, potentially if the airports were open, there was no checking. That doesn't help. But in general, an island nation should be better able to deal with such a thing.
+
+Bret 59:16
+I'm speaking off the top my head here, but I do think that they checked people's temperature
+
+Heather 59:21
+from the beginning. Yes, yeah. Which wouldn't catch asymptomatic cases.
+
+Bret 59:24
+Right? They did have a case, I believe one of these cruise ships that was just thoroughly infected with the stuff docked on our shores. But anyway, it's a very good question. And there are really two kinds of answer. Is it something Japan did? Or is it something about Japanese physiology? In either case, it would be very good to know.
+
+Heather 59:49
+There are companies in China that have commercialized COVID-19 I can't read it. Oh, my God, immunoglobulin M and g i guess that is in home testing kits cost around $10 That's an observation that someone has made. It's not a question. It's great if true rate of true. Oh, I love the next question. And we don't have the time to do it here. But I would gladly This is something I used to teach on all the time. What determines closeness? He said, the bats are not as close as birds. Why? Oh, yeah. The why is that bats and humans have a more recent common ancestor than humans and birds do. And I can show you phylogenetic trees all day and walk us through both the philosophy of science of that, and the science of science of that, but that will be a separate, separate, I don't know, podcast, something at some point. But we but we know, we are almost certain around the dates of the most recent common ancestor for all mammals being something between 100 and 200 million years ago. And the last time that our ancestor was closer to a bird was well before 200 million years ago.
+
+Bret 1:01:01
+All right. This next one is interesting. The steel man podcast
+
+Heather 1:01:06
+was that's where you go from the bottom, we got the top one.
+
+Bret 1:01:12
+What percentage of the US population Do you think has or is currently infected? No idea. I would say the discovery that the virus was apparently spreading in January and February at a much higher rate than we knew says, you know, the old adage that early reports are always wrong. In this case, we may still be in the early reports, phase. So stay tuned.
+
+Heather 1:01:36
+Yeah, that we continue to have the denominator problem for sure. With regard to things like the case fatality rate, probably being over reported, which is good news, because we aren't testing sufficiently to know what the denominator there should actually look like. On the other hand, there there are plenty of plenty of cases all over the world that are yet to be tested. So I'm really not there yet, but
+
+Bret 1:02:01
+okay. Okay. Next one is a tricky one, if dislocations persist, will be eager to implement apparent solutions that may become net negative. How do you think about this about encountering a weinsteins Gate the adverse of Chesterton's fence. So I have a feeling that this is deriving from a discussion in one of my patreon groups a monthly discussion.
+
+Heather 1:02:26
+Can you leave that up? Please? Not scroll past the one we're on? Yeah.
+
+Bret 1:02:32
+So this is a tough one Chesterton's fence is a Gk Chesterton's. What would you call it parable to
+
+Heather 1:02:43
+it's like a razor razor?
+
+Bret 1:02:45
+why you shouldn't eliminate measures that whose functionality you don't understand,
+
+Heather 1:02:51
+he says, so we just written about this, actually, until one of the early chapters of the book that we're writing. You run into a fence, and it's in your way, or you find it irritating for some reason, and you want to get rid of it. And you say to your friend, I want to get rid of this fence. And your friend says to you, What's it for? So I don't know, I want to get rid of it. Until it unless you can describe accurately what it's for. You should not be allowed to disrupt it,
+
+Bret 1:03:19
+to get rid of it. Not knowing what it's for, suggested maybe for something you don't know anything about. So I don't know how to answer the question. I think generally, I would like some sort of brain trust to be thinking about the deeper strategic implications of how we behave at the moment, the fact that the political apparatus has become aware that there is something that it is responsible for dealing with. That's good, but the strategy itself is pretty thin. And a lot of the tools we're using are quite blunt. So what I would love to see is a roomful of people who are not responsible to the public on a daily basis, explaining what they're doing, thinking about the deeper strategy and what what might actually function so that we don't implement measures that are net negative in the end, but seem you know, give the political class cover, you know, that sort of thing. How likely is it that this virus escaped from China's only level for virology lab, which happens to be in Wuhan? This is a great question. Yeah, I am not an expert in things Wu Han, virology labs, any of these things, but I will say much depends on what the the data that we have available to us actually means. In other words, somebody could have created a hoax or so let
+
+Heather 1:04:54
+me say to that, we are going to speak specifically to some of some of the conspiracy theories out there and what you know, conspiracy conspiracy theory has a bad name because a lot of them are tinfoil hat style ridiculousness, which is some of what we'll be talking about. But also conspiracies happen. Therefore, some conspiracy theories are true. So calling this a conspiracy theory is not a value judgment about it's nonsensical mis,
+
+Bret 1:05:17
+I would say we should call it a conspiracy hypothesis for lots of reasons that I will cover elsewhere. conspiracy theory would be a conspiracy that's actually happened and we can be sure of it, which has happened to Greg many times,
+
+Heather 1:05:29
+it's not going to catch on now.
+
+Bret 1:05:31
+It should. But I must say I am quite troubled by the possibility that given that there is a virology lab, apparently, you know, I could discover that I have bad information here. But if there's a virality lab that was studying Corona viruses in bats in Wuhan, obviously, it's highly likely that something happened, either as an accident, somebody was careless in the lab, or they were playing around with something. Do I want responsibility for advancing that idea into the world? Absolutely not? Because it could well be. You know, I mean, there's lots of ways this could work. But I do think we have to worry about it. And among the many things, the among the many messages that are clear, is that the ability to wreak havoc on planet earth exists in the pathogens of wild creatures, that has a lot of power to place in the hands of people who do not have our long term, well being at heart. And so there is no solution to that that involves personal responsibility that involves nations navigating this each according to their own rules. This is something that has to be dealt with as a result of the fact that we have a collective interest in not having more diseases emerge from from animals into the human population.
+
+Heather 1:07:04
+Awesome. is Zach, fascinated by evolutionary biology to or did growing up with a double dose of it in the family numb him to the phenomenon? Well, as if we got the expert on Zack in the room. What's the answer, man? I don't know. Okay. But to some degree, his brother is more than naturalist and he's more the engineer, but I think they're they're both interested. They're not numbed,
+
+Bret 1:07:25
+I hope. Yeah, give them time.
+
+Heather 1:07:27
+Yeah. You said in your podcast with Eric, Brett. Hearts don't recover like other organs. They were adaptive reasons for it. Yep. Okay, we got two of these. You said in your podcast with Eric, that hearts don't recover. Like other organs. There were adaptive reasons for it. I heard that COVID may cause heart damage. What are those reasons?
+
+Bret 1:07:48
+Let me give the quick and dirty version. Your heart is a very special organ. It's a pump that doesn't fail, even once in a proper life of 80, maybe 100 years, right? That's a remarkable kind of machine. It functions unlike a machine pump that we would create. In other words, it has lots of circulation within it. And the vessels in the heart are vulnerable to being blocked by a growth that wouldn't bother you if it were in your liver, you'd never know it was there. And so my hypothesis from the paper that I wrote many years ago on this topic is that the low tolerance that the heart has for a growth of cells out of place has caused the dial on tumor prevention to be turned all the way down so you don't get a little pea size blockage in a in a artery that causes your heart to fail and that turning down the self repair capacity prevents those growths from happening but it leaves the heart very vulnerable to toxic insult and other things and so one pattern we have seen here which I must say I I didn't have a good reason for imagining it but it definitely has me worried was the incense the non steroidal anti inflammatories? I know from my own work on telomeres and pharmaceuticals that they have all been shown to do heart damage of one kind or another I absolutely avoid these things. I take aspirin which humans have a long history rarely
+
+Heather 1:09:27
+with I take it very rarely of us take this any of this very often.
+
+Bret 1:09:31
+But if I can't take aspirin for some reason I'll take Tylenol Tylenol which is not a safe drug. It's a dangerous drug but at least we think that the damage that it does is to your liver and the damage it does to your livers liver is capacity you can afford to spend so
+
+Heather 1:09:48
+and that's what livers are livers are detoxifying organs. Yeah.
+
+Bret 1:09:52
+So in any case, the fact that COVID-19 has been made worse apparently by the other the enset is pretty, pretty interesting. But anyway, I think generally what we're detecting is that because of the way the heart is built, it is very vulnerable to insults of all kinds COVID-19 being one kind of insult and Said's being another kind of insult, the combination of them being particularly bad. But we should expect this from here on out, which is that many things that are really bad for us are especially bad for our hearts.
+
+Heather 1:10:25
+Yeah. Good. Thanks for the content, love listening to the two of you. Thank you. What's the economic? Zack? What's the economic trade off between constantly keeping the country in lockdown and risking a second wave versus opening up the country again, and just letting everyone get infected and building immunity?
+
+Bret 1:10:43
+Exactly. Well, I mean, I think you've stated the trade off there rather well. And the answer is there's a huge amount of uncertainty around what this virus will do if left to its own devices. And what it will do under the kind of crude management that we are deploying. But let
+
+Heather 1:11:02
+me say that the virus today is not inherently the same thing as the virus even in three weeks or three months. And certainly not in three years, and no one's expecting locked down for three years, that's obviously not tenable. But the longer the longer time period during which we can socially distance and work to flatten the curve, the more chance that we are that that we have that a our health systems don't get overwhelmed, of course, but that there might be developments with regard to either prophylaxis to keep you from getting it or vaccine. So the distinction being a somewhat subtle one, but for instance, there's no vaccine for malaria, but there is prophylaxis variably works or drugs to treat. So also the virus, the longer it exists with us, likely, the less virulent it gets. So it is far better if you're going to get this to get it later than to get it now. And so trying to fast forward herd immunity right now is a much more dangerous prospect that imagining that even if all of humanity ultimately ends up getting exposed, it would be over a longer period of time.
+
+Bret 1:12:06
+Yeah, so actually, we should put together a list of the reasons that getting it later would be positive. Yeah. One of them, if you mentioned it, I'm sorry for repeating it. But just the simple fact that we will know a lot more about what to do, you know, there'll be less burden on the system. And we'll know more, what to do is probably reason reason enough in and of itself,
+
+Heather 1:12:31
+there will be there will be more data on every front. And you know, especially once there are serology tests, man just beating this drum, like I did in the last livestream we did, but once their antibody tests, and we can actually have an answer to the question that was asked earlier about how many people have likely been exposed, and therefore tracking those cases that weren't identified as COVID-19 were symptomatic, but turned out to be COVID-19. and beginning to put those data together into an epidemiological analysis, such that, you know, is is this thing where you begin to feel better and feel like you're better and then it hits you hard, is, is that really something that this that this disease is doing to people reliably, the more people who know that if it is true, the better the more lives will be saved.
+
+Bret 1:13:16
+I would say though, if you step back a little bit, it is also important that we learn how to manage, let's say that COVID-19 continues on a pace without a seasonal reprieve. Let's say I expect a seasonal reprieve for one set of reasons, not for another. But nonetheless, let's say it didn't, figuring out how to operate in the world. So you can get the things done that you need to get done. That's going to be something we're going to have to do and we're going to discover a lot of things, you know, if this doesn't work, we'll find out. If it does work, it's good to know and maybe we will discover that we all you know, the same way we put on a shirt in the morning, we need to do something to prevent spreading airborne diseases, but we're going to have to learn those things. We're going to have to get more surgical about what activities we sideline and what activities we upgrade so that we can do them during an epidemic like this. But you know, ultimately we're going to have to learn to manage it.
+
+Heather 1:14:22
+Yeah. This is for Zach. Awesome work. Awesome. In see you just scrolled up, we can't see that question. You can see the next question. I don't it's moving you that yet.
+
+Bret 1:14:36
+Might prolong social distancing. Reducing
+
+Heather 1:14:41
+No, it was up farther, kiddo. This is it. That one up top. Can you show me okay? In most countries, the ratio of positive cases to total tested reduces as tests go up. Absolutely. This is the denominator problem we're talking about. He says he or she says UK, Sweden, Denmark went down from 10 to 5% in the last 10 days, the US is steady at 16%. Even though testing is increasing, any idea why testing is increasing, but it's not increasing enough? And anecdotally, I've heard a number of stories of people being told by doctors, yes, this is you almost certainly have this, but we don't have enough tests. So I want you to quarantine at home and come back in if you absolutely need to, but we're not even going to test you. So even symptomatic cases aren't always being tested in the US. I don't know that that isn't happening elsewhere. But I know that that is happening in the US.
+
+Bret 1:15:37
+I would say I don't want to allege anything. But there is a danger about monkeying with baseline in order to adjust the way a particular crisis is understood. I don't know whether I suspect that did happen. Is it still happening? I don't know. But the data hasn't settled down. Because in some sense, it's spotty. And yeah, I guess we'll see as the data gets better, what the pattern really is.
+
+Heather 1:16:05
+Yep. Okay, the next one we already answered. Yep. How much of the data coming from China? Should we believe considering the pandemic was caused by their lies in the first place? Thanks for Montreal.
+
+Bret 1:16:18
+Well, I don't stumped us. Yeah. I don't know how to answer that. For one thing. I don't know which lies you're talking about?
+
+Heather 1:16:27
+That. Can we see the question? Sorry. Thanks, did
+
+Bret 1:16:33
+it, you know, it's too much of a hot potato. I don't, I don't want to. We've got too much variance on what may have happened. We've got everything from natural escape from bushmeat at a wet market to virology lab that, you know, in the worst case was creating a bio weapon. We don't know what took place. So it makes it very hard to calibrate. what was being said, I do think there's,
+
+Heather 1:17:01
+you know, what, has there been mismanagement on the part of as far as we can tell every government pretty much Yeah, have there been active lies coming out of China? Probably. And in the US, saying the pathetic was pandemic was caused by their lies is for me a bridge too far. I'm not prepared to go there. I'm not saying it couldn't be true, but I haven't seen the evidence for it.
+
+Bret 1:17:25
+All right. Do you think societies require a specific catastrophe per generation to educate them to that specific issue?
+
+Heather 1:17:31
+God? I hope not.
+
+Bret 1:17:34
+You know, I think in some sense, this is what this is one of the things that enduring art is for is to preserve an understanding of catastrophe. So not everybody has to experience it directly. That said, as you will see in the book that we are producing novelty is a massive problem for us evolutionary novelty. And the problem with our catastrophes is that they are taking on a new nature, right? So obviously, airplanes are playing a role in this epidemic that is relatively new. Now, obviously, that those airplanes have been spreading lots of less serious diseases for a long period of time, and obviously, HIV was transported on airplanes, but but nonetheless, the problem is that
+
+Heather 1:18:30
+our transport on airplanes presumably not transmitted much.
+
+Bret 1:18:35
+Well, that really depends, but No, I meant transported just so that it can jump oceans in a way that's, you know, it's become trivial. But in any case, the problem is that our catastrophes have so much new content, that the stories that should be protecting us from them haven't been written yet. And at one level, if you want a really depressing idea, we have to get over the idea that stories are about entertainment, and that we should be hearing stories that make us feel good and and happy. And the point is, stories actually, are. They are adaptive, and we have hijacked them for educational purposes, but it is time that our stories take on an impactful, responsible
+
+Heather 1:19:20
+Well, I just I love this idea. We've talked about it before. This is what enduring art is for. Right. And so you know, the Russians seem to have gotten this Tolstoy and soldier needs in both war and peace and the Gulag archipelago, both clearly describe in a way that is accessible for for most people. Some of the horrors that that occurred in 19th and 20th century Russia and and Soviet Union. And you know, Guernica, you know, they're there. It's not just it's not just through narrative. It's also through two dimensional three dimensional art that we end up being able to understand some other piece of humanity that we have not ourselves lived through. This is what art is And it's it's part of why we need it. Thank you again to Zack. Wonderful. Thank you. My prolonged
+
+Bret 1:20:11
+Wow, that's very generous. That's Lee thanks so much Lee.
+
+Heather 1:20:17
+My prolonged social distancing, reduce herd immunity to other pathogens resulting in, for example, a very black, a very bad influenza season in the future.
+
+Bret 1:20:27
+I actually wanted to cover this topic, roughly, let me look at the prolonged sources. Let's Let's introduce the question in the following way. And maybe we can address it next time. The question is now that humanity has upgraded its response to infectious disease, sort of all of a sudden, we took a crash course. What will the evolutionary response of the flu itself be? My guess is that flu is having a very hard time transmitting in the period since people have started wearing masks. So anyway, there's some whole thing to to address, which is, what do we do? And what is the evolutionary response of the pathogen? And given whatever that pattern is, can we manage these things into a better state for us, the way our dogs were apparently managed, or potentially managed by our ancestors, to make them such good companions?
+
+Heather 1:21:20
+Yeah, no, it's it's a great question. And it speaks to the actual interconnectedness that as you know, it has been observed widely at this point that most countries in the world right now could not withstand effectively a natural disaster or another or another widespread pathogen. So we are acting, we are coming together to some degree over this. We are still acting as if this is the thing this is the enemy from outside, that we have all been waiting for it to bring us together. Well, it's not the only thing. And there will be there will be downstream and negative effects of even the best, the best rot procedures here.
+
+Bret 1:21:59
+All right, you said in the last podcast that authorities weren't telling us the whole truth, or, or we're hiding something, can you elaborate? I could tell you, but then they'd have to kill me. Alright, that's
+
+Heather 1:22:12
+good. Yeah, no, I would say, and we'll get to this a little bit next time,
+
+Bret 1:22:17
+maybe this is always a feature, which is that they have perverse incentives with respect to telling us the whole truth, there's always this idea that we can't handle it, and that we will panic, and that that will make things worse, which is almost always a prelude to things being done, not on our behalf. And then in this case, there's a question about this kind of a hot potato of responsibility. And in particular, I'm worried about baseline I want to know what's actually going on so that we can navigate in something other than a blind fashion and the political apparatus is obviously aware that it is going to be held accountable and that there are things that can do that will make it look like it actually performed better than it did
+
+Heather 1:23:03
+good. This guy wants Brett you to send him some DNA so he can create a bunch of offspring with his genes we are sexually reproducing so I don't think Brett's DNA is going to be sufficient but yeah, thank you for everything Love you guys. Also, the guy's name seems to be male. So it's the we can't You can't combine sperm and sperm. It doesn't work. Not easy. But it works. It doesn't produce babies. Yeah. Also flattening the curve buys us time to get masks into the hands of every person true and to get those supply chains back up that production backup ventilators respirators, but but masks into the hands of every person. Very good point. I suspect masks may be a major cause the difference between USA Italy and Japan, South Korea? Yeah, I think I think that's likely right and the pre existing cultural norm around putting on masks whenever you are sick or whenever there is understood to be some kind of outbreak.
+
+Bret 1:23:54
+Agreed. But you may think my bandana looks stupid. But honestly I did a test I took my camera and I pointed it at a video light and I set the aasa the shutter speed on the aperture to a proper exposure and then I put my bandana over it and it absorbed 999 photons out of 1000 Okay, now that is not exactly the number of viral particles, I would expect it to intercept. But it is not. I can't think of a good reason. In all the studying I've done of the you know, physics and the like, I can't think of a good reason to think that the bandanna should automatically be vastly less effective at trapping viruses than it is of trapping photons. There's one reason that it should be less effective, which is as you create negative pressure behind the bandana you breathe in. The pilot particle could snake through multiple holes and it could reach you. On the other hand, these viral particles a even just the viral particle is Much bigger than a photon D, they're not traveling in isolation. They're traveling water droplets which are much bigger and have an affinity for the fabric that the bandana is made out of. So
+
+Heather 1:25:10
+size by by affinity. And I actually saw this question on twitter at someplace like why why would you want to attract it into a fabric. The virus stays sort of active and on the surface of hard surfaces like steel and plastic, but in the fabric, it basically it's the coat around, the actual RNA gets tangled and stuck and deactivated. And so it's not that that happens right away or to everything. And if you touch your bandana right after you get contact, you could you could give it to yourself. Yeah, but in general fabrics tend to trap the virus. And then if you wash those fabrics quickly, with soap and hot water, you will deactivate them and wash them away.
+
+Bret 1:25:47
+Yeah, and I do I wash my bandana. Sometimes I put on to at different times during the day, or if I haven't really been out I'll have one but I wash it. I don't put them back on. But think about it just a mundane level. Let's say you spill take a bandana spill some coffee on it, right? You're talking about a suspension of particles inside of water. That's what the coffee is it gets on your bandana, how much of it comes off on your fingers when you touch it? Very little. So you're not it's not a perfect measure, I guarantee you. But how good a measure is it? It's likely to be very good. If this isn't true, and somebody understands the reason that isn't true, I want to hear it. But here's my point. Let's say that my test with my camera is wildly off. Right. And it overestimates the effectiveness by an order of magnitude that would still leave at 99% effective at trapping viral particles. 99% effective is mighty effective, frankly, I'd take 60%. Right, but 99% That's awesome. So my expectation is that this works. It certainly does not reduce my vigilance on any other front. But what I would say is you don't need a mask designed for the purpose. You just need something that does the job. I know lots of people have put out videos on YouTube about how to make a mask for yourself. Do you have one in your drawer already? Maybe you do. Somebody should be studying whether these things are actually effective so that we know that when things happen, we're not dependent on a supply chain, but we can actually get back to doing what we need to do with materials on hand.
+
+Heather 1:27:20
+Okay, it looks like we got three more questions. Yeah, chat needs moderators. For more questions, last of which is thank you immensely for your work. chat needs moderators. Let's just run through them quickly. And then we'll sign off and maybe we'll be back again next Tuesday, if not definitely on Friday. First of the last three unless something comes in as we're answering these questions quickly. What's your affiliation with Princeton all about short version. We are this year, both visiting fellows of the James Madison program at Princeton University. Due to the extraordinary generosity of the professor St. Known as Robbie George, who encouraged us to apply after Brett and Robbie met each other. Brett and Professor George met each other when they testified before Congress in spring of 2018. And I think we were then invited
+
+Bret 1:28:11
+may 16 of 2018. You would never know that sort of thing. No, but what do you know that was the two years to the day. It was one day before two years to the day the anniversary of the protests at evergreen when they erupted in my classroom. That's right.
+
+Heather 1:28:29
+Well, that wouldn't be right then because that was May 23 2017 2017.
+
+Bret 1:28:32
+So it would have been 2019. Okay, but
+
+Heather 1:28:36
+you said may 16
+
+Bret 1:28:38
+Alright, I'm confused. We're not going to stay in the chat over it.
+
+Heather 1:28:41
+Unfortunately, that is one of the things that I do keep track of Yeah, not very interesting. Um, so we then were invited to speak at Princeton's commencement that's that fall and Robbie then encouraged us to apply for these positions, which has been wonderful although we are visiting what but not in residents. We're here in Portland, Oregon. Zach, can you go up so I can see if we just answered that one. Okay, so now we have four. Three more quickly. How come the other Coronavirus has disappeared? They didn't they're still out there. They they're still out there. SARS one. Oh, you're talking about SARS one and MERS actually, MERS is still out there. And it. It erupted seems to require contact with an infected camel in Saudi Arabia. And so it's somewhat rare that it travels outside of Saudi Arabia, I guess. SARS one is interesting. Why was it so intense, much more localized than SARS to which we're living through now? And what was it It lasted 1618 months ish, and then it seems to have gone underground. I don't want to claim that it's disappeared. I don't know. I don't have an answer to this disappear.
+
+Bret 1:29:51
+I mean, I think the answer is likely to be a mismatch between the available channels for transmission. And the modality of the virus. So you know, I keep saying this thing, which is that the creatures are all trying to get into the future, it doesn't mean that they have a channel that's viable to do so and so you know, let's take Ebola, for example. Ebola is highly effective at being transmitted under some circumstances, but it is so overwhelming to the people who have contracted it, that it burns out quickly and doesn't leap to the next village. So I don't know this particular answer, but the general answer is going to be because it wasn't structured to persist. And so some combination of herd immunity awareness and other measures and just the simple way that we function caused it not to be well adapted and went extinct the way other creatures go extinct.
+
+Heather 1:30:48
+Yeah. Okay, tomorrow, I heard a New York nurse say yesterday, they are surprised to see car crash victims with lung damage that looks damaged from COVID. thoughts. It's when students when we were teaching in the classroom, and students would ask questions like this, I would either not engage until I'd seen the evidence that this was actually real observation or begin with a very strong caveat that any answer is assuming that this is actually true. And so
+
+Bret 1:31:21
+I'm also not even good, you could interpret that question two ways. Yeah. Are they seeing damage from COVID in car crash? victims? In other words, there are more victims than we know and they're seeing it because they're looking they're looking at x rays. Are these people's lungs? Or does it mean that damage from COVID? Looks like car crash damage? Anyway, hard to answer without knowing which of these we're even looking at?
+
+Heather 1:31:47
+Okay, so they're still growing? We're gonna only answer three more and then we're done. We're done. Okay, guys, can we close the transmission of a virus by lockdowns as some will never follow? With the common cold go away? If everyone isolated for three times the infection period? That's two questions. lockdowns are not going to stop transmission, because transmission will still happen within hospitals, as new cases come in and within households, but it will slow radically. And that's what that it's not disappearing the curve, it's flattening the curve. So you write that even even with perfect, perfect following, you know, perfect adherence to lock downs, you wouldn't you wouldn't disappear transmissions entirely. I wasn't gonna go to the next one. Yeah, yeah. What is the main obstacle to miniaturize virus tests and do them via the smartphone? energy? optics?
+
+Bret 1:32:44
+Well, I don't know, the technology, my phone isn't nearly as smart as it thinks it is. And I just don't think it's up to the challenge of doing this sort of test. I'm not sure how a smartphone would even be involved. I just want to test that works. I don't need it to be an app.
+
+Heather 1:32:59
+Yeah, there's some there's some things that your phone presumably can't do. It cannot take in fluids, you know, it can't do swabs and taking blood and such. Okay, last one. Hi guys, could social distancing result in common colds and other short lived pathogens going extinct in the nations that are practicing it?
+
+Bret 1:33:20
+extinct is tough, because the thing is, zero is an absorbing boundary. That's the idea. So if you imagine a population of anything, right, a population can fluctuate wildly, it can get very low, you know, the population of sea otters in the Pacific was down to 80 individuals, I think something similar happened to elephant seals, and then they've come back up. But if you imagine 80 is very low. But if you hit zero, something new happens, once you hit zero, there's no bounce. And so in order to get these things to go extinct, you have to hit zero. And it's not inconceivable that some sort of measure could cause that to happen. I think we did it with smallpox. Right? Seems to be although the question, you know, I remember, I think it was during the Clinton administration, there was a question about whether to destroy the last samples of smallpox because we thought we had successfully banished it. And those samples, of course, run the risk of escaping into the world. But I thought the decision was right, assuming I remember what the decision was through them, but there could always it could always be hiding somewhere that you don't know about. And so you think it's at zero when really it's just an undetectably? low level. So anyway, extinction is tough. But increasingly, we should be thinking about this, because what we are doing at the moment is we are inviting new pathogens in and just adding them to the calendar and you know, what would a normal human life look like with respect to colds in comparison to this one where people are flying around and transporting every cold everywhere? All right. Thank you guys. All right, thanks, and thanks, Sam. Appreciate the counter fibre there. All right. This has been exhausting but fun and we will pick this up in our next live stream in the next couple of days. So stay tuned.
+
+Heather 1:35:13
+All right. Thanks, everyone.
+
+This transcript was generated by https://otter.ai

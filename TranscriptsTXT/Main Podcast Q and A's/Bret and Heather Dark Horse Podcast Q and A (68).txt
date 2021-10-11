@@ -1,0 +1,556 @@
+Bret 0:05
+Hey folks, welcome back to the Dark Horse podcast live stream number 68 Q and A. We are going to attempt to address your questions with answers. As always, we have an announcement up top though. The winner of the clubhouse invite is jack Pasmore. Congratulations, jack, I should point out, like sex, drugs and rock and roll clubhouse is not to be used recreationally and please don't get addicted. All right.
+
+Heather 0:44
+All right, even rock and roll,
+
+Bret 0:45
+even rock and roll. Right? Well, here's here's my thought on that is that music is a very powerful manipulator of the mind. And so you should just be careful who you let in there. And you know who you allow to inform you musically? I don't mean any of these cases. I don't mean you shouldn't enjoy it. Of course, you should enjoy it, all of them thoroughly. But you know, very potent stuff.
+
+Heather 1:08
+Not junk sex. No drug says no junk rock and roll. No junk clubhouse.
+
+Bret 1:13
+There we go. Yeah, exactly.
+
+Heather 1:17
+Alright, we will begin, as has become the usual with a few questions from last time that we didn't get to. First one, what is the benefit of investing in wings for a creature before flight is fully evolved? Is there a benefit to wings like gliding or running up steep hills before flight is fully evolved? Great question. Yeah, it is a great question. I would like to answer it with a two hour lecture on the evolution of flight and feathers and end up thermite and birds. But I'm not going to I have given that lecture in the past.
+
+Bret 1:51
+Yeah, yeah. I mean, isn't it fair to say that, in almost every case of wings, if not every case, there is a gliding precursor. And gliding can be a very highly efficient behavior. As you can see, if you've ever watched so called flying fish, and flying squirrels, the degree of control and of lift Yes, lift I suppose that they get and therefore the glide distance is stunning.
+
+Heather 2:28
+So and there's a question so you know, flying squirrels and flying fish do this rather differently flying fish have to actually launch themselves out of their normal substrate up before they actually before we see them, right. And whereas flying squirrels are, you know, tend to lose a little bit, but start high and, and somewhat lower, but still in the trees unless something has gone wrong. The the snakes that have big services with which they can effectively navigate air. As all the videos I've seen, and talking to the people who do the research on them, they tend to, it tends to be a way for them to launch themselves out of trees and onto the ground. And they're either escaping from or a predator or going after prey by doing so. Birds, two of the two of the imagined ecologies that were going on was, so I said, flight feathers endothermic is actually a fourth thing on that list that have been like played around with a lot of people who were thinking about this, like flight feathers into thermae and arborea. ality tree dwelling like which of these things must have come before the others, which of them likely did like what is the order of evolution of these four traits in in early bird nests, or, you know, pro bird pneus? And it's not it's not fully resolved. But you know, one of the reasons to imagine that our boy reality came before wings is that, you know, just like with the snakes to do this, that having some some kind of gliding surface with which you can you can control yourself a little bit would be useful for getting out of trees fast if you're a bird. But then there's a question about whether or not it was that situation where early bird stuff evolved, or maybe it was clipped waters, right, like so you're launching yourself off off a cliff and, and being able to ride thermals and such and then hopefully, you know, getting back maybe maybe to the side of a cliff and working your way back up. But you know, it's not totally clear exactly what the what happens there if you don't have powered flight, and so can't reliably go go back up.
+
+Bret 4:28
+Yes, thermals keep moving down. Yeah. Yeah. It's hard to imagine how the cliff thing works for exactly that reason, you know, thermals would have to be totally reliable to get you back to to your starting point, but trees obviously can be climbed. Which raises an interesting question. I've always thought the distinction between flying and gliding was a little bit overdrawn, because in some sense, gliding is powered flight where you sort of, you know, loaded What did you say gliding is powered flight, but you're loading the power in when you climb the tree. And then utilize Well,
+
+Heather 5:02
+it's like all energy is solar, though. I mean, like, yeah,
+
+Bret 5:07
+I mean, you know,
+
+Heather 5:08
+it's true at exactly the same level, like, sure if you go far back enough, but it's indirect effects at best, I agree.
+
+Bret 5:15
+But I mean, at least it is worth noting that, you know, it's, it is powered in a different way. And, and that, you know, it's a very, it's a gentle slope on the adaptive landscape from gliding to flying, if you can figure out how to add power during flight, then you can prolong the glide effectively. And so it's relatively easy to see how it would, would evolve. But yeah, you know, it's a fascinating topic. And the fact you know, I think I said several weeks ago that convergent evolution was a tremendous gift to evolutionary biology because without it, we would only have one example of everything. And it's very hard to say anything with one example of gliding and flying are lovely, because we have multiple examples of both and therefore it can build the kind of models of how this works.
+
+Heather 6:03
+Now us to make a joke in your about lectures, which given what you just said, I feel like you couldn't make it anymore, you would say that the as far as we know, the closest extent relative of bats, is demobbed run, right, which is a flying lemur, flying lemur,
+
+Bret 6:23
+which is called a flying lemur because it doesn't fly and isn't the lemur. Right? Yeah. Yeah, I mean, I agree with you. I'm not saying that there is no distinction between what we call powered flight and gliding. But it's like differently powered flight. Yes. But
+
+Heather 6:40
+there's a reason we don't make you the language SAR. Let's just call that differently powered flight. Oh, good. Okay. All right. We're all more confused. Okay, next question. Regarding taking the vaccine after a previous infection, would first testing negative for antibodies change your analysis or and or change the possibility of reinfection? It's a good question. I'd be more interested in the killer T cells,
+
+Bret 7:03
+right? That's the problem is that antibodies in this case are functioning as a proxy? Well, not both antibodies and killer T cells are involved in the immune response that deals with with a virus like like COVID like SRS kobie to the absence of antibodies does not necessarily mean an absence of killer T cells. So it's not a perfect proxy, but let's just say, you know, it's, it's good to once we've got potentially or at least a good cheap one, right? You can you can find it easily, because antibodies can be tested for directly. So you know, yes, I would love to know what these things are. I would also just, you know, by the hour, we are discovering, or at least in a position to discover something about whether or not you become vulnerable to reinfection. Right. And so far, what we think we know is that reinfection rates are not zero. But it is very, very rare. It could be that the immunity wanes over time. But I would also point out that there is a comparison to be made between the type of immunity that will be generated by a vaccine of this type, and the kind of immunity that will be generated by actual battling of SARS COVID to the virus itself. And the difference is this, and it has all sorts of implications about how likely this vaccine is to work to get us to something like herd immunity, all of those things, and maybe we should revisit this on a live stream later on. But the basic comparison would be this. If you've had SARS, COBie two, if you've, if you've contracted COVID-19, you've been exposed to all of the components of the virus, and your immune system can essentially build a response to any protein, right, any protein of a sufficient size. So you would imagine that the immunity that you would get from COVID-19 would be broader than the vaccine, which has chosen the spike protein narrowly and all of them have chosen that too, right. So the all of the various manufacturers have used the same protein, which, so there's going to be two effects. One, you would imagine that if the virus was going to adapt in response to the immunity, that correctly identifies the spike protein, that if somebody had had SARS, covi to the virus itself, would be potentially immune to the novel, The novel variants. So maybe better immunity would come out of having had the illness, it's not worth having. It's not a good thing because of all the damage it does to the body. But nonetheless, it could be broader immunity, but also from the point of view of the evolution of the virus itself. To the extent that we globally challenge it with one protein that we've all cribbed from the same, you know, the same sequence then that is Very intense selective signal for the virus to evolve in such a way that that protein is no longer present or visible to the immune system
+
+Heather 10:08
+that's potentially going to be our Achilles heel, the immunity Achilles heel for us brylee oceanwide.
+
+Bret 10:13
+Right now I don't, I don't blame us for doing that. But at this point, it's now long enough the end and we've got some vaccines, it's time to start thinking about what is the best collective approach, right? You know, you could potentially be immunizing people with two different vaccines that had similar effectiveness and a slightly different focus. And potentially that would be a way of, you know, in the same way that ultimately what we did that allowed us to manage HIV was challenged it with a cocktail of different drugs. And the argument I would make is that we should have seen that as an as an attack vector or vector early on because the point is, you can adapt relative to one thing easily but if you have multiple challenges simultaneously, you adapt to avoid this one, and you move into the, the vulnerability to that one. So multiple vaccines could potentially be part of a coordinated assault. Anyway, maybe we should table that here and come back to it as a deeper dive at some other point. Yep.
+
+Heather 11:14
+Brett, David shmotkin Berger said market solving problems is a moot point with NASA, Honeywell, Boeing, biloba, General Electric Grumman, and many more contractors market solve the problems that NASA identified, what are your thoughts?
+
+Bret 11:29
+I think Daniel has a point. I would say fusion is the better example, that the market has had a very hard time solving a problem whose exact dimensions we know. And the reason is that the profit is so far down the road that anybody who's looking to get rich is unlikely to invest in at some point, we will get close enough that, you know, the market will solve it. And it may even seem like, hey, the market was the right answer all along. But the point is, actually, we should have been here 25 years ago, right? We should have we'd be far better off. And the fact that it didn't is evidence of what Daniel was saying that you need to be able to curve. But here's the point. What I'm saying is, the right way to use the market is to basically point the market at things problems you want solved, you point the market at them, and you say, All right now do the market magic thing, right? You can point the market at the problem of fusion, you can add a subsidy, the government can say this is a problem that needs solving. It's solvable. And here is what we are going to do to incentivize IT solution in the same way that a private entity might offer a prize for the solution. So it is not a question of either or I think the right answer is, markets are a tool. They are not magic, right? They have properties that are almost like magic, right? Just the same way selection does. But the real question is can you figure out how to wield them effectively without allowing them to do a lot of collateral damage? And that's all readily doable. So anyway, I would say in this case, Daniels point is right, but it doesn't exist in isolation. Both points exist together.
+
+Heather 13:09
+Very good. Final question for Episode 67. Can multiculturalism exist without cultural appropriation? I think this is a this is a great framing. And no, unless I mean, unless you're seeking parallel societies, which is not really multiculturalism, it's a kind of extreme form of live and let live, which probably doesn't work anyway. But of course, there's borrowing and you know, this. How have any cultural values been appropriated in appropriately? Yes, of course. And so you know, is the concept of cultural appropriation a legitimate one? Yes, at base. But I feel about it, I guess at this point, a bit like I feel about the trans debate where like, there's a real thing, there's a real thing known as trans and there are real people who really suffer. And there are real cultures who have had their values or norms basically be minimized or, you know, stripped from them as a result of some other culture coming in, and stealing or betraying or whatever it is. But just as most of the people who are currently in the debate over in trans rights activist space right now, I don't think are good faith. And are, for the most part, not doing anything good for the very tiny, tiny number of people who are actually truly trans. I don't think that the vast number of accusations of cultural appropriation at this point have anything to do with actual harm to culture. It's its power, it's about power again, and a misunderstanding of what history is and what and what people do. I mean this this is exactly how cultures evolve. they evolve sometimes by creating new things and often by borrowing And adding,
+
+Bret 15:01
+and you can see, in fact that a lot of things, I think a lot of people who deploy, you know, the idea of cultural appropriation is bad, you're taking stuff you're not paying for it. Right? Okay, I can sort of see the perspective. On the other hand, this is what culture is, this is why we're not hardwired. And so, you know, at some level, you should expect this. But, you know, the point is, if you start to put these things together, you realize what this is, is a set of rules that cannot be abided by, right. So I saw today, Coca Cola, a internal anti racism, briefing escaped, you know, be about whiteness, or be less white or something like that, well, okay, be less white, and don't culturally appropriate, it is hard to
+
+Heather 15:52
+disappear ourselves, right? Like, don't don't exist? Well, the basic
+
+Bret 15:55
+point is, look, you're gonna be in violation of one of these things or the other. So basically, watch your step because we can convict you on a moment's notice, we're watching and we're in charge now. Right used to And likewise, I would say, you know, I'm going to hate myself for speaking like a child now. But for the moment, right? The discussion around the N word has gotten completely preposterous. And I'm now you know, one of the wonderful things about clubhouse is you can actually listen in on discussions, and you can learn how people think about this, but at some level, the word is now super ubiquitous in features in quadrants of black culture, right? I find no problem with that. But to do that, to infuse a, you know, hip hop culture or whatever, with this word, so it's everywhere. And then to hold a super high bar where somebody who's simply singing along with a song trips over it, and is then convicted as if they, you know, use that as an epithet against someone is preposterous. It's, you know, it's again, a trap. And so, anyway, what we need is a, an adult discussion in which the proper level of nuance is there, so that we can distinguish, for example, between wielding an epithet and mentioning the epithet or, you know, using the epithet, as you are inhabiting a character a racist character, Is it wrong to inhabit a racist character? And, you know, use the syllables? No, of course not. Right. And we need racist characters in order to understand the problem with racism, right? So, so in any case, you can't deploy all of these things in isolation, and then combine them into some web that can't be can't be navigated. Yeah.
+
+Heather 17:46
+Okay, the question from the discord this week, is Do you believe there is such a thing as women's intuition? And if you do, how, and why did it develop?
+
+Bret 18:01
+I have no idea whether you'd like to start. Well go for it. Okay. What I would say is a intuition is a huge deal. This goes back to the discussion that we were having about how you formulate hypotheses, I would say intuition is a skill is a skill that can be well tutored if you are thoroughly well versed in something your intuitions about thinking that things in that neighborhood are likely to be very high quality, if you do not have a lot of grounding in a subject your intuitions are able to be garbagey and so intuition is a thing and intuition can be anything from scientific intuition to intuition about the weather that might come from having lived in a particular location and having noticed you know that the afternoons like this tend to proceed evenings like that or whatever. So there will vary definitely 100% be intuitions that women will have about all sorts of things that may be colored by the fact of their being female
+
+Heather 18:59
+I would say given what we know to be a universal but population level difference in the interests even of babies whereas male babies are more likely to show interest in things and female reason more likely to show interest in faces, people faces animal faces and from that it has been extrapolated I think correctly that the interests that girls and boys and then women and men show later on which then do see your may well turn into differences in in ability but not necessarily around you know women being more likely to pursue careers where they're engaging with people you know forward facing as opposed to back to the stuff you know doing the boxing and the man the the fiddling with the gadget stuff. You know, carrying careers versus engineering careers, you know, these sorts of things. You know it have you'll have there been barriers. To entry for thing based careers for women in the past, of course, there have been, and have there indeed been barriers to entry for caring based careers for men in the past. Sure also. But the differences in income between the two types of careers, which is also probably, in part a result of some sort of systemic sexism in the past has meant that there's there have been fewer men who have been trying to get the care and careers and then there have been women who would have been interested in getting into the, you know, science and engineering, you know, stem type careers. All of that said, I would say that, in part because of the kinds of things that men are more interested in, and because they are more conducive to quantification, and description, with careful analytical language, that when that the type of intuition that males on average will have might actually be more easy to describe, so that you can be like, Oh, I had this idea. And I think I can actually no, go back and track it. And I think, perhaps for two reasons, because the kinds of things that women as a population, on average, are more interested in are about social dynamics, which are, are harder to chase down to, you know, to reduce accurately to a very fundamental level, they're inherently part of a complex system, they're inherently more emergent, they're inherently part of a complex system. And maybe also, because it is typically been women's domain and women's domain has had less attention paid to it, I'm less sure of that. But at least for the first reason, and maybe for the second, I think the kinds of things that women as a population are likely to have intuition about are, are going to be less conducive to an explanation of of the sort that everyone can understand just by using language. So you know, every everyone will have intuition, we will tend to have intuition about different things, one of the predictors about what kind of intuition we are likely to have is going to be sex based. It's one of one of many things are going to predict that. And our, you know, women type intuition, things, less likely to be easily explicable through language analysis. I think so yeah. And so are they likely to Is that likely to live into the domain of like, magic and woowoo? Even though it may be just as accurate? We just don't know all of the things that went into it? Yeah, I think so.
+
+Bret 22:24
+Cool. Yeah, I think I think there's a lot here and I agree that the noisier the more complex system, the noisier the patterns tend to be. And therefore, the earlier that intuition tends to work, or intuition tends to work early, maybe later, you know, enough about the system to you know, describe it in in more rigorous terms. But, you know, there's a trade off. The point is, and this goes right back, actually, to this question we were dealing with earlier about the formulation of hypotheses, which involves trafficking and bad ideas in order to spot the one that isn't really bad. Yeah. That involves license, right? license to not falsify everything based on something that you know, but the, to give things enough room to unfold that you can actually spot you know, that wrong hypothesis might not be wrong. Which, you know, I guess my claim is, that's an intuitive process. And there are people who are really good at it, and there are people who are not really good at it. And it's very hard to tell you, you know, how do you formulate a good novel hypothesis? Well, you formulate an intuition. Right. Okay. Well, it's black box right there.
+
+Heather 23:35
+Yeah. Yeah, absolutely. All right. First question from today's live stream. Brett. It's 2017. evergreen library. Fourth floor. You walked up to the podium and looked like you were prepared to speak but you turned around, went back to your seat? What were you going to say? And why did you choose not to speak?
+
+Bret 23:57
+Well, you know what I was gonna say, because I've said it all somewhere. And yeah,
+
+Heather 24:02
+but what were you going to say, then? Well, I
+
+Bret 24:04
+was going to make the point that I couldn't possibly be the racist, they thought I was and that there was, you know, no shortage of information, I was going to cop to the fact that I undoubtedly have bigotry. That basically, you know, I don't know what it is like to be a woman to be black, to be gay to be trans. I don't know any of these things firsthand. I'm interested. It's not voluntary ignorance, but I will always have a degree of ignorance about those things. But I am very interested and committed to the idea of a colorblind society, and there's a very good reason for it. It's the only one that's going to work to solve the problem. That's approximately what I was gonna say. Now what happened, I remember very distinctly. So what happened was, I was there. This made certain people irate, right? We put him in danger. Why is he here now? I never said they had put me in danger. At that point. I felt endangered in that. room, right. And in fact, I was told I wasn't going to be allowed to leave. So I had every reason to feel endangered in that room. And there was no way for the police or anyone else to get in, there was a hallway full of anarchists blocking the entrance. But nonetheless, I felt I should be there to defend myself. You know, so I went, people saw that I was there. And because I was sitting there quietly, their point was, well, you know, why doesn't he get up to the podium? You know, because we've got a few things to ask him. And my sense was, Well, okay, I'm going to the podium, and I got up. And as soon as they saw that, I was eager to get to the podium, and I was willing to confront them. And I, you know, wasn't going to be backed down with fear. Their point is, don't let him speak. He loves speaking. Right? And in fact, it's almost exactly what they said it was something like, you know, it's exactly what he wants or something like
+
+Heather 25:53
+that. It's the same thing. If you're quiet, you're racist. If you're speaking you're racist, like, you know, it's, it's an unwinnable situation. And the, the marvelous thing about what happened at evergreen in those days and weeks, was that it was on such ludicrous public display, that the the the ways in which they created worlds that were internally inconsistent to suit the mood of the moment, and we're willing to just switch it seconds later, yeah, was more obvious than maybe it has been in any in any of the other meltdowns that have happened now, in so many demands.
+
+Bret 26:27
+Yeah, I mean, it was just, you know, pure and more over the top. And so it made every point really, really well if we're tracking it. And you know, thank God for Benjamin Boyce who, you know, wrestled so much of the evidence into public view and, you know, sorted through it in such a careful way that it's actually encyclopedic Lee available, right? Yeah. Anything you want to know about what happened or almost anything you can find out because he's cataloged at all in every direction, and he's interviewed everybody he could just show
+
+Heather 27:02
+thank God for Benjamin Boyce,
+
+Bret 27:04
+great to see you. Thank you, Benjamin boys, thank God for Mike Naina, who took the vast library of Benjamin boys materials and other stuff and wrestled it into a very tight three part documentary for people to want to know your hour and a half plus, it's right. But you know, if you want the, you know, the quick and dirty, but highly accurate version, that's the way to go. In any case, you know, it's just lovely, that the thing got completely categorized and sorted. You know, it was like a, it was like an FAA investigation of a crash, right? Like, all, you know, it all got assembled in a hangar. And now we can describe, like, every instant, you could do timeline,
+
+Heather 27:44
+as I remember, you know, every time early on that, that Benjamin would go to get, you know, to do public records requests. They were like, you know, to use your analogy at the FDA crash, everyone was like, Well, you can't have our black box, like, we're gonna put up barrier against barrier barrier barrier here. Because we really don't want to show those things to you. I'll find we have to Oh, dear. Now, we look even stupider than we did
+
+Bret 28:08
+before right now, I think they've gotten much better at actually just not responding to these requests. And they've done terrible things to Benjamin, they've gone after his channel, right? They didn't know that they're interfering in his ability to earn a livelihood on YouTube. And, you know, what are you gonna do, you're up against an institution. And although it is, you know, starving for money and only still functioning, because the state subsidizes that editing stream level now that it's down to such a small fraction of its initial population. But nonetheless, they have money to spend on PR, because of course, you know, you would want PR to get more students so they can use that argument. But then they can use their PR team to figure out how to, you know, demonize Benjamin or obscure what he's doing or to nightmare.
+
+Heather 28:54
+Or occasionally stillhouse loss.
+
+Bret 28:57
+Yeah, yeah. All There you go.
+
+Heather 28:59
+All right. Next question. Let's get to the important stuff. Do you wash your dog with shampoo or without and how often my black Labrador sends her regards? Have we ever washed our dog? Yeah, she is. She is she will be eight. In March.
+
+Bret 29:17
+I believe. We use none of the things you mentioned. I guess I'm the only one who does it sounds like you never do. I use bleach. In fact, I use a black she adjusted. Oh, now she's a black lab.
+
+Heather 29:32
+Our lab is not a black lab. Oh gosh. You
+
+Bret 29:35
+say okay,
+
+Heather 29:37
+her her nose did mold early on. Her nose was black.
+
+Bret 29:41
+She did have a much darker nose. Yeah. No, seriously, how
+
+Heather 29:44
+do we get away like I cleaner I scrub her down every time I bring her in when it's gross out who washes their
+
+Bret 29:50
+Labrador. I watched the Labrador when she rolls in something she shouldn't Maddie
+
+Heather 29:57
+right we spray if we spray with isopropanol Do and then rubber down? Yeah. But I mean that's the you know, she goes out in the rain she gets wet and shake her up outside and Tyler down. I guess not without shampoo, we wash her with brain.
+
+Bret 30:11
+Rain and isopropanol alcohol occasionally when she grows,
+
+Heather 30:15
+rolls and something anoxic that she finds delightful and we don't.
+
+Bret 30:18
+Yes, there we go. Yeah. Okay.
+
+Heather 30:22
+Oh, so this one terrible New York Times interpretation of CDC data with a link supplied I suggest reading and sharing. Why do so many not ask hard questions, study the data and report on the fact willful ignorance, ignorance or puppet mastery. That's from someone crystal, I clicked on the link and the link is broken. I don't know. That may just feed into exactly what you're saying. But we're going to another version of that link in order to see what you're talking about. Regarding cc, cc,
+
+Bret 30:55
+cc, Creedence Clearwater.
+
+Heather 30:58
+Now, why not preference those solutions that would still help society even if it's proven false, for instance, nuclear, rather than solutions that only help if it's true. For instance, carbon tax seems like a way to win over the skeptics. Here's our dog's smelly advisor problem right now. Oh, she brought us a donut. So do you understand the question? I don't I don't Yeah. This is someone This is Maria dark, who asks a lot of excellent questions. Regarding CC, why not preference, those solutions that would still help society even if it's proven false, for instance, nuclear rather than climate change, climate change, rather than solutions that only help if it's true. Grayson's carbon tax seems like Oh, see, okay. Yeah, yeah. So actually,
+
+Bret 31:46
+it's reminiscent of that wonderful cartoon from so many years ago. You know, I forget exactly. It's a guy at a podium, and it's a list of all of the things that are proposed, and somebody says, the equivalent of what if climate change is a hoax, and we make civilization way better? For no reason? Yeah. Yeah, absolutely. That's the thing is, of course, you should do those things which work either way. And the problem the elephant in the room, is the forces that are currently winning, that have a concentrated private interest in preventing us from replacing whatever industries they're in with better industries, you know, who killed the electric car? That kind of logic right. Now, I have thought, I think I've had this thought since high school, certainly since college. But the answer is, if you had to buy out these industries, in order to save the world, let's just buy them out. Right? I mean, it's worth the price we're going to pay is incalculable. So whatever the price might be,
+
+Heather 32:54
+so but what Who are you talking about, though? So like oil and gas, anything, anything petroleum related, but then you're talking about airplanes and cars, and no, like, you know, natural gas in the home to
+
+Bret 33:08
+like, No, no, my What? My point really is, we have a corruption problem. And we have a long standing corruption problem. And it comes in the form of those who have made a profit doing x have every interest in your print in, in preventing you from realizing that x is not a long term sustainable technology. Yep. So as a result, we do lots of unsustainable stuff. And then we engage magical thinking about cornucopia and solution, this technology will always save us all of these things, which will ultimately be wrong and will ultimately kill us. My point is simply, they are doing a cost benefit calculation. Right? The cost of the corruption that they collectively visit on our system will be total, right? Therefore, I mean, look, we can absorb huge costs, right. COVID-19 is apparently a $17 trillion virus. I haven't heard the number. But anyway, I've heard that, but I don't know that that's a robust number. I also, you know, that would be a temporary number because the costs continue to grow. So the point is, what is the price point of Hey, can we directly engage in confronting the climate question and that means figuring out which part of our understanding of climate change is robust, which part of it is the result of academic politics and self fulfilling, you know, models and things like that? And, you know, how do we sort out what the actual hazard to us is? What the level of urgency is, what the appropriate solutions are, as our questioner asked, What are the things that we can invest in that work either way? Yes. How do we how do we get private interests out from between us and public policy period? It's, it's the most obvious thing that we need to do in order for civilization to work. And you know, the problem is, it's the elephant in the room and it's been the elephant in the room for so long. We've stopped even mentioning it even those of us who talk about it, it's a stepping
+
+Heather 35:03
+over the elephant, right? Yeah.
+
+Bret 35:05
+We're just like clambering over the elephant. Hey, Fred. Right? So, yeah, yeah, let's, let's deal with Fred the elephant. Finally,
+
+Heather 35:14
+let's do it. Brett said that when Civil War was about to happen, the two sides started portraying one another as inhuman in order to make it easier to think of themselves each other as enemies. What are some examples of this? Any resources to learn more?
+
+Bret 35:27
+I think my claim was about war in general, I don't think civil war is special in this regard. That's right.
+
+Heather 35:33
+I don't remember exactly what this is referencing. Yeah. And in fact,
+
+Bret 35:37
+that thought, trying to remember what my source was that thought dawned on me about this sort of this biological module that causes us to dehumanize those we're about to, to fight in order to make to facilitate our willingness to kill them and not be overwhelmed by guilt.
+
+Heather 35:55
+I feel like sapolsky may have written about this in the past.
+
+Bret 35:59
+Yeah, that's probably in behave. Yeah. Although I don't know remembering but but any case, yeah, certainly start with superski. That that's a you're sure to get
+
+Heather 36:09
+these wonderful. So you're not going to you're not going to not learn things, even if it's not learner
+
+Bret 36:13
+time. That's highly relevant to the question, even if it's not directly addressed in behave.
+
+Heather 36:18
+Yeah, I don't actually I've not spent as much time with behave as I have with this earlier stuff. I mean, I was I was, I was, I was using him as my research when I was working on sex differences and behavior in primates as an undergraduate. Yeah. So you know, he's, and specifically things, things like aggression and conciliatory behavior and such.
+
+Bret 36:37
+Yep. I am remembering though somewhere in teaching at evergreen, I encountered probably as a result of teaching partner who favorited, a documentary in which interviews were done with soldiers, and they were compared with these racist cartoons that were, you know, mainstreamed about, you know, the enemy that was going to be genocided or fought. And it was just very clear what was going on. Right. And anyway, sorry, that's not a better source. But I think it's a it's a robust pattern. And if you look, undoubtedly you'll, you'll find it. So bossk is a good place to start.
+
+Heather 37:27
+Is my computer doesn't seem to be plugged in, and I'm losing power quickly. I don't know if you can just do something on your end. I've just I've only got the working end of the plug. Next question. Yes, redheads? Why do men love them so much? Why are they correlated with having freckles? And why don't gingers have souls? evolutionarily speaking?
+
+Bret 37:50
+That's a loaded question. Yeah, yeah,
+
+Heather 37:57
+I'm I. I mean that the freckles thing is going to be about it. It correlating with very, very pale skin. Yeah. It's it's a it's sort of one end of the melanin spectrum.
+
+Bret 38:09
+Yep. So well, we can do the freckle thing, actually probably the best here. I would say the world's leading expert on the redhead phenomenon is Tim mentioned a comedian. I don't know what that is. Only a ginger can call ginger. Yeah. Anyway, that song has a lot a lot of sources in it. Yeah, yeah. But anyway, let's talk about the fractal part. So years ago, when I was getting involved in the Tila mirror question and all of those things, it occurred to me that there was a missing phenomenon in the literature, which I labeled, and the label never took off. But I called it proto tumors. And the idea was a telomeres which count down the number of cellular divisions and arrest a cell at a certain number, so that it will not even though it's healthy, and could divide again, it just doesn't. That the that counting down was a matter of preventing tumors that a cell that lost track of how much reproduction It was supposed to do would run into this limit. And so you would stop getting a tumor, because cells that became dysregulated would grow to a certain size or to a certain patch size, and then stop. What were those patches called? Nobody knew. So I said, it's called a proto tumor. They'll be all through your body and on your skin, it's very likely that that's the nature of moles and freckles. Now, we now know that this is true for moles, right?
+
+Heather 39:42
+But not sure moles.
+
+Bret 39:44
+I'm tempted to tell you that spelled differently, but I have a feeling it isn't. No, not for most darling. Right. So in any case, a mole, it turns out is a cell that has become dysregulated has created a bunch have copies of itself that are all equally dysregulated, because the dysregulation is genetic, so it passes on the defect, and then typically becomes colorful. Now the reason is still hypothetical my hypothesis for why is that if a cell has become dysregulated, and it has duplicated itself many times, then if it gets a second mutation that turns on telomerase, it will become a tumor. And so how do you prevent a second mutation on a skin cell? You put melanin in it so that UV radiation is less likely to trigger a second mutation? Right? So my claim is that that also probably applies to freckles. Now as far as I know, this has never been established for freckles. I'm not sure anybody has looked into it when I was doing this work back in 1998, or nine. Basically, the literature all said the same thing about freckles, which was that they weren't important. didn't describe what they were phenomenologically I know because I got a sunburn in Honduras in 1991. Yes, 1991 snorkeling, the water was cool. I wasn't paying attention to the fact that the sun was blazing, I got a wicked bad sunburn on my back. And after it healed, I had this basically giant patch of freckles that were so many that they had all joined together into large orange splotches. So my thought was lots of mutations that would fit the same pattern. Okay, so the basic point is, for whatever reason, redheads are correlated with very pale skin very vulnerable to UV radiation. Why do men like them? Probably it's just a novelty effect. And I don't think it's all men. In fact, I think there are cultures where it's not particularly privileged. But anyway, I think why are they soulless? I cannot confirm that they are soulless, I have actually known some people with red hair, and I find them very human. So I cannot confirm that part of the model.
+
+Heather 42:09
+Okay. Okay, next question. I lived through the 2007, Midwest ice storm, four inches of ice two weeks without power, my city underwent adaptation. And to this day, all power lines are cleared of overhanging branches. Do you think Portland should do the same?
+
+Bret 42:26
+I think all of us should realize that we are paying a huge psychic price for these things. And we pay a price in the vulnerability of our systems. And so I will say two things about this one, our grid is a nightmare. And for no particularly good reason. Yes, it would cost an awful lot to put lines underground. But we should basically turn that into a decade or 15 year project. And we should work our way there just to make the system more robust, and to stop paying the psyche price of seeing this garbage stuff, you know, in every landscape. I was one thing what was the other thing to say?
+
+Heather 43:10
+I don't know. But I will say that, you know, some parts of Portland weren't particularly badly hit. And those are the parts without much nature left. And you know, you can and indeed I saw on on next door, someone said, you know, see, yeah, we should cut down all the trees so that we don't have this problem. Like how about you live somewhere else? You know, where there aren't trees. And, you know, we have we've been places where the utilities were put underground. And there are of course, risks to that, especially in earthquake country as we are along the west coast. But the much more frequent risks are the ones that we are experiencing now with regard to you know, a, you know, the farther south you go, the more likely there's fire rescue blowing in the wind under very dry circumstances. And here we've got ice risk. And at least in in the southwest hills, which isn't exactly where we are, but we're in that general area of Portland, there are there remain a ton of trees, and if you were actually try going to try to clear all branches from anywhere near where they could fall on a power line, you would effectively strip the landscape of trees, and then you'd have landslide issues, then, you know, then you'd have a whole other set of issues. And you would have effectively denuded and made ugly, exactly the you know, the part of Portland that is most like what the landscape was, you know, probably 200 years ago.
+
+Bret 44:40
+Whereas if you put the lines underground, you make the place better, you make it more robust, far safer. And the other thing I wanted to mention was that the basically what you're finding is a risk to things like the grid that come from very rare events. So ice storms are rare enough that we're not well buttressed. And basically the idea is stuff will fall, you know, there's a certain amount of clearing of branches every year, to prevent this a certain amount of taking down of trees, it's not enough to deal with the ice storm problem. So stuff goes down, we put it back up, you know, and the cycle repeats. But the point is, we ought to be incentivized to make a much more robust situation, because for one thing, if that situation interfaced with some second disaster, just temporarily speaking, it's very, very dangerous. Yeah, right. Because everything depends on your ability to, you know, to call emergency services, to be able to drive your vehicle out to get provisions, whatever it is. So there's a lot to be done. But there's an even much more dangerous vulnerability in our grid, that at the point, we find out how vulnerable we are, it may well be too late. And this has to do with our vulnerability to Carrington like events, which are basically solar in nature, the sun can spit out radiation that can cause our Transformers to blow. These are the major Transformers in the system, and there is no mechanism to get them back online or replace them in good time. So anyway, it's a topic for another day. But we have many vulnerabilities like this. And frankly, because this is one of the defects of markets, is it causes this razor sharp focus on efficiency on some short timescale. And the point is, you're not paying attention to the vulnerability you've just created on a longer time scale. And it wouldn't be hard to get smart about this, but it does involve us not, you know, wagging our fingers at those in governance who want to invest in remote possibilities that over a long period of time become probabilities.
+
+Heather 46:51
+Good. What secret skill does clubhouse have that won't turn it into a public sewer sewer have mismanaged community standards, excited running to the next social media without solving the problems of the first seems problematic?
+
+Bret 47:06
+Well, I don't know whether it has the ability. Unfortunately, the market is very likely to cause clubhouse to be sold to somebody, it could vary. I heard discussion yesterday, could very well be sold to Facebook, in which case it would acquire exactly the myopia that Facebook clearly has. There are different people involved in clubhouse. And frankly, those different people have been participating in rooms with us. So to the extent that there is a very committed small group of very clear headed people saying, we have an opportunity to do things here, that opportunity is jeopardized by the fact that zero is a special number. And they will attempt to do to clubhouse what has happened everywhere else for the purpose of narrative control. Right. And we can't let that happen. There's something much more important than money riding on this. Maybe those people will recognize, you know what, let's not go down the same road. And there's some signs that they won't, right. So for example, so far, there are no ads there. And the discussion suggests that the founders don't want ads to become part of the model. So of ads, how is it funded? The moment it's, you know, venture capital, right? So that's not sustainable, right. But they can do things and they are considering doing things in which you will be able to use clubhouse to do things like podcast, and people will be able to pay you, you know, basically will incorporate a Patreon like phenomenon. So you know, that's a business model that might well be immune to some of these things. So hopefully, the founders and funders of clubhouse will realize that because it is different, that it must be preserved. And that requires them to avoid the Business Model Driven traps that have swallowed all of the other social media platforms.
+
+Heather 49:00
+Well, as you know, I have a particular aversion to early adoption, especially if tech stuff, I lean towards the Luddite in this regard, especially in social media space. So I'm, I hear your answer, but I don't accept that it's a complete answer.
+
+Bret 49:17
+Oh, it's not a complete answer. I think the danger is real. And frankly, I think that the the difference between having clubhouse where we can say the things that we can't necessarily say on Twitter is so substantial with respect to the narrative control that I would expect every avenue to be explored to shut down that opportunity. You know, hence the concern over this question of unfettered conversation and misinformation and how do we stamp that out? So we'll see.
+
+Heather 49:45
+Yeah, I've heard that diseases are most contagious right before symptoms show is that a biological observation that we shed most material then, or epidemiological observation that we most likely transfer disease, we're unaware of it.
+
+Unknown 50:00
+That's a, that's a really terrific, awesome question.
+
+Heather 50:03
+And I actually don't know the basis. I guess now that it is parsed that way. I the epidemiological explanation is certainly true, regardless of whether or not what you're calling the biological one is as well, I would say that, that you're not going to be mitigating your behavior before you know, you're sick. Right,
+
+Bret 50:26
+you're going to be behaving as normal. Yeah. So I think there are lots of levels at which this, I think they all point in the same direction, including the modern one, which is germ theory of disease allows us now to understand that we are contagious, right. And because we are contagious and have some idea that we are transmitting microbes, and are tend to be surrounded by people that we give a damn about, either because we're related to them, or because we work with them, or because they're our friends, we have an incentive not to spread things. Also, there's the humiliation of having given somebody a cold, or whatever. So that plays in and that's novel, but the the underlying model is that symptoms are the result of damage. Typically, not every symptom, symptoms generally are the result of damage done by these microbes as they do their own bidding. So for example, little lesions in the lung, where you basically have a wound that you can't see, that is spilling virus out of cells that are dead or dying. And then as you cough, they get expelled into the air, for example. So you would expect that at the point that you're symptomatic, in other words, at the point that you have a wound big enough to detect in your lungs, that that would be coincident with the least particles being, you know, readily coughed out and things like that.
+
+Heather 51:51
+Yeah, I guess I'm, I'm chagrined by what I see. As a failure, even after a year of this, of people to actually model what the physics of transmission is. And you know, you say, well, we, you know, we have theory of germ theory of disease now, and some people know and, like, yeah, I've, I've gone on about this before, way more than I wanted to. So I don't, I'm not going to spend a lot of time again talking about, you know, getting the stink guy from people who are wearing masks outside when I'm a long ways away from them not wearing a mask. But I also had the experience this week of you know, people yes, mass, but having a very loud conversation with one another, coming like, towards me, and me sort of not wearing a mask and like veering away, when like you're yelling, like, I don't actually like, Yes, your mask is gonna block some of that, but you're yelling, you're spreading particles, much more so than if you were talking, and much more. So if you were. Yeah. So what I actually do not know, like what yelling through a mask does for the likelihood of transmitting something, as opposed to walking quietly without vocalizing at all without a mask. But I don't, my guess is that they're, they're not wildly different. And if they are different at all, I'm actually not sure which way to predict that. Yeah. And like I specifically don't want to be around people who are yelling right now strangers who are yelling, and people imagine that their mask is just a magic spell. Yeah, if I'm asked, I'm good. And therefore I can either be infected or infect, you know, jerk, like you're just wrong.
+
+Bret 53:35
+Yep. What were the two categories epidemiological and biological
+
+Heather 53:38
+and bio, do you are you shutting most material then which this goes actually a little bit different from what you were saying, you know, you're shedding the most material before symptoms show? Or is it epidemiological that you're that you're more likely to transfer when you are not mitigating your behavior because you don't know you're sick?
+
+Bret 53:54
+Alright, so I want to divide the biological one, into one more category. And this goes back to something we've mentioned, tick Alexander's distinction between coughing on your pathogens behalf versus coughing on your own behalf to clear dead stuff after you've beaten sickness. Anyway, what I want to point to is that the pathogens, especially a pathogen that knows your species, well, that has a long history with you, your pathogen will have evolved to mitigate its effect on you such that you are effective at passing it along. So to the extent that you coughing will tend to be avoided by other people, and you coughing will tend not to want to go out because you just want to minimize your behavior and sit there and not do things that disturb your lungs. You're not a very effective vector. And so, you could imagine that a well a, an experienced pathogen, one that has an evolutionary history with you would evolve To create a period in which it hadn't, it basically had spent in order to stave off the creation of symptoms, while maximizing its release of particles. Because that would be the sweet spot for transmission. So you would expect evolution of the pathogens themselves to create exactly that pattern. And the problem is that that pattern has several other causes, that would also lead to it. And it's very hard to disentangle them. And so you know, we're this a biology class, we would now figure out how to separate those hypotheses and figure out, you know, what fraction of the phenomenon owed to each of the causes?
+
+Heather 55:36
+Yes. Okay, we're gonna do two more here and then move to the next hour. interested in your thoughts? Actually, three more here, interested in your thoughts on this idea of intersectional supremacy belief that people with most intersectional categories have lived experience superior to others lived experience? I think that doesn't actually warrant much talkies. Yeah,
+
+Bret 56:00
+you've nailed it. I think that's the that's the conjecture. Yep.
+
+Heather 56:04
+What do you think of the sinopharm vaccine? So I don't know it by that name anyway, but the question goes on since it's a deactivated virus would rather take it would you rather take it than an adenovirus vaccine does the fact that Wu Han was involved in its development make you more or less confident in it? So again, I don't know this vaccine except for what's written into this question, but a deactivated virus, which sounds so to create a virus rather than a dino virus isn't actually the right comparison.
+
+Bret 56:32
+Well, it is because it sounds like the deactivated virus is the virus in question.
+
+Heather 56:38
+Right? But adenovirus. So for instance, Johnson Johnson and AstraZeneca have the adenovirus is the delivery mechanism, but their DNA vaccines and so deactivated virus, but compared to mRNA, or DNA, not to the delivery mechanism.
+
+Bret 56:53
+Right now, so again, I we probably ought to table this until we know more, but what I would say is, first of all, I want to know what this means by deactivated because deactivated can mean killed, right? You can take pieces of a virus and deliver them to the system. And the system can learn to recognize the proteins basically, you've got garbage collection, cells, macrophages, which will pick up the fragments and then display them in the immune system will learn them, right? That's pretty safe, right? A inactivated virus, which it sounds like this is is a potentially pathogenic virus that has been you know, as you pointed out, loss of function research has resulted in a virus that lacks capabilities like jumping from an A vaccinated person to an unvaccinated person. But anyway, I'd love to know more about this one before we go further down that road.
+
+Heather 57:47
+And again, does the fact that Wu Han was involved in this development make you more or less confident in it. It might make me more confident depending.
+
+Bret 57:57
+I want to know what it means that was involved, right? Yep. Yeah.
+
+Heather 58:01
+So I'm actually gonna save this other next question I really want to get to but we'll get to it next week about the endocrinal logical implications of so called top surgery. Let's begin with some questions from this hour. In I feel like there's words missing this one in before the entire lexicon of fiction gets erased for failure to pass the fact checking. They're only trying to protect us from things that aren't true. I think this is just a comment on. I'm not sure what the beginning there is. But yeah, fiction. Fiction has no place in this brave new world. I think is the message here. Are there potential dangers of getting a vaccine if you've already been infected with SARS? Coby to Yeah, we've we've talked about this, potentially,
+
+Bret 58:53
+definitely the potential exists, which doesn't mean it's a real danger. But the very, but I one thing that I pointed out last time, was that by introducing spike protein by one mechanism or another, into a person who's been sick, it is plausible to me at least, that the receptor sites that would trigger the immune cells to go after the virus will be occupied by a spike protein that has been the result of vaccine and could make you more vulnerable. So I'm not saying that that is true. But I'm saying I want somebody to tell me that's not true and why that the question has been studied. And here's the answer, rather than let's assume it's not true because we don't have any evidence because we never looked
+
+Heather 59:35
+right. bad science versus religion. Early on, I got the suspicion that some academics are using bad science to inordinately demonize religion. Pun intended. How would you sift through anti religious bad science? It's big question.
+
+Bret 59:53
+I mean, this is more or less simple, I would say. Anybody who leaps to the kingdom illusion that religion is a malfunction, rather than an adaptation potentially out of place, is telling you at least they haven't thought very deeply about the puzzle, you know, for Richard Dawkins to look at, you know, you know, an AI or a Gill, and to say, Well, of course, that's adaptive and who would say otherwise, and not to look at religion and have the same response is inconsistent. And so what I want to know is that you've at least spotted that an adaptive explanation is likely for this phenomenon. Before you say something like, you know, these beliefs cannot adapt to the modern world, because they are predicated on a narrative that is non literal, right? That at least is a credible argument, that does not pretend that they were always mal adaptations, right? So I would just say, Did you spot that it was an adaptation before you got to your argument? Or did you skip that part? And just decide because you don't like it, that it's bad and always was?
+
+Heather 1:01:02
+Next question, you hinted at an evolutionary explanation for Oedipal complex. Do sons have an interest in mom not having any more male offspring? Because they will be competitors for females? And thus drive away dad by taking this place beside besides mom?
+
+Bret 1:01:19
+No, I don't think so. I think you know, kids have an interest in their parents staying together, that interest is maybe most concentrated in the fact that it creates full siblings rather than half siblings and full siblings have a lot stronger genetic basis for cooperation. I will say the, the Oedipal complex, is I believe Freud's just misunderstanding of the way selection would work. Right? And so the point is, I believe he identified something real but misunderstood what it was, because he, you know, I mean, basically look, the idea that selection is going to create a broken instinct in a creature and then force an override to it, that just doesn't add up. So the point is, the impulse isn't what he thinks it is, right? There is some connection, and I would just say, it is a model for something, and not the thing itself. We'll come back to it later. I'm very much looking forward to, you know, there are aspects of it that I really liked. But I'm really looking forward to blowing that one up.
+
+Heather 1:02:36
+Is it ethical for a teenager who had a confirmed case of COVID-19 to receive the vaccine, they're still in high school, but have a job in a dining room or retirement home? before those over 75? who live on their own? There's a lot built into this question, you know, ethical for this person before this person? Does it make sense for a person who's had a confirmed case to get a vaccine before anyone else who hasn't had it? And doesn't make sense to be prioritizing teenagers getting the vaccine? ethical? No, I don't think so I think that we should be prioritizing the people who are at the greatest risk for having very bad outcomes, bad outcomes, and transmission, bad outcomes and transmission, which is to say, the elderly and people with other comorbidities, which presumably a high schooler who's working a job doesn't have the comorbidities either. But you know, maybe more important, I would say that this person has two of the three states that for me, and I've already said on this livestream before, I would say I don't think that people in any of these three demographics should be prioritized for getting vaccines, and maybe not be getting vaccines at all. And that's actually where I fall, which is to say, people who've already had confirmed cases, children, including teenagers, and then pregnant people, and presumably, this person isn't pregnant, but two out of three, and I would say there's I don't know why they would be in a rush to get the vaccine. I really don't
+
+Bret 1:04:13
+right now, I will just add, again, something we can return to the I have the sense that we are rushing to a situation in which we are going to vaccinate lots of people who shouldn't be vaccinated in order to have a rule that says, Oh, you can't do this unless you were vaccinated. Right? And the problem is for people who have had COVID and shouldn't probably have the vaccine, how do you do that? How do you establish that you have COVID have had COVID and therefore don't need the vaccine and shouldn't be given it so then can get on an airplane or whatever else, whatever else they're going to attempt to regulate. And this is, this is a really bad situation because there are very good reasons that we should be parsing very finally who gets it and when and you If we're going to force everybody to take it just so that we can, you know, have a you know, the equivalent of a passport that lets you do various activities, then we're going to be engaging in a medical malpractice for the purpose of making rules simple Yep.
+
+Heather 1:05:16
+I've been just getting an idea on Tommy recapitulates file Amami how do we examine immature meme complexes the reference frames imperfect but let these suffice
+
+Bret 1:05:32
+got it you're reading it I can't see it.
+
+Heather 1:05:35
+So it's a play on an N you and I disagree over this but it's a play on an inaccurate saying from early developmental biology which is ontogeny recapitulates phylogeny. Which means that in development, you go through looking like all of your ancestors did at some point. And in fact, the use of that's I'd have to look at my lectures on on on this on, on on this threefold parallelism between anatomy development and and fossils that that was agassi I don't remember some some some important biologist from early pointed out this parallelism between these three things but the parallel ism does not mean that during say, a human beings development, you first look like a fish and then look like a reptile and then look like an early mammal and then look like an early primate and then, you know, it's it's not actually recapitulating phylogeny in that way, what you what you actually get is going from a more general form a form that sort of everyone in your lineage looks like early on into a more and more refined and precise form such that you end up looking like what you actually are. So that all aside the autonomy recapitulates file, amin development of memes recapitulates, the history of the memes is is the is the play on words here. And so I admit that I have a hard time not getting stuck in like, Yeah, but the original isn't true. So maybe this isn't true. You know, does the development of memes simply go from the general to the specific just like, development, you know, within in utero goes from the general to the specific? Or is there something? Is there something too on Tommy recapitulates by lamoni?
+
+Bret 1:07:28
+All right, you got it, you got to help me here because I see value not in you know, ontogeny does not recapitulate phylogeny. But there's some tendency to recap certain things. It's not a total error, right? It's just
+
+Heather 1:07:43
+it's a it's not a question with a lot of imprecision and
+
+Bret 1:07:47
+precision and, you know, stages can get deleted and stages can get inserted. And, you know, there are all sorts of caveats that you would put on it, but it's not like, you know, I think the problem is Hegel over drew this thing. Yeah. Drew, you know, he drew very fanciful drawings of embryonic forms.
+
+Heather 1:08:05
+I could find this out a little bit more.
+
+Bret 1:08:08
+But in any case, yeah. Can you give me so let's say, gill slits in an air breathing? vertebrate are an example of the pattern that lead whether it was a color agassi or thumbay, or maybe whoever it was, to, to advance that idea. Can you give me a Gil slit? Like example? In which, on Tommy Rico Pitts? recapitulates phylogeny? That's the question. But can you give me one example where it might be true so that I guess to me, I don't see any way that memes are going to function? In any regular sense by this principle? Precisely
+
+Heather 1:08:50
+because they're lamarckian precisely because they can jump history. They can they can jump from hilltop to hilltop.
+
+Bret 1:08:56
+Because cultural appropriation. Right? Everything?
+
+Heather 1:09:00
+Yeah, I'm not off the top of my head. I mean, I imagine I imagine there would be cases, but that those would be the exceptions. Right? Where the, the the meme brings with it the development of the meme tracks. It's its own history.
+
+Bret 1:09:17
+Yeah, okay.
+
+Heather 1:09:19
+But I've not been I don't spend a lot of time thinking about sort of meme phylogeny space,
+
+Bret 1:09:24
+if the question or wanting to get us some information on, you know, a couple examples that seem to show this pattern, I would actually be really interested in knowing if it were there. Yeah.
+
+Heather 1:09:36
+All right. Next question. Could a parasitic, parasitic sentience evolve and spread in a more sophisticated way as with mind viruses? And if so, might an encounter with one lever convincing impression of possession by an evil spirit?
+
+Bret 1:09:53
+Yeah, 100% and it happens all the time. I mean, no, totally. I mean, I really don't think it's even very much of a stretch The influence that the social media platforms are having on our collective cognition is parasitic consciousness at some level, right? So there is an explanation for what we all think, which is more garbagey than it should be because our conversation is being deranged by people who don't want us unfettered. Right? And so, that is that is parasitic. And I'm presumably, I mean, the irony is that it is deranging their conversations too. And so they are in an arms race with themselves, are they enriching themselves fast enough to compensate them to compensate for the loss of cognition that they are also experiencing? Maybe it's not perfectly the same, but but yes, I believe, you know, or, you know, you could imagine, imagine a cult, a cult, the diligently collected lots of information on its members. And that resulted in the elites in the cult being very well informed about what was going on. While those in the cult were ever less well informed about what was going on. Such a thing could be understood to be a parasitic consciousness riding on top of human consciousness. Right? Okay. somewhere in the neighborhood,
+
+Heather 1:11:19
+yeah. Because trust cannot be totally offloaded. What does trustworthiness look like with regard to institutions and individuals? Not sure what the preamble means there. There's just there's a there's a lot of I don't know what the because trust can't be totally offloaded part of this question. Yeah. Means What does trustworthiness trustworthiness look like with the Guardian institutions, individuals, those are two very different questions, and individuals and institutions. And I think they're the same actually.
+
+Unknown 1:12:02
+Um,
+
+Heather 1:12:06
+I guess my mind goes here to one of loyalty and to abiding by promised behaviors, previously promised behaviors. And yeah, to go back to where we started in this q&a, or what happened early with regard to evergreen, it was one of, you know, one of the things that was most shocking to me, that an institution that had pretended to be so immensely excited by what we were doing was so easily turned into a bastion of disloyalty. And you know, the individuals, some of them were surprising, some of them painful, you know, the individuals who betrayed us, but it was really the institution wide. Betrayal, that was shocking. And I thought, Why then would you ever imagine that institution had your back, given all of the indicators that we got, that such a thing could never happen there.
+
+Bret 1:13:13
+So I want to link a couple things together. One, that trustworthiness in both the individual and institutional case is a matter of the willingness and obligation to do the right thing, even when it is cost. And therefore, what we discovered at evergreen, which I think we knew, but it taught it in a way that was very powerful, is that you don't really know who's trustworthy until it's been tested. And that, that leads a lot of people to, you know, risk a lot on the basis of relationships, that they just don't know what they even mean. And so anyway, evergreen was a test and people broke both ways. Yes, they did, we saw lots of people who absolutely had an obligation to treat us better than they did and to protect, you know, frankly, to protect the educational opportunities of all of the students who weren't engaged in this nonsense. And they didn't they did the expedient,
+
+Heather 1:14:15
+and the reputations of the students who got degrees from there, that those degrees have now been devalued. And they didn't do anything to deserve that.
+
+Bret 1:14:23
+Right. So every whole bunch of people did the wrong thing. And that was the expedient thing. And Shame on them. And then a lot of people who, you know, the interesting thing was that it was actually a little bit hard to predict who was going to break Which way? Yeah, and, you know, many people impressed us now. It was many fewer on the faculty side, right. There were a couple people on the faculty side,
+
+Heather 1:14:46
+but it was more staff and a lot of students a lot of so many students.
+
+Bret 1:14:50
+So that was that was interesting, but yeah, and yeah, I think I think we're there you know, the obligation to do the right And to carry through on it, even when it's costly is the key. And you can see it in institutions and people, but only when there's been a test. Yep.
+
+Heather 1:15:12
+Okay, we're gonna go do a few more here because we haven't gotten to many of these yet. How do phenotypes and genotypes factor into tribalism, if at all? pS I chose 1999 as the dollar amount, because it's funny must be my phenotype. That line is funny. I'm not sure why.
+
+Bret 1:15:36
+Yeah, I don't know.
+
+Heather 1:15:38
+How to phenotypes and genotypes factor into tribalism. I mean, at some level, this this is, you know, to what degree to what degree is thing, or things like race and ethnicity underlying, like, actual race, you know, to the degree that it's actually about real underlying differences underlying tribal differences?
+
+Bret 1:15:58
+Well, I would I would start somewhere else. Okay. I would start with the Omega principle, which you can read about in our book, which
+
+Heather 1:16:06
+later, like, in months, if there's a very, there's a few in September.
+
+Bret 1:16:13
+We've also talked about it elsewhere, I guess. Yeah. We could point people to our Princeton talk, I guess.
+
+Heather 1:16:19
+Did we do I don't think we did omega they did we? I think
+
+Bret 1:16:21
+so. I don't recall. The genes are in the driver's seat. That's very unfortunate. But it's true. Right? culture is downstream of conine. So tribalism happens at the cultural level, but it is about genes. Right. Now, what that means is that the genes are trying to do what they do they use tribalism, which is superficial and cultural, often in order to do their bidding. But then there are these synthetic tribes that happen, like the blue team and the red team are obviously not genetic facts, right? People will argue that the red team is acting out of a genetic impulse. I don't think the evidence actually supports that very well. It doesn't mean that there aren't elements of it to.
+
+Heather 1:17:10
+But see, you're talking about like the handful of white nationalists, that sort of thing. Yeah,
+
+Bret 1:17:14
+yeah. Right. But you know, you can make the same argument about the blue team that the blue team at this point, yeah, surely did. You know, the Black Lives Matter contingent. So anyway, you can get tribal so tribalism is built by the genes to do genetic business, that the fact that tribalism exists, can then be applied to larger things that are not themselves genetic, it will be less stable, because the genetic underpinnings of it won't be there. But in general, the genes built in as a means to an end, you know, the genes. Let's put it this way the genes built the capacity for and the tendency to acquire language for the purpose of enhancing fitness. That is not a description of the limits of what you can use language for write. It is not to say that every time we open our mouths and say something that it is because we are trying to increase the number of genes in future generations, we can borrow the machinery for something else. And that is frequently happening with tribalism. But where it came from is surely genetic. Very good.
+
+Heather 1:18:23
+I've convinced my brother that the lab leak is a likely possibility. His wife is a nurse. However, I think healthcare workers are being brainwashed by the CDC. Why?
+
+Bret 1:18:36
+While they may be inadvertently brainwashed,
+
+Heather 1:18:39
+I would, I would be surprised if they were being targeted specifically. I mean, I don't I can be surprised by a lot at this point, though, right. But you know, just doesn't seem like a
+
+Bret 1:18:51
+let's put it this way. If you're a healthcare worker, you more or less have to sign up for the idea that best practices will be delivered through a centralized mechanism that tells you what to do, how to behave, all of these things. And if you decide, hey, I don't trust that centralized mechanism, you immediately have many problems. So in general, the system will select for people who will accept it, and B, people will accept it because there's no telling how they would navigate it, the situation in which they rejected it. So at some level, the CDC is a conduit that a bunch of people are plugged into as a here's what to think about this and here's how to behave in response and it's not surprising that this flows down that conduit
+
+Heather 1:19:33
+no And I mean, this is this is why you know, this, we need antitrust and medicine just like we need to have a trust everywhere, right? Like, you know why. Why should we encourage do is to continue existing and doing their amazing thing while MDS are also doing their thing because just having two different lines of inquiry with different with different biases and different approaches, is a corrective on the other and I would say say the same thing for like, you know, the birth industry like, you know, okay if you want an OB GYN and a hospital birth, cool. And if you you know, really think that you are you know likely to be at risk of like getting a C section because of some you know some history and you therefore want to go like midwife or doula or some combination route, it's beautiful that we actually have that as an option now that and still most insurances at least in the US seem to seem to tolerate that. And saying that you want one or the other is not an inherently rejection of the other. But having the choice is absolutely necessary. Because otherwise, you know, just just like you say, you know, a nurse, a nurse, and any cyst like I don't imagine, you know, how could you possibly deal with independence of thought with regard to anything going on COVID wise as a practicing nurse right now? I don't know how you do it. Like the the cognitive dissonance would be nearly impossible because you can't talk about that shit at work, I imagine. Yeah. I imagine.
+
+Bret 1:21:05
+Yeah, I can't see how you would Yeah.
+
+Heather 1:21:09
+You said that seeing doctor related question ish. You said that seeing doctors can still be okay, but for how long? With woke anti science reverse depression coming? What signals the end? Say the trusted GP refers you to a woke doctor do many nonwork plan to give up doctors or what? Yeah, I mean, I think I'm there are, there's definitely woowoo non scientific, you know, health care options out there. And some of those people probably actually have insight and they just don't know why they have it. And they've like stumbled into some little place where they can practice even though they don't have training. But I would say that, you know, the the main the main one that I've discovered is exactly this, that you know, increasingly med schools are woke and people trained in the in the main way are increasingly susceptible to this kind of thinking. And my you know, very tiny you know, anecdotal experience of the, you know, parallel way that doctors get trained and certified in the Western world right now, which is to say doctors of osteopathy, as opposed to doctors of medicine, but they have all the same prescribing privileges, you know, hospital privileges, all of this is that deos who spend you know, who who prioritize hands on work and spending more time with patients and doing me a really deep patient histories and really trying to understand root cause, including, like embryo logical clock causes are less likely to be susceptible to the you know, fashion wins of the moment.
+
+Bret 1:22:43
+Yeah, it doesn't target them for one thing. Yeah. Yeah.
+
+Heather 1:22:48
+I don't know how to read that. Did I read that? No. Yeah. Second, so
+
+Unknown 1:22:58
+we read it. Yeah. So Reddit user deflecting value.
+
+Heather 1:23:03
+Oh, okay. Got it. Yeah. So this is a deep fucking value, which Who? Zach, our 16 year old and producer reminds us is the Reddit user involved in one of them involving GameStop. So deep fucking value still likes the stock? If he's still in, I'm still in. The only difference between him and me Is he bought at $5 and I bought it $350. I'll be driving a Bentley soon, right.
+
+Unknown 1:23:33
+Congress hearing a congressional hearing. Two days ago, they included him. He's the CEO of Robin Hood and various other open. So this is very relevant right now.
+
+Heather 1:23:47
+Just know that Okay, so Zack, I assume no one can hear what Zach just said except for us. Yep. sec said that two days ago. There's a congressional hearing with this this guy and what the CEO of Robin Hood you said, and I don't know what, I didn't know that. So anyway, obviously, if you spent $70.70 times the amount as deep fucking value did on the stock, you're not going to be making quite as much.
+
+Bret 1:24:15
+Yeah. I don't want to touch this one with a bargepole. Yeah, because the dynamics in question are presumably unpredictable. So
+
+Heather 1:24:25
+my girlfriend just graduated with a bachelor's in public health. Any advice for those trying to pursue employment in the field? Even contact recent jobs appear hard to come by? I don't. I just don't. I got nothing. Yeah. Okay. Let's do. Let's do three more. I'm going to drop to the bottom for the last one. Brett, have you ever felt Stockholm Syndrome out of school? Found Stockholm
+
+Bret 1:24:55
+Syndrome I'm trying to parse that what would I have fallen in love with be out of school. Yes. I like being out of school. Is that the question? I don't know. I'm
+
+Heather 1:25:04
+not sure. Yeah, I
+
+Bret 1:25:06
+don't have I ever felt Stockholm Syndrome being out of school. You mean do I miss my captors in school?
+
+Heather 1:25:16
+Oh, maybe that. Yeah. Do you ever wished you were student again?
+
+Bret 1:25:19
+Wow, No, I do not wish I was a student again. I liked being a professor quite a bit, but only in the context where I had the freedom to arrange my teaching life so that I wasn't constantly tripping over things I'm not good at. Right, right. So I do miss that. But, you know, in general, no. And as I'm watching the academy go increasingly insane. There is a you know, there but for the grace of God go we
+
+Heather 1:25:49
+Yeah, totally. Can you impersonate Tim Jay Dylan?
+
+Bret 1:25:56
+Can I can I impersonate?
+
+Heather 1:25:58
+Yeah, I haven't. I've still never seen him. So I can't. No, no. No, the answer's no, no. And the final question is, are you funded in any way by gates?
+
+Bret 1:26:09
+I mean, how would we even know?
+
+Heather 1:26:13
+No, that's not a cool answer, dad,
+
+Bret 1:26:15
+that's a terrible answer. We are not funded in any way.
+
+Heather 1:26:18
+Like why would you even do that?
+
+Bret 1:26:21
+Because I was playing on the idea that he's got 10 roles in everything. But yeah. Now we are not we are certain that we are not funded in any way. Well, you know, who knows? Who knows who, you know, if somebody is Bill Gates, you know, watching Dark Horse and
+
+Heather 1:26:38
+Bill Gates, just give the 299 to ask us. $2.99 to ask us to impersonate Tim Dylan, of which YouTube will take 40%
+
+Bret 1:26:45
+right. There you go. Possible cannot rule it out. But no, no, in no way we know of.
+
+Heather 1:26:51
+Yeah. Okay, well, I don't I don't like how that ended. So I'm gonna try another one. I don't know what the best laid plans of my salmon means. But that's sounds good. Okay, here's my children have some of my very particular childhood idiosyncrasies that I've since grown out of, they've never seen my childhood behavior, yet. I see a lot of me and their actions. Does DNA echo some sort of a memory that passes through to children?
+
+Bret 1:27:20
+I would say you want to be super cautious questions, people are always leaping to the conclusion that DNA has to be the mechanism. And even there, they do this, when their own children manifest behavior that is reminiscent of their behavior, as is the case here. And I would just point out, yes, one way for this to travel outside of DNA would be for your children to have seen the behavior and picked it up. But another way it could happen is that the behavior in question could be the result of some combination of other characteristics you have that when put together cause the pattern in question. And your kids could have picked up those things independently. And they could have come together in the same way in those kids. And they would manifest the same thing. And so anyway, am I saying it's not DNA? I can't say that. But I can say you got to be imaginative about all of the ways in which behavioral patterns could be transmitted outside of the genome and rule them out before you leap to the conclusion that it's definitely DNA you're seeing. There are lots of other ways. I mean, even just, you know, I wish I had a good example. But even just your bodily idiosyncrasies, you know, the relative proportions of your limbs, for example, could result in you engaging the world in a particular way, which would result in you making similar discoveries which would result in you having a particular mindset that might be recognizable. And it might be reinforced by other things you do that, even though the initial behavior had been lost, the behaviors that were downstream of it in time have been retained, and they could reinforce there lots of ways it could happen. You know, DNA is cool and interesting, but we've been way too obsessed with it.
+
+Heather 1:29:03
+We are of course, also prone to confirmation bias. So we see the things that remind us of ourselves, when we are children and our children and we don't inherently notice all the things that they do that aren't like what we didn't. Yep. I was just thinking you're just the other day. I'm going to tell a tiny little story on you Zack here sack fell up the stairs, which is something I did a ton at his age. I was just like getting gangly and leggy and I would just like follow up the stairs all the time. I'm
+
+Bret 1:29:32
+the same way with ladders No, you're not No, no,
+
+Heather 1:29:37
+you're really not and I don't know and I said to him, I used to do that all the time. And yeah, I noticed it because other people don't report falling upstairs a lot as teenagers so you know is that is that because he's got something out like maybe he and I have similar lives limb length relative you know, to torso length and growth rates at this particular stage. In development something something something.
+
+Bret 1:30:01
+Yep, yep. Yep. Like that. Like that.
+
+Heather 1:30:04
+Okay. Um, I think we're at the end. That's it. I think we're all right. Let us remind every Zach almost just took us out. So we'll be back next week. Join us at my patreon to ask questions for private q&a now, for private q&a next Sunday. Not tomorrow. Join Brad at his Patreon. Check out the clips channel. Yeah, lots of other stuff.
+
+Bret 1:30:37
+Yeah, gauging awesomeness but not recreational awesome.
+
+Heather 1:30:42
+Engage in recreational awesomeness. All right,
+
+Bret 1:30:45
+but be aware of whether it's recreational awesomeness, or non recreational awesome.
+
+Heather 1:30:50
+Don't overthink your awesomeness.
+
+Bret 1:30:53
+Don't under thinking either. Alright. Are you talking to me? Alright, bye, everybody. We'll see you next time.
+
+This transcript was generated by https://otter.ai

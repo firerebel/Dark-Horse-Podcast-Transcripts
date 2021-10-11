@@ -1,0 +1,502 @@
+Bret 0:05
+Hey folks, welcome back to the Dark Horse podcast live stream q&a. 94 ready to go locked and loaded? All right, I was trying it out. I don't think it was right. It didn't feel right. But at least now we know.
+
+Heather 0:20
+Now we know. Now we know. Question number one, just today, I was accepted into a Ph. D program to develop my thoughts about belief systems and how beliefs evolve, how the meme evolves analogously to the gene and the interplay of gene and meat. I recently wrote an article about political beliefs. And I'd appreciate any comments about if you have time to read it. Also, thank you both for being critical, reasonable voices and tired of increasing madness. So I, it's hard to click on things with our new system. So it took me a little while and I haven't, I haven't spent any time with it. But I will, we will try to take a quick look at this. It sounds like a fascinating PhD program. And I'm curious what your what the department is that allows
+
+Bret 1:02
+you to connect describe the program again, like to develop I've
+
+Heather 1:05
+been accepted into a Ph. D. program to develop my thoughts about belief systems, and how beliefs evolve, how the meme evolves analogously to the gene and the interplay of gene and mean. So, you know, one thing you'll be interested in is the Omega principle, which we've talked about, and which we introduced formally in the first I think, chapter of our book, which will be out in a couple weeks, couple plus weeks. And so that, that provides a theoretical underpinning an introduction to a theoretical underpinning for why there is, you know, really more than analogy between ma'am and Jean.
+
+Bret 1:41
+Yes, and I will get relationship. So anyway, yes, it would be very interesting to see how that develops.
+
+Heather 1:49
+Okay, next question. Do we know exactly how long we have natural immunity after exposure to the Coronavirus? If you receive one of the vaccines during that period of immunity? Can the vaccine interfere with our immune system? That's two different questions. Do we know exactly how long we have natural immunity after exposure to the Coronavirus. We've talked about a couple of papers on here, one of which found eight months. But that wasn't that after eight months immunity starts to wane. It was that that was the point at which they stopped collecting the data. That was when it was time to do the analysis and publish. So at least eight months and really longer term than that we just don't have any evidence yet. We don't know that it fails at any particular moment and and at least eight months,
+
+Bret 2:33
+and it may never, right lifelong immunity is definitely on the table of possibilities here. And that that really comes in two flavors, right? There's lifelong immunity, where are we doing nothing that interfered with the virus and its evolution. And there's lifelong immunity that might not be lifelong, in light of what we drive the virus to become. So
+
+Heather 2:57
+depending on how strong selective pressures are on the virus, if we change it so much that natural immunity gotten to an earlier COVID may not be good against the later COVID.
+
+Bret 3:07
+Right. But here's the good news. The good news is that driving the adaptive evolution of COVID with very narrow vaccines is liable not to change the majority of the genome, right? To the extent that we remove the virus, right, we are applying pressure with respect to the spike protein. And because we are applying pressure with respect to the spike protein, we should expect rapid evolution of the spike protein genes. But that leaves the rest intact. So to the extent that there is much better immunity coming from a natural encounter with COVID than we get from vaccines, it is also liable to be durable, even in light of the evolution that we are driving because that evolution is narrowly focused. So I guess I would say so far, the indications are quite good on natural immunity, broad and long lasting.
+
+Heather 3:57
+Yep. And the second part of that question was, if we received one of the vaccines during that period of immunity having had COVID and recovered, can the vaccine interfere with our immune system? I would say other than the possibility of ADHD there's no reason to think this
+
+Bret 4:13
+Wow, I want to be real careful not to make too many assumptions here because for one thing there are if you've had COVID and you get vaccinated, and the vaccine is taken up by your cells as it will be and starts transcribing spike protein that is liable to trigger a fraction of the immunity from the initial COVID. So immune response, immune response, so it interacts but I you know, I think the bottom line is the systems in question are so complex, that it is impossible to rule anything out on principle The question is whether or not one should expect expect such a thing and
+
+Heather 4:59
+and even I mean, this is duration that you describe is not the vaccine interfering with the immune system is the immune system kicking into gear and responding to the expected and and desirable effect of the vaccine and thus maybe making the vaccines effects somewhat less strong and they wouldn't be absent the natural immunity because you've already got the natural immunity on board.
+
+Bret 5:21
+Well, yes, but there's also funny possibilities. So to the extent that a person has immunity from Raz natural immunity from an encounter with the virus, some of that natural immunity is able to target the spike proteins if you then produce the spike proteins themselves as the vaccines will induce a person to do then the immunity that one has developed to Coronavirus spike proteins will presumably attach to the spike proteins produced by the vaccine effect. So that could decrease immunity somewhat because it is occupying antibodies that would naturally contribute to resistance to a next encounter with the virus. But aren't
+
+Heather 6:07
+you even particularly susceptible in that enter in that early period?
+
+Bret 6:12
+Right. Except for I would say if I had to predict I would say the chances of that being a significant effect are low because even if those antibodies that you generate to the spike protein are occupied by this encounter with the vaccines, the fact that you will have reacted to other antigens means it's not your only defense. So my guess is, if you measure finally enough, you'll see it, but that it may not be a big effect. Good.
+
+Heather 6:39
+Yeah. And I always forget because it's not it's not doing it the same way that we have a question from discord this week. Let's see if I can pull it up. Let me ask another question. Have you answered it and then I'll pull it up since my phone is not playing with me.
+
+Heather 7:03
+Let's just pick this up since it's relevant to the one we just answered. Excuse me. If understanding of ad he is antibody dependent enhancement in SARS and SARS one and MERS infections has taken several years. Why is the medical community so confident that because he hasn't been observed yet in SARS COBie, two, that it won't be a factor. The argument seems to be that we would have seen it by now. But aren't we potentially only mutation away from the risk of ad?
+
+Bret 7:30
+Yes, I think we don't know much about this at all, especially in light of the fact that waning immunity is liable. If ADHD is a factor, waning immunity will be a contributing causal. I'm looking for an alternative for the word factor component. But let's put it this way, there's no basis for confidence that ad is not involved. One can say we haven't seen the signal yet. That's debatable, but it is at least a plausible position at the moment, but nobody can say we won't see it. Right. I think there is a rush to consensus around the safety and wisdom of our current vaccine based plan that causes people to say, Well, what answer would be desirable if we wanted to reassure people about this plan? What would the answer have to be? And so basically, all of the things that would lead to greater confidence that this was, in fact, the right plan, rather than a big mistake, or an inadequate plan? All of those things are being embraced with the idea that, that they will pull Tony Fauci later and say, well, the evidence changed on us rather than actually a wise person would have thought to worry about this. Right?
+
+Heather 8:51
+Exactly. Okay. discord question for this week, I found both a discord question and this fine cat. Wow. While you're answering that question.
+
+Bret 9:03
+He's sucking all the light out of the room.
+
+Heather 9:06
+He definitely absorbs light. How do we decide on which changes to make, if any, and systems that are sufficiently complex, there appears to be a real risk of decision paralysis when applying Chesterton's fence to strictly that's from the discord server?
+
+Bret 9:22
+Yeah, that's an interesting, interesting question. I would say, look, ideally speaking, the fact that a system is complex doesn't mean if you had infinite room or infinite iterations of a system, you could change one parameter at a time and measure the implications. The problem is when a system is one that you are depending on a system that you are actively using, you can't necessarily afford to wait and so there ought to be a bias in terms of minimizing change, right only changes that are really necessary, frankly, as exists in our Chanukah tradition, the reversibility of any change has to be built in. Because to the extent that you can be surprised by something you didn't think to predict, undoing is the key mechanism for rescuing the system from whatever change you've made. But the other answer to this is, and you know, in the book we talked about effectively navigating to a new and better, more functional system that accomplishes more of the things that we believe we want, than the system that we currently have rather than blueprinting. That system. But the point is that a properly built system is built so that it becomes anti fragile, right and antifragility, for those of you who aren't deeply familiar with the concept is a Nassim Taleb idea. And the idea is systems that become stronger when they are pushed around our anti fragile systems that break down when they are confronted with challenge are fragile. And to the extent that your system is well built, as our physiological systems are very well built, perturbations do not cause them to break down, right. So what you want is a system that when you make an error, is actually robust to that error and allows you to backtrack, what we have is a system in which because everything is new, and these things are combining in ways that we don't understand, I mean, what happens, you know, when you have democracy, interacting with an internet that allows all kinds of new interactions, huge degrees of anonymity, the discontinuity of where people are in spaces, they talk to each other, we don't know what the impacts of these things are. And so anyway, we have a system that is inherently fragile by the virtue of the fact that it is highly complex and highly novel, that is to say, not only have many of the pieces not stood the test of time, but their interactions have not stood the test of time. And so we constantly get surprised by things that we thought were safe, that turned out not to be, for example. So the basic idea would be you want a system that builds up out of robust parts, so that at the point that you do make an error, it becomes clear that you've made an error. And so you can undo that piece and continue on.
+
+Heather 12:27
+Great. Let's Next question. empiricism is rooted in experience, but 99% of people are outsourcing experience to institutions, their knowledge is rooted in trust, what do we do in the trust is gone.
+
+Bret 12:47
+You know, the matrix is a compromised film, because it was generated in part as an artistic expression, and in part as an exploitation of a market opportunity. But it does have a lot of elements in it that are useful, the idea that one does not unplug somebody from the matrix, after a certain age because they can't handle it is resonant, there's a degree to which you can get pretty far, especially in a system that's humming along a highly productive system. If you place your trust in things that you know, rule of thumb seem to work, you know, you can go a lifetime that way, if you're lucky if you live in the right era.
+
+Heather 13:28
+And the more complex the system, the more you have to do that de facto for some number of things, or else you're just mired in decision paralysis, right?
+
+Bret 13:37
+Exactly. It's very hard when you're navigating everything all a cart, but you know, if you know, in the 50s, if you signed up with the right company, you know, might be a good deal, it might be a bad deal, but the chances that it was going to carry you through your career and put a roof over your head and pay for your medical care. And all that was pretty high. What we've got now is a system in which trust is almost always misplaced in institutions, because all of the institutions have been captured and corrupted. And so in some sense, we're, we are watching a population lash about as a response to the fact that it's trust is constantly being breached, right is it's not being told otherwise, it's being told that you're being taken care of, and that those people are the enemy. But in fact, what people are discovering is, you can't trust any of this stuff because of you know, because the system is rigged in favor of things that not only aren't about you, but they're also not wise. They don't protect these structures. They don't protect the things that keep us safe. They can in fact, steer us directly into danger. So the basic problem is, people are beginning to discover that their trust has been misplaced. They don't know what to do with the fact that they need to trust something and many do not have the tools to substitute for institutions that are trustworthy, you know, first principle reasoning. Sounds great, but most people don't, it's not something you can start late in life, right. And even people who are good at it within a particular realm are often not good at it across a wide breadth of topics. So we got a problem. And really, you know, if we're gonna get through this, the key is going to be replacing those institutions with something that can be trusted and related and starting that project.
+
+Heather 15:31
+We are late. But it's only getting later.
+
+Bret 15:35
+Yes, it's later than we think.
+
+Heather 15:39
+Which federal government institutions do you believe are captured and no longer functioning? I would put the CDC FDI FDI. I would put the CDC FDA and FBI at the top of the list. Much love for you guys.
+
+Bret 15:54
+I'm trying to think of the ones that are meaningfully not kept.
+
+Heather 16:00
+Yeah, I think that's gonna be an easier it's gonna be a shorter list. Unfortunately, um, well, I guess that's not entirely fair, necessarily captured and no longer functioning is definitely an overlapping category, categorization scheme. But it's not totally overlapping. Those are two different, different things. captured, means inherently no longer functioning with the goal that it was established to do. But no longer function can happen a number of different ways beyond beyond being captured. You know, what, what does work? What federal government institutions are working at this point? Well, most of us had a rough time of it there. But it seems to be kind of functional.
+
+Bret 16:44
+Yeah, I mean, we've been making this point for decades. Now. You know, the, the post office as bad as it is, is is, you know, an amazingly functional system, the fact that you can, I don't exactly know what the price of a stamp is these days,
+
+Heather 17:00
+because they don't have the numbers on him anymore. I don't either, but I don't know. 49 cents,
+
+Bret 17:03
+right. But for something less than a buck, the fact that you can get a document across the country in a couple of days. It's incredible. It's incredible. Yeah, it's totally incredible. And you know, the attack that has always leveled against it, that it's not profitable. It's not supposed to be Yeah, the military is also not profitable, right? Lots of things aren't supposed to be that's not the right purpose. Right. But, you know, I guess, because it looks like a business because you walk through a door, you interact with somebody who seems like a retail employee in some ways, and they may charge you for a service, it feels like a business. But yeah, but it's not it's
+
+Heather 17:39
+not that whereas, you know, I'm thinking of like, the NSF, the NIH, the NEA, which is which is different, but in the same vein, you know, the National Endowment for the Arts, National Institutes for Health and its sub sub things, and National Science Foundation. All seem pretty broken. I know the least about the NDA at this point. There was a while there were i was i was actively thinking about them. It's been it's been years. But you know, they seem to be broken by some different, different captures. But the NSF and NIH are just it's it's market forces and perverse incentives all the way down. Yeah.
+
+Bret 18:18
+And I think what what you hear is us struggling with the fact that we pretty much know the answer to the question is the whole thing has been captured. It's and you know, for different purposes, some of them, I think, really nefarious, some of the mundane, but the, the basic point is because we weren't mining the store, and because there's a tremendous amount of stake in any federal project, at least from the point of view of, you know, simple, you know, the profit that can be made by simply corrupting an institution, pretty much the whole thing has been, has been captured.
+
+Heather 18:53
+This is not this is not answering the question, but one thing that occurs to me is I'm remembering. When we were living in Washington and teaching at evergreen, we often had students who either went into either summer internships or after graduating went into jobs with the State Department or Olympia, which is where evergreen was also the state capitol capital. It's not a word. It's not even a thing now, but it's also the state capitol on there for where the various state agencies are, and given what I was trying to teach. Anyway, I had a lot of students who have you know, eco crunchy students, you know, students interested in being a wilderness preserving wildness, preserving habitat, and it would have seemed like, Okay, well they're probably going to go into the Department of Fish and Wildlife, or the Doa it's partment of ecology. And for reasons having to do with, you know, mostly, I think not capture and mostly not even in compet bureaucratic and competence, although there's certainly some of that everywhere, there's bureaucracy. Some of the really most interesting work on preserving wild lands and doing mitigation stuff was in the D o t. The state do t that depart of transportation. And so you had these, you know, really capable and amazing scientists working with the department transportation. And a lot of the work going on it's probably of ecology was of no interest whatsoever. And so you know, this, this always struck me as sort of, unfortunately, a perfect version of you don't know where, where you might land that you could end up doing powerful and important work. And unfortunately, the constraints of the system that you're in are going to be big in deciding that and so you know, the name, the name over the door doesn't tell you much.
+
+Bret 20:34
+All right, I'm going to eat these words, okay.
+
+Heather 20:38
+When they satisfy you, when you do No, no, no, I nutritious I will not
+
+Bret 20:41
+enjoy eating them. The FA, I'm going to say if something stands a really good chance of not having been captured, it's going to be the FA and the reason is because this guy now maybe that it's captured and that the thing that captured it has an interest in planes been falling out of the sky? I don't know, but
+
+Heather 20:58
+or the reveal on it being captured would be so obvious. So immediate, that although obviously, the core competency just has to remain right. Okay, okay. Yeah, no, I think I mean, this could be this could be fun, to work to work on, I feel like there's got to be more and we're missing it. And hopefully the people who work in those in those places, and others who don't will, will write in or something and tell us what parts of the federal government or state governments are truly functional.
+
+Bret 21:28
+So I think the era in which we recapture government and again, serves the interests of the public should be heralded by the change of the name of the Department of Fish and Wildlife, to the Department of Fish and other wildlife. I would take that as a very positive sign that adults had again, taken charge and adults who had maybe taken some biology paid attention. You
+
+Heather 21:54
+know, I actually don't even I, I've sort of given up on that one. It's It's when people invoke animals and birds. Yeah, really gets under my skin. Yeah, no, there's no there's Luckily, there's no federal department of animals and birds.
+
+Bret 22:06
+yet. Yes, right. Yeah.
+
+Heather 22:12
+Okay. Definitely. Not doing what most people want us to do. Now we are trouble. That's, that's, I think people do kind of want us to do that. But we don't cause trouble for the sake of causing trouble doing now. No.
+
+Bret 22:29
+We just we, we have long argued for full wildlife status of fish.
+
+Heather 22:37
+And full animal status of birds,
+
+Bret 22:38
+right? And for the full fish status of tetrapods. So anyway, that tells you who you're dealing with. Interested
+
+Heather 22:48
+in truth, even at the expense of comprehensibility. Right, there it is, right. Okay. Meanwhile, Tesla, our cat is looking at me like the next question. All right. Sharing a critical realism lens of reality. Critical realism lens of reality is what unites traditional secular liberals like you with religious conservatives like me. When I Converse, philosophically, with my teenagers, secular friends, I Explained with Examples that they are living through a cultural shift that affirms its objective reality. Yeah, I I've never heard it called that critical realism. But I think this is exactly right. And, you know, part of why I shared some of the conversation that I had with this lovely woman that I met today. You know, she's she's not a conservative, but she's religious. And, you know, a religious, a woman of deep faith, who is also a liberal is is also, you know, is yet a third category here and there, there are plenty more. Right. But certainly, you know, traditional secular liberals and religious conservatives, both see a value in an effective need to discuss reality as it presents itself as opposed to reality, only in the terms of how it makes people feel.
+
+Bret 24:10
+Yeah. There's something I don't know, there's probably a principle here. I don't know the name of it. But there's something about the basic capacity to do a certain kind of thinking, that has nothing to do with what happens as you get to the super remote foundation of the thing. Right. So I think it's always been true, that great teachers are people who have that capacity at the point that they mature into a role where they can teach rather than people who did really well in teaching school. Right, right. That's not where you pick it up. Great psychologists to the extent that they exist, or not people who did really well in graduate school, and really understood the lesson. These are people who have a deep intuitive understanding of what makes people tick. And you know what ways they mislead themselves and those sorts of things,
+
+Heather 25:07
+manual therapists the same way. So you know, people who are excellent in physical therapy, or massage or strain counter strain therapy, or any of these manual therapy is like you. It's best if you know the science, but you also need to have the hands and you can't really learn that right and better you don't
+
+Bret 25:24
+I think the point is, if you take any of these, you know, great teachers, great psychologists, people who manipulate the body to positive effect, and you keep asking, why is it that way? Why is it that way, eventually get to some layer, where they're probably going to say something that isn't defensible, right? And the point is, what didn't really matter? Because you were asking them to do something founded in something that they didn't know really well, right. And so the point is, I actually I just think the difficulty in reasoning with people who come from a very different perspective, like a religious perspective, if you sit down next to somebody, right, and they impress you as intelligent and insightful and you know, careful, then, at the point, you discover that they come from a religious grounding that believes that all of this was set in motion by somebody who wanted it this way. How much does that actually impact right? As long as at the point that they get to what one actually does with the stuff and how one understands the facts of reality as they present themselves? You know, the point is, oh, it's interesting that you come from a very different perspective, you know, just because you could you know, how much does it matter if your neurosurgeon believes in pan psychism? Right? I happen to think Pan psychism is a nonsense idea.
+
+Heather 26:44
+Second, psychism is the idea that consciousness came before matter in the evolution Yeah,
+
+Bret 26:48
+it's deeply written into the matter at the level of particles or something like this. I think this is a completely indefensible idea that buys you absolutely nothing in terms of what it explains there's nothing
+
+Heather 26:59
+operational there. There's nothing your neuro your neuro, what do you say neuroscientists, your neurosurgeon or surgeon, neurosurgeon can do, right to operationalize that crazy belief such that you are then affected by it.
+
+Bret 27:09
+Right, exactly. And so I think that this is actually you know, and I will say, we know, some very smart people who believe in pan psychism, right? And the point is, yep, you can predict if that's for dinner table, conversation goes, we're gonna have an argument, right? But if that's not where dinner table conversation goes, it doesn't get in the way that much. And I frankly, this is the case, you know, it, I think it is especially true for scientific people have a scientific materialist worldview, like us. You know, we know that there is a place where the models that we are, depending on get evermore metaphorical because we just don't have the information about how it works yet. Right. Right. And we haven't figured it out. And so the point is, it doesn't make me uncomfortable, right? You can call those you know, you can call that faith or you can say it's a placeholder for, you know, a theory we don't yet have. But it's, you know, as long as you're sort of aware that there's a vagueness in your own understanding if there's a you know, a humility to your intellectual framework, such that it can accept that, yeah, some of its actually more literal than others, then the point is, you can get along with pretty much anybody who's fundamentally reasonable, and we should stop drawing lines that prevent us from talking to such folks.
+
+Heather 28:26
+Absolutely. Next question, is there any evolutionary advantage to not fitting in to where you were born? And then he says parentheses, for instance, having wanderlust Hmm.
+
+Bret 28:40
+Those are two different questions.
+
+Heather 28:41
+I think so too. Yeah. Yeah. Yeah. It's there's a parenthetical with IE, and I think that's it's different. Different two different questions.
+
+Bret 28:50
+Yeah. So the wanderlust one is easy, right? All of us are descended from people who found someplace that wasn't known before, who had some version of wanderlust, you know, in general, so
+
+Heather 29:02
+and some, most adventurers fail. But we are all the descendants of some successful adventurer Explorer.
+
+Bret 29:10
+Yeah, it's it's an expected value calculation, the fact that you know, 99 and 100 such people may fail and leave no descendants, if you know, the one leaves, you know, 10,000 times as many great, great, great grand offspring as they otherwise would have, because they found a new continent.
+
+Heather 29:28
+I think we ended up taking almost all the salmon stuff out of the book, much to my chagrin, but you know you you for many, many years and then we wrote into the book this this discussion of what you know, the Encore rank as the Pacific the genius of Pacific salmon. Includes coho and sockeye and silver salmon and silver, pink King or an address and, and similar Paris so in address meaning they are born in freshwater, they go out to the ocean As as very young fish, and they spend their adulthood there, and then they return to their Natal streams in order to reproduce and similar parents means they they mate once and die. And so at the point that they are actually returning to their Natal streams, as they transition from the saltwater back to the freshwater, there, their anatomy, physiology changes, so that they can make this last journey, but they actually stop eating, and they basically start digesting themselves. So these are very extraordinary fish that we have, you know, that are all over the Pacific Rim, I think. Yeah, but definitely, you know, the Pacific Northwest, and, you know, very few now down in California, because we've just, we've destroyed the rivers. But, you know, what, what you have talked about a lot is, you know, how is it that there isn't just one river with salmon in it? Well, right, yeah, count, you know, how is it that you know, as as extraordinary as symbol parity is that is to say, meeting once and then dying as opposed to Eero parody and what you have more opportunities for reproductive success later on, which is true for the vast majority of species, including us, of course, regardless of whether or not you actually only do it, once we are an eternal pair of species, and anatomy, this ability to move from freshwater into saltwater and being mandated there and then moving back really complex metabolically and physiologically, but you know, even more extreme, just as extraordinary, I would say is, how do they diversify, given that, if you go up the wrong stream, and you're the only one who did so then you're guaranteed to have an agenda, then you didn't know you don't run into any of your kind, because you went up some wrong stream. So
+
+Bret 31:36
+So what we have is, animals that make what we wrongly understand to be mistakes in both space and time, right, a certain number of fish end up in the wrong watershed has a certain number of fish in the wrong watershed and a certain number of fish come back a year early. And the point is, that means that if you imagine that there's an undiscovered watershed, right one that has no salmon in it, but they could support them, it gets discovered, if watershed has lost a salmon run due to landslide or something like that, then it gets recolonized. And so the point is, it's always it's always been a logical error to regard these as mistakes rather than Gamble's right, hey, that's salmon, they had gamble on the wrong gear or the wrong watershed has a very high likelihood of failure and a very low chance of a very extreme payoff. So anyway, yeah. And then so anyway, that's the one less part of the question. And the other part of the question,
+
+Heather 32:43
+is there any evolutionary advantage to not fitting in to where you were born? So I mean, of course, of course, we went to say, I did, went to salmon and anatomy. And that's an obvious way to split up these two questions. They could be the same thing, but they aren't inherently. And certainly, if you're salmon, they're not the same thing.
+
+Bret 33:00
+Right? I would just say they're even there even two questions in you're not fitting in component here. One is, does selection generate people who don't fit in? Because it makes sense to have such people? Yeah, and I would say actually left handedness I that's exactly where I was gonna go is is one of these we know, this is not an accident. This is something at low but not zero frequency. And there's
+
+Heather 33:26
+roughly 10% across all cultures, right? And we can make arguments and that number stands unlike the number for homosexuality, which has been invoked for so many decades.
+
+Bret 33:37
+Well, let's put it this way. There is a frequency of homosexuality that appears to be not stable, but there's always some frequency and so no, I
+
+Heather 33:47
+absolutely I was Cassandra percentage is going to be confusing. But that 10% number has been trotted out for decades as like, yep, left, lefties are about 10% of every population, every culture now and homosexuals are about 10%. And the number for homosexuals, it seems is probably a lot lower than that almost always present, but lower, whereas left handedness seems to show up at about 10% across cultures in cultures that don't mind it in cultures that demonize that you know, just regardless, it's it shows up
+
+Bret 34:16
+right? So anyway, I would argue both of these things are instance also colorblindness, all of these things are probably understood best at lineage level, right? Where the idea is you it's not that the left hander is that advantage. It's that the lineage that contains the left handers, the lineage that contains gay people, the lineage that contains colorblind people at some rate has an advantage over a lineage that simply doesn't. So those would be simple cases. Then there's the other case, which is what happens if normal is disrupted by something in your developmental environment. Is there an advantage to the kind of Misfit that you become when your developmental environment just went haywire? are something was off, right. And I would argue that this to that basically there is a contingency program or set of contingency programs, that takes frankly, many of the people that we revere, right are built of this stuff, they had some experience, they caused them not to see things in exactly the same way, as the people who had the more normal development developmental period. And then the point is, actually they're in a really good position to see things that we can't see. And they tell us these things, and it becomes, you know, it's passed on in, you know, in art or something, or, you know, obviously, you could divide that up much more finely, but, but basically, they have insight that comes from having traversed some other route to get here. And, you know, yes, selection very rarely gives up on creatures. It's not wired to do that, because it always makes sense. To the extent you've got a creature, what's the most you can make of this? And sometimes what you make of it is very positive.
+
+Heather 36:02
+Very good. Next question, did evolution select for delusion over scientific honesty, because of the resulting strength of will and its advantages for survival under domination? Thank you both stay the course.
+
+Bret 36:17
+Yeah, definitely selects for delusion for many reasons. You could argue that the self deception is delusion for the purpose of misleading others, right, mislead yourself first, and then mislead others? As Bob
+
+Heather 36:31
+Trevor's has explicitly
+
+Bret 36:32
+argued, yep. You could argue that long odds could be very demoralizing. And that actually, this goes right back to the question of explorers. If, you know, if somebody was there to explain to a salmon, do you realize how unlikely it is that you're going to find a river that doesn't have any salmon in it, and that there will be somebody there for you to mate with, and that you're going to have lots and lots of offspring
+
+Heather 36:58
+more than if the salmon had enough receptive language to understand what was being told,
+
+Bret 37:01
+really, you have to understand more than your average salmon better. But anyway, the point is, what causes you know, it's
+
+Heather 37:09
+too much tussles like I'm out of here, talking salmon
+
+Bret 37:12
+for an empty watershed. But But, you know, I've made the argument with respect to people who, in the Age of Exploration used to get in onto ships and sail over the horizon. Yeah, sailing over the horizon is a very perilous business, right? So if the expected value of sailing over the horizon is positive, because who knows, you might find a continent nobody knows about, right? But the chances that you as an individual are going to do anything other than you know, suffer from scurvy, because the oranges run out on the ship or whatever.
+
+Heather 37:51
+Yeah, die of scurvy death out at sea, right?
+
+Bret 37:54
+You're very likely to die and unpleasant death. If your choice is hey, you know, I wonder what's over that horizon. But the point is, you should be because expected value is what selection is going to care about, you should be inclined to do it, then the point is, maybe the story you tell yourself is, you know, I feel lucky about going over that horizon. I think this might work out, you know, yeah, I got a good feeling about this, right? I got a good feeling about this might be bullshit most of the time. But the point is, the person who does find the continent that nobody knows about, probably said it. And actually, you know what, I have a great example for this. Yeah.
+
+Heather 38:28
+So the, you know, the brain jeans, were doing that as they were heading east, from Asia, and ultimately into discovering the New World. Right? good feeling about this, and they didn't have to risk scurvy in the same way that people on ships did, although I'm honestly not sure what they did about vitamin C. Right? Like, and I don't know, I don't know what they were eating the guts of their vitamin C, I don't
+
+Bret 38:50
+know, maybe maybe containing certain kinds of fish meat of some kind. But anyway, the example I wanted to use, I've always wanted to run an experiment where we test to see what fraction of lottery winners have a system for picking numbers, my guess is the answer would be very high. Right? Not because the system works, but because if you believe that you have a system, you're likely to buy lottery tickets, because you think I have a good feeling about this. Yeah.
+
+Heather 39:24
+So the belief is correlated with buying a lot of lottery tickets and buying a lot of lottery tickets is correlated with having a greater chance of winning,
+
+Bret 39:31
+right, a greater chance, which is still the expected value is negative in that case, but nonetheless, from the point of view of who will have beaten the odds and right won the lottery. It will be people who thought they had a good chance of winning the lottery and turned out to have been right for the wrong reasons. Right,
+
+Heather 39:48
+exactly. Regarding creating classroom Magic Online, what if you did zoom calls but included audience response and participation and video With multiple seasons, like Jordan Peterson's playlist, it's not just a straight lecture. There's something interesting there. Oh, you
+
+Bret 40:08
+mean record a zoom call and then put it up for people who weren't present set the idea?
+
+Heather 40:13
+I think, and maybe, you know, coming back with, you know, with engagement with response more times than once. Yeah, yeah, I think there's something potentially valuable there. I must say, I feel even more than I did 18 months ago, and I was already very, very much in this camp that I really, I really want physical, embodied shared space with with with people. And I think that would be useful. And obviously, we're doing that to some degree here. Now, but to some degree, my resistance at the moment that seems to be growing to sort of online courses is, if I were going to do that sort of thing, I would so very much wanted to be in person. Yeah, but recognizing that, you know, we have we have audience all over the world. And there are a lot of people who would never, ever be able to be in the same place as we are unless we found ourselves where they are. So there are, there are pros and cons of each of the approaches that we have talked about, but that's an interesting one. Heather and Brett, my doctor is an MD PhD, who I trust nearly as much as YouTube. He called ivermectin, a, quote, very dirty drug, and quote with dangerous effects on the liver and kidneys. Could you react?
+
+Bret 41:32
+You know, it's possible he knows something that we don't. On the other hand, I will say the safety of ivermectin does not seem to be something that is widely disputed amongst people who have actually looked at it.
+
+Heather 41:45
+I would, I would say, I mean, there's there's plenty of references. I've never seen that. And I've now read a lot of the literature and the paper that I showed briefly in the first hour that will link to in the show notes, is a really good systematic review of what ivermectin is known to be effective in treating. And I guess that, you know, as a as an MD, Ph. D, who was not just smart, but also educated. You know, having a having a systematic review published in a reputable journal that says, you know, here's all of the ways that this has been effective, might be, might be a good way to resume a conversation.
+
+Bret 42:25
+There's that and I also believe in our substack piece on your substack, we linked to a review on the safety itself, get the safety profile,
+
+Heather 42:37
+and not like we did not separate I was thinking of making a different posts that just had all the references, and I have that and but you know, they're all hotlinked. And so it's not sort of standard scientific protocol, but they're all hotlinked in the appropriate place in the piece.
+
+Bret 42:52
+You might you might also ask this person, what it is that they are referring to, and I don't mean to impugn the credibility of this person. But one thing that is generally true, is it is pretty safe to say, a medication has an impact on the liver. And no doubt that exists for ivermectin to but the question is, is it a severe impact? some drugs have a much more severe impact than you would expect, like Tylenol. Tylenol is very dangerous to the liver, especially if consumed with alcohol. Yeah. So people see it as a safe drug because it's so common, but in fact, it has this hazard. But I guess the question is, is this person referring to evidence about liver toxicity? Is that evidence robust? Or is this person guessing about liver toxicity? Because if you push the drug far enough, that's what you'll find. And I will say that there has been, you know, in the review that discusses the toxicity question is the fact that people, it's especially easy, in fact, to make an error in dosage based on getting the decimal point in the wrong place that can cause an error of a factor of 10. Right, easily. And so the point is, those things have happened, people have overdosed themselves to a factor of 10. And the question is What happened? And I believe the reviews suggest that that has not caused serious harm. So does that mean you know, does that mean an error of a factor of 100 wouldn't cause serious harm? No, almost certainly it would and we don't know about long term implications.
+
+Heather 44:28
+Just as we discussed in the first our you know, vitamin, you take too much vitamin D, and you're going to have a problem. Certainly. You know, I I've seen a lot more evidence in the, in the scientific literature that Tylenol is dangerous at almost any dose than that ivermectin is. Yeah. I don't hear anyone using language like Tylenol is a quote, very dirty drug. Yeah. So that suggests a suggests that something else is going on to be using that kind have language here for a drug with decades and Billy decades of use and billions of doses Yeah, I think it's billions of
+
+Bret 45:08
+it is 4 billion in humans describe 4 billion times in humans as far as we know. I would also say the word dirty is prejudicial. It does sort of have a disgust that triggers the disgust circuits right so i wonder about I will also just say as much as Tylenol is a suspect drug because of the liver damage it is also knowledge that can be useful because to the extent that Tylenol is destructive of the liver it is actually quite safe with respect to other things right yeah and sets for example do heart damage Yeah. And the fact is damage to your liver isn't good but if there's one tissue where you can afford some damage yeah right you can afford liver damage Yeah, so make it good but
+
+Heather 45:52
+Tylenol Tylenol use in alcoholics is you know, May May shorten their lives quite a lot. If you feel the need to take Tylenol don't drink that day, or, you know, I don't know, I don't know how far out it goes. Like I've never I, you know, neither of us take hardly any of these things. And so haven't had to sort of figure out what feels safe, but certainly not the same day, right? I don't do not drink on the same day that you take Tylenol, right.
+
+Bret 46:14
+And there are cases in which people have taken too much Tylenol consistently over a comparatively brief period of time and done critical heart liver damage, so it's something to be very careful.
+
+Heather 46:29
+And other damage, like hearing loss.
+
+Bret 46:32
+Yeah. So actually hearing loss from Tylenol itself?
+
+Heather 46:37
+I believe so but I'm not certain of that.
+
+Bret 46:40
+Anyway, what I would say is, you know, you're left with a spectrum of hazards, right? From my perspective, I don't want to take Tylenol because of the liver damage. But I prefer to take Tylenol over Advil, for example, because I'm in a much better position to tolerate liver damage. Since I'm not a heavy drinker, my liver is in good shape. But heart damage, you know, it's hard to tell how much it will actually reduce lifespan, but it very plausibly will.
+
+Heather 47:11
+And for children, for instance, who can't take aspirin because of it as it raised syndrome, surprise syndrome. You know, for those hopefully very rare occasions when pain relief is called for Tylenol is a is a reasonable, reasonable approach. Yep. Yeah. Okay. Next question. Same sort of topic. Could an owl deliver mail? Thank you for your clarity and insights each week.
+
+Bret 47:39
+Could an owl deliver mail?
+
+Heather 47:45
+I'd certainly like to know that owl. I would. I would very much like to be in the company of that Owl and hang out, maybe have some drinks, but no Tylenol with that owl.
+
+Bret 47:53
+If you're shipping rodents, I wouldn't recommend.
+
+Heather 47:57
+That's probably true. It's like when the chewy box comes to the door and it gets dragged inside. And then we leave and leave the four carnivor and three Coronavirus, and we now live with lone inside with a well wrapped box of cat food or dog food. Not smart.
+
+Bret 48:14
+No. It was not nice either. Yeah, I don't know. I would not. I would not bet on owls being a highly effective avian form of mail delivery.
+
+Heather 48:26
+Yeah, I would think pigeons would be a better choice. Yeah. Give them they have a history of collaboration with humans in this regard.
+
+Bret 48:31
+Yeah, I mean, let's put it this way. If you're actually also put up with it. If you're starting a business, and you're thinking of an exploratory project, I would say start with email.
+
+Heather 48:44
+I was sending email and delivering email. I see.
+
+Bret 48:50
+I don't know. I'm not sure what the question means. Are you sure you read it correctly?
+
+Heather 48:53
+No. I mean, it's I think it's a reference to Harry Potter. Right. All right. Yeah. And you know, I think the owl is owls. I'm not an expert on owls at all. But all the species I've thought about are just there. It's a glorious clade. And I believe owl is monophyletic. Yeah, like single.
+
+Bret 49:10
+Like nocturnal. Except for the pig meow.
+
+Heather 49:14
+It's really it's a different thing.
+
+Bret 49:15
+It's a different religion. No, no, it's an owl. But it's
+
+Heather 49:20
+the single clade of of basically wrapped around things that does not share history with hawks or Eagles or vultures. And then vultures are two different things two new world New World vultures and Old World vultures. So although vultures are storks, I think where's that new world vultures?
+
+Bret 49:39
+Wow, do I not know Yeah, no, it's winter.
+
+Heather 49:41
+It's one of the vulture clades that are actually most closely related to storks. So now we're far afield from owls but all right, that was I may think I think Rowling put owls in there because it makes an amazing sort of romantic vision but no, I don't think that actually be very good. All right.
+
+Bret 49:56
+I mean, I wonder if the person if this is a rare Prince Harry Potter. Is the person aware that Harry Potter has been exposed as fake news?
+
+Heather 50:07
+I probably not. Well, now, you know, yep. Okay. There are links, and it's very hard for me to click on links, unfortunately. What is the evidence that masks work? Why are in 95 masks for the general population? I think there's a word missing here. Why are the 95 brands for the general population recommended if the standard masks aren't fully effective?
+
+Bret 50:41
+I will say we were early on recommending masks. And the evidence as one attempts to sort it out is less and less compelling, that masks are effective, why they are not effective or whether they are effective and it's difficult to demonstrate is a little bit unclear. But I will say a number of people have looked into this question carefully and it is it is difficult to devant demonstrate their effectiveness. So that raises questions about you know, maybe it makes sense to mandate them in circumstances where they are most likely to be effective. But there are also cases in which we seem to be recommending them for reasons that are more easily explained as a desire to drive people towards compliance with official dictates rather than because there's a good medical reason for it. And again, I would just point out in our defense, we were early on masks we were wearing masks before other people were before they were recommended. And so this is a change in position based on the fact that unfortunately the evidence just doesn't support their their effectiveness now and 95 masks are likely to be more effective
+
+Heather 52:09
+actually there's another question I don't remember if this is from the same person but it's highly relevant here the mask effective percentage numbers on the CDC slides question was that in 95 how protective are the 95 thanks I don't know like I this is this is the problem with you know even when we are allowed in briefly to see or the official presentation so often the relevant information is missing Yeah, I don't know. Yeah, but I am I thought you were continuing to go
+
+Bret 52:36
+No, I'm My point is just look it would be great if masks for highly effective maybe they're more effective than we are capable of easily demonstrating for some reason though, the more people look for their effectiveness and don't find it the less likely that is there are distinctions between types of masks, they're also distinctions. You know, so the distinction between efficacy and effectiveness is significant here. It is certainly true that some masks are easier to wear than others and therefore to the extent that there's any efficacy at all a mask that you're liable to have with you liable to be able to put on quickly. might be more positive even if under controlled conditions is less effective. But
+
+Heather 53:19
+exactly I mean, I saw a guy today with a long beard who had a mask on and you know, I was like okay, you're being forced to wear this mask but you know, he didn't look happy to have it on but you know, how effective is it at that you can't get it under your under your chin if you know if it's blocked by your beard and like, okay, we need if they're effective at all we need masks that work for various faces and and and facial hairs. Yep.
+
+Bret 53:46
+And you know, really what we need is a scientific system that is capable of addressing questions without anybody putting their thumb on the scale so that we could have good information on what works and you know, no amount of wanting masks to work is going to change whether they are or aren't effective, right? So what we need to know I mean, look, you know, at the beginning of this think back to when we thought surfaces were going to be a source of transmission and the fact is it radically changed our behavior and then I think we've forgotten to be grateful that that didn't turn out to be a major mode of transmission and that we could forego a lot of the you know, feeling paranoid about every surface around shield. You know, and so the point is, that was information and it upgraded our well being the information that the outdoor environment was safe, upgraded our well being and the problem is it's getting hard to trust the information because frankly, something you know, something either was completely inept or wanted us to be afraid of the outside even though it wasn't dangerous at the beginning of this. Yep. And, and we were not in a good position. And now
+
+Heather 54:58
+I will say so you say you forgot we gotten to be grateful for not having to be so careful about surfaces now. But one, one good thing that emerged from that was we got a bunch of little pump bottles, little spray bottles that we filled with mostly basically 190 proof alcohol. And just a little bit of putting in like passando now but it could be you know, any essential oil just so it doesn't smell like alcohol. And having you know, I have one in my purse, I have one in my backpack I have, we have them in the car in the truck. And when you get back, for instance, when you get back into the car, from what are you been doing, just spray your hands, right, and you know, just being able to immediately clean your hands because we do touch our faces. And that that, you know, there are other things in the universe besides ours, Coby to right, right that do transmit that way. And being able to as soon as you return to a place that is your own, immediately clean your hands. So you don't have to worry about the toilet that you flushed or the doorknob that you turned or the hand that you shuck is, is really useful. And you know, that's different than spraying yourself down with these antibacterial products. Why? Because the antibacterial products are a selective force to create a bacterial resistance. Yep, right. And a generic, not generic, a generalized broad spectrum thing like alcohol, which just tends to think kill things on contact is not going to provide the same selective force. So that you can obviously generalize that, that analysis to other things as well. But in general, if you're trying to kill something, you'd rather go after it with something as broad as possible, that it can't evade and thus create a selective force for it to become ever more targeted and ever more dangerous. Yep,
+
+Bret 56:53
+absolutely. So lesson we will, at some point, at some point learn
+
+Heather 56:57
+we as a society,
+
+Bret 56:59
+yeah, the idea that, you know, you can think you're about to outwit something evolutionarily, and if you start pushing it around in the wrong way will prove you wrong, but that they're actually approaches that don't have this problem. And actually, you know, it's probably not something we need to go into here. But there is a question about whether or not alcohol will select for, let's say, extremophiles among bacteria, or viruses. But my guess would be even if it does, what happens is it's part of a trade off. And those files now have other fragilities, right, they are not favored when in the absence of alcohol, which is the majority of the landscape. And so they will quickly evolve back to Yeah, it'll be it'll be different. It's like a system, it's
+
+Heather 57:42
+like temperature, you're elevating your temperature, which we call fever as a way to evade some pathogens that have narrow tolerances, or going well outside the, the pH bounds of the normal tolerances, either highly basic or highly acidic, will tend to work and be a more permanent solution than having a very narrowly targeted thing that goes after you know, one particular aspect of the organism you're aiming for.
+
+Bret 58:09
+Right? In fact, it's a big part of why the stomach is so acidic is that things that are evolved for a much less acidic environment don't do well there and so it basically sterilizes as it digests, yeah.
+
+Heather 58:25
+Let's do How long have we been at sec? How exactly so Okay, I've got four more questions chosen. Of course, lots more that we haven't gotten to but Oh, wait, here's one that I wasn't going to get to. Thank you. That corrective lens you read. Heather got me in the feelers we're in New Zealand lockdown. Yeah. Okay, so I've got four questions here.
+
+Bret 58:49
+lockdown. Summer is coming.
+
+Heather 58:53
+Yeah. Yeah. Summer is coming. It must feel a long way off though. Because they've, you know, they've still got three more weeks of winter yet. And then yeah,
+
+Bret 59:01
+spring is going springs pretty good. I mean, you got to admit, yeah, good things better than spring. Like summer, summer is great. But after winter, spring. Really well said thank you.
+
+Heather 59:18
+This our long evolutionary history as hunter gatherers speak to the necessity of meat in our diet, and therefore debunk veganism.
+
+Bret 59:27
+debunk is not the right word. That's right. Let's put it this way. veganism is difficult to do to do well, right. It's very possible. It's very easy to be malnourished that way.
+
+Heather 59:39
+Yeah. Especially raw food vegans. And we actually address this specifically in the book and maybe even in the section that we read, but raw, uncooked food, it's harder for your body to extract what it needs from it. And then, and then entirely non animal based food doesn't have as much of some of the things that your body needs.
+
+Bret 1:00:00
+Yeah, so I mean, I think we've more or less gotten there it's it can be done. It's a stretch meet solves a lot of problems. properly cooked meat solves problems. Yeah, you know liberates a lot of a lot of nutrition.
+
+Heather 1:00:15
+And you know, we don't have you know, if it would debunk veganism if veganism were the hypothesis that we were evolved to be vegan, right? Like, all you have to do really is look at our gut morphology, our gut morphology and our teeth, you can look at either of those things, and you see that we are not dedicated grazers or full of ours, or even you know, including frugivores like, you know, we have guts that look like an intermediate between those of dedicated carnivores and those dedicated herbivores and the fact is we were evolved to do both. And the same thing with the teeth we've got both. So plant plant sharing teeth and meat grinding teeth, or maybe shearing and grinding belong in the other words there, I don't know, but we've got we've got canines that Pierce and and molars that grind and
+
+Bret 1:01:03
+Yep, and no sagittal crest. So we have reduced musculature we have all sorts of modifications that speak to a
+
+Heather 1:01:14
+well but the sagittal crest can go both ways, because gorillas have a big sagittal crest as do hyenas and gorillas are dedicated full of ours and is dedicated carnivores so you know, you want a big Master, which is what the sagittal crest attaches to. If you're doing a lot of chewing of leaves or if you're doing a lot of ripping of meat off of
+
+Bret 1:01:30
+whatever you're doing that requires the exertion of a lot of force. Yeah, so
+
+Heather 1:01:33
+that that that one can go either way. But yeah, dentition and got morphology. And you know, there's there's a lot more besides that, but those are two easy ones to point to you know,
+
+Heather 1:01:49
+this may be two questions. I can't tell you. new political party based on integrity. Absence of capture, Vikram, you may have to help me read this one. The second part of the question which reads like a question is to sociopathy or psychopathy is roll into terror and totalitarianism need to be understood. The first part of the question I'm not sure I understand. I think, I think there may be it may be too compressed for me to be making sense of it.
+
+Bret 1:02:18
+Okay. I would say I don't think we've got sociopathy and psychopathy, right? For one thing, I don't think we have a clean distinction between them. And so we sort of take psychopathy as extreme sociopathy.
+
+Heather 1:02:31
+And that is the description and some, I don't think it's a book in this room. But I think that has been that has been a description by some clinicians. Yep.
+
+Bret 1:02:43
+I would just say, I think those who write fiction that is compelling, understand some things about sociopathy, that we, at the level of our analysis do not yet except right which is that sociopathy when we say someone is Associate path, we mean that they are an obligate sociopath, and that facultative sociopathy is actually extremely common. obligate sociopathy is common enough, but much less common. And psychopathy is some malignant form. Or maybe it's a form that is reserved, it could be a lineage level adaptation reserved for very extreme circumstances. In other words, do you need brutal killers in your military force? You know, obviously, every soldier doesn't need to be a psychopath. But is there a value to having them available for some operations or something like that? But anyway, the the argument I've made before is the problem with sociopathy is that it is directed arbitrarily in our system and that ancestrally it would have been directed you know that a person you know a person behaves sociopathically on a battlefield you're shooting at somebody you don't know hoping to kill them, right? That's arguably sociopathic. And the point is it doesn't mean you don't come home and you know love your family and your friends and and all of that and so we don't we don't properly make eye contact with the fact that we've sent somebody to do a job that requires them to be sociopathic in the context of that job. So I'm not sure where that leaves us but but basically I don't think we've got the taxonomy right which means it's very hard to take the taxonomy we have and properly apply it because we are offended by phenomena that we all understand like the mob boss who is thoroughly devoted to his family and orders, you know, murders as if it's just a fact of life.
+
+Heather 1:04:57
+Yep. Okay, penultimate question. Do you have any updates on when you'll publish info about your effective volume model? Or can you point me to some sources? Thank you so much. So this with regard to use specifically set effective volume model, I will say before you answer that there is that, again, this this hospital should let the outside in piece that I posted on my substack has cites some of the literature on precisely a larger volume rooms are associated with better outcomes, specifically with regard to respiratory infections. Yeah, so, I would say that's from Dec. But most of that research, I think, is decades old.
+
+Bret 1:05:34
+Yeah, I don't think we have any ability to do the work to publish a magazine and publish the model. But we don't have the ability to test the model. But I think we have learned a great deal within the context of COVID. About basically, the effective volume model says that if you take if you measure a space, right, that space will saturate with aerosolized. COVID at some rate, and probably different variants will cause it to saturate at different rates. That same room becomes effectively larger. If you open a window, it becomes effectively larger than that if you open two windows on two different walls, and you get cross flow, it becomes even larger if you have a fan on the ceiling. Right? Yeah.
+
+Heather 1:06:19
+So sorry, Zack, if you just want to put on my screen for a moment, this again from this hospital schlepped the outside in the substack. Post, I have here, reference to this 2007 study out of Korea, which was comparing basically hospital rooms that were older. To those, I think this is the one natural ventilation for the prevention of airborne contagion, which, again, it's not using the same language we were using, but they specifically are looking at at some of the so you can go there to find so but yeah, before,
+
+Bret 1:06:52
+but I think the thing is, you know, it is a guideline, but it's an you know, it's an intuitive guideline, yeah, right. You can look at the volume of room without measuring anything you can figure out, you know, there's a restaurant that we have been to a number of times that has an outdoor space that we prefer, it's got an indoor space, but one of the walls of the indoor space is like a garage door that opens up, which effectively increases the volume of the entire building. And it especially increases the volume of the portion of the building right next to that wall.
+
+Heather 1:07:26
+Presumably in the winter, that door isn't open. But right, we've been seated inside, at least once during the summer when it was just awful outside, which again, is our preference. But that door was open, which meant that this is you know, this is not an enclosed space in the same way it would be if there was just a door that was occasionally open when people came in,
+
+Bret 1:07:41
+right. And it's somewhere intermediate between an outdoor you know,
+
+Heather 1:07:45
+and that space actually also happens to have very, it's got like lofts or ceiling ceilings. So you know, it's really quite the opposite of like an intimate little French booster or something which you know, there are moments when you might want that when it gives a sense of community, even among the strangers with whom you're sitting almost cheek to gel. But that's sitting cheek to jowl with strangers. And, you know, being able to overhear them. That comes with potential respiratory costs for sure.
+
+Bret 1:08:07
+Yeah, absolutely. And then, you know, there are other questions about how quickly people are passing through a space,
+
+Heather 1:08:14
+how long they spend there, right? So anyway,
+
+Bret 1:08:17
+yeah, no intent to publish an explicit model. But basically, as an intuitive guide, it's not that hard to figure out, you know, what works in the positive direction, what works in a negative direction, and you know, what the magnitudes might be like, yeah.
+
+Heather 1:08:31
+And that that piece that I showed is available publicly. And actually, I think I just, I just posted the audio version of it, which the audio transcripts of my substack pieces are only for paying subscribers, but I was actually thinking already that I would make that one publicly available, because I think it is really so relevant. Right now that sort of just getting in the habit of thinking in terms of like, what are the values of being outside? What are the values of being in larger rooms? And so that is exactly what that piece explores. Yep.
+
+Bret 1:08:59
+And I'm trying not to lean too heavily on the fact that the season that shall not be named is coming,
+
+Heather 1:09:06
+thank you for not relying too heavily on that. I'm
+
+Bret 1:09:08
+not relying too heavily on that. But I would point out that whether or not that season is named, it is coming, and it is going to have all kinds of effects on what kinds of volumes the spaces we are going to be in will have and therefore, let's not kid ourselves, and let's get good at this and make it better than it might otherwise
+
+Heather 1:09:32
+be. Yeah. Okay, final question for today. Do you think it would be a good idea to relocate to a rural less populated area, if authoritarian measures increase domestically or even to a different country?
+
+Bret 1:09:45
+Yes. I mean, you know, it's, it's, it's built into your question. Yeah. You know, really literally just talking about this. You've got to think you got to think about the parameters right? Somehow You, we don't know what authoritarianism will look like it. You know, it could be surgical authoritarianism that, yes, limits freedoms greatly but leaves us more or less intact it could be that the authoritarianism itself causes a breakdown in social order as a certain fraction of the population refuses to accept it. So anyway, in thinking about where you might go think about what various scenarios might look like and how robust such a thing might be, I would say, among the things that you should think very carefully about is how difficult will it be to generate a meaningful community where you're headed, right, especially if you're coming in as an outsider who doesn't know anybody. It's very important that if the outside world stops making sense, that the people immediately around you make as much sense as possible. And it's, you know, it's not it shouldn't be a second thought, or an afterthought.
+
+Heather 1:11:02
+Yeah. Very good. Well, I think I think that brings us to the end of the q&a for today of q&a number 94. So, in conclusion, we will say, as we always do encourage you to join our one or both of our Patreon so tomorrow is the private q&a on my Patreon and 11am. Pacific, which is intimate enough that we actually ended up being able to engage with the chat. I believe that means that next weekend will be your conversations on your Patreon you can ask quest logistical questions at Dark Horse moderator@gmail.com get things like Goliath shirts at store that dark horse podcast.org and consider you know share this if you like it, like it if you like it, subscribe to the channels if you like it. There are four of them to on YouTube to on Odyssey this one that you're watching Brett Weinstein's, my channel and then Dark Horse podcast clips, which are amazing clips guy takes things each week and and shortens them and they're, you know, more easily digestible because they don't last for over an hour. And so also if there's anything from today that you thought was particularly clip worthy, you can go ahead and send that suggestion to darcars moderator@gmail.com or leave it as a comment and he usually sees those although no guarantees, we tend to get a lot of comments. Anything else to say before signing up
+
+Bret 1:12:27
+and haircuts? Alright, I'll go get a haircut I'll take care of I'm sorry, that was I was hoping somebody would send one but
+
+Heather 1:12:36
+before we see you next week, I think it is likely that both of us may have gotten haircuts. In the meantime, be good to the ones you love and eat good food and get outside
+
+Bret 1:12:46
+for a while, everybody
+
+This transcript was generated by https://otter.ai

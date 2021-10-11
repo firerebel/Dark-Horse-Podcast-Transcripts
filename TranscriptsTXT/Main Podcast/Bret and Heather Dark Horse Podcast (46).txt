@@ -1,0 +1,397 @@
+Bret 0:19
+Hey folks, welcome to the Dark Horse pod cast live stream number 47 640 46. It's 46. I'm jumping the gun on 47. That explains why you have said nothing about this episode being a prime number, because 46, of course, is not a prime number. It's not now that 47 is right. Yeah, that's what I was thinking. All right, well, now that we've gotten that important piece of mathematical business out of the way, it is time to get to the state of civilization, which I have to tell you folks, it's not good. We've got trouble.
+
+Heather 0:56
+I think first though, we should note that here in Portland, Oregon, we can breathe again. It was it was a long time coming. And for those of you who weren't actually here in the Pacific Northwest, you may have thought we were being engaged in little hyperbole, it was bad. But you know, everyone's experienced bad error before, but it was really unprecedent in our experience, and we've been in, we've been near fires before. So you know, we actually maxed out the Aqa scale, we were above 500 for a while, and it barely dipped out of hazardous for almost 10 days. And two nights ago, storm came through which before it started pouring involved lightning, which of course is terrifying that more fires would be started. But it rains sufficiently that we are now breathing easy for the first time in almost two weeks, week and a half. And it feels terrific.
+
+Bret 1:49
+It does it feels spectacular. And actually I can even see the sun shining out the window, which is it's new. We got little glimmers of it before but with the there's actual sun peeking through the trees,
+
+Heather 2:01
+actual shadows that aren't that horrifying, sort of apocalyptic yellow. Yeah, the
+
+Bret 2:05
+yellow is, at least for the moment, gone. I will say I was thinking back and I don't know for sure if this is right. But I think that this smoke plus COVID thing caused me to spend more time in our house not going anywhere than any other point in my life other than maybe if I was really sick at some point, maybe I spent that much time not going anywhere. But it was just really oppressive. Yeah,
+
+Heather 2:34
+I think what you said to me was a little bit more clear than that, I think. Because what you just said would suggest that you're talking about since March and obviously the lockdowns in March were tough. But really, it was this 10 days of being locked in our home. And what you had said to me was, you couldn't even go outside and isn't is this maybe the longest period of time that either of us have practically never been outside, you know, we went to the mailbox, I tried to take the dog on a couple of walks, you know, fully messed up, but it was horrifying and oppressive. So this really did lock us down in a way that I think gave me at least a little bit more empathy we talked about during the early COVID lockdowns of how hard this would be for people living in cramped apartment quarters, for instance, with no real outside to go to but even even even then, there is presumably usually someplace that you can go even if it's not even if it's not nature, you know, even if it's just an urban scape, and there was really nothing to be done. Yeah,
+
+Bret 3:32
+yeah. Now that that is exactly what I mean. So it's like the combination of you couldn't go somewhere, there was no indoor space that was being filtered to go to go to living because of COVID. Right. And, you know, we've been talking a lot about COVID. And the fact that the loophole in the logic of COVID is that the outdoors are safe, and so you should drink it in. And then this suddenly descended on us. So actually, in our, in our household, we were trying to reconstruct exactly when this had happened. And I had gone out on a bike ride. And I hit a bridge over the Willamette, and I could see this very unnatural cloud, and it was perceptibly moving our direction. So I contacted you and said, you know, probably ought to close the windows because it looks like smoke is coming. But I had no idea that we were really talking about more than a week.
+
+Heather 4:21
+That was 12 days ago, yeah, 12 days
+
+Bret 4:23
+ago. And so anyway, the degree to which it has affected the ability to think and you know, I, you and I have talked about whether the smoke itself was having some impact or whether that's just simply you know, time seemed to grind to a halt where it had been operating very bizarrely since COVID. You know, we're months pass and you don't realize where they've gone. In this case. It just seemed like it stopped.
+
+Heather 4:49
+Yeah, no, but I do think I said something about smoke toxicity on the last show not we know when those specificity implied. I don't know what what the particular matter or other things in the smoke might actually be doing. But you know, in addition, the new and extreme technical troubles that we were having with the podcast with the live stream have since we were able to open up the windows yesterday and get airflow largely disappeared,
+
+Bret 5:16
+right, which raises. So I know you all are probably not that interested in the tech underlying this. But I do think what we have been facing on this front raises very interesting questions, because we did have this amazing set of failures. And after what must have been 25 hours of my time, in addition to all of the time that Zach spent troubleshooting, we did narrow it down quite a bit. And it turns out, we were right, it was interference. Now where the interference comes from, we don't know. But the interesting thing is, it seems to affect not every single device in the house that uses HDMI, but only devices that use HDMI, including our television, which uses a little Chromecast device into allow us to get HBO without subscribing to cable. So something about HDR HDMI has left us vulnerable. So if you aren't, if you are not seeing glitches right now, we are actually utilizing HDMI, as Heather points out with the windows open. After more than 12 days, things seem to be better, which raises the specter of the possibility that something like radon, which has been captured in the house, which ordinarily would be vented at some rate might be emitting something which wouldn't be
+
+Heather 6:37
+collected wouldn't be captured by the EPA filters to all house filters that are otherwise taken care of whatever particulate stuff might be coming in.
+
+Bret 6:44
+Exactly. It's not particulate. And so anyway, we're testing that possibility. It takes a little time to get a long enough test to know but the degree to which even our house was a little bit freaked out by the degree of lockdown was interesting.
+
+Heather 7:00
+Yep. And we're still we're still recovering. But, but here we are. And we're gonna start with with Ruth Bader Ginsburg,
+
+Bret 7:10
+I think we should. Yeah.
+
+Heather 7:12
+So if I may, I just I found a number of things to to say about her to read directly, both from an obituary that was just published in the New York Times. She died yesterday. She was a Supreme Court justice, of course, and also from one of her most famous cases, the opinion that she wrote, as the majority opinion in one of her most famous cases. And I want to read a little bit from the dissent as well in that case for us to talk about. So first, just for those who maybe have been under a rock for a little while. This from yesterday's 20 yesterday's New York Times obituary, which is titled Ruth Bader Ginsburg Supreme Court's feminist icon is dead at 87. Her late life rock stardom could not remotely have been predicted in June 1993 when President Bill Clinton nominated the soft spoken 60 year old judge who prides collegiality and whose friendship with conservative colleagues on the federal appeals court where she had served for 13 years left some feminist leaders fretting privately that the President was making a mistake. So that's interesting and of itself. Now that's not linked, and I can't find any evidence of those feminist leaders, you know, printing privately, nor do I understand, you know, is it just the author of this piece who had some private conversations? I don't know, but fascinating that this person who became in some ways this polarizing figure this this as the title suggests, this feminist icon, had had people had women feminist leaders worried back in 93. Why? Because she talked to people on the other side, so Okay, let's hold that in place for a moment. Continuing quote, Ms. ginsburg started from the premise that she needed to provide some basic education for an audience that was not so much hostile as uncomprehending. She took aim at laws responsibly intended to protect women laws based on stereotyped notions of male and female abilities and needs. The justices did not comprehend the differential treatment of men and women in jury selection and other legal contexts as in any sense burdensome to women. She said in 1988 88 speech so this is from five years before Clinton nominated her for SCOTUS. She added from a justice his own situation in life and a tenant perspective, his immediate reaction to a gender discrimination challenge would likely be but I treat my wife and daughter so well with such indulgence to turn in a new direction the court first had to gain an understanding that legislation apparently designed to benefit or protect women could have the opposite effect. So that's that sounds that sounds like feminism to me, right? That's that sounds like the kind of feminism that I always did get behind and would be getting behind today. If it were the feminism of right now. Move the cat so I can use my trackpad. Let me share a little bit from the 1993 article again in the New York Times, in which they announced that Wouldn't have named. What says here Ruth Ginsburg, advocate for women to court. Quote, in her 13 years on the United States Court of Appeals for the District of Columbia Circuit, the 60 year old Brooklyn born judge has occupied an unpredictable center on a panel that has grown into rigidly hostile ideological camps. She has ruled in favor of abortion rights, but has also criticized the 1973 Supreme Court decision that made abortion a constitutional right, saying it went too far too fast. Mr. Clinton made it clear at the announcement in the Rose Garden this afternoon that he hoped her independence from the right and left would make her a conciliatory on the court. tears rolled down the President's face at the closing of Judge Ginsburg's remark remarks. She offered a tribute to her late mother ginsburg said, I pray that I may be all that she would have been had she lived in an age when women could aspire and achieve and daughters are cherished as much as sons. Again, perfect. You know, this, I see I see. Nothing, nothing to argue with here. This is just this is just brilliant. And so let me just before we start talking share a few things from the United States versus Virginia case, which came before the Supreme Court in the 1995 season and and the opinion was written in 1996, in which it was decided that the Virginia Military Institute VMI, which were over 150 years had been male only must open its doors to women. So in this case, ginsburg wrote the majority opinion, which ended up being a seven one opinion, Scalia. Now now deceased. Justice Antonin Scalia wrote the single dissenting opinion and clarence thomas recused himself because his son was apparently a student at VMI at the time. So it was a seven one decision. She wrote in for the majority, although actually Rehnquist wrote a separate majority opinion. So this was five other justices signing on.
+
+Heather 11:53
+To this opinion, she writes, in 1996, Virginia maintains that methodological differences are justified by the important differences between men and women in learning and developmental needs, but generalizations about, quote, the way women are unquote, estimates of what is appropriate for most women no longer justify denying opportunity to women whose talent and capacity placed them outside the average description. Terrific. So she's recognizing both the possibility of population level differences and skills and desires and interests, while also saying you have to allow for individuals to to not be average? Of course you do. Of course you do. Also, she writes, inherent differences between men and women, we have come to appreciate remain cause for celebration, but not for denigration of the members of either sex or for artificial constraints on individuals opportunity. So she's here doing the thing that so many modern activists want to deny she is saying yes, men and women are an average different. But that doesn't mean that we get to discriminate on that basis. But one more thing. Scalia writes the dissent. And in it, he says, much of the court's opinion is devoted to deprecating the closed mindedness of our forebears with regard to women's education. And even with regard to the treatment of women in areas that have nothing to do with education, closed minded they were as every age is including our own with regards to matters, it cannot guess, because it simply does not consider them debatable. The virtue of a democratic system with the First Amendment is that it readily enables the people over time to be persuaded that what they took for granted is not so and to change their laws accordingly, that system is destroyed, the smug assurances of each age are removed from the democratic process and written into the Constitution. So to counterbalance the courts criticism of our ancestors, let me say a word in their praise. They left us free to change. Wow. So incredible, right, like and agree with the majority or the dissent here in terms of the conclusion? Surely we can all find something in both of those arguments, both from ginsburg and from Scalia that is cogent and coherent and causes us to think more carefully than we might have before about what is right and what should be true. That that is what SCOTUS, that is what the Supreme Court of the United States is supposed to be doing. And I was. I was amazed to read this to read both ginsburg and Scalia's opinions in this 1996 ruling, which has come down as you know, in some ways, the most important of her career.
+
+Bret 14:27
+Yeah, this is it's remarkable. And I must say, I want to make a note here about unity. And I don't mean unity 2020 I mean, unity, the movement and unity, the concept that motivates that movement. There are many of us who remember a modality of the past that is rapidly evaporating. And you quoting ginsburg and Scalia here, who both have a piece of the truth clearly and are operating, you know, Scalia being as polarizing person as existed on that court. And yet in what he says, you hear this sort of moderation and decency that is being lost from the landscape. Now, I'm going to do something I shouldn't do. I sent Zach a link to a short video that I just spotted before we went live here, so you haven't seen it? I'm gonna have to tell you what's in it since. All right, Zack is going to find it. Well, maybe I'll set it up while he's finding it. Okay. The video is of the President, the current president, the current president, inexplicably to me, I think he has just gotten off a helicopter. And the press. I've seen this video seen it. The Press alert him to the death of Justice Ginsburg. And so it's his honest off the cuff reaction, bizarrely soundtrack with elton john, for reasons I don't know, I think every version of the clip has that.
+
+Heather 15:54
+Yeah, it's playing in the background. Sometimes I'm out in the ether.
+
+Bret 15:59
+Zach, do you have it? You're working on it. Okay, well, in any case, the thing I want to point out about it is that the decency of Justice Ginsburg, results in, you know, you watch Trump actually, literally take a moment, I think, to consider the political implications of what he's about to say, which would be true to character for him,
+
+Heather 16:25
+and it would be of any political leader at some level?
+
+Bret 16:28
+Well, it's possible that you would have a sense, a human response that just overrode that you would just know was okay. And so you wouldn't have to go through that, that checksum. But, but nonetheless, I think he does track and it's, you know, I think virtually any modern politician probably would check. And, and then anyway, he says some things about her, including, you know, that you essentially you have to admire her whether you disagree with her or agree with her, you have to admire what she accomplished. And so, again, in a very divisive president, her her death brings out this this spirit of reaching across the, the the aisle or the political spectrum, and being decent to each other,
+
+Heather 17:14
+and being decent to each other. And she really, you know, in going back through last night, and today, just a little bit about her history, I was reminded that a lot of her early the early cases that she brought, were specifically pointing out places in the law where men and women were treated differently. And men appear to suffer as a result. So this is the way that she got in there. This is this is the way that she ended up sort of being able to bring the cases before a meal, mostly male judiciary at that point, and to get the attention of mostly men to point out that actually, you know, these arguments can sound very lovely, but they will end up being discriminatory in ways that you may never have imagined.
+
+Bret 17:58
+Yes, and the, the fact that such an amazing person and force that her death at this moment, is going to cause and is already causing a catastrophe in the context of this election is, you know, it's really it's a it's a tragedy for democracy, because it is the, the fact this has implications for this election that are truly profound. And, you know, apparently, Justice Ginsburg had vocally hoped to survive through the the seating of the next president so that she would be replaced by someone else. Now, of course,
+
+Heather 18:44
+it's no surprise that she would, she would have thought that but this
+
+Bret 18:46
+has to be in the style of thinking of every justice, wanting to leave the court positioned as they would have it. On the other hand, the fact of her death at this moment, and the fact of the implications for the election is like a gargantuan magnetic force for those who would play games here. And frankly, I will say, I think it's going to play right into the hands of the President, that the democrats can be relied upon to be vicious in attempting to prevent the seeding of anybody that Trump would name. Yeah. And you know, it's not as if this is without precedent. So obviously, the 2016 election had a parallel event and the republicans were on the other side of it. But anyway, Zack, do you have that video? Okay, you want to show it? Yeah.
+
+Unknown 20:00
+I didn't know that I just reached out to me now for the first time. She led an amazing life. What else can you say she was an amazing woman.
+
+Unknown 20:12
+Whether you agreed or not, she was an amazing woman who led an amazing life. You may actually the sad to hear that. Thank you very much.
+
+Bret 20:26
+All right. So did you see the Biden video? So Biden apparently learned of this on a flight, and he got off the flight with clearly prepared remarks. And he gave a much longer reaction, of course. And, you know, I will say, Biden has been very prone to just frightening errors, gaps in his memory and ability to articulate things. In this case, you know, he does a decent job of delivering his remarks, he says some interesting things about having presided over her confirmation hearing, for example. He looks very, very tired. You know, so there's no cognitive gap in what he says. But there is a sort of jarring sense of like, even knowing that he's about to walk off this plane to reporters that want to hear about this. It's, you know, it's sort of touch and go, it looks
+
+Heather 21:17
+but you know, every politician is going to be tired at this point in the presidential election. I'm not sure like, as you know, I am no fan of Biden. I've never been a fan of Biden. And I have said, as of months ago, that I would not vote for him. But I don't know that saying he's tired as he gets off a plane is particularly fair criticism.
+
+Bret 21:35
+Well, you know, it isn't it isn't because the job of President has got to be about as tough as any job with respect to the demands, you never know what crisis is going to happen. You never know, when you're going to be sure called upon to, you know, switch it on and, you know, engage heroic levels of insight and ingenuity and all of that. That's part of why we're, you know, we're electing someone and sort of applying superhuman standards to them. And so what I would say is, yeah, sure, he, frankly, he's too damn old. And he would be tired, even if he was showing, you know, even if he was Bernie Sanders and showing no signs of decline, cognitive decline, right. The point is, we'd still have to say, Does it make sense to put somebody in such an important position? That is so grueling, right. And in this case, you know, like I said, I think he did a fine job of what he said, but the fact that it does feel tenuous, I think is, there's a legitimate reason for concern there, which is that somebody this old is simply prone to be unable to deal with crisis.
+
+Heather 22:42
+Are they the same ages? Yes,
+
+Bret 22:44
+I agree. I think Trump is showing signs, and I'm worried there too. But I would say he is showing fewer of those signs. But basically, I think we are learning, what I have come to realize is that the number of people that I would actually trust in this role, who are not eligible by virtue of being too young, is not huge. But there are several people on that list, who I think would be decent candidates for president who don't really yeah, they don't share any.
+
+Heather 23:18
+So I'd like us to talk a bit more about Ginsberg. But this is this is a little surprising to me, who below the age of 35, you're just talking about the age limit, right?
+
+Bret 23:27
+Not that I in my own defense, I would say that. It's not that I would, I do think there's a reason to want somebody with more experience. But my point here is simply that there are people below this age who appear to have sufficient wisdom to beat the candidates that we actually have, by you know, by a wide margin,
+
+Heather 23:54
+even though I mean, if anything, 35 is younger than it was when that that requirement was put into into law. Because Because life expectancy is longer and we have greater health in our youth middle age now. So and you know, we've had these extended childhoods, you know, people are not forced to become adults for a lot longer than was the case back in the 18th century. Yeah.
+
+Bret 24:21
+So you know, I'm, I'm debating in my own mind, whether it makes sense to actually say names out loud, but just say, you know, it's not that I think anybody that age knows enough, but I do think there are people that age who know that they don't know enough and would know how to process information, they would source information well, and and they would do a good job. So anyway, the overarching point is they should have the founders should have given us a maximum age, probably the maximum age would be too low. In light of the fact that people remain younger longer than they once did. But but it is interesting. They
+
+Heather 24:59
+would the maximum Marriage that you might choose would likely have been beyond life expectancy and so wouldn't have made sense to do. Right.
+
+Bret 25:06
+Right. Right. Exactly. So anyway, I think that's where we should leave it. Okay. And if we if there is a clamor, maybe I'll come back and talk about who that is young actually fits the
+
+Heather 25:21
+bill. Yeah. So you know, ginsburg really did change the, the judicial landscape, the legal landscape for women in tremendous ways. And that was true before, you know, notorious RGB and you know, all of this strange adulation late in her life that became sort of I don't know in meme space she she really was out there saying and that's part of the reason I read specifically the quotes that I did is her her recognition of without specifying what they might be of population level differences between men and women and her recognition that under the law we must be treated equally because for any for any overlapping to normal distributions for any trait, there will be you know, extraordinary men and what's the opposite of extraordinary
+
+Bret 26:24
+lackluster
+
+Heather 26:26
+lackluster is not the opposite of extraordinary and you know, copying competent men and there will be extraordinary women and competent women and the idea that we are in the case of VMI and you know, I don't I don't actually know I don't exactly know where I fall between these two opinions on this because that this was a this is a public institution that for over 150 years have been male only. And the argument was that it was effectively a kind of a militarized education that was not mostly training people for the military only about 15% of the students at VMI apparently went into the military and Ruth Bader Ginsburg's point was women there were there are many women although probably not as many as there are men I don't know that she says that but you know, my my sister call brain goes like okay, there will be many women although not as many as there are men who would benefit from and enjoy and be educated by this kind of education. And especially if the argument is not that we are training soldiers which is a kind of a different a different argument potentially, although obviously women are now also acting as soldiers. Then basically what VMI proposed to do was to create a separate Women's Institute which of course did not have you know, you create something from scratch in 1995 or whatever and it's not going to have the history and the connections and it's you know, it's it's it's obviously a second rate solution
+
+Bret 28:01
+so it's a separate but equal phenomenon which results in a separate but unequal right results
+
+Heather 28:06
+right exactly. And so you know, are there you know, but are there not arguments for sex single sex spaces? Yes, single sex educational spaces? Probably like both you and I have actually attended single speck sex educational spaces me by choice for five weeks I'm college over it. You know, you you in junior high and high school until until they politely asked you to leave and you came to the score. I was a and we married me to leave. Invited wasn't polite, though.
+
+Bret 28:44
+Very, but it was a kind of an elite school. So they were very polite and diplomatic. euphemistic Yeah, their annotation for me to get the fuck out. So anyway, so.
+
+Heather 28:54
+So both of us have I have only five weeks experience at a at a women's college and you have four years of experience from a lot longer ago, actually not that much longer. But when you were when you were still definitely a child, right?
+
+Bret 29:06
+Let's put it this way. exactly the wrong moment. be isolated from girls is not.
+
+Heather 29:12
+I think it worked out for you. Okay, we
+
+Bret 29:13
+did in the end, but that really has more to do with the getting kicked out at the right moment than being there in that stifling institution. Yeah.
+
+Heather 29:21
+But so so you had, you know, who really never felt like there were benefits to you being in a single sex educational environment between the ages of seven, grades seven and 10. Can you can you explain why, at say the college level, there might be benefits to an all male environment? Of course, right. consulted. So do so.
+
+Bret 29:44
+Well. Let's just say, you know, I, I don't think that benefits are net in general. On the other hand, the consequence Well, unfortunately, any such analysis would be largely present. cated that, you know, unless we're talking about an education with a physical component, and even then you have to push it fairly far before you get to a place where there really needs to be separation. So any argument that is not based in physical differences in average capacity between men and women, would be largely predicated on a heteronormative viewpoint, which would be unfair to impose on the So in some sense, maybe the answer is any explanation has, has dissipated.
+
+Heather 30:32
+You lost me at heteronormative viewpoint, you don't want to do that. Again. Are you serious?
+
+Bret 30:40
+Well, I am in the sense that there are places where, let's just cut to the chase. Okay, let's say because
+
+Heather 30:48
+I know you've noticed, but the world is actually heteronormative well,
+
+Bret 30:52
+header, there's heteronormative, and there's the expectation that everybody falls under that.
+
+Heather 30:57
+So this then is again, the population versus individual level expectation, like, obviously, the vast majority of the world is heterosexual, which is what the hetero and heteronormative refers to right and, and that is that recognizing that is different from therefore saying that all the all the world must be in all individuals in it must be in anything veering from that is somehow off or wrong, or, or, or not. Okay, so this, these, these two things are both true. And this is again, exactly the distinction between populations and individuals, which somehow, most people seem to have a very, very hard time of holding those two things, or two concepts in their, in their heads. At the same time, men and women are an average different, and men and women as individual should be engaged with as individuals they are with their particular strengths and weaknesses, which may well be different than you'd expect based on their the diagnostic gnosis of your male or female.
+
+Bret 31:54
+So we have arrived at what I suspect is one of the five most important principles in the entire universe. Wow. Yeah, let's let's do it. Okay, the principle is something like a highly functional system requires discretion applied by sober minds. Right. And so what you've outlined, which I think is perfect for Ruth Bader Ginsburg, is that she was deploying a very enlightened understanding of equality, right? It's exactly what we've been arguing for here, which is that equal rights is a highly desirable thing that should be defended vigorously. But that that does not mean that we're the same, right? And that these two things well, you know, a naive person may conclude that one has to be true for the other to be true, a, an honest broker will recognize that they can't possibly both be right, and that the desire to, to protect people equally, is actually unrelated to the similarity of those people, men and women don't have to be the same phenomenon. And we don't have to be suffering from an oppressive viewpoint that has been inflicted on us that separates men from women in order to protect men and women well, but what that means is that you do get to a spot where you have to acknowledge that actually, here is one of the places where difference matters. Yeah, right. Yeah.
+
+Heather 33:25
+Well, and you know, it's, it gets, it gets dicey. Right. So in an educational environment, which is in part, even if it's not the majority, training men for turning men historically, for military duty, the presence of the introduction of a small number of women is going to change the dynamic it 100% is and so this is one of the many many ways in which sex is not like race. And so you know, when we talk about whether or not you know, there I don't even know when it happened, but you know, our were black soldiers allowed into the army to fight in World War Two, and I probably, that's probably the wrong moment in history where but whatever, but often grouped together, groups together and but you know, there was never, there's never should have been any reason at all, to protect in quotes, white soldiers from black soldiers, that's wrong, that's insane. There is there is nothing in in soldiering. And you know, being a human that is different in that regard with, you know, between between races, right, but men and women is different, because this is this is a distinction that is 500 million years old in our lineage alone. And so it does change the dynamic. And I say that as someone who has benefited from the ability of women to move into spaces that have been historically male and some of those spaces they weren't legitimately historically male, but some, like the military, may well function better without there being a small number of women present in every situation,
+
+Bret 35:04
+right. And so let us point out that the importance, it may be that there is a functional difference in how a military division functions when it's mixed sex versus not. In fact, you would expect it. And what rests on it functioning well, is something that rises above, frankly, individual protections. In fact, the entire right for us to draft people and send them into battle, you know, is because your right to decide whether or not to go to go into battle, cannot override our right to marshal the force that's necessary in order to protect the thing on which we all depend. And so because we know that you need a deliberative body that is capable of recognizing the uncomfortable asymmetries, and like, I'll even take your challenge about race here. Right. And, boy, this is a frightening thing to say, although I don't think there's any reason that this should be a it's not a difficult logical problem at all. Let's say that you had a situation in which a military force that intermingled races worked less well was militarily less effective because of distrust between the races. Right? The same logic applies, you want to fix that so that that's Nope, not true. You want to address whatever it is that causes distrust between the races to compromise the force militarily, but to the extent that the existence of the nation might depend on grouping people with those they don't miss trust, you would have to have discretion to do that, as you corrected the thing that caused the mistrust.
+
+Heather 36:46
+Yeah, I don't know. I don't know. Because, you know, recognition of difference is certainly as you know, older than being human. What what social organisms do in part is recognize individuals as Friend or Foe or unknown, and characterize difference. And this is, you know, this is a basis for tribalism, and racism and all of these things without being a justification for them, it is an explanation of them, at least in part, but in, in a country that prides itself on being a melting pot, and having welcomed immigrants to its shores from all over the world, almost from its almost from its origin story. I I don't know that I can imagine justifying even the momentary sort of privileging of the bias in the racks, whereas, whereas pretending that a couple of super awesome badass female soldiers in you know, in a remote place with 40, even super awesome, you know, non rapey, badass male soldiers may really change the situation. And that's, that is a that is a that's, that's older than sociality that's older than that so much older than everything else that we're talking about, right?
+
+Bret 38:23
+So I'm not making the argument you think I'm making, okay, I'm not making the argument that race is such a phenomenon, because of course, the thing about the way human beings actually work is that some of the stuff is in the software layer. And while there is historical distrust between races based in biology, there is also plasticity that allows it to be refactored. Yeah, right. So I'm not arguing that this is such a place what I'm arguing is, if it were such a place, and the ability of the population, including all of its races to continue involved, fielding military groupings that functioned, then that would have the priority, right? So in
+
+Heather 39:06
+the moment to win the battle,
+
+Bret 39:08
+right? And so really, what I'm arguing goes back to your point about Ginsberg which again, I'm saying is, you know, one of the five most important principles in the universe and mind you it's gonna, I'm gonna have to sit down figure what the other four are, but but the point is, it is the discretion that a decent person who is capable of taking in all of the information not just about our aspirations, who we want to be right, but we actually are and what is necessary in order for us to get where we're going, right, that discretion is key, and it is why the Supreme Court was placed in the position that it was placed. It's why it's configured as it is configured. It's why you have these you know, terms for life.
+
+Heather 39:55
+And to Scalia's point, it's the earliest documents, the founding documents The United States states precisely give us the freedom to change to not be limited to the biases of our time. And all times we'll have biases and some of them we can't even begin to imagine yet.
+
+Bret 40:12
+Right. And especially the way he phrased it, his point is the things that you are certain are true that we will know in the future warrants true, right? That thing is why we have to have this capacity down to to deliberate over over what what is true. It's quite
+
+Heather 40:27
+an arrogance, actually, that he's pointing to and I don't think I don't think he uses that word. But it's you know, it's arrogance, it's it's hubris to imagine that now, right now, we finally arrived at the perfect moral center of humanity. And everyone in the past, got it wrong. And no one in the future will learn anything more. And now we're there we've arrived. And frankly, we see this arrogance in many academic fields. And you know, in just about, frankly, every domain, like it's this, we're there. And now history has stopped.
+
+Bret 40:58
+Yep. Well, and you know, where we're seeing it. Now, that is the most frightening of all is in the goddamn tech sector. Right? These people actually think that they know what is true with sufficient clarity, if they're going to go about labeling beliefs as false that they are going to specify what you're talking about here. Well, for example, actually, this is something worth pointing out. We highlighted two heterodox papers about about COVID on our last live stream. Now one of them I must say, I have some trepidations about the Yan paper. But the Yan paper makes arguments that one can evaluate now some of those arguments, I think, raise questions.
+
+Heather 41:42
+I think everything in that paper is evaluatable
+
+Bret 41:46
+is evaluated. But right, it takes the form of an evaluatable argument. And in fact, I've gotten some correspondence from people who spotted various things in let's see. Yep, right. Nonetheless, right, the tech sector has decided well, that this is dangerous misinformation. And they have now they have suspended her account, the lead author, that Twitter account, right? And they are labeling those who would I think they're either forbidding the posting of the paper or labeling it as misinformation. Now, here's the problem. The other paper that or wasn't the paper that we highlighted, but the other body of work that we highlighted, Alina Chen, on the last broadcast is the gold standard of evaluation of COVID origins. The tech sector regards what the second body of work reveals as misinformation In other words, it's decided that the true story of COVID is natural origin.
+
+Heather 42:48
+Now tech sector is acting as kind of jury judge and executioner but as in a scientific framework, like it's pretending to be to do the job of peer review in a perfect world where peer review was actually assessing these things,
+
+Bret 43:04
+right? It's been really it's a completely insulated, unassailable kind of super review. Yeah. And the thing is, we know that the mechanism by which the mainstream arrived at the conclusion that this was clearly natural origin has again and again been wrong, right? We knew it was the Wuhan seafood market. We now know it wasn't the one seafood market, we thought that the spike protein indicated connection with pangolins, we now know that it wasn't pangolin. So the point is, look, this is the way science works. The right certainty
+
+Heather 43:38
+is fall away with never any any even recognition that actually we said we were 100% certain back then, and we were wrong. And that mean, this is something that you have done with our children very effectively when they make a claim. And you say how sure are you have that any point that they come up with? I'm 100%? Certain you say you'd be really careful with that, right? Because there are some things that we can be 100% certain of, you know, assuming that the sun rises tomorrow, it will rise in the east, right? It will, it will it will not come up in a different place. But for nearly all observations that are parts of complex systems, especially if they have social components, do not put your certainty at 100%. Well, and when you have tried to put your certainty at some percentage, keep track of what happens to keep track of your predictions and keep track of whether or not your estimates of your own certainty and your accuracy in your predictions are getting closer and closer over time. Because if they're not, you're doing something wrong,
+
+Bret 44:39
+I agree. Although I would say you don't need all of that caveat about things about which we can be actually certain like if the sun rises, it'll rise in the east. Even that right now my point would not be that it is worth spending an iota of time worrying about the sun coming up somewhere other than in the east. My point would be that you need to formally recognize that everything that you believe you have effective certainty over is predicated on certain assumptions, which are themselves not perfectly secure, right? You do not know that you are not having a hallucination that everything that you believe to be true, your own name, your relationships, where you live, that all of that is not the product of some, some scenario that you're unaware of. And in fact, we even now talk about such scenarios. I don't take them seriously because I think the chances of them being right are virtually zero, but they're not zero. This could be a simulation, right? If it's a simulation, then all of the things that you believe about sun's coming up in places isn't literal, right? It's something else, it's something happening inside of simulation. So anyway, my point to our children, is, if you say, I'm 100% certain that the sun will rise in the East tomorrow, what you are really saying is that the chances that it won't are sufficiently small to be negligible, right? You're not saying they are actually zero. And so. So the exercise that I do run with our children, is when things are substantially more uncertain than that, like you're 99.5% certain, then you need to know the difference between I'm rounding to 100 100%, certain that's going to happen. But the point is, what would you rate the chances of it's, you know, not happening? Right? Well, actually, you can be specific about it. And that that exercise leaves you in a very different landscape. Because in general, people's beliefs are either believe this to be true, or I believe it to be false. And if every place you do that, you substitute the chances that I think this is true are above x, and that is enough for me to, you know, to operate on that assumption, right? Then you are capable at the point you discover that something that you thought was, you know, 95 and a half percent certain is only 75%. Certain, you don't have to switch camps, you can back off your certainty,
+
+Heather 47:12
+you're still in probabilistic territory, as opposed to black and white and only wants territory, we are always in probabilistic territory, even if no, but you but the point I'm making is that you just said switch camps. Yeah. And one of those camps is does not understand itself, right? In probabilistic territory, even though
+
+Bret 47:29
+it is right it is in that camp, whether it is operating in that universe, whether it understands it or not, so it's constantly making errors. And so the tech sector and it's absolutely mind boggling arrogance in deciding that it is going to wade into a landscape where the mainstream has already gotten it wrong a bunch of times and lots of highly credible people are now looking at the mainstream story and saying, Here is where it is wrong, right. Here is the probability that you know, something like a lab leak is true, right? Yes. If you took a vote, would you find that mainstream virology was you know, more or less united around the idea that this was a natural emergence? You would? means nothing? Right? So the point is
+
+Heather 48:16
+that as I as I used to always say to my classes, reality is not democratic science is not democratic. That's not how it works. Yeah, in fact, you know, what's, what's true is true, regardless of whether or not anyone yet knows or believes it to be true.
+
+Bret 48:30
+Yeah, medawar, I'm trying to remember the exact quote is, but Pb medawar, Nobel laureate, once said something to the effect of it's amazing how little effect your desires have over what's actually true.
+
+Heather 48:44
+It's again, if I can find it while you tap.
+
+Bret 48:48
+Alright, so in any case, the necessity of civilization functioning requires discretion deployed by people who have a nuanced understanding of things and are capable of balancing various concerns, right. And the aspiration to fairness does not override the subtleties frustrating as some of them may be about, you know, the way different populations like male and female actually, substantially differ.
+
+Heather 49:18
+Yeah, so here's Peter medawar. Said, I cannot give any scientist of any age better advice than this. The intensity of a conviction that a hypothesis is true has no bearing over whether it is true or not.
+
+Bret 49:31
+It's interesting how that's exactly what the quote I almost deployed here means but the wording is very different than I remembered. I'm wondering if he may have said the other thing too somewhere, but in any case, alright, so we should continue with Ginsberg. If there's more to say about about her Did you have more
+
+Heather 49:55
+I mean, there's there's plenty to talk about, but I don't know where you're going
+
+Bret 49:59
+well. There's the question of this individual and her impact and her absence. And then there's the question about the landscape in which her death now interfaces with politics. And the question is, is it? Are we there?
+
+Heather 50:16
+Sure. I'm not sure I have much to say about the ladder because it just looks like a giant
+
+Bret 50:22
+shitstorm. But it is it is. This is a very so let us say one of the things that Biden said in his remarks was that the number of days, I don't remember the exact number, but the number of days to the election is actually shorter than the minimum time any justice has ever taken to be confirmed. Right. So that would seem to suggest that this is impossible, and we should put it off the way we did in 2016. On the other hand,
+
+Heather 50:53
+well, I don't know if you've seen this, if we want to show this from August 30 of 2016. Barack Obama saying summer's almost over Senate leaders, do your job fill the Supreme Court vacancy? Yep. So this is, you know, this is almost two, three weeks earlier than we are right now in the election cycle. But it is, you know, four years ago, four years ago, plus three weeks, in which the then sitting president who knew that he would not continue to be the president was advising the Senate to get on with it and fill a vacancy,
+
+Bret 51:32
+right. So I have almost no doubt brock obama will not come out in favor of filling the vacancy this time, but I want people to think a little bit if they haven't already at what the implications are of filling or not filling the vacancy. First of all, we are in a situation where people are Wargaming possible scenarios over a contested election of one version or another where ballots can't be certified. There are many scenarios in which an election might end up in the Supreme Court. The fact of a Supreme Court that now has an even number of people on it, rather than an odd number of people means that one of the solutions that could be relied upon to save us from a catastrophe in which the nation tore itself apart over differing opinions over who should ascend to the presidency is now potentially off the map
+
+Heather 52:30
+to the difference between an even number and an odd number,
+
+Bret 52:33
+the difference between an even number and an odd number. What's more, the Democrats. And, you know, again, it's very interesting that we have a mirror image of the scenario in the 2016 election. But the democrats have a lot riding on the idea that one absolutely has no choice but to vote for Biden, no matter what you think of him blue no matter who, because the next President will certainly be replacing Ruth Bader Ginsburg. Right now, it's not just Ruth Bader Ginsburg. But the fact that she has died and can plausibly be replaced on the court before the election, robs the democrats of an argument that they are using to Badger people into not thinking for themselves, right. So as somebody who, you know, sticks just got higher, the stakes just got higher. And if Trump manages to seat a justice on the court ahead of time, the stakes drop. And because they drop, those who have been badgered into signing up with the democratic party would be freed in some sense, you know, not fully, but the degree of pressure that people face when they talk about alternatives to the duopoly, that pressure would drop somewhat. And so anyway, this, of course, opens a strategic play for the President. And, you know, you and I are no fans of the President. But we do recognize that he has sufficient political insight to have actually defeated one of the duopoly powers and taken over the GOP. So it is not beyond him in any way to see that he has an opportunity here, especially if he was to quickly nominate somebody who was like Ginsburg, capable of reaching across the aisle, appealing to people on both sides, you know, unimpeachable in terms of their character. Right? were he to do character and their history? Right, right. In other words, if he were to find just the right person, then the democrats for strategic reasons would, I believe, be hostile to that nomination and Wouldn't be revealed to be as cynical and political as the DNC has made the party. And that would be a win for Trump. So this is a, this is a very powerful shift in the electoral landscape for many different reasons at many different levels. And I don't know what's going to happen. But I would say, my guess is, this works for Trump and against the democrats and the Democrats, to the extent that they are actually interested in the long term, well, being of the nation would be wise to move very, very carefully. They should really think about what they're doing. And they should not just simply play the same disastrous political game that they have been so strenuously advocating for so long.
+
+Heather 55:54
+So you're advocating that they come up with a new game right now? I'm advocating if they wake the hell up. Alright, so neither of those things, your framing or mine, come up with a new game or wake the hell up are likely to happen?
+
+Bret 56:06
+Well, yes. On the other hand, this the fact of them being proactive in trying to shut down the idea of seating a justice. And, you know, playing with bizarre ideas, like adding members to the Supreme Court making it an 11 person court in order to, you know, they're just that's been
+
+Heather 56:30
+proposed. Oh, yeah. Newly as of, as of I
+
+Bret 56:34
+think it's an idea that has been circulating my sense is that it is an idea that has been circulating. And that you know, look, there's a lot of schools that are never heard
+
+Heather 56:43
+this before. What What is the justification? I mean, nine, nine is a lot. Nine is odd. It seems to me that a justification for that, you know, really the only one that I come up with immediately is so transparently political that no way does whatever party is not in power agreed to it, which is that we've decided to do that. And at the moment, we decided to do it. Our president gets to a point the two new people, is there. Is there any legitimate reason for an 11 versus a nine person court? I mean, there may well be it just doesn't, I've never heard this before, nothing comes to mind. I
+
+Bret 57:16
+do not believe so. I believe that this is nakedly political. Now, I do not want to say nakedly political is just a feature of the Democrats, when it comes to the Supreme Court, the democrats would tell you that they are responding to nakedly political stuff from the right, and there has been quite a bit. So it is not as if that game is imagined on their part. Nonetheless, it is the it is exactly this argument that, you know, they pack the court now we're gonna pack the court kind of thing, and we're going to bend the rules and do it our own way that that motivates us, as I can tell, I
+
+Heather 57:51
+mean, I guess I just, I want to keep coming back to this idea that ginsburg herself, was looked at somewhat askance by some feminist leaders at the time, because she had worked across the aisles, and she ran across the aisle isn't the right metaphor for the judiciary, but that she had worked with judges who were understood to be conservative. Yeah, that she had that and I think I may have this wrong, but I think that she and Scalia actually had a friendship, like, you know, and they they were probably as as far opposite on the poles politically on the court when they were both on the court as as existed and yet, you know, this language that I read from both of them, they were both right. Like they and, you know, until, until today, I'd never read anything of Scalia's I think, and if you would ask me what his what his dissents, or, or statements would have sounded like, I would I wouldn't have guessed that they were that I could have found so much to agree with in them.
+
+Bret 58:54
+Well, and this, this is a lesson, you know, again, in and around the concept of unity, this is a constant lesson. It is amazing how frequently now, what we thought what we heard people say and thought was true, just seems preposterous, right? Like, I, in my mind, I keep returning to the concept of Mitt Romney as to the greater evil, right, that we had to pull out all of the stops to stop Mitt Romney at a point, you know, where, you know, that that argument was local to a moment in history, and the fact that the very people making that argument are now you know, lamenting the fact that you know, if only the guy on the other side was Romney, because you know, now we have the real greater evil, right? Yeah. So,
+
+Heather 59:43
+so actually, to go back to one of your points, though, so you What did you say one of the five most important things in the universe symbols and the principles the universe is that people need to have discretion in order to humanize laws of thought, exactly. We know what you want to say.
+
+Bret 1:00:01
+Functional complex systems, human systems require discretion to be functional.
+
+Heather 1:00:09
+So, yes, and one of the things that that ginsburg was fighting for throughout her career was the ability for people, for men, to see the effects of the the laws that are on the books on women, when, in her experience, what men in the judiciary and other men of power would say was, but I care deeply for and make opportunities for my daughter, my niece, my granddaughter, whatever. So you know what's wrong. And so what we can't do is have discretion held within particular demographics, we cannot have discretion held by men over women, by white people, over black people, by black people, or white people, by women over men, anything right? discretion has to be available within for for any decision. But that too has to be at the individual level and not decided in advance by the demographic that you happen to have been born to or have chosen to be part of.
+
+Bret 1:01:17
+And I totally agree with that. And you have to have the people who are in a position to wield that discretion, you have to pick honorable people who are capable of the nuanced and inclined to do the right thing, right, which is not impossible, but not simple. But they have to be in a context that is hospitable to them doing the right thing, which is exactly why the founders gave the supreme court justices tenure for life. Right? You have to be freed from the people who wanted their bidding done, when they advanced your candidacy to be the person employing the discretion, you have to be freed from their influence.
+
+Heather 1:01:58
+That's right. And this is a place where tenure for life is functional, right? There's we could we could speak for weeks about whether or not tenure in the university system is a good idea. And if it is effectively worked. One of the ways it has not worked is that often people, once they get tenure, become less productive, they become lazy, they do less, and they just stay on the same whatever path they were on, they become catalyzed in the language of developmental biology, right. And, of course, that's just not a possibility on the Supreme Court, you can't become lazy and stop being productive. You You are going to show up constantly and continue to do your work.
+
+Bret 1:02:39
+I wouldn't say can't okay. And the example that I would pick and I'm, you know, I should really go back and look at what the history has been. But at the point that Justice Thomas ascended to the court, he had an extremely strong tendency to simply reproduce Scalia's vote. Sure. And so that does strike me as,
+
+Heather 1:02:59
+but that's not it. I remember this too. And I remember being very frustrated by the situation. But that isn't inherently about laziness or not being productive.
+
+Bret 1:03:11
+I think the the level of agreement, the fact that as I recall, it seemed like lockstep it wasn't even lockstep It was like Scalia made a decision. And basically, he was a Supreme Court justice with two votes. Right. Now, presumably, that tendency has been broken by Scalia's death, which it has it's hard to follow his footsteps Exactly. But in any case, tenure for life is inherently going to have a downside. Right. And you know, we saw this that evergreen where we saw lots and lots of faculty members who had tenure, and, you know, we're dead wood. At best, they were dead wood in the system, you just couldn't get rid of it. And that's, you know, we saw that in other places as well.
+
+Heather 1:04:01
+I think every, every system of higher ed with tenure has this problem. There's a tension there. And you know, it's the tenure is supposed to give you the freedom to go outside of the Overton Window basically, right, the freedom to challenge the status quo, and to explore things you haven't felt secure enough to explore before because you may fail, or your answers may be ugly. There are a lot of reasons to not ask certain kinds of questions when you are trying to figure out whether or not you're going to have money to pay the rent. At the point that you know that you've got job security, potentially the argument goes, you can you can open it up, you can open up all of those things that you were sort of carefully tending but not not working on explicitly and move forward with them. All too often. We see the opposite.
+
+Bret 1:04:49
+Yeah. All right. So I think we're
+
+Heather 1:04:53
+at an hour's hour,
+
+Bret 1:04:57
+an hour and seven minutes, so I would just to close this out. I I would say what I'm actually hoping will happen is that the President will advance a, a nominee quickly, who is not divisive, somebody who does have unimpeachable character and does work across party lines. Now,
+
+Heather 1:05:21
+I don't think there's anyone who is not divisive?
+
+Bret 1:05:23
+Well, depends what you mean. I believe there are people who fit the bill. The problem is the President will, I think, have to nominate someone who is hostile to Roe v. Wade, for political reasons? I don't think he could, in his position, do anything but that.
+
+Heather 1:05:48
+And that's, that's that's the only thing that you need for it to be divisive? And yeah, and we don't we won't do it here today, because we don't have time. But, you know, many extraordinary legal scholars will say that, as you know, as apparently Ruth Bader Ginsburg did that out. While you know, you might disagree, but many people will say, I want abortion to be constantly, constitutionally protected. And that decision was not the right decision. So how do we move forward with those two things simultaneously? Especially when, as soon as you even begin to consider dismantling a decision which might not have been the right decision for legal reasons? And half the come? I don't know what the what percentage, but you know, a considerable part of the country really doesn't does not want this right, protected? How is it that you move forward? And so you know, clinging to a 1973 decision, that may have been constitutionally not very robust, but is a right that has provided a freedom to, you know, 46 years of women now that, you know, many of us would be terrified to see lost? What What do you do? I don't know. Well, don't know. So
+
+Bret 1:07:07
+I would point out that what's at stake here is actually greater, as important as this question is, what's at stake here is actually far greater because the role that Roe v Wade, as the protector of reproductive rights, as played has been absolutely diabolical. This has empowered the duopoly above all other things, because maybe not above all others, but really, maybe the Second Amendment is the only competitor.
+
+Heather 1:07:37
+It's abortion on two way. Those are the two big things right. So
+
+Bret 1:07:40
+the point is, this has hung like a sword of Damocles over anybody who would contemplate a less divisive, better political environment in the tyranny that has come to us all from the fact that this contentious right has hovered, you know, in jeopardy is has been a disaster. It's a bit like anti Castro Cubans who held such power over presidential politics for for so long in Florida, that there's just the disproportionate impact of this is not fundamentally reproductive, it's about things like political corruption and its ability to remain lodged in our in our political structures. And so what I would say is, the Roe v. Wade decision was, I believe, cruddy from the point of view of its basis, it was actually a good match in terms of what it protected. It was a good match for what the vast majority of Americans want the vast majority of Americans are not wildly enthusiastic about abortion as they shouldn't be. They don't like it. But they do
+
+Heather 1:08:53
+leave the original I mean, Roe v Wade actually lays out different rights by trimester absolute which has since been modified but you know it really if I remember correctly, first trimester abortion at will without explanation or justification required by the mother, second trimester safety of the mother and safety of the mother and maybe or known to be your massive genetic or developmental anomalies in the fetus I think and I'm not sure that's that's right. Because the third one is only is his third trimester is only about life of the mother. So I don't I don't think you have that right for the second trimester. It's something it's something intermediate and, and, gosh, you know, the vast majority of people actually fall somewhere in that right the idea that you shall have an abortion the day before they can be porn is insane. It's not it's not and and most people also don't think that zygotes are God's will, right. So
+
+Bret 1:09:55
+so so what I would argue is a couple of things. One Leaving role as the protector of this right, is disastrous because of what else it does to our political structure. Right? So it's possible that we need a better protection, one that's founded on a sounder set of legal principles, you know, rather than privacy, right, protected by the Fourth Amendment. But it is also possible that somebody who is not favorable to abortion rights, but is favorable to the, you know, starry decisis, for example, which is the legal principle by which settled law is not revisited by the court that you could find somebody who was satisfactory, and unimpeachable. And that were the president to do that. It would a put the democrats in a very interesting spot and be probably be the right thing for the nation. Yep.
+
+Heather 1:10:57
+No, I think that's I think that's possible. It is it is complicated. Allow me to just say, Zack, if you would show this for a moment that I, since we probably triggered a lot of people with a discussion of abortion at all. I did write something I guess it's over two years ago now on abortion. That's published an area which if I get caught up on posting links, I will post in the description for this video, but you're more this this is written point, I think. Yeah, right, as Kennedy was retiring before Cavanaugh was had been proposed, I believe. So that's it was the last time that this was of such supreme as it were important. So let's see. Are we are we there for the hour? I mean, there's lots more that we can talk about, of course, so
+
+Bret 1:11:51
+many things I thought we were going to get to that didn't so I don't know if the if the universe hang holds out, we can see if we can revisit them in the next stream. Yeah,
+
+Heather 1:12:01
+we can talk about Portland Police Department, University of Chicago English department decolonizing,
+
+Bret 1:12:06
+your lawn decolonized. I don't have a lawn, well,
+
+Heather 1:12:09
+then maybe you've done it. Success is yours.
+
+Bret 1:12:12
+Either that or it's been fully colonized by things that aren't grass.
+
+Heather 1:12:15
+I think that's acceptable somehow. Oh, yeah. Yeah, no, I think we never had a lawn, we just we just have forests. So let us say in in pardon that it will be back in 15 minutes for the q&a, where we'll be taking your super chat questions from this hour and from the next hour. Also, the Dark Horse membership at my Patreon is, has been, it's been fun. So far, we've been doing these private q&a, we've done three of them so far, once a month. And for people subscribing at the $5 and up level, and for people subscribing at the $11 level, give you an opportunity once a month in a 48 hour period to propose a question. And then we pick the 20 or 25 that we want to go through for a two hour q&a. And just before we went live today, I made that I made that live. So right now, on my Patreon and $11. And up you can go and pose a question that we might answer in our next private q&a, which will be not tomorrow, but next Sunday.
+
+Bret 1:13:18
+And the private q&a is I will say have been
+
+Heather 1:13:20
+great. It's been a lot of fun. You know, they're they're, they're much more intimate, obvious.
+
+Bret 1:13:24
+Yes, they're cozier. We sit 50% closer.
+
+Heather 1:13:27
+And that's what we bring in everyone. All the animals are here. All the animals are here and then a few. And then a few. Yeah. You know, they're, they're good. And we also are able, because in real time, there are only maybe a couple 100 people actually watching live and then we'll leave them up for the other subscribers to see later. We can actually check in with the chat sometimes, like last time we were asking, we were talking about music a bit And anyway, they're good, they're fun, and we've been enjoying them a lot and then either of our Patreon you can have access to our Discord server. And what else like subscribe,
+
+Bret 1:14:04
+like, subscribe, comment, spread it around clips, all of that. September is coming to an end after having barely just begun and then time standing still for what felt like about six years. So I don't know what that means. But it does mean that also the the discussions on my Patreon, the evolution discussion and the coalition of the reasonable discussion are are headed our way for whatever comes after September. I think it's October.
+
+Heather 1:14:34
+I think it's October. Yeah, yep. All right.
+
+Bret 1:14:38
+So we will see you in 15 minutes. Assuming assuming everything swimming the world's assuming the world still exists and the internet is still functioning alright.
+
+Bret 1:14:47
+It'd be well
+
+This transcript was generated by https://otter.ai

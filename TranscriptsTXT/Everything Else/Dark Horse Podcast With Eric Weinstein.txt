@@ -1,0 +1,1438 @@
+Bret 0:07
+Hey folks, welcome to the Dark Horse Podcast. I am Brett Weinstein and I am sitting here with Eric, our Weinstein, PhD, who happens to be my brother. And I'm going to attempt to interview him and raise in discussion many topics on which he may be the most interesting, interesting voice that we have access to in civilization. So here goes nothing, Eric, welcome to the Dark Horse podcast, but no pressure, no pressure, great
+
+Eric Weinstein 0:35
+to be here on the dark horse.
+
+Bret 0:38
+So some people have seen us together on occasion, Episode 19 of the portal, they will have seen a discussion in which you forced me to reveal things about my scientific past that were a little known before that episode.
+
+Eric Weinstein 0:54
+I have to say it was a scary episode. But arguably one of the more interesting podcasts of all time, I would say thanks to your your story and your work.
+
+Bret 1:03
+Well, it was quite an adventure. And anyway, I want to thank you for doing that. It absolutely added an important dimension to my life, especially my public life, in an area where I had more or less shelved prior work. And I think it was time that it returned. We will come back to that story later. I of course, know a great deal about your history. I also find out frequently that there are things I don't know about your history that emerged in conversations with other people on podcasts and things. So anyway, I'm wondering what it is that I should be asking to reveal that which I do not yet know. For our listeners and our viewers, you are a PhD in mathematics. Yes, your degree came from Harvard. Correct? Your advisor was
+
+Eric Weinstein 1:51
+I didn't have an advisor, but we can Wikipedia claims that it is the person who signed my thesis, who
+
+Bret 1:57
+is robot robot, very famous mathematician,
+
+Eric Weinstein 2:01
+and in an interesting good man arguably, could have. Maybe his periodicity theorem could be argued to be the theorem of the 20th century, I could make that case. But he was not my advisor,
+
+Bret 2:13
+highly regarded a friend of yours, but not your advisor. Now, I should say, those who did not go to graduate school in science, or in some, some topic, will probably not understand how unusual it is to be a to have a doctorate without having had an advisor. In fact, I don't think I've heard of another case of that, ever.
+
+Eric Weinstein 2:38
+Well, in fact, they won't even let you say that that's true, even when it's true. Because it is supposed to be perceived that eight an advisor is essential to getting a PhD, which of course, there's no reason that that should be true. And it isn't true. However, the system expects that just the way, it can ask Where did you go to college? Rather than Did you go to college? If you have a PhD, it asks, Who is your advisor, and it assumes that that has to be a condition that is met.
+
+Bret 3:10
+So those who are familiar with your work and your podcast will be well aware of the uneasy relationship that we both have, and you have been very public about with respect to gatekeeping. That day keeping is playing some role in our system that many people believe is positive in the sense that something has to be prevented from getting through the gate. But when you actually encounter the gatekeepers, it's not what they're up to.
+
+Eric Weinstein 3:34
+It depends. I don't think either you or I would want to be in a world with no gatekeeping. I my guess is that neither of us thinks that the gatekeeping that is being done is of the quality to warrant a gate.
+
+Bret 3:51
+Yeah, I mean, I would say maybe my signature issue has been captured. And that gates are one more thing where the problem is there is a genuine version, but we haven't seen it in so long that we only see the malignant variety. And so we come, those of us who have done nothing but run into these gatekeepers have the sense of just like, wipe that thing out of the way, because it's nothing but
+
+Eric Weinstein 4:15
+that's right. In our weaker moments. I think that the feeling is get rid of the goddamn gatekeepers. And I think that in our stronger moments. I had, essentially until 2001 never encountered a new academic subject in which the subject was hungry for new ideas. And so when I tried to publish my first paper in finance and the theory of risk, it was a astounding experience because the field was hungry for new ideas and to open up new fields. So it gave me an idea of what what must biology or physics or economics had been like when people were struggling to find a paradigm rather than to do Then the bad paradigm for those who would point out its flaws.
+
+Bret 5:04
+Yeah, my experience is that I check in on fields that I'm capable of evaluating, which for me is many fewer than you are. But nonetheless, there's a range of biological fields, for example, I can check in on them. And in general, I find them asleep. They're not doing anything interesting. They're sort of spinning their wheels. And then sometimes I will check in on one after some period away, and I'll discover Whoa, something has happened here. And it, it is caused me to think that there's a natural process that produces stuckness. And that that stuckness is it's not inherent to the science, it's inherent to the sociology surrounding the way science is done. And that it's very hard to break these things loose. But sometimes something does, and we see interesting things. But how much more productive would we be if stuckness did not characterize most fields most of the time? Well, I
+
+Eric Weinstein 5:59
+think it's an interesting question. I believe that many people reflexively, quote, plonk that science proceeds funeral by funeral. But I would say it's not an addendum so much as a pre dental minor. Do you know what the right language to cut to call it a preamble, which would be that when a scientific field is broken, it can only advance funeral by funeral. And that is the difference between a well functioning field and a poorly functioning field. Whether or not it requires the death of the lysenko lists, if you will, who are holding back reality.
+
+Bret 6:37
+Wonderful now, we can talk and hopefully we'll get later in this podcast to possible remedies for the problem. But for the moment, I think the thing that is most pressing is for me to try to do for you what you did for me on your podcast. And the problem is I'm not equipped to do the job. That is to say, your area of I don't want to use the word expertise, because you and I both find something problematic about what expertise has become but your primary area of interest, your focus is in higher math, which at some point, essentially becomes indistinguishable from or so intermingled with physics that they are proceeding in tandem. Is that fair? That they are the same subject? How would you say?
+
+Eric Weinstein 7:28
+It's a? It's a great question, I would say that there's an expression that the map is not the territory. And theoretical physics in its foundational subset. That is that the discovery of what reality is, at its deepest level, deepest physical level, is the one place where we think that perhaps the map is the territory. Right? So in other words, it's like being handed Greenland is a map of Greenland.
+
+Bret 8:01
+So I've heard you say this, and it has a, it has almost an emotional meaning to me, but I cannot make it work analytically. I can't understand what you're trying to tell me. And so I more or less think the way to do what needs to be done with respect to your work, and what's probably going to end up being your greatest contribution. The way to do it is for me to reveal what I don't get, and have you tried to fill me in. And just by being courageous about looking stupid, maybe we can get to a place where a lot of people suddenly have access to what it is you're saying where normally very few.
+
+Eric Weinstein 8:34
+First of all, I find the dark, the dark horse to be a really interesting podcast. And so to the extent that it that you are pioneering some new thing, I'm willing to guinea pig,
+
+Bret 8:45
+all right. So when you say the map is the territory, I mean, I was just based on our nature, I was thinking about a joke, as you were describing the mapping the territory about, you know, welcome to the map or something along those lines. So what does it mean that the map is the territory is the idea that when you so that we tell ourselves map, like stories in every discipline all the time, and sometimes those maps are so good for our purposes, that we think we're talking about reality, but it's always models? And are you telling me that in math somehow, as we actually discover what's true, you converge on reality? Is that your point?
+
+Eric Weinstein 9:29
+We don't know. Whether when Albert Einstein said, Let X be a four dimensional manifold with a three one metric and we will call it space time. We don't know whether in some sense, that weird sentence before the word space time is an actual description of what space time is, or whether or not it is a model of what space time is. So great Yeah, so the problem here is that when my greed, for example, paints this famous painting that says cinephile beep, this is not a pipe. He's literally correct. Because it's a picture of a pipe, not a pipe. Smoking pipe. Yeah. Well, in some sense, we don't know whether Albert Einstein painted a picture of space time, which he called a manifold with a three, one metric, or one three metric, or whether or not he actually described what there was at base level, and there was nothing left to find. So for example, if we came to understand that what he called space time was made up of tiny, granular bits, and that there was a resolution and a granularity to space time, then it wouldn't be a continuous beaut beautiful expanse, it wouldn't be a continuum. So if I, we don't know the answer to the question about whether or not at the bottom of theoretical physics is a collection of mathematical concepts, or whether they're a collection of mathematical models, and the concepts are reality or the concepts model reality.
+
+Bret 11:15
+Okay, now I'm going to play the role of the smart graduate student trying to get the professor's attention by saying things that are shockingly clever. I don't know if I'm going to pull it off. Want to say two things? One, we have a problem with Heisenberg's Uncertainty Principle, which is that we don't know if it describes actual uncertainty or uncertainty at the level that one measures that is not real. In other words, we could have a completely deterministic universe in which inside of the universe, we cannot nail down all parameters simultaneously. And therefore we get the appearance of uncertainty. Is this a case where we do not know if Heisenberg has presented us the map or the territory? Good?
+
+Eric Weinstein 11:56
+Good question. So in the late 1970s, there was a real, there was a revolution, or maybe the mid 1970s, even, that we don't talk about called geometric quantization. So you can look up it has their books on geometric quantization. And one of the ideas inside of geometric quantization is that Heisenberg's Uncertainty Principle originates from the fact that a structure that we had known previously from the 1800s, called Hamiltonian mechanics was actually a curved geometric system where the curvature of the system results in paradoxes because you're sort of you had a flat earth style expectation. And then when you encountered curvature, like the triangle with 90 degrees on every angle, now that's not supposed to happen, that you can have a triangle that's 90 9090. But you can on the surface of a sphere,
+
+Bret 12:53
+if you bent a triangle around a sphere, if you call it a curved
+
+Eric Weinstein 12:57
+linear triangle on a sphere, and you're talking about spherical geometry, it's a legitimate triangle, not just a bent. So in other words, implicitly your intuition pump come from flat space, you didn't make an adaptation when it became part of a curved system and the curvature gave you the idea that something impossible was happening, which is that you could have three angles, all of them 90 degrees. Well, it turns out that you it may be that the degree of failure to the to the ability, which you can measure these two quantities, position and momentum simultaneously may be due to curvature. And it's the curvature of something called a line bundle, inside of something called geometric quantization coming from Hamiltonian mechanics, which was one of the two main schools of how to do a physics problem. So you start off with something that's fairly ancient, that you can either do Hamiltonian or Lagrangian, physics, two different ways of coming up with an answer of if the system starts like this, how will it develop? And there was a hidden feature. It was like an Easter egg that hadn't been found really until, let's say, around the 1970s. And that easter egg says, Hey, you know, this upcoming thing that you're gonna find in, in quantum mechanics, which is Heisenberg's Uncertainty Principle. Turns out that that's actually coming back from an Easter egg that was partially on earth by William Hamilton. There's a William
+
+Bret 14:22
+somebody, Hamilton, that's my Hamilton. Okay.
+
+Eric Weinstein 14:25
+The Hamilton Hamilton math Hamilton of quaternion fan forgot what his name is.
+
+Bret 14:30
+Okay. I was feeling smart. And then I started feeling stupid again, I have a feeling No, that's this is this is par for the course. I have a feeling that when you say curvature, that I don't know what you mean, because I'm very tempted to take it more literally than I should and that it's almost like literal, literal curvature, but that there's a way in which it's more metaphorical than that. But let me ask you just to check on whether I got what you said at all. Sure. If Heisenberg's Uncertainty is the result curvature rather than actual uncertainty in linear space on 3d space, then you could have a deterministic universe in which the appearance of uncertainty would be there. But it would not actually be uncertain as a result of the fact that it is coming from curvature
+
+Eric Weinstein 15:19
+well, so that's not even where the uncertainty comes from, really, it should be Heisenberg's non commutativity relationship, rather than as an uncertainty principle. So in part, the linguistics have gotten us very fouled up. So I've made the case on a recent essay on my own podcast, the portal, which I begin each episode now with an audio essay,
+
+Bret 15:41
+by the way, those audio essays are fan tastic. Really, I don't know if I've heard every one of them, I think I might have to really appreciate every one I I've heard spot on, and brightness and brilliantly written,
+
+Eric Weinstein 15:53
+I really appreciate that. Thank you. Makes me wonder what you're setting me up for later. You'll see, okay. But what I would say is, is that, in this recent essay, I had to make the point which is very tough on people, that classical mechanics is deterministic in one sector, and that sector, when it becomes quantum mechanics is exactly as deterministic as classical mechanics. Like all of the uncertainty in quantum theory of quantum measurement occurs in a second sector, where classical mechanics doesn't know how to answer a problem. And so it remains mute. And you can't say it's deterministic or non deterministic. So for example, you know, if I asked you, whether you're wearing, are you either a wearing a bandana, or be wearing a jacket?
+
+Bret 16:52
+That's a tough question. In classical mechanics, you'd
+
+Eric Weinstein 16:54
+say not a good question. Yeah. In quantum mechanics, we'd say, well, 50% of the time, you'll be wearing a bandana and the jacket will disappear. And 50% of the time, you'll be wearing a jacket and the bandana will disappear.
+
+Bret 17:07
+With respect to this question. I feel like I'm in a superposition, but I'm not enjoying.
+
+Eric Weinstein 17:13
+You're in one of the best positions, man. Wonderful. Okay. Yeah. So that, that weirdness nobody remarks upon which is that it was in the sector where we're asking what I've called Bad questions. That is, every question come in quantum theory comes with an implicit multiple choice list. If the answer is not on the multiple choice list. Quantum Mechanics just guesses and it guesses according to some formula as to how likely it is to make every guest. If it is on the list. It always guesses correctly. It's completely deterministic. And so by reef casting, so I'm trying to get rid of the linguistic associations, you're coming in with Heisenberg, you know, something, there's a cat, something that a double sniper,
+
+Bret 17:58
+you haven't even figured out why you're pissing me off. Yeah. Okay. Here's the thing. I get the quantum weirdness thing. I've stared at it, I get that fully embracing the fact that what I'm understanding can't possibly be right. And yet it is that part. It's not that I know what to make of it, but I know how to accept it. What I don't accept is that there's any ambiguity between deterministic universe and not deterministic universe. And so I guess my question is, are you telling me that there is some wiggle between those two? Because I feel like it's completely discrete. That either there is some wiggle, right? There's some uncertainty that comes somewhere. And everything that appears to us to be somewhat uncertain is somehow bootstrapped up from that thing, or it ain't, and we are permanently billiard balls bouncing in a totally predictable way around a billiard table. And this is just some absurd of noxious spectacle of the illusion of chance. Why?
+
+Eric Weinstein 19:00
+Well, the part of the problem is, is that you probably have an Einsteinian picture. When yes or no. And according to quantum mechanics, I don't like
+
+Bret 19:09
+but I think does play dice, I think he has to wear evolution wouldn't work. As I know you don't believe that argument. But I
+
+Eric Weinstein 19:15
+believe that you have an intuition pump that effectively says that the peculiarities of an aardvark or something are so bizarre to imagine that it's encoded into the initial state of the universe is beyond preposterous. Now, Stephen Wolfram is coming out with an idea that certain simple rules give birth to fabulous levels of complexity, as we saw with like the Mandelbrot set. So that's an entire blind alley to go down which people like the certain
+
+Bret 19:44
+Oh, I don't want to go down the blind. Well, I'm just telling you, I'm not I'm not asking you to explain to me why we're on one side of this puzzle, the other side of this puzzle or it's an unresolvable puzzle, that doesn't mean anything. What I want to know is do you actually know the answer to the question?
+
+Eric Weinstein 19:56
+Let's put it this way. There's a question about what would Be true if my most optimistic and aggressive version of my theory were true,
+
+Bret 20:04
+cool, I'm gonna correct you. You're gonna hate this. Okay?
+
+Eric Weinstein 20:08
+Why Why am I doing this then?
+
+Bret 20:11
+Here's the thing. You say theory. Yeah. And I believe you are borrowing something now that is going to rob you incredibly in the future. And so I hate it. But it's a it's a, if it's physics, it's a hypothesis. If it's math, I guess it's a postulate. But it can't be a theory yet.
+
+Eric Weinstein 20:34
+Okay, I don't want to get into that. Whatever that cool. Well, we'll come back to it, you're just putting a placeholder to escape? A difficulty that I can't yet see in 12 dimension? No,
+
+Bret 20:43
+no, no, no, no. What I want is when it becomes a theory, because it is actually established something in the real world, I want it to pull away from all of the other crap, okay. And the word theory is the way that works in some fields and not in others. For some reason, I don't
+
+Eric Weinstein 20:58
+know where you're headed, but I'm happy to have you, I'm happy to marry theory is a theory
+
+Bret 21:02
+because we have established that it is true to some high degree through experiments and observations,
+
+Eric Weinstein 21:09
+I don't want to get into the string theory isn't a theory, I would agree that string theory isn't a theory. But I'm specific enough about what this thing is. I don't, I don't fear that
+
+Bret 21:24
+we will just put an asterisk, we disagree about this, it's fine.
+
+Eric Weinstein 21:29
+What I was gonna say is that I don't buy into what you probably believe about the world. Which is I don't think that right now You and I are in three dimensions having a progressing conversation and a fourth called time.
+
+Bret 21:45
+Yeah. So
+
+Eric Weinstein 21:47
+as a result of that. One of the issues is that you have to go beyond Einstein, if you're going to resolve resolve, you're going to attempt to resolve any problems generated by Einstein like black holes, why are there singular solutions, or the initial singularity, which we sort of mapped to the time around the Big Bang, or something like that? those problems in my mind, and some others that I think are more significant, and somehow people don't care about them, which I find bizarre, indicate that there's something beyond Einstein. And if there is something beyond Einstein, you have to ask all the questions that I formulated inside of his world. Yeah. Do I know what their analog is in the larger structure? So my guess is, whenever I see the amount of ink spilled over something like quantum theory, and indeterminacy, and uncertainty and all those sorts of things, entanglement, many worlds, I immediately say, oh, sounds like people are in the wrong paradigm, trying to ask questions prematurely about what would be relevant in the next paradigms, flatland,
+
+Bret 22:51
+you got flatlanders, you got flatland, running around trying
+
+Eric Weinstein 22:54
+to figure out higher dimensions would be one problem and curvature, which would be another problem, they can't figure out either of these two. And so the only reason for engaging in that stuff is usually to break the paradigm. Or it's recreation. It's like, you're not really serious. We'll have a half hour discussion about freewill. I have no interest in.
+
+Bret 23:15
+I've been in those discussions. They're not fun. But before we let avoid them, before we leave Einstein, I want to make my other point and see whether it lands or doesn't land with you. So you say. So let's first say, sitting in three dimensions with time as a fourth dimension does not describe the four dimensional manifold, the four dimensional manifold, my understanding would be that that's actually a four dimensional shape. And so a creature that lives in this four dimensional shape, but experiences one of the dimensions differently. The cork is with the creature, right? The shape is four dimensional and the creature is, you know, has an accounting system Wish
+
+Eric Weinstein 23:53
+me I would say that the weirdness is that if you think about it, as Gladys Knight and her three pips, where time is gladness, and the pips are spatial dimensions called X, Y, and Z, let's say that world is one in which time is somewhat broken out especial? Yeah. And somewhat not like you can trade off small amounts of time for some small amount of space. But you can't treat time, wholesale as space. Okay, so there's a weird way in which time is distinguished there's a weird way in which time is one of the one of the
+
+Bret 24:32
+bad Okay, so this actually brings me to the point. So first of all, you and I are in some ways, quite similar cognitively. And in some ways we are opposites. Right? I believe that because you existed in the world I was born into. I ended up moving in the direction of complexity that is biology and away from the ultimate fundamentals and you often when I say something like this, you correct me and you say yes, you treat bio. Have you like a fundamental though, which is true? If that is that is what I did with it. But the way I did that was that there are a couple things that are true of biology that make it dead simple compared to stuff that you're working on. One of them is that at the end of the day, creatures have to make sense, right? And that they don't have to make sense to you. But they have to make sense in some meaningful way. And so it's a simpler puzzle, right? We don't have quantum weirdness in biology because the creatures have to eat and they have to, you know, bring in enough energy and all that. The other thing is, biology is much more tolerant of a kind of logical cheating, you can get, you can get used to where sloppiness is allowed and where it isn't. And you can take advantage of the the the tolerances that come from the places where sloppiness doesn't really hurt. One of the places that I've found that you can be very sloppy in biology and make a ton of profit is with the following claim. Then anytime you see a pattern in space, there's another pattern in time that looks just like it and it probably goes by some other name. And nobody's noticed that relationship. So you can kind of double your returns just by taking everything you think, you know, in either time or space and looking for the analog in the other paradigm.
+
+Eric Weinstein 26:18
+So a version of this outside of that would be that I'd take thinking, we seem to say lots of things about the word thinking, overthinking groupthink, critical thinking, we never say it about feeling. So if I just replace everywhere I see the word thinking, I talked about you're over feeling this you're experiencing group feel, we have to try to feel from first principles, all that kind of stuff. People are shocked because
+
+Bret 26:43
+you come up with these brilliant concepts, and they really are brilliant, but you have a formula that actually generates brilliant
+
+Eric Weinstein 26:48
+and to be honest in economics, p&i, my wife exploited the fact that you, we know that you can't integrate people across space. So that voting has its own problems. We know this is the arrow and possibility theorem for something called social choice theory. And it turns out that what is impossible in space is possible across time, because time has an extra piece of information, which is, let's say, we took you, me, Heather and Pia, before of us in space, if you could morph me into you and you into pa and PA into Heather, you'd have a continuous variable that connects us that's something that you have with one agent over time, many instants of time rather than one instant of time and having many agents. So sometimes there's a false duality to this. Sometimes there's a true duality. And yes, this is an absolutely interesting issue where people don't notice that there is that which works across these reflections and changes a variable and dualities and that which does not
+
+Bret 27:59
+okay, I completely lost what you were getting at when you had us transmuting into each other, I didn't get that for
+
+Eric Weinstein 28:04
+you want to compare your tastes, and whether you're better off in a future instant of time, given that you've changed your tastes over time. Yeah, turns out that we have a way of doing that with the field thought that was impossible. If we want to compare a bunch of people's different tastes, you could do that if you had a morphing of me into you, you into somebody else, somebody else, somebody else I see. And therefore the idea is, is that with an extra piece of data, there would be a duality between time and space. But even the great Ken arrow, arguably the greatest of mathematical economists of modern times, was fooled into thinking you Eric cannot possibly be telling me that you guys have solved the problem of intertemporal tastes because that would imply a solution to inter agent taste comparison. And I proved that that was impossible. Therefore what you do is impossible then I had to say to him, nope, you blown it, you didn't understand that there was an extra piece of data which made time different than space. So am
+
+Bret 29:03
+I right? That this is a Cluj. The thing about occlude for those of you who are not familiar with the term Cluj is a basically an engineering term, where a Cluj is an inelegant but highly functional solution. What is a Cluj? In this case, in this case, the fact that you can use that obviously, there's nobody transmuting into anybody else. But if you treat somebody as transmuting into somebody else, you can apparently solve a problem that you
+
+Eric Weinstein 29:30
+wouldn't be able but then that solution would depend on the transmutation. And since that's not real, if you can't remove that dependence on that extra piece of structure that you've now invoked, you know, so yes, the idea is that I can solve the arrow and possibility theorem with an extra piece of data, which is a continuum that connects all members of the society together. Does that ever work out to be meaningful, I've never seen a meaningful example of it.
+
+Bret 29:59
+Okay, So I think I have tried to riff and play with, you know, I'm normally I think it's good for one thing. For one thing, I think maybe the most important thing. You know, I don't know exactly who's in your audience. But I would imagine that just simply discovering that with something, you know, to people who've spent a lifetime exchanging information, speak each other's language and all that, when you're talking about a gap this big, yeah, there's a lot of like spinning your wheels and scratching your head and not knowing what's going on. And it does result in progress. But, you know, being sort of empowered to say, No, I don't get that yet. Yeah, probably for people who care about what you're talking about. It's probably useful. Okay. So if I get you so far, yeah. There's, most people have a problem at the gap between three and four dimensions, they're uneasy with what it means that time is a dimension, in some sense, analogous to the first three. I'm there, I do that one pretty easily. Maybe I've got some sloppiness in my thinking about it. But you're telling me that What I don't get is that that four dimensional universe that I'm kind of, you know, I've taken off the training wheels, but I'm no expert in Yeah, that that thing is actually the training wheel land for a larger universe that I know from past things you said is 14 dimension. Yeah. Okay. And so then I agree, when you say, Oh, it's 14 dimensional, I can say, Okay, well, there's, you know, there's 14 bits or something, right? It's 14 bit color, I don't know what so I can sort of understand what it would mean to have a 14 dimensional space. But I don't understand how you would know, if you're in one, and what its implications might
+
+Eric Weinstein 31:44
+be, well, people get very hung up, because they don't understand that not all dimensions are visual dimensions or spatial dimensions. So for example, very few people get upset when they buy a piece of audio equipment. And it says treble, mid range, base, volume, reverb. Okay, well, that's five dimensions to me. Yeah. And then they're like, well, that's not a real dimension. They're thinking, and I'm saying, Okay, well, then. And now I know what your confusion is, is that you've been told that dimensions are spatial, or visual, spatial dimensions. And so you're going to reject every number that isn't three. Yep. Okay. And so I'm going to say, Well, it seems to me like when you eat when you order food, you're thinking about sweet, salty, bitter, sour pain for you know, those chili peppers, and heat. That's so there's six dimensions going on your tongue before I even get started, and you're not freaked out? That you've got six dimensions worth of taste. And the only problem is that you're trying to cram those into your visual court. Well, how can I see them? Well, you don't see those tastes either. You taste them. So you know, your your mouth is at least six dimensional. Based on what we just said. It's very important that you understand that you're not dealing with super minds. Really? Just a second breath. I'm going to see the 14th dimension. No, you can't do it, because you're a mere mortal, but I your older brother. I've seen farther than other men. Yes.
+
+Bret 33:12
+All right. So okay, you're solving a problem here for me so terrific, when you say so I think I'm being misled, then by my experience, which is, the first three dimensions are similar to each other. The fourth dimension is unique feeling, but parallel, in some sense, to the spatial dimensions, or maybe the one dimension of time is parallel to the three dimensions of space or something like that. And so I have the sense of like, Oh, this isn't getting easier. As we add dimensions, this is getting weirder and more complex. And what you're telling me is that it may be that some of the stuff that's above the level that I can conceptualize it are simple bit flips are something that doesn't you know, add indefinitely large amounts of complexity, but you need to be aware of them or else everything
+
+Eric Weinstein 34:02
+every but we could do the whole thing visually. So for example, for those of those people who are watching this, rather than listening to this, I'm now holding my glass of recently drained kombucha and the rim of it seems to be close to a circle. Now, if space were just one space time or just one circular dimension, yeah, then I would claim that the enlarge structure so in my theory for becomes 14. The one dimension that is the one parameter, people will think a circle is two dimension again, it lives in two dimensions, but because there's only one to get
+
+Bret 34:45
+to, you only need one number to say where you're on the circle. Just give me the angle. Yeah, right.
+
+Eric Weinstein 34:51
+That circle would generate something of one original dimension plus one dimension, which for me, would be As a way to measure length at every point on the circle, so a different ruler to measure length.
+
+Bret 35:07
+So we don't get this yet. So there are an infinite number of points around that circle. That right? The circle is infinitely divisible. You're saying you want a different ruler for each. So as Finally, as I divide, you want a different ruler for each point,
+
+Eric Weinstein 35:20
+I want a rule that tells me how to measure length on the line tangent to that circle, at any given point. Okay, so there are an infinite number of tangents to the circle, you want to measure how much of a line segment you have, you want a ruler that allows I want an infinite line at every point. Okay, tangent to that circle. Yeah. And then I want a different ruler, or a rule that tells me how I can measure distance along that line where it doesn't have to all come from one ruler that I placed at every point
+
+Bret 35:50
+why that's the thing is throwing seems like one ruler, that you can just tell it where to measure is good enough. Why would you want a special one for each tangent? Well,
+
+Eric Weinstein 35:58
+because you're borrowing the fact that that this glass is living in three dimensional space. Okay, and because of that, and because three dimensional space seems to have one ruler, where it like you don't buy a different ruler for your x, different dimensions, your y, your z. So the idea is you go off to Amazon, or the local hardware store, you buy a ruler, that ruler is living in three dimensional space, now I give you a problem, you're like, Okay, I'll just go get my one great ruler. Yeah, and I'm gonna measure it every point. Well, this circle in my story is the analog of space time before it gets to become space time. So call it proto space time, because what Einstein did, effectively, let's just make it weird. He said, Take the four dimensions of taste on your tongue, sweet, salty, sour, and bitter. Come up with a different intensity scale for each of those things, call that a ruler, and then come up with angles between them.
+
+Bret 36:53
+Now what?
+
+Eric Weinstein 36:56
+How do I know whether suite is very similar to sour? Because sweet and sour go well together? Or is it really that it's kind of opposites? Or is it some kind of delta between the experiences? Right? How different is sweetness? We don't know. So I'm trying to invent a world, which isn't the three dimensional world in which you and I seem to be you're trying to find an analog world? And of course, I'm trying to build you an intuition pump. So the idea is that your visual cortex in the back of your head, since we're doing biology, yeah, is a huge hindrance to you. Yeah. And that huge hindrance is that you're going to map everything back to that. And since everything came with rulers and protractors, you're not going to be able to think about a world before rulers and protractors. And since Einstein's principle insight with Grossman I might add, this is before Einstein breaks out into gr as most physicists Now think about it was to say, I bet that the geometry that we call differential geometry, or riemannian geometry, or semi Romanian or pseudo Roman, whatever this kind of geometry was that came up in Germany, way back one. This geometry is the right way to model our universe. But your universe contains the geometric assumptions already. So you're sort of saying like, I don't understand, what did you do? Doesn't seem like much. So I'm trying to say, Okay, let's talk about your tongue. We know for example, that there's like a Scoville scale for pain for peppers. Okay, that's weird. That's a ruler, that's a ruler to tell you how,
+
+Bret 38:25
+how intense. Okay,
+
+Eric Weinstein 38:27
+my guess is the people make artificial sweeteners probably have a sweetness scale? Yep. And we don't know how the sweetness scale and the pain scale interact. Like, are those the same ruler? Was there any thought of the intensity to make sure that it's common between the receptor receptors, like, you know, what is the threshold to get your attention, maybe the idea is below a certain threshold, you don't, it doesn't get your attention. You call that one. Now you've normalized your rulers across all of the different tastes. My point in this is, when it comes to pure taste, forget pain and forget heat for the moment. Yeah, you've got four major kinds of receptor that we know about. Those four receptors are like protos spacetime, it's like Einstein before he puts the metric which is the rulers and protractors on the thing that we call space time. You and I are inheriting rulers and protractors from Einstein spacetime.
+
+Bret 39:21
+Okay, so I get the intuition pump problem. Okay. I get the, the analogy that's throwing me but I can correct for it with the tongue because obviously that's an evolutionary space and how intense the pain is, has everything. It's just
+
+Eric Weinstein 39:34
+four degrees of freedom that didn't come equipped with the thing that you're always going to say like, I don't understand. We have rulers and protractors just go out and get one and measure stuff. Yeah, the idea is, okay, well, on your tongue, you don't have that.
+
+Bret 39:46
+So when you say rulers and protractors Yep, this is I'm, I don't know if this is right. But I'm asking you, you are saying there are two different kinds of delta where you want to measure the difference between two Things, sometimes you're talking about something analogous to a length than your ruler, right? Sometimes you're talking about something, that's an angle difference. You want a protractor, okay? What I don't get is what length and angle are analogized to, I know how I know how lanes and angles work, but I don't know. Well,
+
+Eric Weinstein 40:20
+we would say, in grownup math land is Oh, at every point, you need a metric, which is a symmetric, non degenerate to tensor, that's a bunch of language, read it against lower, there is a gadget, which is effectively a combination ruler and protractor, and you have to extract length, style and angle style information from it. But it's basically in four dimensions, a four by four matrix. So 16 entries, in which, if you flip across the diagonal, going from the northwest to the south east, it has to be symmetric under a flip. So once you've got the top triangle of that diagram, concentrated in the northeast corner, and you flip that into the Southwest, all the information is reflected from that object, I can get length and angle information. So when I whenever I talk to lay audiences, I don't talk about symmetric non degenerate to tensors, you do more than you think. But much less than my colleagues I talk about, oh, it's just rulers and protractors. And over and over again, you'll hear me talk about rulers and protractors. So what I'm really talking about to a math audience is a four by four matrix at every point, in essence, symmetric about its diagonal, but the content of that is, at least as far as Einstein was pushing it, I'm pushing it farther, just ruler and protractor information. And from that, it turns out that curvature is an emergent quantity, which is kind of a giant shock. We all sort of think we know what we mean by saying something is curved. Mathematicians figured out Oh, it turns out, you can recover curvature as a consequence of just having rulers and protractors, which is a highly non trivial observation.
+
+Bret 42:08
+Yeah, I mean, it strikes me as hinted at, by the mechanism that both the Greeks and the Chinese use to figure out Popeye to sort of narrow in on pie, right? That basically what you're using is non curved math to approximate what happens as you get to curvature? Well,
+
+Eric Weinstein 42:36
+we have a series of things that we do like the idea of a tangent vector, when we have the rim of my glass, and I talked about the line tangent to the glass, you could say, well, if you don't put your glass inside of a three dimensional world, how do you know about the line tangent, and mathematicians say, we don't actually need to put the glass in its rim inside of a larger space we used to, but now we learned how to talk about tangent. See, from the point of view of differential operators in Newton's calculus, it's like, okay, so the, the analogue, the sorry, the, the concept that you learned about in high school is something having magnitude and direction. Yeah. Turns out to be a differential operator.
+
+Bret 43:17
+Yep. Actually, I was just gonna ask you about this is the reason that we are talking about rulers and protractors because of their relationship to a vector.
+
+Eric Weinstein 43:26
+Well, it's, it is vectors that we are measuring, to say what their length is and what their angle is. Yeah, even the word length is a lie. Because there are nonzero vectors that everyone would agree that is nonzero that would have nonzero length. And then people said, Wait a minute, you just blow my mind. But why is nonzero length trebling? Sorry, they would have zero length zero. And so you have nonzero vectors, which have zero length, because we took a word that you know very well, and then we borrowed it someplace where you really don't have any intuition at all. And now I just, you know, it's like, blowing somebody's mind at a Christmas party. Right? There are vectors that are not zero, but they have zero length. Wow, tell me more. Well, it's 100% having to do with the linguistic encoding of the word length.
+
+Bret 44:19
+It does not have to do I mean, there's obviously a tremendous amount of weirdness that happens at zero,
+
+Eric Weinstein 44:25
+which Well, I'm not claiming that I'm not claiming is not weird, but it's not as weird as saying that a nonzero object has zero length. That's like what physicists and math people do to blow people's minds and get them interested in the subject and then we unblock your mind later by teaching you what we really meant. So it's kind of a not my favorite way of getting people in the door of math and physics. So
+
+Bret 44:46
+I don't know I don't know if we're just goofing off here. But you know, I used to say, I'm not a good dancer, but I did spend a little time when I was in Latin America, we were a great dancer around the time of your wedding, I was okay. But what I learned, I was always mortified by dancing. And what I learned that kind of you know, was one of the few things that broke it loose for me was that it was very important that you do something on every beat, even if what you do is nothing, right? This best formulation sort of allowed me to think through it rather than, you know, hopping all over these beats and not knowing when you were supposed to do what. So anyway, it sort of sounds like the same sort of thing that you've got some sort of nonzero object that has zero length,
+
+Eric Weinstein 45:30
+you've got something that agrees with the concept of length in the realm that you're familiar with it that extends into a realm that you've never thought much about. So if you extend the word length, you blow your own mind. But if you were to say, like something about the weight of a vector, and I could say, well, this vector has weight zero, but it is not zero itself. Right? Yeah. So that then the idea,
+
+Bret 46:00
+use Wait, they're very carefully because you can get zero weight without having zero mass. And so first time you realize that so so
+
+Eric Weinstein 46:07
+at some level, if I, if I, if I call it length, which is to extend the word that you already knew, yeah. Then you'll have the wrong intuition. So what I did was I cleverly sort of misdirected you as a magician into wrong intuition. And that caused your mind to explode. And then I get to go home saying, Well, I'm smarter than he is. And I hate that game.
+
+Bret 46:26
+Yeah, I don't like that game, either. And, you know, I'm also I like the game of where's my intuition misleading me, that's, uh, you know,
+
+Eric Weinstein 46:35
+this is partially when I'm not trying. And I'm not pretending as an imposter to do physics research. I'm pretending as an imposter to be a pedagogue and to clear up people's confusions that are left by other physicists, or mathematicians who are intentionally trying to blow people's
+
+Bret 46:51
+minds. Okay? Yeah, no, that's a, that's
+
+Eric Weinstein 46:55
+because I'd rather blow your mind in an honest way that causes you to want to stay engaged, rather than just say, Wow, the universe can fit inside of my fingernails,
+
+Bret 47:04
+you would rather blow our minds, consequentially, rather than by virtue of the fact that something sounds amazing. Yeah, yeah. Okay, good. So, all right. There's some sort of 14 dimensional space. You've let me
+
+Eric Weinstein 47:18
+just say a word about that. Imagine that your proto space time was like an infinitely thin hair band.
+
+Bret 47:25
+Okay, hairband, like Aerosmith or
+
+Eric Weinstein 47:29
+I would have gone with poison. But anyway, alright. I think Aerosmith is more timeless. But let's, let's keep on at least everybody's heard. All right. So, I would say that, if you started off with an infinitely thin hairband, then for every point on that hairband, imagine this space of all possible things that you might call a unit length, all possible rulers, okay? And allow that a ruler can be either marked with positive numbers or negative numbers for whatever reason, yep. But you're not allowed to choose the zero ruler. There is no way in which you can claim that everything is of zero length or infinite length.
+
+Bret 48:10
+I don't understand what a zero ruler would be.
+
+Eric Weinstein 48:13
+Let's not worry too much about it. Okay. What I would claim is that the object that I would create, if I did the same thing, which I'm doing to four dimensions, turning it into 14, would turn the hairband into two toilet paper cores, the cardboard cores would be two disconnected cylinders. And you can see that the circular nature of the hairband would be represented in the circular nature.
+
+Bret 48:42
+Okay, so I get so you get it, you take a band, let's imagine that this was done on the computer screen, right? You've got a circle, right? This hairband of no dimension, right? And you stretch it across something that gives you a tube.
+
+Eric Weinstein 48:55
+Well, what I would say is that, along that tube is every possible going lengthwise down the tube is every possible ruler with the same sign. So the reason you have two eyes because there's a positive and a negative, there's a positive in the negative. That's why you have to do so effectively took a long tube, you cut the middle part of the tube out, because those that would be the degenerate metrics.
+
+Bret 49:18
+So is this you can't have one tube that goes from positive through negative because of a divide by zero problem.
+
+Eric Weinstein 49:29
+You can't have that because then you would say that there are directions which can't be measured as having a nonzero weight, if you will, or length or whatever you want to call it relative to every possible thing. So every possible measurement could yield zero if you choose a degenerate symmetric tensor. So remember, some things can only serve as rulers and protractors if they aren't pathological, so all we're doing is getting rid of the stuff that is pathological. And saying, I'm sorry that there was a little bit of fly in your soup sir. We've we've removed all the flies for me, I still
+
+Bret 50:15
+want to know when you say pathological zero is weirdly pathological. You know, you can't divide by zero or blow your computer up, right? So there's a problem with zero, that doesn't tell you anything about immediately adjacent. So you
+
+Eric Weinstein 50:30
+don't know have any way of handling the case where the rulers and protractors are effectively going to return zero for certain directions in all circuits. So
+
+Bret 50:38
+you're better off just saying, look, we can deal with this toilet paper tube and we can deal with that that toilet paper tube and they don't connect, but that's okay. Because Yeah, okay, got it. So now,
+
+Eric Weinstein 50:47
+if we, if we took the hairband and then we said, You know what, let's let's up our game a little bit, because the hairband, you can't there's no space, it's either all space or all time depending upon whether you chose the plus rulers or the minus rulers. If you chose the minus rulers. It's all time. If you chose the plus rulers, it's all space.
+
+Bret 51:07
+Okay, wait. So in my mind, stop it. Why would the sign is that arbitrary? That sort of, Okay,
+
+Eric Weinstein 51:16
+so in other words, it doesn't tell you that space should be plus time should be mine. Because you, I need some way of distinguishing some time from some space. And if you want to do everything backwards, from my conventions, feel free to call space, negative and time positive. Got it and believe that the east coast in the West Coast of the US chose different conventions in terms of the university. Really, I think there's an east. And there's a physics thing mathematicians almost never we know about this stuff. But it's not our lifeblood. In general, we prefer everything to be all past all plus or all negative. Right, we would call that Romani and geometry, we know about semi Romani. And geometry is just not very important to us. It happens that the one case of geometry that's really important in the outside world, it's mixed, because it's one time and three space.
+
+Bret 52:05
+So are you telling me that mathematicians are forced into a landscape of half plus and half minus and when we
+
+Eric Weinstein 52:11
+want to talk about general relativity, and we want to talk about physics, we know that the case that we don't like, which is mixed signature, yeah, is the one that is physically relevant. So it's sort of perverse that we would prefer to be in what would be called Euclidean signature, that is all plus or or minus. And that's where we do our geometry. But our physicist friends, the one case that they really like, is this mixed signature case.
+
+Bret 52:41
+Okay, so is it that they are bringing this stuff to the table that forces you into their zone? We
+
+Eric Weinstein 52:49
+came up with an abstraction. Yeah. They applied it in one case. So imagine you're a software company. Yeah. And you didn't correctly anticipate who would want to run your, your software. So you've got one amazing government contract, let's imagine. Yeah, and it's for us that you never imagined would be your leading use case, like somebody's got a weird use of your product. And that's your only client. So your only client outside of your pure shop that's keeping you afloat, is in the one case that your engineers don't like working on that much.
+
+Bret 53:24
+But if we could just suspend the physicists, you could translate this all into plus or minus, it's not that the universities we'd still do
+
+Eric Weinstein 53:31
+it, but it would be done in some obscure department. Very often, what happens is that if you have a special case, somebody who's not at the center of the world doesn't have the ability to kind of constantly check in with what happened this week. Yeah, we'll take it over. So like, you'll have a Uruguay community that cares about some special thing. And it's great at some level, because it means that somebody makes some important case, their life's work. It's like if you're the guy who's in charge of the platypus, you have to really know your stuff on that one system. But that system is so different than everything else, that maybe, you know, you're not the generalist, yeah,
+
+Bret 54:11
+nine removes the cognitive burden from those who have to juggle a bunch of things, which would otherwise be
+
+Eric Weinstein 54:16
+and there's so there's some dialogue, because you know, quite honestly, the platypus is more important than just as an exception, because it actually had a huge thing to say about mammalian evolution. So in this case, I would say, it turns out that the physics community keeps us interested in a class of equations called hyperbolic equations, that are really important that maybe we would discount and we'd stay in the case of what we call elliptic equations.
+
+Bret 54:45
+So this happens. I don't know why it comes to mind. But in biology, this happens around mites. So mites are of course, everywhere, crawling all over everything, but they're in general Very tiny. And so most of us biologists just don't even pay attention to the fact that they're there. But the might people are really interesting. And they have this kind of bent. In fact, other than I had a friend, George Hammond who used to say, you know, there'll be some seminar on some plant dynamics, you say, there's always a miter angle. So anyway, yeah, mites are the zone of special people who, you know, enter the conversation when something turns out to determine to be dependent on this. So I
+
+Eric Weinstein 55:29
+was gonna say, though, is is that if you, if you up the game, you say, Okay, now I want to play with two dimensions. So I have one time dimension and one space dimension, at least that starts to sound like reality. Because space and time are different. Yep. So then you'd be in a two dimensional world. And you'd have one ruler in the time dimension, one ruler and the in the space dimension. So think about a watch versus an actual ruler, and you'd have an angle between the two, which would be your protractor. So that'd be three pieces of extra data. And then if you threw out just the way you cut through that, like, let's say paper towel core, have your positive and your negative. Now you've got three pieces of that three dimensional space of two rulers plus one protractor. And it looks like a giant butterfly and it takes three dimensional space and it cuts out It looks or you know that thing jugglers use called a Diablo, which is like, oh, like they are? It's a wheel on a string? Oh, yeah. Right. It sort of the bad stuff now looks like kind of the beginning of Diablo. And so you have three sections. To in the wings, call it a butterfly. And then there's one that kind of goes around where the string would normally go on that kind of fly wheel contraption. And those three things would be the three different possible signatures to have time, none of space one of time and one of space. To have space, none of time. So those are the three possible ways of dividing up two dimensions into three into space and time. Okay,
+
+Bret 57:17
+this is this is one of many points along the way, where I begin to doubt that I know what we are even
+
+Eric Weinstein 57:23
+discussed. Well, all I'm trying to get at is people want to know what's new, what are you doing, and they don't usually go back to Well, what have we already established is pretty solid and interesting. So Einstein told us that spacetime is four dimensions for possible degrees of freedom, with rulers and protractors. And the ruler that goes in the direction of the time, is of a different nature than the rulers that go in the direction of space. And there are six angles, rather than in this case of that we just did one angle, because there was only one time and one space. And that is where we begin the puzzle, which is how does one disintermediate Einstein, like if Einstein has a flaw, and Einsteins flaw is holding us back. And by the way, this is a terrifying thing to say, because we all love Einstein so much we don't get we don't want to get rid of the guy. Yeah, we can't disentangle
+
+Bret 58:17
+the lovable guy who made huge progress from the possibility that where his work,
+
+Eric Weinstein 58:23
+well, you have to trust that you're gonna that what you do will honor him in the end, but you can't honor him in the middle, you actually have to go after him in the middle, which is the tough part. Right? And in some sense, he was just such a beautiful soul. That we also want to make sure that we don't do any damage to that soul. Yeah. Okay. so in this situation, what I would say is, Einstein threw away all but the space time metric that he believed in. So in other words, he didn't allow the stuff in the universe to dance on top of the rulers and protractors. He just chose one set of rulers and protractors. And then he said that the stuff in the universe is engaged in one equation called the Einstein field equations with that stuff.
+
+Bret 59:11
+Okay, so I know I'm full of shit here, but I also have a feeling it's metaphorically, right. Okay, this is the thing that's that causes fields to get stuck. And that is that diminishing returns causes a cognitive failure. And the cognitive failure is that that which works really well becomes reinforced as the mechanism to go forward because at a temporary moment, which may be an entire career, you're going forward with this thing. And so you become convinced that it's very, very accurate. And the problem is it's accurate until it starts robbing you.
+
+Eric Weinstein 59:48
+Good. So what I would say is you are making an appeal towards a paradigm that we most often associate with economics, even though it shouldn't be associated with economics, right? What I would then say is, in fact, the parallel is better with evolutionary theory, which is your old stomping ground of soul, right and adaptive landscape theory. The key point is you have to go down in a valley to get to a higher peak, you may be on the highest point of the peak that you know about on a local optimum. And that's where we got stuck, which is everything you do that you try to go beyond Einstein, you get a punished Yeah.
+
+Bret 1:00:34
+Yeah, this is exactly right. And it arms, those who want to stick to the paradigm, which then becomes an economic problem, because we award the power in these fields, to those who have made great progress, and then they're in a position at the point that they well,
+
+Eric Weinstein 1:00:51
+then we get into a different situation, which I don't mean, if you really want to expand on that, I would say, they become the Catholic Church, and they start to hand out indulgences, which is, if you want to violate the paradigm, this particular violation of the paradigm is blessed, and all others are cursed. Yeah. Right. And so the idea is we're gonna suspend the usual rules about experiment, let's say, for string theorists, who are so brilliant that they don't need to be in touch with experiment. But everyone else who comes up with an idea, we're gonna immediately ask, what does it predict?
+
+Bret 1:01:23
+So did yeah. This is why I want you to consider the possibility that theory is the wrong designation. Because if so, here's the point. Over in biology space, we swear that evolution, when we say it's just a theory, we don't mean anything less, it's as close to saying it's a fact as we ever get. Right? It has been so thoroughly demonstrated to be accurate, that we are treating it as a fact until we discover something that dislodges it like this is all a simulation, and evolution was put in it to see what we would think, right? Something like that. So evolution is as close to perfect as we get. And we call it a theory. My point would be at the point that your work predicts things in the world that lead us to understand that it is at least, highly accurate. And maybe the final step in our quest to figure out how the universe works, then it becomes a theory and there's only ever one theory at a time, right? But the problem is over in physics, because physics people are sloppy about this language. You've got people, string theorists engaged in string theory. And the thing is, their work doesn't even rise to the level of hypotheses. But
+
+Eric Weinstein 1:02:40
+they'll say things like, it's not a theory, it's a programming.
+
+Bret 1:02:43
+But there's my point, it's actually filos philosophy of science wise. String theory is an interpretation.
+
+Eric Weinstein 1:02:50
+I want to try to say something a little bit more horrible. Okay? Why are we spending our time in philosophy of science? When we as science scientists spend too much time in philosophy of science, we have failed. And one of my concerns is, is that with all of the ink spilled on what is science, what is the science? What is the theory? What is a hope? What is a prediction? That that's what happens when people aren't able to do good science for a long period of time?
+
+Bret 1:03:24
+No, no, I believe you are making mistake. And by the way, you make an excellent point about what you call desperation, physics. So I believe you are conflating things that may have been Polly's term, well, you wouldn't really have done very well with this. But in any case, desperation, physics is real. I'm well familiar with it. Philosophy can become another version of desperation, physics, or desperation, whatever science you want to talk about, it is not inherently that and so my point would be, you actually don't need to spend a lot of time in philosophy of science space, but you need to spend enough time and that in effect, what you've got in physics is you have the string the so called string theory, community, which is effectively like all of the suitors and other low lifes in the in, in the manner right, and Odysseus is coming home to liberate the manor and save Penelope, right. The point is the the coming home the stringing the bow, the saving Penelope is actually done with the philosophy that says these people are not legitimate here. How do we know because they have dressed up a notion that maybe if we're generous, his interpretation, they have dressed it up, as if it has the power of a theory. It doesn't even rise to the level of hypothesis but they're claiming it's a theory these people are legitimate. And so anyway, I think that the amount I mean, you know, that took three sentences, four sentences, And the amount of power that comes from recognizing, why are we taking this as seriously as a hypothesis or a theory when it doesn't rise to that level.
+
+Eric Weinstein 1:05:08
+So let me just sort of say this. Somebody set up a 24, seven, chat room facility on the discord platform for the portal community. And when I pop in by, you know, some, some means by which I'm quiet, and I listen to what people are talking about, a huge amount of the time they're talking about is their freewill, or their many worlds is something a scientific hypothesis, what I'm actually interested in is to tell them, these are very expensive conversations that are going to take a tremendous amount of your life, because you're going to assume that there's more to this. And quite honestly, you and I can be in different places. My feeling about this is science is the totality of things that have worked to produce fairly reliable knowledge. And at the end of the day, I believe that this is about taste, and about not wanting to be whacked. You know, in general, most musicians have a pretty clear idea about the hierarchy of musicianship. Music is a very large space, it's not linearly ordered, I'm not going to pretend that we all, you know, have the same favorite guitarists. But most of the time, you can say, you know, Hilary Hahn is one of the greatest violinist in the world, and everybody knows it. And when science is working, we don't spend a lot of time saying, is the science. We spend a lot of time talking about, is this science. Is this settled when we're in politics space when the field is stagnated when there's a dispute in which people refuse to say that logic or data adjudicated. And this may be different for evolutionary theory in physics. But from my perspective, I don't enjoy being dragged into the demarcation problem by people who want to sell you're a consequentialist, or actually, I'm coming from a compatible I I'm from a NEO preparing perspectives like, Oh, is that are you telling me that you don't do work?
+
+Bret 1:07:21
+Yeah, I don't, I don't think I'm telling you what you think I'm telling, okay. Because the other part of this riff is this is not supposed to be scientists having this discussion, but
+
+Eric Weinstein 1:07:31
+the scientists in like, we've been so dead for so long, and what I care
+
+Bret 1:07:35
+about, it's, it's all dead. I mean, you've got an entire Academy for when did when did evolutionary theory stuff? 19th 76? Pretty much, not entirely, but pretty much
+
+Eric Weinstein 1:07:47
+yeah. And pretty much in some sense, the kind of theoretical physics Yep, that I weep over and gives me jitters stopped around 1973.
+
+Bret 1:07:57
+Okay. Now, my point would be somehow, we, civilization subsidizes a certain number of philosophers, including a certain number of philosophers of science, who are confused, for the most part into thinking that their job is to talk to each other. Right, rather than to adjudicate what constitutes science on the basis of rules that are actually pretty well understood. And so I am not arguing that we should be spending our time on this, but I'm arguing that their failure means that a small amount of investment in just getting our terminology even straight so that when we make a claim, we are, you know, when physicists use the word theory, right for a hypothesis, the up end biologists who are saying actually, when we say that Darwinism is a theory, we mean something very close.
+
+Eric Weinstein 1:08:46
+I appreciate but if to understand people get into this argument over Darwinism, because they're afraid of its implication, god, yes. Okay. I have a different problem, which is that in general, when physics isn't moving, people aren't getting more adventurous as to who they're listening to. They're staying with the same Pope's Sure. So I could turn to Karl Popper. Or I could turn to ludicrous. And I don't know whether you're familiar with the lyrics to the song Get out the way of course, okay. So my feeling
+
+Bret 1:09:16
+as if you could say them for my audience who may be somewhat less familiar.
+
+Eric Weinstein 1:09:20
+I'm an old guy. I can't remember the lyrics Exactly. However, my feeling is strongly that we should be following ludicrous rather than Karl Popper because I don't have time for this.
+
+Bret 1:09:30
+No, you do have time for it for the following reason that it's a time saver. Now we are wasting time here but let's not well, let's not but my point is, you've got suitors in the manner to string the bow string the fucking bow. But stringing the bow involves just saying, hey, you string theorists. You have an interpretation. You're not theorist.
+
+Eric Weinstein 1:09:55
+There was a guy named Julian swinger, who was fireman's rival. came up with his version of what we call renormalization theory to get answers out of quantum electrodynamics. And he had an epigram for a book that he had to write. Because nobody was taking him seriously. And the epigram was, if you can't join them beat The beat them. Yeah. So my feeling is, is that I could spend the rest of my life trying to get their attention and saying, oh, pretty, please listen to this thing that I've got. I'm also just sick of them. I'm just I'm sick of the critique. I'm sick of the discussions. I'm sick of the same people getting trotted out over and over again. I'm bored. Sure. And we're all bored. So my feeling is let's do non boring things, right? But your
+
+Bret 1:10:42
+work? Okay, I still don't get it. We will get there to hopefully, but your work in the end will predict things in the fuse physical universe that will allow us to tell whether or not you got it right.
+
+Eric Weinstein 1:10:56
+Well, when you say you got it, right. The most important person in this regard is not Karl Popper, is probably Dirac in his 1963 Scientific American article where he specifically points to the instantiation of a theory, which is effectively not only the suit, but how it has been tailored. Okay, so you can have a suit that has been mis tailored, and it will not agree with the experiment, the way the suit will not fit the person who's intended to wear it. On the other hand, that doesn't tell you anything much about the suit. It tells you about the tailor. So when you have an invalidation, part of the problem is is that you've invalidated the instance Oh, rather than the class, believe
+
+Bret 1:11:41
+me, for one thing. One of the reasons that I spend time in philosophy of science land is that I believe that all of the things that we learned from the simpler fields do not apply well to biology, because the complexity causes you to falsify true things on the basis that that complexity always provides edge cases which don't agree. And so if you take a very narrow preparing view, you constantly think things that are actually true or false. And this actually dovetails well with popper himself, who initially was not a fan of adaptive thinking,
+
+Eric Weinstein 1:12:13
+well, and strong prepared in misreadings of popper. But again, my point is, you were in a luxurious position, let's say, with your team, your theory, and with the trade offs and the instantiation of antagonistic Playa tropi, as we discussed in Episode 19, which is, the point is, okay, I just predicted something from first principles inside of molecular biology using only evolutionary arguments. So f you, right, right, exactly. A few is fun, because he doesn't want it I don't love having another philosophy of science. I'd rather talk about do we have the ability to validate to explore, to refine? And, again, you know, I want I talk around science all the time, either we're talking about pedagogy, we're talking about what is good foreign technology we're talking about does it play by the rules, we're talking? We're talking about everything other than the mind bending, gut wrenching, life affirming soul elevating stuff, that will get you high as a kite. So I would rather spend time on like, the majesty of the world than talking about some goddamn philosopher of science and whether or not I dotted my eyes and cross my teeth.
+
+Bret 1:13:36
+Totally. Yeah, but I think your string theory community is busy, Razzle, dazzling people with something that doesn't really merit
+
+Eric Weinstein 1:13:44
+their day are so weak at this point, it is so past their sell by date. And not because of string theory. It is the string theory program, which is, let me tell you don't worry, we've got this everyone else is an idiot. We're smart, and anything else that anybody says we're going to declare a string theory anyway, if it's true, so we got this, my feeling is, you just wasted people's time, depending upon how we count wasted people's lives, waste their lives careers, you spent the entire credit credibility budget of the theoretical physics community, on a baby boomer vanity project, move over. It's enough,
+
+Bret 1:14:21
+totally. And I don't know if you would agree with this exactly. But I would say look, the reason that this happens in every field and it's completely maddening with the string theorists, but it's not totally unique, is that there is no mechanism whereby a school of thought that has run out of power to explain new things can be dislodged, right, the fact that the grant money keeps coming in or the jobs keep getting,
+
+Eric Weinstein 1:14:47
+there is something which is money. Like, for example, there was a death of a very rich person in Chicago, which I think was left to the Poetry Foundation. Right? So hundreds of millions became available. Remember poetry If you had hundreds of millions to disintermediate string theory, you could do it in an afternoon.
+
+Bret 1:15:04
+Sure. But my point would be the way to deal with this. So it doesn't keep happening is on the front end. And frankly, I'm not even sure I didn't get this from you. But if instead of allowing the field the school of thought that is the most promising at the moment to take over the field, at which point it becomes impossible to fails, if you kept the second best school of thought alive at all times. So at the point that the school of thought has failed, it has its natural replacement ready to go to a better position.
+
+Eric Weinstein 1:15:33
+But let's let's be, we're going to end up in one more of these diversion discussions which I can't stand. But here's the real deal with respect to the string theorists were smarter than the general relativists. They were more creative. String Theory gave them some place to demonstrate that they were smarter and more creative. Okay, yep. As a result, the smart creative people went into an area that turned out not to work. Now it's not to say that some portion of it won't will not be salvageable because it was real work of a mathematical type. But part of the problem is how do I figure out how to rationalize giving money to people who are not as good as the top people who've all rallied around something. And so you have a chicken and egg problem. Now, let me just say very clearly that this is not. This is like a peer review problem. This is a sciences social, this is like selecting for people with high emotional intelligence. Some of us have high emotional intelligence across a fair spectrum, and then it may be limited somewhere else. But we try not to use our emotional intelligence when we're doing science because it screws up our science. Because in fact, science isn't about like, anything that you want to pre assign it to. Sometimes it works in teams, sometimes. The team is the problem. It's whatever goddamn works. And in essence, being able to say shut up to people who have like a no assholes policy. I keep hearing my art department has no assholes policy. So like great you wouldn't participate in in 20th century physics next year. Let's just let's just say it straight. You know,
+
+Bret 1:17:22
+our policy projected over a past that we all know who the heroes were,
+
+Eric Weinstein 1:17:27
+oh, my God, Newton was mean to me. You know, now he doesn't have a job. Yeah. Okay. Well, you just showed us. I would not send my child to a university that announced that it had a no assholes policy on the faculty. I might say, I don't want to tolerate s Holic behavior. Yep. or unfair behavior. Sure. But like hard nose. Yeah. No,
+
+Bret 1:17:49
+I mean, you've been making this point forever. First place I heard you make it was with reference to medicine. And your point was very frequently the doctor you want is an ornery son of a bitch, that they're the people who will end up with
+
+Eric Weinstein 1:18:04
+our first child was delivered by the ornery son of a bitch in a ob gyn practice. who saved us from the doctor we loved. Yeah. Give me the son of a bitch.
+
+Bret 1:18:16
+Oh, exactly. Know the person, the person who makes sense tells you what's really going on.
+
+Eric Weinstein 1:18:20
+I don't have to have tea with that person. I got my kid home from the hospital safe. Frankly,
+
+Bret 1:18:24
+I'd actually rather have tea with them, because well, maybe they make some kind of sense, maybe. But nonetheless. Alright, we're bogged down. What I want to extract, we're obviously not going to get to everything today. But okay, you've got Rosen, protractors, right. rulers and protractors mean something. These are tools for unpacking a system, the system is the universe. And my sense is that you play some kind of a game. And the game is like, how many categories? and tools do I need? before there's no residual that I can't explain about the observed? Right. That's how I know when the game is over. Right? That's how I know when this is well, actually,
+
+Eric Weinstein 1:19:13
+to be blunt about it. The really weird thing about my theory, again, my theory and my own concept I can't get into yours is you know, you're what, 30 trillion cells 60 trillion cells, you know, the
+
+Bret 1:19:30
+number keeps changing, I would say the current estimates it should be such an easy count. I know. But 30 trillion is 30 trillion.
+
+Eric Weinstein 1:19:37
+Okay, how did that result? And what 250 adult cell types estimates as far as we know, as far as we know, that all started from a single fertilized egg, which is I mean, it doesn't get better than this now, okay. It's a miracle. So how does that thing have the information largely to become you Well, it didn't. That's a process of unpacking the consequences of a very simple seeming initial object. I haven't an innocuous fertilized egg. What could it possibly become? Nobody would have ever guessed that it would become you. Right? from first principles, right? So that was part of what I was trying to do with. With the Theory of Everything is like, Is there anything that unpacks into something that has the richness of our world? Is there anything with almost no evidence structure? Whose consequences us because there's tons of evidence structure?
+
+Bret 1:20:38
+Okay, that's beautiful. I've never heard you say that before. But it dovetails
+
+Eric Weinstein 1:20:41
+Exactly. Okay. So in this case, for example, that simple hairband where you shrink the radius of that little tube, down to an infinite testable amount, yeah, generates a paper towel core that falls into two pieces. turning that into the analog of space time, is wrapping that hairband in some way around the towel core so that it goes around once
+
+Bret 1:21:12
+you've lost me the towel core, I thought it was
+
+Eric Weinstein 1:21:15
+all rulers that could go at any point. So just move the bit of the hairband up. So
+
+Bret 1:21:21
+if you put the hairband on the towel, right roll, then you can you could mark every space, and then you could move it up and down. And that would tell you which rule and you can move it
+
+Eric Weinstein 1:21:32
+up over here and down over there. So it's got a big ruler at this point. Okay, small goal. The idea is that each point on the hairband only goes through one ruler, which is represented as the space of possible rulers,
+
+Bret 1:21:43
+each point on the band intersects exactly one point on the
+
+Eric Weinstein 1:21:47
+tube, one point have the longitudinal lines on the tube. Every point in the hairband only one line along the length wise direction of the tube. Yeah. Okay. So that's a choice of a particular ruler. The line along that tube is the choice of all possible rulers. So you can order any ruler you want from Amazon will customize it. Yep. Okay, I want this ruler for this point, this ruler for that point, okay. Okay. Now imagine that you had physics that was happening not on the hairband. But on the tube, and which, like, you could ask for the temperature gradients across the tube, maybe part of the tube is warm part of the tube is cold. And the only thing you're going to record is what the temperature was like at that point on the tube. And the hairpin is measure at that point that the hairband was around the tube. Yeah, that is effectively the new use of the space time metric we knew about rulers, we knew about protractors. But we don't have a model in which that is a periscope, importing information from the tube back to the hairband.
+
+Bret 1:22:59
+So the game then is what is the minimally complex geometric structure that provides you enough richness that you can get to all of the states you need. With a simple description of
+
+Eric Weinstein 1:23:11
+sort of let me just test to see whether or not I understood you. In my case, what I would say is that the hairband has enough data. So the hairband is like the the fertilize that has enough data to build the tube, which is tell me about the space of all rulers I could have at every point on the hairband. Yeah, measuring the tangent directions, then on the hairband. Now that the hairband has generated the paper towel core. Now I do physics on the paper towel core, like it can have fields actively stuff that roam around on the towel core that are natural for the towel core. And I say well, can I perceive all of that? No, you can only perceive the part that's along the hairband. So and then the idea is that we're fooled in my story into thinking that the physics is all happening along the hairband, which is in our case, the four dimensional world. But the physics is actually weirdly happening on this 14 dimensional auxiliary structure that which is the analog of the toilet paper or the paper towel core. And we're only sampling the part through the periscope of putting the hairband around at one particular latitude across those lines and launch it
+
+Bret 1:24:30
+now. In some sense, this is my worst nightmare because I think you're telling me that this is another this is a better version of many worlds. That the particular hairband that describes an interaction with the tube is like the One World in the many possibilities.
+
+Eric Weinstein 1:24:52
+Well, if you wanted to go that direction, and I know I don't many words many worlds is a very particular quantum mechanical concept. Due to, I guess ever it was the popularizer. What I would say is in an observers, which is the, the structure that contains both the hair band and the paper towel core, yep. I analogize that to being like, you're going to attend a soccer game, or a basketball game. And you have stands and you have the pitch. And so the stands are where you perceive what's going on in the pitch. And the pitch is like the towel core, the, the, the paper towel core, cardboard. And the stands are like the hairband. And so you're only sampling some of what's going on from every particular like you and I went to the same game. Yeah, but we saw different things because you were seated on the floor, and I'm up in the bleachers, and that I
+
+Bret 1:25:51
+get the part of the many worlds thing that drives well. I want to make sure isn't lurking here. I mean, and if it is I'm just trying to
+
+Eric Weinstein 1:25:58
+say that I don't see many universes, I see one observers, and the one observers is a more complicated or more rich structure, I don't want to say I don't think it's that difficult to understand, yeah. in which you would be confused. If you thought, like, I'm the only person that exists. And I happened to be sitting here in the stands. And you saw that guy get pushed across the way I didn't see and get push was like, you have a different view of the action, you saw things I never saw, there's more going on than I could perceive in my seat.
+
+Bret 1:26:35
+I get that and that I like that, you know, the game took place, there was one reality of the game. And there were an infinite number of possible edits based on where you were there were an infinite number of places you could I like
+
+Eric Weinstein 1:26:46
+what you just said candidates that that's what happened in the first matrix movie that they actually marked it up in 3d. And then they only took one of the possible camera angles for the CGI since
+
+Bret 1:26:56
+I didn't know that yet. So the question, though, is, Will your hypothesis in my world theory in your world, will it rescue us from the idea that all of these things are happening that every game took place and you just happened to be?
+
+Eric Weinstein 1:27:12
+So your, the thing is, is that most of what you hear about discussed by the four or five Talking Heads you may have heard of from physics, is that they keep trying to blow your mind with the same. I know, repetitive quantum mechanical stuff. So it's always about many worlds. It's about entanglement. It's about the collapse of the wavefunction. And the shortage, blah, blah, blah. Let's not go there. Initially, let's fix the geometry underneath both general relativity. This
+
+Bret 1:27:45
+is great, what I'm what I'm hoping my prediction is that if you do that, if you fix the geometry, then many worlds goes away.
+
+Eric Weinstein 1:27:53
+Well, because in part, what you're calling a world, yeah, may be a perfect particular way of placing the hairband around the core. And yes, there are an infinite number of ways of placing the hairband around the paper towel core,
+
+Bret 1:28:10
+that doesn't bug me, right. The thing that bugs me is that they all happen and that somebody thinks that that's an elegant solution to a problem when it's maximally inelegant that
+
+Eric Weinstein 1:28:18
+they all have to talk to Sean Carroll about that. That's his he's a believer, David Deutsch
+
+Bret 1:28:23
+I know. But anyway, I'm really hoping that your thing blows that out of the water cuz I'm sick of hearing explanations like that.
+
+Eric Weinstein 1:28:30
+Well, again, you know, my point is, is that within the paradigm that our forefathers left us, in this case, maybe Bohr and Einstein, we are doomed to infinitely blow our minds on the same set of points without progress. And I'm tired.
+
+Bret 1:28:47
+Yeah. Yeah, once was enough.
+
+Eric Weinstein 1:28:51
+100 times pretty good. Even on your 100,000 times, the electron goes through both slits shutting down.
+
+Bret 1:29:00
+Yeah, well, everybody does need to go through that. But that's the that should be the stuff if a
+
+Eric Weinstein 1:29:04
+wave is a part of it's a wave. Right? The wave, it's a wave. All right. Sometimes the wave gets measured as a particle, a concentrated wave can feel like a particle, but it's a goddamn wave.
+
+Bret 1:29:16
+Nice. Ah, that's excellent. You heard it here first. Alright, so we should probably figure out how to close this up. Obviously. My sense is that what you have described is exactly what I was hoping you would do, which is the sort of intuitive version of what it is that you do, and what the sort of thing is that you think you found. And then there's a there's probably 20 chalkboards, full of math that mirrors what you're saying. And the added value for most of us for the math on the board is probably zero or near zero, right? The point is, if the math is right, then what you've just described is likely to be true. And that that would resolve many of the things that cause us to
+
+Eric Weinstein 1:30:03
+get locked up. What I'm, if you wanted at that level, what I would say is, Einstein told us take four degrees of freedom, put four rulers and six protractors. On top of them, which is the right number. Yeah, call that space time. And space, time generates curvature and curvature as measured by the stuff floating around in the system. So you set the stuff floating around in the system, the matter in the energy equal to the amount of curvature that comes out of the rulers and protractors. And you're done. Yeah. If you'd like the augmentation here is not so fast. What if the fields that is the stuff that matter in the energy bosons and fermions are dancing across all possible rulers and all possible protractors. And what you're doing is you're sampling the rulers and the protractors on one particular choice, in this case, the hairband around the core. And along that, you're pretending that that is the world. And that's the universe. And that's us and our fate. And when did the world begin? And in some sense, you're asking, you've learned to ask an entire set of narcissistic questions based on your particular perception of the observers. And the observers is about the pitch and the stands being part of the stadium, if you learn to stop asking questions about your experience of the game, and you ask, Well, what game took place yesterday? How many people? How many different things did they see? And what took place on the pitch independent of what I was able to perceive as taking place at my seat? You know, then you start to understand, like, nobody would talk about the mini games hypothesis, where every single person experienced a different game last night, you know, and then their ways in which the stands interact with the pitch, because everybody's yelling like missmiss, during a free throw, right? Yeah. And so you also have to deal with the fact that there's a wait way in which people who aren't supposed to be part of the game become part of the game.
+
+Bret 1:32:07
+Now, I love this, that the indefinitely large number of different observations of the game do not imply more than one game.
+
+Eric Weinstein 1:32:18
+There's a lot more game than physics currently thinks is going on. That's my belief.
+
+Bret 1:32:23
+All right. Well, that's very cool. And although I still feel like five minutes after our discussion is over, I will begin to lose track of what I understand at this moment. I feel like I'm
+
+Eric Weinstein 1:32:34
+also just like, this sucks, because I've always wanted to talk to you about what it is that I do. And what it is that I think and like when I've discovered something, and the thing that I don't understand, and maybe this is something I should ask you, is I think about the complexity of like Seinfeld, or the sopranos, or Game of Thrones, or Harry Potter, or the Lord of the Rings, everybody remembers so many different pieces of information. And when it comes to like particle, they're like, No, dude, that's so hard. I'm saying, Hey, I'll tell you the part of it. That's hard. And remembering that there's an electron and muon and the tau particle is not the hard part.
+
+Bret 1:33:15
+No, I get that. I think there's something I mean, I find it almost tragic, because I think you are working. You know, I'm not in a position to judge but I do have the sense that knowing you and knowing what you have sounded like over all of these decades, as you've worked on this, I have the sense that you're very likely to be right. Right, I would bet strongly in favor of you being right.
+
+Eric Weinstein 1:33:42
+It's interesting. If that's true, we should be able to make some money. I'm not gonna bet against now, but it's an interesting question, right? When you ask people to quantify just how, like it's very cheap for somebody say that bozo. Oh, yeah. Like he came up with something outside of the university. Haha. Okay, it's like, well quantify just how, how ridiculous or short? Are you ready? Short me 10,000 to one odds, right? Because like, I'll put up a I'll put I'll put 1000 bucks to 10,000 Why are you interested?
+
+Bret 1:34:10
+Sure. No, it's it seems like it should be and for some reason, the universe doesn't support this, which indicates to people I don't
+
+Eric Weinstein 1:34:16
+have time for this. Right.
+
+Bret 1:34:18
+It's quality control it well, they control it. Yeah. But But here's the thing, that I do find that to be something tragic, which is that I know that you have been adventuring on your own frontier for all of this time. And I know that you want company because I mean, I have the same experience. Is that my friend tears easier, right? I can bring people to my frontier because we all have experienced Ryota and it makes sense, right? I think the thing that you really don't remember Yeah. Is how hard the cognitive stuff is in this realm. And it is not for lack of interest. It is for the experience of getting nowhere, right the experience of getting nowhere. And the thing is, we all have skills That look absolutely impossible. I mean, your Twitter feed Reddit are full of people doing things that you would not think possible if you didn't have video evidence of the fact that some human being did it in front of a camera, right? And the thing is, if you have even one of those skills, then you also know that a, you couldn't describe to somebody else how you do it, you could give them some insight, maybe
+
+Eric Weinstein 1:35:27
+there's some part of this, which I actually just sort of reject leave. Yeah. Which is, I know that there are 20 amino acids. And I know that there are four nucleotides. I know there's a sugar phosphate backbone. Yeah, I know that. I need heritability, differential success. And variation in order to generate, like, this stuff is on speed dial. Right now. It's not on speed dial. Like I understand the really tough stuff. I don't have the Krebs cycle on speed dial. Yeah, he's doing okay. But I don't understand the extent to which people like when I when I showed the Hopf fibration. On Joe Rogan. Yeah, there was a moment in which people were actually able to see a non trivial principle fiber bundle. And I said, this is the most important object in the universe, because it allows you to see the arena in which fundamental physics gets played. So the basis of all reality takes place in a world of objects that look like this. And here's the only one that you can actually fully see. Right? Yep. And to me, like, if you had told me this, and I was doing anything else, imagine I'm a cashier. You could not have gotten me to stop thinking about that to the point that I actually understood it.
+
+Bret 1:37:02
+Right? No, I get this. But what I think is not obvious. I mean, look, you're either going to take my word for it or not, is that there's something about the cognitive trade offs? Yeah, I believe that this ship sailed for me a long time ago. And it turned me into a kind of remote spectator of the sort of stuff you're talking about. Whereas if I walk into a tropical forest, I start seeing stuff that pops at me, right, I know what to pay attention, how to think about it. I know what these creatures are to imagine
+
+Eric Weinstein 1:37:34
+that you're in a tropical forest, you see a bunch of small insects carrying what appeared to be parts of leaves. That looked like sales.
+
+Bret 1:37:43
+Right? Okay, gotcha.
+
+Eric Weinstein 1:37:46
+I, if I came in there, I would say, Well, what do you know about these leaf cutter ants? If somebody else comes into physics, they're like, dude, I saw the craziest thing. They were like six legs on them. And they were carrying like sales. I was out there, leaf cutter ants, I would talk about leaf kit, and then the person would come back. And the next week, they'd say, dude, I saw this crazy thing. There were six legs. And they were carrying these pieces of leaves, I would say, we had discussion,
+
+Bret 1:38:13
+leaf cutter ants, right? No, I look, I get it your confusion about what's going on with the rest of us. And it's not all of the rest of us? Well, some of the rest of us is organic. So
+
+Eric Weinstein 1:38:23
+this is this is part of my confusion. And one of the things that we could also talk about is, what is it like to see the rest of the world as crazy all the time?
+
+Bret 1:38:34
+So I'm not sure where I fit in this analogy. Am I one of the crazy ones who doesn't get the half
+
+Eric Weinstein 1:38:38
+crazy? Half crazy, okay. So like, there's nothing in your brain that couldn't do the one day investment in mathematical and mathematical physics, to put you in a very strong position to understand what the problems are that we're trying to solve.
+
+Bret 1:38:56
+I would love that to be true. I have a feeling it's false. And I want to tell you why I think it's false. Okay, okay. I have a very beautiful guitar. Our grandfather got it for me, many, many years ago, decades. In fact,
+
+Eric Weinstein 1:39:08
+really, I just got a cheap one from Yamaha that he gave me so obviously loved you more. Yeah.
+
+Bret 1:39:12
+Well, he desperately wanted me to have what you have the ability to make music. And I have carried this thing. Every time I've moved, I've lovingly packed it up, I've put it on the wall I've taken I don't know how many lessons. I have never gotten to the point where I can play a single song that sounds good to me. And I have a feeling if I could get to that one thing and I've even heard you say, look, you know, if you tune the things to slide you can in a few hours be you know, I've heard you say it's, it's not true. Okay. And my point is, I feel weird about this actually feel ashamed about it because I so desperately want that thing. And I do not have the module. I clearly don't and it breaks my heart and I've sort of gotten over it, but the fact It's like, Okay, I'm very good at English. I'm known to be good in English. I do not have a gift for other languages. I've tried. I've lived in Latin America, and I have sucky Spanish that you know, it's enough so I can travel with it. I can talk to people, and I can have good conversations.
+
+Eric Weinstein 1:40:17
+If you try.
+
+Bret 1:40:19
+Well, let's put it this way. There's no level of not that good because I'm at the wrong language. Spanish, Spanish should be in reach for me.
+
+Eric Weinstein 1:40:30
+I don't know that.
+
+Bret 1:40:32
+In other words, not a hard language.
+
+Eric Weinstein 1:40:34
+Sorry, depends. You know, it really depends. If you, for example, find the burden of grammatical gender to be very high, just the way some people find two cliffs to be too difficult for reading music. One clef doesn't confuse them, because they can learn it, there might be an obstacle. So what I'm trying to say is that I know, for example, that you have not tried mulay, or bas in Indonesia, which I know to be different character illogically from Spanish,
+
+Bret 1:41:07
+right? Look, I'm not disagreeing with that there may be a language out there that if I hit upon it, boom, and there might be an instrument out there. Or there might even be a technique at which I could approach the instrument I've been trying to learn to
+
+Eric Weinstein 1:41:17
+play. I wonder if I put stickers on your guitar and tune in shirt and bought you a tuner? And then took five songs that you really liked and told you exactly which strings to pluck,
+
+Bret 1:41:27
+right? Maybe, yeah, maybe. But what I'm telling you is that the intuition of somebody who literally picked up the guitar and taught him to do himself, sat down at the piano and taught it to himself has learned passable, useful parts of I don't know six languages or something like that. Your sense is that these things are overcomplicated by people.
+
+Eric Weinstein 1:41:53
+My sense is that people confuse mastery, for being reasonably well acquainted with something. Yeah. And they are usually unwilling. They're psychologically blocked, when they are told that something that they've always wanted to do is within reach. Yeah. And understanding that they have to go about it slightly differently than they were expecting,
+
+Bret 1:42:17
+right? But here's the thing, okay. I have a table that I made, no, okay. I am able to do this in my head, I can figure out what I need to buy, I can figure out how to deploy the tools I have, even if I don't have the tools that would be optimal, I can correct for errors that I didn't see coming. It's very intuitive to me. And I know that it isn't that way for other people. It just doesn't work that way. So what I have forgotten, and I have to remind myself of is that that intuition about how to do it is housed in some place that I can't even access what's going on, right, I'm conscious of what I'm doing at one level. And then there's a whole other level at which you know, I can, I can put together the table in one way in my head, and I can sort of stress test it and see whether those joints are going to work and I can refashion it. It's not something it seems simple to me, but it isn't simple. Likewise, you know, riding an electric unicycle and not falling off that was recent enough for me that I know how hard it is to get on that thing. So
+
+Eric Weinstein 1:43:23
+explain something to Yeah. If I tell most people, there are four forces, they can't remember the four fundamental forces. Yeah. But they will remember john, Paul, George, and Ringo.
+
+Bret 1:43:38
+Ah, but this this is this part's easy. Some of us learn based on whether something sticks to something we already know. Right? So forces isn't so hard. Because, you know, let's put it this way. I suffered through enough chemistry. And I wouldn't say I suffered through physics, but I had the material that I had to get through in order to go and study biology. And those things interact with the forces in question. Right? So I, I have things that when we talk about those forces, I can stick them on to and they last because it actually builds out what I'm capable of. In the case of the other stuff that you're talking about. These things actually are like thought islands, right? There's nothing near them. Right. And you know, sometimes you bridge this gap, right? You say ruler, protractor, rulers and protractors. Obviously, those are things that exist for me and they have meaning because obviously, you know, hey, when I do carpentry, I'm doing trig, and so angles was native to me. But there are a lot of these islands of thought that are almost impossible for me to build, and then make it last because the brain takes apart That which isn't interacting with other things. And so anyway, this may be a defect of mine, it may be a strength that has a cost, I don't know. But what I'm telling you is that the experience of confronting the material and trying to acquire enough of it is not successful.
+
+Eric Weinstein 1:45:22
+The only reality My friend is, you're hardly the only person who suffers from this. I think and this is the interesting part of it, that you're all crazy. I find all of you completely insane. And I can't express to you how frustrating it is. I bet that like people remember the Heisenberg uncertainty principle they remember that Schrodinger is fucking cat. And if you say muon, it doesn't stick the cat the double slit, maybe it's they want to know about entangle. They want to know about many worlds. They can't remember that there's a muon or, for example, you know, they say, well, we're carbon based life forms. I said, Okay. In a carbon atom, you got a bunch of protons and neutrons stuck together. Tell me something. What do like charges do when they're very close to you? Oh, they repel. Okay, well, why am I not exploding and obliterating you? I don't know. Why not? Something about the strong force. Now. I don't grasp this. I don't understand. Like, right now you're seated in a chair. Yep. Gravity. You can see me. Yep. electromagnetism. I don't blow you up. strong force. Yeah, that's three out of four forces just for us to have this conversation. Yeah. If there's. Then if I say to you, the members of the Rolling Stones, you'll name more members of the Rolling Stones, and then you can name forces or particles or anything. It's just it's very weird that people have decided that they're blocked because I can tell that the data needed to store this is so slight.
+
+Bret 1:47:11
+Oh, you think it is? I know you think it is? But what you don't understand? You know, do you know how much I want to play the guitar? No, you have no idea? Because you don't see me playing the guitar? You know, why not? Because I've spent hundreds of hours. And what I've got for it is frustration. And an object that requires that I take delicate care of it that follows me from one state to the other. Right? It's not a lack of desire to play the guitar. It's not a lack of desire to understand what it is that you do
+
+Eric Weinstein 1:47:39
+tune the guitar, you have a tune. tune the guitar, can you play strings? Two, three, and four, not the one closest to your leg. But the next one, the one after that, and the one after that? What do you mean, can
+
+Bret 1:47:48
+I play this?
+
+Eric Weinstein 1:47:49
+Can you pluck those three strings out of the six strings across your guitar? Sure. Okay. That's the major chord known as G. Yep.
+
+Bret 1:47:57
+Okay, well, I've played chords, okay. Doesn't get me anywhere. I never get to a song. What songs do you like? Do you know what songs I like?
+
+Eric Weinstein 1:48:07
+Like Johnny be good. Sure. Like Johnny be good. Okay, Johnny be good can be played with the chords G, C, and D. And all you need is those three strings. You can cut the other three strings on your guitar, right? Cut them, here's cut, we just cut those cut them. Just kind of sure that's good. You find a glass that isn't like this curved glass. Yeah. but is instead a straight edge glass. Yeah, you drag that glass across those three strings. And you put it at the fifth fret position, which gives you the C chord, or the seventh fret position, which I can put a sticker on your thing now that I can color code the stickers to Johnny be good. Yeah. Okay. This might even work. Yeah, my claim is even work. Might even work. But here's the thing. So I'm constantly trying to emphasize to Zack, that they the gap between knowing how something is done, and knowing how to do it is often a huge gap. Right? We, you know, you could read every book that has ever been written on how to play tennis. And he would walk onto the court as a fucking sucking novice who couldn't that's not what I'm talking about what I'm talking about, I think it led to play. Johnny, be good your first day, and I won't be your favorite version of Johnny be good. But if you have the experience as I did, it's like, holy cow. I just got myself through a song that I love. And I don't know anything. All I did was follow these rope directions. Now I want to understand what directions did I follow up?
+
+Bret 1:49:43
+Sure. Well, if this works, I'm going to I'm going to kick myself. Hope So why didn't I do this at 20
+
+Eric Weinstein 1:49:52
+I've been available.
+
+Bret 1:49:54
+My number it's not like I haven't asked you and we've actually sat down to do it. It's never worked. So maybe maybe you've got a better method or maybe I'm more mature and can handle what you're trying to tell me. But there is something where, you know, I mean, look, it's just trade offs, man. It's trade offs. I'm really good at some stuff and some weird cause
+
+Eric Weinstein 1:50:13
+there are things that I'm not good at. For example, when I tried to read the Lord of the Rings, I got completely thrown by the number of names and places and characters I didn't care anything about, totally turned me off. Now. I think that there may be things that turn you off in this process. I'm not saying that you weren't blocked. I'm saying that there are situations in which you're trying to tell Ray Charles, would you look at the beauty of this painting, and he's like, I'm not getting it. You're not getting these blind. Right? So they're, they're real blockages, yeah. Then there are imaginary blockages where you're like, you're saying, Oh, my God, I'm blind. And somebody's saying like, okay, just open your eyes. Oh, oh, this is amazing.
+
+Bret 1:50:53
+Okay, now actually, I like this. Because undoubtedly, yeah, undoubtedly, the things that blocked me are a mixture of these two things. Right? Right. There are some real blocks that may be impenetrable. And there are some other blocks that are just my given up too early, right? And it's very difficult to disentangle them. Because from my perspective, they feel like that all feel like impenetrable blocks.
+
+Eric Weinstein 1:51:14
+All I'm trying to suggest is that the there are things in physics that are very difficult to do that are very frustrating. And I can I can empathize with the issues that that these things, create problems and blockages. People then invoke that, to talk about the fact that even though they're super curious about Heisenberg's Uncertainty Principle, and the measurement problem, and something they heard about many worlds, they don't know the first thing about what is the stuff that our world is made of just like the laundry list. So you know, there's Hamlet, the play, and the beauty of the English language and whether or not one understands every sentence. There's also just a question of, you know, are you aware that Ophelia in Hamlet are in the same play?
+
+Bret 1:52:03
+But here's the thing. This is, this is a good example of what I'm talking about. You have taught me that stuff, okay. Okay. And it did sort of stick enough that it's actually in one of the lectures that I used to deliver to my students, okay, where I showed them the fundamentals, the fermions, and bosons, etc. I have lost track. I actually at this moment, couldn't distinguish. But three, I know that one of these things is forces and one of these things is objects. But I couldn't remember which is which. And the reason for that is because in the learning process, this particular piece of knowledge does not get reinforced. So even though I had it at one time enough to teach it to people who hadn't heard it, I have now lost it, it's gone. Okay, now, would it be easy for me to, you know, to get back to it? Sure. It would just take a little refresher, but
+
+Eric Weinstein 1:52:51
+a durable heuristic, like for example, fermions, we have a Fermi paradox, which people know about, which is why why don't we know about anybody else in the universe? Yeah, well, those alien beings would be made of matter. So maybe the idea is that fermions are made of matter. Cool. Okay, so that's an it's like a little sticky thing. And then you can say, oh, shoot, or is it Bozo the Clown, because he's a Bose on and bozos made of matter. Now I've confused myself again. Right? All right, I get it. But I don't know, I guess, look, I'll be honest, there's a sadness that I have, which is that I guess I get to visit everybody else's field. And people give all sorts of reasons why they're super interested in things that I care about without ever wanting to make the trek. And in fact, like a little bit what I saw with the geometric unity stuff. When I released Episode 19, which was the episode with you about telomeres, and the greater laboratory, and the inter action between you and the greater laboratory, with respect to the prediction that laboratory mice would be the ones with ultra elongated telomeres and not mice in general, having people loved the story. And that story stuck to their ribs. I have people coming up to me about that story. When it comes to let's say geometric unity. I said lots of things that were quite explicit. And it's been fascinating to see, people say, Well, he didn't write a paper so we can't have any idea what he's done, which is nonsense. complete nonsense. I believe that Yeah, I'm just saying that part of the problem is is that the world has such an inferiority complex, but physics and math, it's like the sum total of every middle school teacher in high school teacher who convinced people that they sucked at this thing, which is a universal human birthright is that we've got a planet that is traumatized by mathematics and anything that has the threat could become math or that we will be asked what can you compute this determinant of this matrix? I can't remember the formula for determine, okay? It's we're talking about universal human trauma with several exceptions. Who are the mathematicians and physicists?
+
+Bret 1:55:16
+Yeah, I believe that and you know, I deal with a much more mundane version of this, which is whether or not you think you care about biology, or are any good at thinking about it has a lot to do with whether or not you had a lame ass biology teacher who did force you to learn the Krebs cycle for no good reason. Right? So a lot of people have biology trauma over stuff they didn't need to learn in the first place. And so, you know, in the classroom, one of the things that I did was try to convince people who thought they had no interest in this thing that everything they cared about depended on it, and that it wasn't as hard as people were making it out to be. So I know I've sat in your chair, I've given the speech, but haven't given us well,
+
+Eric Weinstein 1:55:58
+you haven't sat in my class. Obviously, this is the sad part.
+
+Bret 1:56:01
+Yeah. But you know, what's actually going on?
+
+Eric Weinstein 1:56:03
+No idea. I mean, literally, I am so mystified. Right, by the asymmetry. My right,
+
+Bret 1:56:07
+we've done better today than prior instances, that we've done 45 minutes an hour's worth
+
+Eric Weinstein 1:56:14
+of furniture.
+
+Bret 1:56:15
+I honestly, I have that sense. All right. But here's what I think happens. Okay, there's something about this environment, the fact that you and I are talking together with some awareness that other people are going to see it, it changes the power dynamics, it changes, our ability to step into a highly didactic framework. I don't know what it is, but I do have the sense. This doesn't sound like our normal conversations. It doesn't sound that far from them. But that just maybe even just the simple fact of cameras being
+
+Eric Weinstein 1:56:46
+maybe forced that I wasn't aware that there was I just have the general sense of everybody cares about something that nobody seems to care about. And that's confusing to me. It's like, I don't know what Brian Greene and Sean Carroll and Neil deGrasse Tyson are doing. And Michio Kaku, I don't understand. Like, some so much of the time, I'm just thinking like, you spend all your time talking about these few things. There's all of this beautiful stuff that we essentially never talked about. You've got huge numbers of people who buy these books, who don't seem to know anything about the world. And I don't, I don't grasp what kind of dance. This is, why are you going to a lecture about string theory or about many worlds? When you have no idea what a muon is?
+
+Bret 1:57:42
+Well, first of all, I'm not looking at people are frustrating me, I would say Neil deGrasse Tyson is an exception, because I think he's doing something different. But you are looking at a group of people who I believe are making a living, at least in part by saying trippy things.
+
+Eric Weinstein 1:58:03
+While I like saying trippy things. Yeah, saying trippy things in making a living are two great things.
+
+Bret 1:58:08
+No, no, that's not what I'm saying. What I'm saying is that they have specialized on the art of saying trippy things which requires them in some sense not to simplify them or to acknowledge what they don't know.
+
+Eric Weinstein 1:58:18
+I don't really understand this again, I would say that they are choosing to say trippy things that are highly repetitive in not very informative ways, in ways that leave people. I'll tell you what, it strikes me as there's something I call wealth porn. And the New York Times for example, might do a story about people who are so absurdly rich that you both pity them and envy them simultaneously. Yeah, okay. And they'll describe a party which is incredibly botched, which causes you to pity them and incredibly exciting in mimetic which causes you to wish that you'd been invited. This is in some sense, what we're talking about, which is like science, porn. Physics porn. Wow, I both realize how stupid I am. But I also got a taste of the brilliance that you are in part, whereas I'm talking about goddamn paper towel cores and hairbands right, because I'm actually talking or showing you the Hopf fibration. And people seem to want to sign up for this repetitive abusive relationship with a small number of mind blowers that the community allows to speak. It doesn't bring the world to understand we've got to get another accelerator because we have to know the answer to how the story is extractive
+
+Bret 1:59:39
+it's actually robbing the field of the pressure to build the accelerator to discover the next thing that actually makes a difference by basically feeding people a diet of maraschino cherries, or somehow although
+
+Eric Weinstein 1:59:52
+I would say that since I've started talking about like the hot vibration and how I came hot vibration was almost almost 100 years ago, discovered it was 1923. I was delighted to see Sean Carroll doing a program recently on geometry, like the mind blowing aspects of geometry. And somebody will eventually do geometric quantization to understand how the Heisenberg principle comes out of the curvature of an object, technically called a line bundle or pre quantum line, but but that that situation is like we're waiting and waiting and waiting when they finally get around to it when the designated few finally get around to saying, Okay, well, this is something we actually did do as opposed to all the stuff that we claim that we did that we didn't actually pull off. Everyone will say, yeah, yeah, that's great. You know, see, they're doing it. And it's just like, I want to know, well, why did we spend 50 years talking about entanglement? I look, obviously I don't get something but to me. And then this is like an interesting segue, if you want to get out of this, what is it like to live on a planet where everyone appears completely? batshit insane? Well,
+
+Bret 2:01:13
+it's mama number of us are now having that experience on many different Well, that's right.
+
+Eric Weinstein 2:01:17
+And, and what is also interesting is, is that if I told you, you know, four years ago, you're living through a revolution, and it's going to turn kinetic and you are quoting popper? popper? pinker? No, no. Steven Pinker says, Yeah, this is the best time to be alive, like Yes, because he doesn't have a potential violence term. Yep. You know, like, you have potential energy, mental energy, absolute. Okay. I guarantee you that when Steven Pinker finally realizes he will not first of all identify the fact that he was wrong. And second of all, everyone will say, Okay, well, I'm a pink Korean, and we're, you know, you have to talk about what he called the, you know, the sword and the sheath problem. Okay, well, wasn't that this other thing? No, it's like, we're going to over and over find the same voices. And it doesn't matter how long they've been, it doesn't matter. The fact that you've got like somebody like Nassim Taleb, who's almost insufferable? Yep. I mean, I said, as I think of being a long term friend of his,
+
+Bret 2:02:20
+yeah, the man's right. Now he's right. And I mean, I
+
+Eric Weinstein 2:02:26
+know we won't go We won't go to the guy who's right. Right, and won't go to the guy who was early. We
+
+Bret 2:02:31
+won't go to the guy who's I think, is the right example. We won't go to the lab, because he's dangerous. sufferable he's in software. He's not he's aggressive in any way. It is not even an argument as to why you wouldn't go to him. I mean, the guy has called me a dangerous loon on Twitter. Yeah, right. And I still think of him as one of the people I look to for insight. No, he's like, hey,
+
+Eric Weinstein 2:02:58
+tolerate you see, the thing is, is that I can say the same to love as a pain in the ass. Yeah, right. Right. I'm not telling him anything. He doesn't know. I don't think he's gonna stop being my friend. Right? You know, the issue though, is pain in the ass. Yeah, if I think about like, why don't I go to Stefan Molyneux. Stefan Molyneux is not wrong about everything. It's not like Stefan Molyneux gets up, makes himself a cup of coffee, and I'll be wrong. He just says wrong things until he goes to bed at night. Yeah. The danger of Stefan Molyneux is is that he may have even started off being reasonable. But the world told him that he was a lunatic for saying real things. And that started a process in his mind, where he didn't understand that in trying to prove that he wasn't a lunatic or wasn't a bastard or whatever. Yeah. He started advocating for a position that was quite a bit stronger in my in my understanding than simply saying, Hey, there are differences between widely geographically separated groups that you would expect on any continuous variable. And IQ is no different. Yep. That's a very responsible statement that I understand. We'll get lots of people on there feigning catches, yep. Okay. I don't want to go to Stefan Molyneux not because he's wrong about that. Right? I don't want to go to him because of the other stuff that he's gonna do. People are gonna claim the same thing about in the scene.
+
+Bret 2:04:24
+Yeah, the problem is at the end of the day, you have to make a call. Yeah. as to when you're dealing within the scene, and when you're dealing with Stefan Molyneux, and you may even be wrong. Well, that's true. So
+
+Eric Weinstein 2:04:32
+right, and it's but you know, it's like, I can't get out of the fact that Stefan Molyneux might say new interesting things. Yeah, there's there's no way to stop like, straight up Nazis, horrible. You Genesis. All sorts of people have contributed to the human condition. The most privileged person in the world. You know, I mean, wasn't wasn't there an important let's say, Ross showed who was an insect specialist. You No privilege may mean that you actually get a chance to do great science. I think Jaco Berg was was royalty and did physics if I'm not mistaken. No, I mean,
+
+Bret 2:05:09
+at some level, Darwin was a dilettante who got on the ship in order to be a high class companion for I was born with a silver he was and he did absolutely stunningly Good work. And he was a great guy. And we he could easily have been forgotten, right?
+
+Eric Weinstein 2:05:27
+Yes, yeah. But like, at some level. We don't gravitate to the voices in particular, like yours. My feeling is that you were the first person that I knew. Who could describe the full craziness of this authoritarian, regressive mindset that was at evergreen that has now spilled out onto the entire planet. So you had front row seats. But lots of people at evergreen had front row seats. You had a very keen mind to analyze it. Some people at evergreen had keen minds to analyze it. The third thing you had was courage and integrity, to talk about it. So I remember talking about I got my original education in having gone through some of this postmodern nonsense. I hadn't understood some of the refinements and modernism, I dealt with the basic version of it, I hadn't did not know about all the ways in which it had been weaponized and made hermetically sealed into itself. When we started trying to talk about this, I remember going to Sam Harris and saying, Sam, something is happening at evergreen, and you've got a plug in. And I taught he wasn't the only person I went to. He was the only person outside of the system, who grasped something of what the madness was, because it was not under, you know, the thing that you may not understand is that a lot of us who weren't in a concentrated version of this Yeah. weren't able to even see what the data was.
+
+Bret 2:07:12
+Oh, well, I mean, this is an interesting moment to be having this conversation because of course, Heather and I are having the weirdest and it's not entirely positive experience where, you know, we lived through this thing. Some people got it quickly. Some people got it slowly. Most people never got it. And suddenly, because it's everywhere. It's now widely gettable, which has the most maddening aftertaste because I feel like we went through this. I was actually hunted in my own neighborhood by people who I do not believe could have been white, you're going to be fine. Yeah, you're white, you're going to in fact,
+
+Eric Weinstein 2:07:52
+I do this with because you came from the Pacific Northwest. I do this with Kurt Cobain, Kurt Cobain and I say, you know what, you know, talking about mental mental illness, it's crippling, you can end up blowing your head off with a shotgun just like Kurt Cobain. And then I have the idea of the intersectional answer. Oh, is he white? Because it'll be fine. It'll be fine. No matter what. He's white, because nothing can nothing bad can happen happens. Yeah.
+
+Bret 2:08:17
+But anyway. Yeah, it's a it's a very well, but alienating experience. Well, to have seen it like that, to have articulated it to have been told you were crazy to now have people calling me to tell me. Oh, you weren't great. But your
+
+Eric Weinstein 2:08:35
+point is you're not going to be made a columnist at some important place because you were early talking about right. And this is the thing with the pendulum. I mean, look, there's your earliness which is before mine, and there's my earliness and I'm pissed about my earliness not being recognized because how much grief did I take right now? One thing I went through that I don't know if you really went through it was the dumb money versus the smart money in 2008. The dumb money panicked when it saw Bear Stearns go belly up. The Smart Money said, that's just Bear Stearns, those guys that are such losers. That's not serious. Yeah. And then they freak out when when Lehman Brothers goes under an AIG is next and suddenly like, holy shit, we have a real problem in the financial system. Okay, was the dumb money dumb when it saw the problem at Bear Stearns and my claim is, they are treating you like the dumb money that saw the problem early when it was Bear Stearns? Yeah. And somehow the cool kids didn't know to freak out until much later while the same thing happened in physics. Right, so the idea is that the dumb physicists which included Sheldon glasha, Nobel Prize winner and Richard Fineman, and a whole bunch of other people who didn't go in for string theory, like you don't get the problem of string theory. You know, it's like, Are you kidding? You're a child, you know. And so the idea is that the smart kids understood the string theorists gonna be fine. And then when string theory finally got to issues about, you know, the landscape and too many vacua, and all this stuff, they're like, Oh my god, we've got a problem with string theory. Now. Why is it when the cool kids wake up, that they're still the smart kids? Right?
+
+Bret 2:10:24
+Why you made this point to me decades ago, which is that there is a degree of earliness, in which we never vindicate the people who actually had it right. Even though those are the voices that are the most interesting getting it right just before because you're wavering guaranteed
+
+Eric Weinstein 2:10:41
+when somebody gets it right, too early. The danger is that they're thinking for themselves. Right? When somebody is thinking for themselves, it means that you can't get them to sign up for the next. They're not going to salute your flag when you're not going to salute your flag for the next flag that gets run up the flagpole. Right? And so the idea is that you never win weirdly, when you're too early, you need to be you know, like Matt Yglesias to say, you know, it's possible that this isn't just confined to university campus. How interesting. Are you saying that things taught at university can actually spread outside of university? Yes, I am. Good, very well, Daya. Welcome. Let the other people at Vox no, yes.
+
+Bret 2:11:29
+No, it's exactly that. And, you know, I've been trying to make this point about the fact that all these failures that don't look at all like they all look individual, are really the same phenomenon, and that they're actually telling us something about how to think about that phenomenon. So you know, you've got Deepwater Horizon, you've got the financial collapse of 2008, you've got Fukushima, you've got Aliso Canyon COVID, you've got COVID, 19, and the probable lab leak that caused it, all of these things caused me now to think, okay, I discovered that some process is afoot in the world, right? That is an existential threat, something goes wrong, that's very, very bad, but not nearly as bad as it could have been, right. And so we get lucky in all of these cases, even the worst of them, we got lucky so far, so far, and you can just extrapolate. The point is, you're looking at a distribution of catastrophes. And we are able to infer what the number of these catastrophes we've had, we're able to infer the tale that we survive,
+
+Eric Weinstein 2:12:35
+because and this is like, this is the hardest thing that I've had to do, which is to say, we have a universal problem with institutions and expertise that is, essentially everywhere. Yes. And it has one source. And that one source is that when you are not growing, but your entire society is built on growth. every institution will select for a liar. To claim that that's institution is fine and should be kept afloat. Yep. Right. Like the idea. Somebody says, you know, in this department, we're not really doing anything. We haven't done anything for a number of years. I think what should probably happen is that I should retire, I should get my colleagues to retire. And we should hire a bunch of people who are hostile to the ideas that we've spent the last 15 years on. Right? Like beach does not exist, that speech doesn't. Well, it may exist, there may be I'm not saying that nobody's ever given it. Right. Like Eisenhower, on his way out, says beware of the military. Like, peace out, folks. Okay, so there's the mic drop of Eisenhower. Yeah. But what I believe is, we have all the wrong experts, every single person who's risen to the top of this system should be expected unless their name is Ralph Comrie to be corrupt. Like it's almost that bad, maybe the University of Chicago we have maybe we have an
+
+Bret 2:14:11
+expertise generating function that selects for correctness. And then we're shocked that all of these things are failing,
+
+Eric Weinstein 2:14:17
+like, Can you see this Fauci thing about the masks? So I specifically said, copiously everywhere everywhere. We are destroying the credibility in science by pretending that our problem to stock masks and personal protective equipment is actually the failure of masks to be efficacious in stopping the spread of this disease.
+
+Bret 2:14:43
+Yeah, I remember your exact phraseology was, what are the chances that masks would not be at least somewhat effective, right, and preventing the spread?
+
+Eric Weinstein 2:14:52
+And Fauci says, Yeah, that's why we did it. And it's just like, like, okay, great time to lose your job and retire from public life. Yeah.
+
+Bret 2:15:00
+Time for you to lose your job. And it's time for the rest of us to go back to a tweet stream that is only months old and say who got those guys? Right?
+
+Eric Weinstein 2:15:06
+Let's let's take the totality of people who were able to see the obvious, right, right. Including this is going to turn out to have been widely considered to be the Wu Han lab. Yes, of course. And everybody in officialdom is lying and they should lose their jobs
+
+Bret 2:15:25
+they should lose their jobs. got it right. So that's the problem is you can edit down you know how many people got this thing right and the point as well, but
+
+Eric Weinstein 2:15:33
+but get it right, let's be very clear. But yeah. I don't mean to predict like, This definitely came from the Wuhan lab. We don't know that. Okay. Because the claim is that people who think this came from the Wu Han lab are lunatics. They're anti Chinese. Yep, they're bigots. This to that, like, okay, shut the fuck up. First of all, yeah. Shut the fuck up. Let's look at the group of people who stood up and we're willing to be your pretend bigots, you bigots? Yeah, bastards, no sons of bitches. It is time for you all to lose your jobs to the people who actually stood up. And not only called the fact that this was an important consideration, but said so in public against the juggernaut of your wall to wall defense of our involvement with this goddamn Wuhan lab, like what the hell is our, our situation with China is that most of the people driving a luxury automobile, had a lot of their money come from China in one form or another. We've got a bunch of Americans who are not fundamentally interested in the American project, they're interested in their second home, you know, or sending their third kid through college, or whatever. And those people are addicted to China. They want to do China the way you know, jazz musicians used to do heroin, it's essential for their being able to function.
+
+Bret 2:16:59
+Yep. And it's a gamble. They have gambled all of our futures. They've gambled the West, on a belief that China will be obligated by its need for us as a market to function as we
+
+Eric Weinstein 2:17:11
+will make China a better China by constructive engagement, which means that I will have a third home with a swimming
+
+Bret 2:17:17
+pool. Yeah. And it's all a rationalization. Yeah. And so if you edit down the world, if you say, Okay, here's the entire population of, you know, by the way,
+
+Eric Weinstein 2:17:25
+you and I probably have some percentage of our net worth, that comes from Trump's from China, right? My feeling is, I don't want it. I'd rather be poor, and not be dependent on whoever it was, who massacred students in Tiananmen Square full stop.
+
+Bret 2:17:40
+Well, it's a little bit like the way evolutionary biology has been disrupted by our belief that reproductive success and fitness are actually the same thing. They're closely related, right? But being better off being wealthier is not the same thing as being richer. And so yes, of course, we would surrender a substantial fraction of our wealth not to have the gamble of being so dependent on a nation that is so clearly hostile to us. At the level of fundamental interests.
+
+Eric Weinstein 2:18:13
+I would rather live on rice and beans, with an ability to think freely, and not have to pare it some stupid ass shit in order to keep my job. Yeah. Right. I really would rather have rice and beans. And if you would rather have a luxury automobile and lied for a living, then we need a divorce. Yeah.
+
+Bret 2:18:30
+Yeah, I absolutely, absolutely agree with this. And now, you know, I'm not exactly sure what we're seeing on our streets, because I'm pretty sure that anybody who is hostile to our long term well being and strength is certain to be happy about the lunacy that is now threatening us. And so what I can't see is any reason that they would not be attempting to amplify, and the tools to do so would appear to be ubiquitous. Yes. So we are now behind the eight ball in our most remarkable way. Yes. And
+
+Eric Weinstein 2:19:08
+no, I mean, to be blunt about it, and to be horrible about it. We are strangely, what is left of what we were. And I know this because in some sense, we were not founded as a nation of cowards. Yeah. We were not founded as a nation of ruler, rule followers, because Lord knows King George gave a bunch of rules, and we didn't follow them a bunch of savages, and we weren't a bunch of anarchists. And so the question is, what is left of the US and what I horribly believe, is that the tiny number of people that we sort of collected as our group are all that's left of people who have the ability to speak up after processing things and finding our sense making architecture You're completely insane.
+
+Bret 2:20:01
+And you can actually begin to detect just how many there are because the circle begins to close. Right? So that's
+
+Eric Weinstein 2:20:09
+true. But the other thing is, is that we, you know, and I know that every day, I get letters and messages from people who say, thank God, you're able to speak, I'm almost at the point where I can say something, but I know that I'm going to lose my job, right? And so the idea is, I know exactly what is keeping? Oh, as group of people from speaking. It's, it's one, they don't feel like they have any choice as a presidential candidate. They're just gonna pick always the better of two terrible options. Yep. And the second thing is, is that they can't afford to lose their jobs.
+
+Bret 2:20:40
+Right. So so I have started talking about the first against the wall Club, which in it W Style is named to be jarring. And the point is, look, I don't want to be first against the wall. But I'm aware of a couple things. I'm aware that one, one is not going to find stable, safe haven, by placating the mob, there's no middle ground, you can sign up for the mob, and then we know what happens to you. You will be eaten in the end, it will take advantage of you. And then at the point where there are spoils to be divided. All Hell's gonna break loose. For those who are part of the mob The so called allies. You can try to hedge. Right, you can try to make some concessions try to stay Look,
+
+Eric Weinstein 2:21:28
+I'm no fan of Brett Weinstein.
+
+Bret 2:21:29
+However, right?
+
+Eric Weinstein 2:21:31
+I don't know that everything that he says is wrong.
+
+Bret 2:21:34
+Right? You can do something like that. In which case, it'll come for you pretty soon. Yeah. Or you can say Screw it. There's no safe harbor to be had. So I might as well say the truth. Right? I might as well say the truth. And what that means is, they will put me against the wall first. I know that, right? But I'm not willing to compromise in order to be later against the wall. First against the wall. If it's going to be again, I
+
+Eric Weinstein 2:21:59
+don't like this at all. You don't. I understand what you're doing. But my feeling about this is I'm not intending to be against the meter, right?
+
+Bret 2:22:10
+Oh, either. Absolutely. Fuck
+
+Eric Weinstein 2:22:12
+the wall. Well,
+
+Bret 2:22:13
+we don't know what's coming. My point is don't hedge. What Why are you hedging? What sort of gives
+
+Eric Weinstein 2:22:18
+you look? Let me make another argument. Imagine that the US Army was being held by 12 kids with a squirt gun. Yep. Some point somebody's got to walk forward. And take away a squirt gun from a child is going to bawl like a baby. Like you remember what happened with the Kathy Newman, Jordan Peterson thing where the idea is that they published this thing that was supposed to make Jordan look like an idiot. And Kathy Newman looked like a great interviewer. And it totally backfired. Because they didn't understand what the what the read on it was going to be. Yep. And then people got angry. And then Kathy Newman said, Oh, my God, I can't believe that people are coming after me. Well, okay, those are the same, like much better than people that you sick on people every day. Yep. So I think what my claim is, is that every time I conduct any kind of a poll, I can say, please retweet this broadly towards the people who are maximally likely to disagree with it. The number of people supporting the supposedly positions of the commentariat is tiny. Nobody friggin likes this stuff. Everybody hates it. Now that's too strong.
+
+Bret 2:23:34
+Now everybody is I mean, look, it's a population versus individual level analysis problem. And as I keep saying to people, right, the claims of this movement are really, really stupid. The strategy is incredibly smart. And that distinction is important. It's not like somebody wrote down the strategy, the strategy is more or less an evolved strategy. It's a borrowed strategy, but it is so sophisticated when it comes to co opting people who should know better, that really, that's the thing you're watching a kind of an organic. Wow.
+
+Eric Weinstein 2:24:06
+So that's the kind of a word that you'd use if you were privileged enough to go to college.
+
+Bret 2:24:14
+Okay, yeah. So here's the question. We've got a couple of puzzles that need to be solved. I'm
+
+Eric Weinstein 2:24:22
+just I'm just trying to evidence how cheap it is to make an argument that then you're supposed to spend 10 to 15 minutes falling over backwards, and then I realize I'm not
+
+Bret 2:24:32
+privileged or that it doesn't matter. So yeah, of course, you know,
+
+Eric Weinstein 2:24:34
+here's my thing. Okay. I'm male. I'm American. I was born into a family that two cars in the garage. Okay, so I'm privileged as all hell and I'm also correct.
+
+Bret 2:24:46
+Deal with it. Deal with it. Yeah. Of course, of course, you're both on board
+
+Eric Weinstein 2:24:51
+with that. Look at your porcine Whew. I'm going to have to look that up to figure out whether I'm biglycan pig like you, your pink You're a person of color bright.
+
+Bret 2:25:02
+Person A few. All right,
+
+Eric Weinstein 2:25:05
+you can pass this pink. You're still nervous. You're very bad because I messed with you. My guard,
+
+Bret 2:25:13
+I'm on my guard. Okay. Okay, look, we've got a couple of problems. One of the things that I think is not well understood is that there is something ultra dangerous about the leaderless nature of this movement
+
+Eric Weinstein 2:25:26
+is a great place to start when I come back from a visit with the facilities.
+
+Bret 2:25:33
+Hey, folks, welcome back, we have taken a brief break, we have checked in with events in the larger world, and we have decided that at least the first step is very clear, which is to start drinking. Alright. So we are facing a very interesting scenario and the outside world and it is changing so freakin fast that it is hard to even know what to think. And of course, this is very disorienting given how long we have been watching this thing unfold and how long it seemed somewhat limited to college campuses. Maybe it was ebbing, and then suddenly, it's everywhere. Now, there's a lot to be said about what it is and what it
+
+Eric Weinstein 2:26:10
+isn't really was never limited to college campuses. I think that was a canard? Well, it was
+
+Bret 2:26:15
+limited to college campuses in the sense that a lot of what people could see was taking place there don't believe it. Well, obviously I said to Congress, this is not a phenomenon of college campuses. And it's not a free speech. Yeah, but it's
+
+Eric Weinstein 2:26:27
+just I don't want to waste time pretending that the majority is more right than they are the crazy, and they're wrong. And it's clear,
+
+Bret 2:26:35
+they're crazy, and they're wrong. And the part that they're not clear they're not updating is that this is actually a near term threat to the Republic.
+
+Eric Weinstein 2:26:44
+This is beyond the Republican, I just don't even
+
+Bret 2:26:47
+know it's the West, but at the very least, dude, we're,
+
+Eric Weinstein 2:26:51
+we're in a nuclear. I mean, look, part of the problem is you have the wrong guest. There are things that I cannot say, I cannot say that this is about George Floyd because I'm on record for years talking about the no name revolution. Yeah. I can't claim that this is about college campuses, because I've been talking about this generally. I can't claim that any of this nonsense is true. Because I've named this the twin nuclei problem. If we find out that this comes from the Wu Han lab, and then in fact, it has to do with research, whether intentionally weaponized or, you know, supposedly defensive, who knows what. We have another nuclei left to go, we're playing these games on a nuclear planet. And I don't know what we're doing. I have no clue how people have the confidence that everything is going to be fine, because it absolutely is not all going to be fine automatically. If it's fine, it's because people are going to make it fine. And people who are going to make the people who are gonna make it fine are the people who are alarmed. Yeah, the
+
+Bret 2:28:06
+people who understand how unfine it is and what this trajectory does, right. So I feel
+
+Eric Weinstein 2:28:10
+like we have an affirmative action program for stupid people who happen to be employed in academia, political life, and the media. We have to carry along these stupid people and constantly tell them how marvelous they are that they're incrementally coming to understand this, when we should get rid of a lot of
+
+Bret 2:28:31
+them. So Heather reminds me that there is a trope in The Hitchhiker's Guide series in which those people are denied for rocket they're on a different rocket ship sent off with the rest of us coming along,
+
+Eric Weinstein 2:28:46
+we should give them all Pulitzer Prizes, all Nobel prizes, we should tell them how very beautiful and prescient they are, and get them the fuck off the stage because they're idiots function. They're going to get us all killed, they're going to get us all killed. And you know the problem of saying I really don't think george stephanopoulos is the top of the analysis tree. I don't think Fareed Zakaria is got this thing wrapped up. I don't think Steven Pinker is understood our moment. It's like, Oh, my God, how bitter and jealous and grass be and grifters like Shut the fuck up. Yes, just be
+
+Bret 2:29:21
+quiet and stop? Well, the problem is, we're up against a number of things. One, the number of actual fundamental thinkers is tiny. Well, I think
+
+Eric Weinstein 2:29:29
+it's bigger than you're claiming the number of courageous ones. I will say that.
+
+Bret 2:29:35
+Yeah. So number of fundamental thinkers is tiny. The number of those people who are courageous enough to say anything is a tiny fraction of that. And what that leaves us with is very few voices. And we're all now in dialogue with with each other, which, you know, is good in one sense and I think dangerous and another in the sense that to whatever extent we have things wrong, they
+
+Eric Weinstein 2:29:59
+were disappointing and they're worse. No, I'm not kidding. I'm very disappointed with us a lot of the criticisms that they lodged was like, okay, you know, there's a component of truth to that. And you
+
+Bret 2:30:09
+Yeah, right. Exactly. Okay. But But here's the other thing that, you know, it's very easy, I think, for those of us who get what's going on, to focus on those who are driving it, and the obvious components here, but I think there's some, some things that are accidentally interfacing with our moment that are very, very destructive, say more. So the leader lessness Yeah, leader lessness is everywhere. Our would be leaders aren't at all leader like they sort of, you know, the question is, do they look presidential period, right? That's the question not, are they presidential, I don't care if they look presidential, if they know how to behave in the freakin office, but none of them do. So what we've got is a scenario in which, as I've said, elsewhere, we have a very deep bent, especially with respect to black intellectuals, we have a very deep bench of people who are courageous, capable of leading, but they are all trapped in the gig economy. You and I are trapped in the gig economy, all the people who should be in positions of leadership, which would be frankly, crucial at this moment, are trapped doing something else being influencers and that influencer thing has some relationship to being a
+
+Eric Weinstein 2:31:23
+leader. Let me just ask you a question. Yeah. Do you have a place where people can contribute to your Heather's welfare? Yeah, what's it called?
+
+Bret 2:31:31
+Patreon Patreon. Yeah, okay.
+
+Eric Weinstein 2:31:33
+Is this thing on? I hope all right. Let me be honest, the key issue that I see is getting people FSU money. And one thing that you can do, if you can't speak, is to transfer your voice into FSU money to people who can or who are at least willing to go down with the ship. So one possibility is to get Brett and Heather out of the gig economy. And he can't say this and he didn't know that I was gonna say this, but he also can't stop me. So in part, I really can't. You're by the way I looked up Marsha, Marsha, Marsha, very interesting. So one of the one of the issues is to get the people that you love doesn't have to be Breton, Heather, out of the gig economy, by transferring a small amount of your cash to people who are risking everything for your benefit. So just FYI, you can liberate people from the gig economy if you want to. And in part, the pocket of power of the purse reigned supreme.
+
+Bret 2:32:40
+Thanks, I think that's a good message. And there are a lot of people who are being courageous at this moment, this kind of crisis reveals who they are, and so pay close attention to that. And then we've got other who
+
+Eric Weinstein 2:32:50
+impresses you in terms of courage.
+
+Bret 2:32:53
+Well, let's, given the centrality of
+
+Eric Weinstein 2:32:58
+well you just mentioned black intellectuals. Let's go through a few okay.
+
+Bret 2:33:01
+I only use Coleman Hughes, Thomas Chesterton Williams, Chloe Valerie. Dave Chappelle, though we both feel that he Dave Chappelle has been top notch he just his last foray troubles us both a little bit. Yeah, but anyway, still top of the list. Camille Foster, Glenn Lowry.
+
+Eric Weinstein 2:33:20
+Camille spelled k m e. Le KMKMELE. Yes, nailed it.
+
+Bret 2:33:28
+At spelling that's, that's tough for both of
+
+Eric Weinstein 2:33:30
+us are terrible, but I think I'm better than you. Yep.
+
+Bret 2:33:32
+JOHN wood Jr. Okay. Did I say john McWhorter. Glenn Glenn Lowry and john McWhorter who have teamed up for a very long time talking about these issues. Cornel West? I would say Cornel West. Yeah, I very much appreciate brother Cornell. Yeah. And I really like his, you know, he is in some ways pioneered ITW style stuff with Robbie George. And I really like that team. Well,
+
+Eric Weinstein 2:34:01
+the other thing is, I don't have to love everything these people do. I can just say that. Hey, 70%.
+
+Bret 2:34:07
+Good on you. Yep. Yeah. I'm fond of this guy. hotep. Jesus, I think there's some places where he's wrong, but I think he's, he's, he's got the basic stuff. Okay. Anyway, it's pretty good list.
+
+Eric Weinstein 2:34:21
+All right. So that's the black intellectuals. How about non black? And
+
+Bret 2:34:23
+it's funny, it's this is harder, actually. I know. Yeah.
+
+Eric Weinstein 2:34:27
+Well, because weirdly, the ability to speak is partially based upon what your intersectional points are. Yeah, right. And so in some sense, you would expect that an underrated community, which I would say black intellectuals have been an underrated community for not a short time. Yep. You wouldn't be surprised Thomas Sol might be one of these folks.
+
+Bret 2:34:51
+Yeah. Thomas soil. Now of young people, I would say Josephine Mathias.
+
+Eric Weinstein 2:34:57
+Okay. Now Let's talk about non black intellectuals. Yep, who impresses you particularly that's younger,
+
+Bret 2:35:05
+younger? Well, I really like Katy Hertzog and I know her enough to trust her. Let's see young people. Why am I drawing a blank?
+
+Eric Weinstein 2:35:24
+Well, I don't know. I mean, it's an interesting question. Yeah.
+
+Bret 2:35:30
+I'm gonna kick myself for the people I know, I must be forgetting. But But Who the hell are they? Well, you got a list.
+
+Eric Weinstein 2:35:40
+I thought that Melissa Chen, talking about Chinese issues on Joe Rogan. As somebody of Chinese extraction was very valuable. Yeah. Because in part, one of the questions that we have is who's allowed to say something based on their identity points about some issue, right? So I'm alarmed by the People's Republic of China and the Chinese Communist Party having as much influences as it does. But I'm alarmed as a an Ashkenazi Jewish person. So
+
+Bret 2:36:13
+gives you a lot less license to talk about it. Well, no,
+
+Eric Weinstein 2:36:17
+it gives me fine license to talk about it. But in the stupid, crazy world that we live in, publicly, no. But look, I want to talk about I want to talk about mass insanity. Because I honestly believe that as long as we don't call it out as mass and thin, we've got a problem. Yep.
+
+Bret 2:36:34
+And I agree it is mass insanity. And it has been labeled as literally a religious movement, which it has many of those components, it really the minus forgiveness, half minus forgiveness, indeed. All right, so we've struck out, you know, Katie's not that young. She's young. But she's not that young. But we've more or less struck out.
+
+Eric Weinstein 2:36:59
+I don't know, what about Anna Hutcheon of Red Scare pod? I don't think I know, and I don't know, datia, her co host as well as I, as I might, but they're pretty courageous. And, you know, in part, I think, you know, what we have to talk about is the fact that this is within a universality class, which were data matters, and lived experiences down. Sort of downregulated because it's too easy to say, Well, you know, my cousin Jim, you know, had a problem with the police. And therefore,
+
+Bret 2:37:33
+yeah, right. All it's anecdote at the same time, we've got an attack on STEM to prevent us from correcting for the anecdote.
+
+Eric Weinstein 2:37:40
+Well, that's true, but and then we also have the problem that there's certain issues that are invisible to us first. So for example, I was talking to this guy, Mike Rasheed, who is a bodybuilder and heavyweight boxer who has done time in an Arizona prison. And his point to me was you don't understand that the situation with George Floyd is that many of us feel that we're good people who've been pushed through desperation to bad it and violent actions. Oh, I
+
+Bret 2:38:09
+fully believe this.
+
+Eric Weinstein 2:38:10
+I believe the lived experience stuff. My feeling about it is that we could learn from it if people stopped invoking it as a counter to statistics,
+
+Bret 2:38:20
+they are taking honest energy right there. We have been staving off the French Revolution, right? Right. We've been staving it off for a generation or more. And in staving it off, the pressure has built up. And it is now spilled into the streets. And it has been captured by people whose plans are not smart and not honor.
+
+Eric Weinstein 2:38:42
+Well. And this is this issue, which is that we have a group of people who are deaf to the claim that there's a problem with race and policing and criminal justice and prosecution and all the stuff that's on one side. And then then another group of people that don't want to look at any statistics because the lived experience trumps everything. Yeah. And the key point is both of these are problematic. Yep. That the right thing to do is to use the lived experience as an intuition pump for what it is I should be asking as a question. And then go gather statistics about that. Right to show that in fact, the lived experience point it's a little bit like ethnopharmacology, where, okay, so maybe there's an Amazonian tribe that tells a story about, you know, the flower God coming and clearing us of our demons or something or whatever. And you're supposed to say, Actually, I'm not going to discount that. I mean, use that as
+
+Bret 2:39:38
+I'm going to go find the molecule that's responsible for the thing you just told me the mythical Amen. Why can't we? Yeah, why can't we figure this out? I know, stupid,
+
+Eric Weinstein 2:39:45
+because like, obviously, ethnopharmacology we're talking about genius level people in the Amazon. But I don't want to pretend that I have to believe in the flour God in order to understand what they figured out, right? I mean, frankly,
+
+Bret 2:39:59
+This is as close as taking Iosco because I Alaska is an improbable combination of molecules that has an utterly unendurable effect.
+
+Eric Weinstein 2:40:11
+You want to say things about the two components?
+
+Bret 2:40:13
+I don't I don't know that I could say very much. I mean, I know a little bit
+
+Eric Weinstein 2:40:17
+Well, basically, you have, you have this DMT molecule, which is highly hallucinogenic. You have an MSI molecule that comes from a different plant. And these people figured out that combining these two plants combined together have it which How did they figure this out?
+
+Bret 2:40:34
+How do they figure it out? And how do they mean you know in a, you know, an environment where everything is so freakin toxic? How exactly run the experiments to get genius? Some there's some genius whose name we don't know. Yeah, right, or a composite genius over generations did what however it happened, whatever the point is, there's
+
+Eric Weinstein 2:40:51
+not like a bunch of morons accidentally stumbled on iOS, right? And then you get, but the fact that they chose to tell a myth about how iosa acts because they didn't have access to the pathway. Like I'm not gonna sit there prostrate, right? You know, bowing down to the Amazonian genius. My feeling is okay, these geniuses ran this portion of the relay race. Now it's our turn to do our genius stuff on top of
+
+Bret 2:41:15
+Yep. And we've got the perfect tools to do it and to shut down those tools at this moment. Amen.
+
+Eric Weinstein 2:41:18
+And the idea that I can't have this conversation anywhere drives me nuts. Yeah,
+
+Bret 2:41:23
+well, yes. So we have a very small crowd of people who are ready for this. So if we don't have very many on the list of young, we have
+
+Eric Weinstein 2:41:31
+huge numbers of people who are who have somebody else's hands around their throat?
+
+Bret 2:41:37
+Yes, they do. And because we've
+
+Eric Weinstein 2:41:41
+sometimes those hands or China, sometimes those hands are the commentariat. Sometimes those hands are people who are trying to keep an illusion going because they you know, like every university is a fraud.
+
+Bret 2:41:54
+All right, I want to try to rescue my idea of the first against the wall club, because I think this is important. So I am starting the first against the wall club. And the point of this is not that I want to be first against the wall, I want to not be I want to avoid being against the wall. But because there is no safe harbor. If you become an ally of this thing, you will last until you are no longer useful to it, and then they will go after you. If you try to placate it by saying half truths that will come after you pretty soon. The only thing the only valuable position that I see is speaking the truth and accepting the consequences. And the reason that I think this is important is that I know from experience that people have to stare into the abyss in order to find the Kurt. And so there's some process I think it takes for people who have it in them, maybe a couple of weeks, couple of weeks of thinking Holy crap, is that really am I do I accept that? Is there something else to do? And then you get used to it. You come to understand that okay, that is not the fate I want. But I'm willing to accept the possibility of that fate in order not to suffer this other fate. And one of the fates that you don't want to suffer is losing your ability to speak obvious truths.
+
+Eric Weinstein 2:43:19
+Look, I i understand the counterintuitive branding concept, which is what I did with ITW. But I don't like it. I know. I know. But it's not. But you know, maybe it's genius. Maybe the idea is I don't like it because it's gene. I don't know.
+
+Bret 2:43:42
+It's the abyss. There are a lot of people, right? There are a lot of people who are going to have your initial reaction. I'll be
+
+Eric Weinstein 2:43:48
+honest with you. Can I tell you what I hate about it? Yeah, okay. I hate about it. I don't think these guys on the other side of this are that bigger that good?
+
+Bret 2:43:58
+It's not the guys. You have to watch this thing spread across people.
+
+Eric Weinstein 2:44:05
+You sorry, I just I really believe that. Honestly, we've we've so I coined this phrase, the Chihuahua effect for a tiny number of people terrorizing a large number of people by barking so loud and so often.
+
+Bret 2:44:19
+I get it, except I've also seen well,
+
+Eric Weinstein 2:44:21
+wait a second. Yeah. Let's talk about a very difficult principle. How do you tell a black person who has submitted a wrong answer on their mathematics that they're wrong? you mark it wrong. You're wrong. Yeah. How do you tell an indigenous American whose land has been effectively stolen by white invaders that they're wrong about a multiplication problem. I'm guessing it's somewhat similar. It sounds the same, you're wrong, you're wrong. I think that this is a ritual that we have to actually go through which is I want want you to imagine the least fortunate person in the world making a mathematical error. And I want you to practice a very simple exercise out of compassion and love so that that person can get better and not be diluted, that their oppression is equivalent to their being correct. I want you to think about loving that person more than you than you do right now and telling that person what they need to
+
+Bret 2:45:24
+hear. Yeah, you're wrong. That's that's what respect sounds like, respect sounds like you're wrong. You're wrong. Yeah. I have back in 2017. You may or may not remember, I tweeted that all else being equal 50% of the time that a man and a woman disagree about a matter that is factual. The man will be right. All else being
+
+Eric Weinstein 2:45:46
+there's no evidence. I know no male who's ever won this argument? Well, nice try. Next, gone wrong. Yep. All right. So no, no, but this is, is a joke. One of the problems I have with women is telling them that they're wrong. Yeah. It's not easy. Which is like, here's the quality that you've been asking for. Right? Sally, you know that, you know, you know that point about your projections. When you say 3% you don't multiply three times the number you multiply point oh, three. Yeah, you're wrong.
+
+Bret 2:46:20
+But you know what I love? I love the women who get this and understand that it is. It is respect. It is. It is yes, maybe the male idiom but the point is actual equality involves taking that part of the male idiom and acquiring
+
+Eric Weinstein 2:46:35
+it. At some level. You and Heather collaborators. Yeah, he and I are collaborating 100% I fight for every goddamn point that I get right. When I when I savagely win one of these points. I take a fucking victory lap because it's hard to beat pm on Yeah.
+
+Bret 2:46:54
+Alright. So the point was leadership. Hmm, because of its absence is creating a lethal hazard. Worthy energy. Yeah. The French Revolution energy that has spilled into our streets to have proper leaders. Smart, cogent people, right, right. They could shut down the battery link or their leaders know. Sure. Well, I'm not saying that there's nobody in that role. But I'm saying when I look at them, I'm saying that they don't want to be leaders right now. Killer Mike. Yep. made a very clear bid for being a leader in Atlanta.
+
+Eric Weinstein 2:47:36
+Dave Chappelle made a bid by saying I don't want to be the leader. I trust the street. Guy is not stupid. Well, that was a bid for later leadership. That was a freebie.
+
+Bret 2:47:49
+I actually think that in Dave Chappelle his case. He is suffering from the same thing that those of us who are more tuned in at a daily level are suffering, which is the edit on our raw data. Yeah, he's really bad.
+
+Eric Weinstein 2:48:06
+I don't think that that was the final word of Dave Chappelle.
+
+Bret 2:48:11
+I don't think so either.
+
+Eric Weinstein 2:48:11
+I think the Dave Chappelle bought himself a huge ton of credibility with the street.
+
+Bret 2:48:18
+Well, I hope so. Because if Dave Chappelle emerges as leader, I've suddenly am in a position to breathe a great sigh of relief
+
+Eric Weinstein 2:48:25
+if I had to conjecture Yeah. Am I right that you and I both have a very high estimation of Dave Chappelle from intellectually from my belief is that comedy is a weird game. It is weirdly meritocratic.
+
+Bret 2:48:44
+They laugh or they
+
+Eric Weinstein 2:48:45
+don't laugh. Well, I wouldn't say differently. The comedians have a different eye understanding of the ranking.
+
+Bret 2:48:52
+The comedians have a well crafted joke rubric.
+
+Eric Weinstein 2:48:55
+Everybody understands that. Gallagher used to be able to get laughs But in general, he wasn't seen as being the top of the comedic pile because he was a prop conic. I'm not positive, the Dave Chappelle was using this appearance to establish his credibility, and that his later act will actually be the one that's important. So I'm going to just I'm going to plant that flag. Perfect. Okay. I'd love that to be true. Because this was disappointing. If that's all there is.
+
+Bret 2:49:27
+Yes. And it was conspicuous, right? So in some sense, it does leave the question about what comes later, you know, the length of it, the way in which it appeared all sorts of things. Interesting. He personalized it.
+
+Eric Weinstein 2:49:41
+So he said, I was born at 46 in the morning, and it was eight minutes and 46 seconds on this guy's neck. Yep. George Floyd's neck, and he also did some other stuff with his birthday. And he talked about this in terms of his father calling for his mother on his deathbed and mother being Close to slavery and it's not that far in our rearview mirror. It was a masterful construction, which did not like, you know, there's this weird thing about stressing and communication. When you see a person who you respect as much as I think both of us respect Dave Chappelle intellectually, not using all neurons available. I'm loathe to think that he's through less than we are. And I'm inclined to think that he's thinking this thing through more than me.
+
+Bret 2:50:34
+Well, I don't disagree with that. And so you'll you'll respect that my hypothesis about what's going on is that he encountered data that did not allow him to look what would be
+
+Eric Weinstein 2:50:45
+one possibility, which is that he was using very high level heuristics, right on the data he got. But I think that in part, you see, despite the fact that I think that we redirected all of the COVID energy towards George Floyd and policing and all of the economic energy with the sky, high unemployment towards church, flooding policing. I think that there was another thing that's being said to us, which is not being said literally. Which is, we've been waiting for a long time to get rid of the specter. That is the invisible racism that we feel but cannot pinpoint. Oh, yeah. And I saw him in part glom on to that. Oh, yeah, I
+
+Bret 2:51:33
+agree. And so this is very frustrating, because
+
+Eric Weinstein 2:51:36
+like, maybe maybe we the black community, or kind of hijack some energy that wasn't ours. But on the other hand, you've hijacked shit for so long.
+
+Bret 2:51:44
+Oh, there's a lot of this that, actually, the frightening thing is if you take shit that the black community has put up with, has simply put up with because it had no choice, right? And you turn it around, it looks a lot like this. But the problem is the
+
+Eric Weinstein 2:52:00
+this issue of oppression reversal,
+
+Bret 2:52:02
+right? Instead of ending oppression, turning the tables of press right, but the problem is the republic will not survive that reversal. In other words, the republic could tolerate the unfairness to black people. It was completely unjust and unacceptable and unAmerican, but it was not fatal. turning the tables of this oppression will be quickly
+
+Eric Weinstein 2:52:23
+fading. Yeah. You don't even mean what you just said, because I know you very well. It was fatal. At the level of it betrayed the ideals of the Republic. Now, even if the Republic was viable, it was viable as a non serious entity in a weird way.
+
+Bret 2:52:41
+Right? Which is why I am so upset at the slogan, Mayor. Yeah, because the point is that last a if again, yes, it's the again, if you are in one of the populations for which America was never great, this is a finger in the eye. Right? Right. And so my feeling is, look, I'm not signing on to that goddamn slogan, even though I would love for America to be great. And I am proud of what America is in many regards. I cannot sign on to that fucking second a, unless you take care of everybody. Are they not Americans?
+
+Eric Weinstein 2:53:12
+Well, you know, it's a more devious slogan than that. I mean, I really appreciate that you've been on this since the beginning. I think it's a good call. I guess the idea is that there are ways in which America was once great that it needs to be great again, and there are ways in which America has never been great. In which case it needs to become great for the first time. And so the issue is there is America to be made great again. Yeah. And there is America that has never been great and needs to be made great for the first time. And that make America great again, is one of these perfectly ambiguous slogans designed to be designed to be a Rorschach test. Yeah, exactly. Right. It's designed to and so you know, my feeling about this is it's, it's worse than you're saying because it's cleverer than you're saying, No, I
+
+Bret 2:54:02
+agree with that, actually. But,
+
+Eric Weinstein 2:54:05
+and by the way, people don't know this, and I've never really gotten this out. But when I went to meet with Kanye, which was put into Barry weiss's comm article, right. I was not happy about her talking about that. nor was I happy talking about the Candace Owens and Candace Owens was my entree on to Kanye. My entire focus was what were we going to do with magga the slogan when Trump was gone? Right. And then in essence, we were, you know, as Scott Adams, I think, maybe popularized like one screen multiple movies or two movies. Who was it who is going to give us a common picture of magga and the hope was the Kanye There's a different kind of genius and artistic genius, but not necessarily a political one. Yeah. Was the person who would have had the highest likelihood of getting us onto the same page? When the ideas that somebody had come up with a slogan, which functioned as the dress, if you recall, is it black and blue or white and gold? And that was the hope that the hope was that Kanye was the only guy in the country who could actually speak and do the Obama 360 trick. So Obama, in his affirmative action speech, walked around affirmative action and let everyone know that he could see their viewpoint. Hmm. Well,
+
+Bret 2:55:47
+I see it. I mean,
+
+Eric Weinstein 2:55:48
+I can't he didn't have that skill, in my opinion, not because he wasn't artistically gifted, but because it required a different skill sets. Well, yeah,
+
+Bret 2:55:56
+we know it didn't happen. I think his embrace of Canvas was a particular problem, because Canvas is a special entity. Well, this is different. Her purpose is not black facing its white face.
+
+Eric Weinstein 2:56:08
+Well can. Canvas is a very complicated or was a very complicated object that chose to simplify in a particular direction, which was unfortunate. You saw what she did, where she pulled back with Sam Harris, when she and Sam Harris were in different sides of an issue. So I got a tremendous amount of guff for pointing to Candace, as somebody who was building bridges behind the scenes, why would she have invited me who disagreed with her on politics, to a meeting with Kanye? Very often we have this problem that somebody actually builds bridges in private and burns them in public, because red meat pays the bills. Yeah. But they're actually playing multiple roles. Ben Shapiro would be another example. This is somebody who, quite honestly, is often looking to repair things in private, but he has a business to attend to, which is pointing out what the problems are with the other side. Yeah,
+
+Bret 2:57:02
+the thing about Candace, though, I mean, it's possible. I'm just wrong about her. Yeah, but I don't know. I've been I've been in the same place with Candace from the beginning of her rise, agreed, right? I mean,
+
+Eric Weinstein 2:57:13
+I don't think you've changed positions, and you've seen what was positive and what she was doing. And your point was that she will do to the positive, which should not be done to the positive because she will Mangle whatever it is that she can see that could be positive with the negative of the red meat. And I don't think you've been wrong about
+
+Bret 2:57:30
+Yeah, so far, I haven't seen a break in the story. It's all generated by the same function. But anyway, you know, a interesting that Dave Chappelle called her out in his day. I wasn't thrilled in how he did it, but but nonetheless,
+
+Eric Weinstein 2:57:44
+well, they're very funny. He said, Wow, the most beautiful and intelligent way to say the dumbest things possible.
+
+Bret 2:57:52
+Well, that was the nice part of what he said. But anyway. Yeah, I feel like we've we've lost track, and we're gonna have to wrap this up, we're gonna lose our light.
+
+Eric Weinstein 2:58:02
+What is it? Brett, let me just ask you very open ended thing. We've been at this, we've gotten a tremendous amount of attention. If people wanted to know that we're here, they know that we're here. something is going wrong. Yeah. And am I correct that we could blow up the entire planet, we could find ourselves in a nuclear war over the breakdown of civil society shared meaning shared understanding. Yeah. We are about to torch all of humanity potentially, over very weird issues, like do you understand and feel my pain?
+
+Bret 2:58:42
+It's, and if you look at the prescriptions that we've been handed as to what those who are advancing the say, should be done next. It is almost like we are being told that the ship we are on is flawed. And if only we sink it a better one will come. And that's just not right.
+
+Eric Weinstein 2:59:02
+Have you read an essay called ship of fools a short story by one Theodore Kaczynski.
+
+Bret 2:59:11
+I have not read the short story. I did read the manifesto.
+
+Eric Weinstein 2:59:15
+Short story is about a ship on which there's a cabin boy, their first mates there's a female passenger, Mexicans, and everybody on board is arguing about homosexuals aren't being treated properly, the women's aren't being treated properly, the Mexicans aren't being treated properly. And the cabin boy keeps saying we are sailing into an iceberg field. And they keep having the same arguments over and over and over again. And then at the end spontaneously, and the ship had an iceberg and sank and all hands were lost.
+
+Bret 2:59:46
+Yep, that's about where we are. So
+
+Eric Weinstein 2:59:50
+don't love quoting the unabomber. Well, I
+
+Bret 2:59:52
+will tell you that inside of academia, something very interesting happened with the unabomber, which is that we all understood that he was crazy and a small number of highly intellectual people looked at his manifesto anyway, the point was actually some of the manifesto was perfectly juvenile. It was not high quality work. Not all some
+
+Eric Weinstein 3:00:08
+of it. Some was insightful. Some of it was insightful. And this is partially the problem that a man driven half mad through partial insight. I should say that he blew off the hand of our mutual acquaintance, David Gardner.
+
+Bret 3:00:21
+Yep. And so David Lerner who I think is a great guy, he's and misunderstood. And
+
+Eric Weinstein 3:00:25
+ted kaczynski is a son of a bitch. Yeah. Agree. Alright, so now that we know he said the things that needed to be said, Yeah,
+
+Bret 3:00:31
+but there was insight there. Smart people, including dick Alexander, were not so quick to dismiss the manifesto. wholesale.
+
+Eric Weinstein 3:00:39
+Right. In part, you would expect somebody with a partial version of the truth to be driven insane.
+
+Bret 3:00:43
+Yes. Very much so especially if isolated from others,
+
+Eric Weinstein 3:00:47
+especially if it is hard to see and he was early. Yeah.
+
+Bret 3:00:51
+Okay, so let us say there's plenty more
+
+Eric Weinstein 3:00:55
+comp what is to be done? What? Yeah, what is the good catchy title?
+
+Bret 3:01:02
+All right. Well, folks, I have advanced a plan for starting to fix this in November. Check out Joe Rogan's clip channel. For the Dark Horse duo strategy. Dark Horse is the podcast but with the podcast, it's dark horse with the age capitalized to the Dark Horse duo is not really about the Dark Horse podcast, it's about the idea of dark horses, which has a long and storied history relative to presidential candidates. So it's almost an accident, the two of them lineup, but check out the clip. And I think that this is the best plan, we've got short term. Now, the deepest plan we have
+
+Eric Weinstein 3:01:42
+this is a split ticket.
+
+Bret 3:01:45
+It's not even a split ticket. So one of the things I have learned in decades now if thinking about how to fix civilizations, that there's certain things you can't afford, you can't afford a constitutional convention, you can't afford a revolution. So you have to work within the structure you've got. But you have to think creatively about how to make the structure that you've gotten
+
+Eric Weinstein 3:02:03
+I would I get a functional revolution without a physical row.
+
+Bret 3:02:07
+Yeah, rebel, we need revolutionary change without revolution. And so the idea is
+
+Eric Weinstein 3:02:11
+I'm in agreement with that part of it. Okay. And I also believe that it cannot be Trump versus Biden
+
+Bret 3:02:16
+cannot be Trump versus Biden. In fact, now that we are in COVID, and George fluid riots territory, and we've got these two
+
+Eric Weinstein 3:02:24
+strategies to pressure Biden to step back.
+
+Bret 3:02:27
+No, that'll be one way. But I don't think that'll happen, because I think we know what the DNC is really about. So I don't I think they will go down with the ship rather than allow and I don't
+
+Eric Weinstein 3:02:35
+think with these style of demonstrations, that that is something that I want to give away just yet. Well, I'm great. Maybe they're staring I'm to ask for these people to retire because they're too old to set in their ways. too limited. going downhill fast. Jesus, yeah. Trump versus Biden, you have a seven year old versus like, it's a 74 year old versus a 77 year old. We've never had anything remotely look like that in American history.
+
+Bret 3:03:03
+Yeah, it's preposterous.
+
+Eric Weinstein 3:03:05
+I mean, let me just advance an idea that you should be expected to live 20 years with the consequences of your actions.
+
+Bret 3:03:11
+I like that. I like that a lot. You should be expected to live 20 years of the consequences of your actions so that you have to take responsibility for them rather than
+
+Eric Weinstein 3:03:19
+I don't think 94 and 97 are expectations. If I looked at life table from an insurance company for these two gentlemen, particularly not with cognitive problems I see in them both. Yeah.
+
+Bret 3:03:30
+Right. And that's before you get to their moral failings, which are apparent in both cases. I mean, off the stage, yeah, on stage. But nonetheless, if they won't leave the stage, we have to usher them off the stage. So in short, check out that clip on Joe Rogan's clip channel. The short version is, we draft two people who have three characteristics in common, the characteristics are, they are patriotic, they are courageous, and they are capable, one of them has to come from the center left, one of them has to come from the center, right, so that they dislike
+
+Eric Weinstein 3:04:00
+their wings more than they dislike the loyal opposition across the aisle,
+
+Bret 3:04:06
+right? and decency will cause them to rule in our favor to govern in our favor. Now here's the thing, we draft the two of them, they flip a coin to decide which one is top of ticket. But the agreement is that they govern by consensus, except in two cases. The two cases are cases where there's no time for dual decision making. And the other cases that they can't resolve something in which case somebody has to make a call, and that's the person who inhabits Would you agree that this is a hail mary? Um, no. At this point, I think we the Democrats and Republicans have surprisingly, fumbled the ball so badly that they have in fact,
+
+Eric Weinstein 3:04:47
+yeah, but Brett, what you should be looking for something near violence in the street. No, I'm not kidding. Right. Every peaceful demonstration is a demonstration of potential violence. People don't understand right? The idea, right it's it's a it's a convertible threat. It's a
+
+Bret 3:05:04
+convertible threat. And in our case, we have the threat in the street. And then we have a threat that we can all infer, comes from the hills.
+
+Eric Weinstein 3:05:14
+Well, this is why I was so upset about the looting. Because it's like, you can't even keep your sword in its sheath in order to communicate power. Yeah. Where did you learn violence? Right?
+
+Bret 3:05:26
+It's very low grade wasteful. So anyway, we've got we've got a potential civil war on our hands, which could be the invention of America very quickly. So is it a hail mary? No, because I, you know, I will tell you, I unveiled this idea first on my own podcast, which has a moderate following, but I haven't gotten a single negative reaction, which I find interesting. I think people are finally aware that All of the explanations of what is and isn't possibly the
+
+Eric Weinstein 3:05:53
+easiest thing to say is no Trump no Biden. Yeah. No, Trump. No, Biden is a strategy. Yep. Which is get these two old white maladapted has been off the goddamn national and world stage period. The end. Don't send me any, like, if you think about 2024. Yeah, the rules that say, You are not allowed to participate in an event that we aren't behind. And we're going to pick the New York Times and CNN and all the NPR to host the debates. Yeah. There is no primary. There's no primary at all. There's no democracy. It's like, right.
+
+Bret 3:06:37
+It's they were inventing America. And now the street is about to uninvented.
+
+Eric Weinstein 3:06:42
+And you know, roughly speaking, as much as I decry the stupid use of violence. It's time for pitchforks. It's time. You know, I've said this on. I said this on Rogen. It's time to revolt. Yes. But the problem is, is that you've got to revolt better. Yes, you're gonna revolt better. You know, he can't all be about policing, from some terrible thing that happened in Minneapolis.
+
+Bret 3:07:08
+And it can't be about policing where you think the smart reaction is to abolish the police rather than make them unnecessary by some means. Right? You can't do it this way. So okay, you and I agree. In fact, I'm saying defeat Trump Biden, in 2020. Defeat Trump by Trump Biden in 2020. So we've got this plan. I've proposed to people, it doesn't have to be these two people, but I think they are viable and that they
+
+Eric Weinstein 3:07:31
+will do the key thing is to get Trump and Biden to understand that we don't like you. Yeah. And that we only voted for Trump to get rid of Hillary, you know, I, I talked about the old lady who swallowed a fly. And I know a young I know young nation that voted for Trump. Right? It's good. Hillary to bump they voted at Trump. Right? And so the idea is like, I don't want to swallow a series of crazier and crazier people to get rid of the last crazy person. We have a ton of competent, good, decent people, people who serve in our military. Yep. People who devote their life to public service, and we need to draft them. And the Am I right, that it's imperative that whoever is put into power should be dead on arrival as far as the RNC and DNC? Oh, yes. Like, alright, separability to the tip, those
+
+Bret 3:08:22
+two entities don't hate you, you're
+
+Eric Weinstein 3:08:24
+not good enough for us. It doesn't mean that you're good. If they hate you, right? It is a necessary condition that the DNC and the RNC should find you to be reprehensible, childlike, possessed of insane ideas. Yep. And the idea is like, god damn, these two houses,
+
+Bret 3:08:42
+right? A pox on both your houses. Now, here's the thing. There is also as terrifying as this is, there is also the following possibility implied here that come November Yeah, we could feel better, we could be headed towards something that looked to everybody like leadership of a kind we have not seen in decades.
+
+Eric Weinstein 3:09:05
+For sure.
+
+Bret 3:09:06
+It makes sense.
+
+Eric Weinstein 3:09:09
+Good luck with that. And with the Dark Horse podcast with
+
+Bret 3:09:12
+the Dark Horse podcast, which has come to an end as a result of failing lights and a need to move on to other things, but we will be back. So thanks, everybody, for watching. And thank you, Eric, for joining us. Thanks for having me. We'll do this again soon. All right.
+
+This transcript was generated by https://otter.ai

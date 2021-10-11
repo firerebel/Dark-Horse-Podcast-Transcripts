@@ -1,0 +1,832 @@
+Bret 0:00
+Hey folks, welcome to the Dark Horse podcast. This is the sixth in a series of live streams with Dr. Heather Hein sitting. As always to my right. We have some interesting things to discuss with you today. And it is, in some sense and unusual podcast, we will start with corrections. And then we will get to the part that is, in many ways much more personal. I should also add that we are working on technical aspects of the podcast. And so anyway, this is a painful process, we are discovering all sorts of wrinkles that need to be ironed out of our system. Hopefully, we will have fewer dropped frames today and better continuity with the sound I will try to remember to speak into the microphone, which sometimes I don't do when I'm looking at my lovely wife. So if you have other observations that we ought to know about, please don't be shy about sharing them. And we will attempt to refine this process as we go. All right. As far as corrections go, we have a few things to discuss. First, I had a number of people tell me that we had it wrong with respect to whether or not urine is sanitary. And I would have to go back and look at exactly what we said sterile was the word that we used sterile. Okay, so I think the problem here there is a correction that needs to be made, which is that it certainly can't be considered sterile. There are in fact, things that are transmitted in urine, they tend to be difficult to transmit that way, but they have been cultured by people who have looked for it.
+
+Heather 1:37
+That is to say there is bacterial load in urine, there is bacteria in the bladder. At some point it was imagined that maybe there wasn't but and there's more bacteria in the bladder and urine of people with current urinary tract infections. But there's always some bacteria in even the healthiest urine.
+
+Bret 1:56
+The the issue, though, comes down to one of extremophiles and evolution. So while urine is not sterile, it does have some sanitizing properties by virtue of the high salt content. And it is not that things cannot adapt to the high salt content. Clearly, urinary tract infections manage it. But it is difficult to evolve those things. And to the extent that things evolve resistance to extreme environments, they have a difficult time with normal environments. So there's a trade off there. And this explains why it was the mass sigh who utilize cow urine to wash their hands, there is some sanitizing capacity there. So it's a partial correction in that case,
+
+Heather 2:42
+and it's certainly more more useful as a sanitizer than any other bodily excretion, I can think of.
+
+Bret 2:49
+Wow, okay. Well, I
+
+Heather 2:50
+mean, I'm not Yes, you could go gross without, but you could also say, okay, spit spit work now. Right? And you know, anything blood? No, feces, obviously not
+
+Bret 2:59
+right. Okay, good. Second, some folks challenged me I was asked what sort of preparatory materials did I leave when we moved out of Olympia, and to Portland, and I mentioned off the top of my head, compressed air, and the tools that go with it. And I had said that this could be useful in the event of a collapse scenario. And many people said, it's a terrible idea, it's too hard to generate the pressure and to an extent they're right. And in fact, we have switched over to battery powered tools, which, in many scenarios are just simply so far superior to air powered tools, if the power goes out, that it's no contest, but I would point out that there are many different collapse scenarios and battery powered tools are great if what you have is a short term collapse scenario, where things go back to normal after a few months, let's say, in the event, that civilization actually came apart, your batteries would die, your tools would become useless, and there'd be no way to power them. Alternatively. So it really depends on what scenario you're preparing for. And one of the difficult things for people who are interested in preparing for all sorts of unforeseen outcomes is trying to figure out what the kit is that you want to assemble that covers you for the maximum number of scenarios. And so things that are belt driven, and can therefore be driven by something like a bicycle are desirable from that perspective, even if they're not ideal from the perspective of actually the amount of work it takes to get power out of the tools. All right, third thing has to do with smallpox blankets, and I said that the stories about smallpox blankets being delivered to natives of the new world were apocryphal and indeed they are when it comes to the keys to doors. There are a couple of credible instances where this took place on the American frontier where it is more often invoked. It was apparently not a Widespread practice, it's not that this was something that accounted for the massive outbreak of smallpox across native populations. That was just simply the confrontation between this novel pathogen and a population that had no evolutionary preparedness for it. But nonetheless, there are a couple of credible instances it's well worth looking into. And the final correction, I've got a few Oh, wow, I have one more. And then whatever list you have, the final one has to do with the focus of the last live stream was on the question of whether or not hypoxia and depletion of iron and porphyrin from hemoglobin was more credibly, the cause of the symptoms in the COVID-19, then is simple, viral pneumonia. And I don't have a correction here, I think what we said turns out to be important, but what has emerged is a tension between doctors who are seeing different things. And we have doctors who are seeing the the failure of the blood to transport oxygen as a primary driving force. And there are other doctors who say No, in fact, this really does look like pneumonia. And the piece of evidence that I heard marshaled against the, the hypoxia argument, or their primary hypoxia argument was that the dissolved oxygen in the plasma, plasma is the blood absent the cells, the plasma doesn't carry very much oxygen, but it carries some. And we're, it's simply the failure of hemoglobin to be transporting oxygen, you would expect the plasma oxygen levels to be normal. And in fact, they are not normal in the case of some of the doctors who are arguing against the hypoxia as the the driving force here. And the point is that is more consistent with oxygen failing to cross from the lungs into the bloodstream, rather than the blood failing to carry oxygen.
+
+Heather 7:04
+Yeah, that's that's a great illustration of a prediction that would appear to not necessarily falsify, but run counter to what it was that we were talking about.
+
+Bret 7:14
+Right, although final thing I'll say about it is that these two things are not mutually exclusive. And they're not mutually exclusive in two ways. One, it could be that COVID-19 causes both problems, right. And so to decide that one is not the cause. And the other is is a mistake in either case,
+
+Heather 7:30
+which is it's it won't always be the case, of course, that you can have two hypotheses that aren't mutually exclusive. And it is cleaner when we have ones that are such that when you falsify one, whichever one is left standing is the most likely to be true. But in this case, there's no reason to expect that there's a single mechanism of action,
+
+Bret 7:48
+right. In fact, what we have here is, this is a classic for biological thinking, because consider the, the puzzle that COVID-19 or the virus that's causing the syndrome is is facing, it has to get into a body which requires it to invade human cells, and then it has to spread cell to cell, but the particular site that it invades, and the cells that it skips to have a lot to say about the symptomatology from the point of view of the patients and the doctors who are seeing them. So you shouldn't expect that this virus causes one set of symptoms a lot is contingent on the exact path it took to get to the place where the doctor first sees the patient. So it is actually quite likely that different doctors are seeing different things that could be the result of genetic variation between strains of the virus, or
+
+Heather 8:41
+patients, or patients, or both different developmental trajectories of the patients. Yeah.
+
+Bret 8:46
+So this is this is the the lesson of biology is that the temptation to just simplify what you're seeing is obviously important, but it's very easy to take it too far in biology, because complexity is, you know, is present in every biological facet.
+
+Heather 9:05
+Yeah. Okay, so the corrections that I had we already covered one about urine. It turns out that eggs do have salmonella inside of them, because salmonella can actually is actually sometimes found in some cases in the ovaries of chickens. And so yes, most of the salmonella is coming from the surfaces of eggs. And if you wash the surface of your egg just before you break it, you are much more much less likely to get salmonella, but it is sometimes inside of the egg from the beginning which news to me to me as well. And then the final one was with regard to UV light and viral decay, you would raised the question in light of something I'd said earlier about isn't sunlight, a great disinfectant into something to that effect, and I had said, Oh, actually, it seems like it's UVC. That's the best, best route to, to decaying viruses and such. And it turns out, I had just received a paper that I had not yet read, which called the influence of simulated sunlight on the inactivation of influenza virus and aerosol. So this is about influenza virus, which is not a Coronavirus, but it is a virus and, and it's a simulation. But what what they find is indeed, that the half life of viruses, the influenza virus in a dark room is something like half an hour. Whereas in full intensity against simulated sunlight, it's 2.4 minutes 2.4 minutes or four minutes compared to half an hour for the half life The basically that he had the how long it takes for half of the virus to decay and become inactive and incapable of being active in full sunlight.
+
+Bret 10:43
+Well, then I'm proud to say that the Dark Horse podcast is the first place that you will hear that simulated sunlight is the best disinfectant.
+
+Heather 10:52
+Excellent, yeah. So it is, interestingly This will be our topics today are going to be about death, and also peer review. And this is not related to the death topic. But this article, which is in the Journal of infectious diseases, it's actually published in 2020. But it is not it is it went through peer review, you know, over the last probably year or two. So it just happens to have been published and you know, in the in the log of publication at two to emerge just as this, this global pandemic is hidden, which is just an accident, most of most everything that we are hearing from scientific research right now about the SARS cov. Two and the disease that causes covid 19 pandemic, are on preprint servers, and have entered, you know, just coming out fast and furious. And it's up to us, you know, everyone basically to assess whether or not it's it's true or not.
+
+Bret 11:54
+All right, we will return to that topic when we get to the question of peer review later on. Yeah. All right. How would you like to? You have something planned with respect to how we
+
+Heather 12:06
+not exactly I mean, I have some I have some things I want to say. But if you if you want to start Go for it,
+
+Bret 12:11
+yeah. How about I do that. So today is a somber day. For us. That is the anniversary of the death of Heather's father. Seven, seven years ago, it's hard to believe it was seven years ago. And Heather will say more about what took place and what it meant. But I will just say For my part, that Heather's father was an extremely unusual guy, his name was Doug. And he and I didn't get along perfectly At first, I think that's kind of normal with, you know, fathers and their daughters and their daughters. would be boyfriends and all but ultimately, we came to be quite close. And I must say, I still in some sense of not reckon my reconciled myself to his death. He is somebody we comment on frequently, we, given all that we've been through in the last few years, we've often wondered what he would make of it. And we really wished we had his perspective. He was a Heather will tell you more about his, his professional background, but he was a computer scientist, who was regarded as a mentor by many, which was interesting, we discovered that in the sense after he was gone, when people told us what their relationships with him had been. But he was a man of very few words. He was an excellent teacher, but it was not primarily about him telling you what to do it was he taught through other ways, and one of them was by by illustrating, so we missed him a great deal. And we are very much still grappling with, with the loss. Yeah.
+
+Heather 14:03
+So a tremendous number of people are dying now in the US from COVID-19. And it's possible that there are slightly fewer deaths from a few other sources, because of the because of the lockdown. But by by unfortunate happenstance, there are two other deaths that in our world this week, and you know, maybe we'll say a few words, about least one of those at the end of this but knowing that this was coming, that we were due to do another live stream on the anniversary of my father's death, I was thinking about it, in light of what it might tell us about what the deaths from COVID-19 are doing to people and how particularly this disease, which, of course, my father knew nothing about. Having died seven years ago, is affecting people in ways that it's hard to quantify, but pretty easy to qualify. If you start Putting putting stories together.
+
+Bret 15:01
+Did you say that the two deaths in our world were not? Yeah, yeah, we
+
+Heather 15:05
+so far have no one that we know directly. You know, there's a couple of second order. You know, we know of some academics and such who have died from COVID-19. But the two people who we who died, our experienced deaths this week, had nothing to do with COVID-19. So in 2012, Brett and I were both teaching at evergreen. And it was an early spring morning, and for some reason, I'd gotten up very, very early, and was building curriculum for the day, it was maybe the first week of spring quarter, and the boys were asleep. And Brett was asleep. And my phone rang. And normally I wouldn't have been up at 610 or so that was my mom. And she said, Your dad's having a heart attack. The paramedics are here, I don't know, I don't know what to do. They had my parents moved to Olympia, the year before, year and a half before to be near us to be near us and their grandchildren. And I ran upstairs to get changed. And Brett woke up and said, we're taking the kids, we're taking them I said, Now don't know, we don't need to. And you said yeah, no, we need to take them over there. And you drove you drive fast, normal conditions, but you drive as fast as I remember you driving to get to my parents house. And there were three emergency vehicles in the driveway. Again, it's long before dawn at this point. And I said stay in the car with the boys. I'm gonna I'm gonna run in.
+
+Unknown 16:42
+And you wanted to see what I wanted to see what the situation
+
+Heather 16:44
+was. Our kids were at that point, almost nine and seven. I just didn't want them walking in on a scene that was really gruesome. And I went to the door, it was locked, which was strange. And I banged on it. And my mom opened the door and there's my dad. My dad was a big guy. Six too big. I was on the floor. And there were seven, eight or nine, first responders, their EMTs and firemen working on him and my mom was standing there with with the main guy. And she came over to me and said, he says your dad's gone. They've been working on him for 20 minutes. And he's had no sign of life. And he's gone. And I started crying or hugged her. And then there's a knock on the door. And it's Brett with the boys who's he's come with them. And the EMTs, we open the door and they see these two children in the doorway. And I tell them, your grandfather's died. And they start crying. And the first responders keep working on my father, and they bring him back. They bring him back, which is just extraordinary. And it points to the connection that we have between us as human beings that sometimes is the difference between life and death. Now he had been out he had been without a heartbeat for at least 20 minutes. And I have no idea how much longer than that it actually was because it took some time for them to arrive after my mother called them and she of course has no idea how long that actually was. But they then got him to the hospital and and Western medicine just did wonderous things for him over the next seven weeks in the ICU seven weeks in the ICU out of the ICU a few times but mostly in they put them into a cold coma. They basically dropped his core temperature to I don't even remember what it was, like 92 degrees I want to say but I don't remember I didn't look it up. The idea being based on just empirical results that people who die in people who almost drowned in cold water tend to have better results cognitively, later on than people who almost drowned in warm water that the slowing down of the slowing down of all biological and chemical processes basically stops damage as well slows damage as well. So they put him into this cold coma. And the amazing cardiologist who we spoke with in the hospital that morning said any outcome is possible. You may never interact with him again. And he may get up and walk away from this and be fine. And we really can't say at least we can't make any predictions at all until we begin to pull him out of the medical induced cold comment 24 hours or so. He was I wouldn't say just to jump forward not to tell the entire story here but I wouldn't say he was 100% after he came out of the ICU seven weeks later, but he was really close. And he, you know, he went through bypass open heart bypass surgery, he was on a heart lung machine, you know, this this kind of medical intervention, which is extraordinary and saved my father's life a number of times during that spring of 2012 was remarkable. And
+
+Bret 20:21
+so I must say, I was never sure whether the little bit that he didn't seem to come back was the fact that he was so shaken by what had happened to him. And that, you know, you can imagine being in his shoes, you would always every time you forgot something, you would wonder, was that some capacity I lost? So he there was a way in which he was shaken. Yeah, I never saw anything that actually caused me to think up. Yeah, he's definitely definitely lost some capacity.
+
+Heather 20:51
+Yeah, I, I agree. I think mostly, you know, he was a while I don't know the lingo because I don't play bridge. But he was a extraordinary bridge player who would who was still playing in and I think winning some tournaments in that year, after he had been in the ICU for seven weeks. I had some questions for him about our taxes. And I, you know, I worked on taxes with him. And he seemed to be the usual, his usual intact self. But now fast forward. So we all my mother, and, and our boys and us got another year with him. And it was such a gift. And it was, in part anyway given to us by not just those amazing EMTs, who continued working on him after they had said there was no hope. But also the remarkable medical intervention by the people at the hospital by the doctors at the hospital St. Pete's in Olympia. But by the beginning of 2013, all the same issues that have been plaguing him before were coming back. He had long term heart damage, he had it what is it chronic obstructive pulmonary disease, COPD, CPOE. COPD? He was overweight. He was a drinker. You know, he had he had all of these. He had all of these, I guess their comorbidities. Right. And he had always been someone he grew up on a pig farm in Iowa. in northeastern Iowa, he used to call himself a little country programmer. He went to Notre Dame, then went to Carnegie tech before was Carnegie Mellon and worked for a series of, of the big companies in computer science. He was translating, he basically he he translated he spoke both hardware and software. And he worked as the interface both between those two domain levels and between the people who often couldn't speak directly to one another. And through all of that he had, you know, he had the farm boy in him. And part of that was, we eat from the land when we can and I, I was hoping I'm not going to take drugs unless I have to. But especially in that year after he had been the ICU for so many weeks, they just were stacking drug upon drug upon drug on him. And he didn't want it but they you know, it's hard to say no, when you know that your life is hanging in the balance. So by by early April of 2013, it looked like he needed another another bypass surgery and other open heart surgery. And he was scheduled for one for April 12 of 2013. And I was supposed to be getting back for a field trip that I was leading with my class then. So I said, Hey, Dad, can I borrow your car where I'm taking my class up to Orcas Island, the San Juan Islands gorgeous, gorgeous spot camp Moran place that we've we've taken a few field trips, few classes. But I'll come home a day early, I've got two amazing former students who are acting as my ta is and they can wrap up the field trip on the final day and I'll get the first ferry out of there on Friday and come home and be and be in the hospital with you and mom on the day of your surgery. But in talking with my mom on Monday and Tuesday have that field trip I just had this sense that things were not going well. And so I left my field trip in steady and capable hands of that I think it was Dallas and Cory and, and drove home early Wednesday, drove straight to the hospital. And he was there in his room with my mom. And he and I shared maybe eight minutes of conversation. during which time I told him I loved him. And he told me he loved me and reminded me how much he loved the children, our children. He's mentioned he loves you very much. Um And then he seized and I never saw him conscious again. But
+
+Heather 25:09
+it was hours later I had time to call you. And to say, bring him now bring, bring the boys, you come and bring the boys now he's back in the ICU, I think this is at the five of us, my mom, his wife. And you and I, Brett and our two children were around him as he as he died, and were able to be in the room, you know, terrible ICU room for an hour or so afterwards. And then we later I don't know how many days later accompanied his body to the crematorium. He had been Catholic in sort of a past life, but, but he had no objection to that ending for him. And in his ending, I thought, this is how no one wants to die ever. No one wants to die in the hospital. Americans don't know how to die, we've lost track of most of our most of our ancient rituals, every society that has been looked at every culture that's been looked at his death rituals. And to the extent that individuals are still from cultures that do or have created, some for their themselves, are our governmental and medical establishment has mostly kept us from those rituals, under times of extreme duress. And he was luckier than most because he had five, they let the children into the ICU because it was the end, which normally they wouldn't have done. And so he had five people around him who loved him deeply. But people dying of COVID-19 generally don't have that at all. And that loss of contact between between humans is so profound, and so extreme, and it must be so alienating, and isolating and lonely. It feels like there must be something that we can do to make better deaths, not just now in this in this time of global pandemic, but across all deaths.
+
+Bret 27:24
+Yeah, it's really a difficult problem, too, because so many deaths now take place in the hospital. And obviously, at this moment, if you can avoid being in the hospital, it's exactly the last place you want to be just from the perspective of catching this virus. So yeah, well, you know, obviously, it can't be the same priority level as figuring out how to treat people and prevent them from dying. But there are going to be deaths and you know, even deaths from other things, under these circumstances are just so compromised by the regulations around who can be where Yeah, it does need to be addressed.
+
+Heather 28:04
+I have an interesting list here of ways that ways the death is celebrated. Just it's from its from the introduction of this pretty good paper called not just dead meat, an evolutionary account of corpse treatment in mortuary rituals across 59. I think it is cultures from 2017. And just this list alone is worth is worth considering. Even a cursory examination of the anthropological record reveals the many ways that people treat their dead prior to disposal. corpses are washed and bombed anointed, pickled, dismantled, painted adorned with jewelry closed wrapped, placed in the container moved, viewed extensively touched, embraced wept over shouted at danced over and forced fed food among other practices. And let's just celebrates humanity right there that we have come up with so many, you know, for every single one of us some of those sound crazy. Yeah, and for someone on Earth, whatever sounds crazy to every to the rest of us. It feels like the most natural thing in the world.
+
+Bret 29:16
+Yeah, but everywhere, there's something everywhere there's something it's everywhere there's something to human universal Earth rituals
+
+Heather 29:21
+are almost ubiquitous death rituals seem to be ubiquitous.
+
+Bret 29:25
+Yeah. And our culture has done so much to turn them generic and to sanitize the process and to turn it into a commodity. It's, it's frightening. Yeah. All right. Is there more to say I think on this topic.
+
+Heather 29:42
+I think there were there may well be more but maybe we maybe we stop. Okay, for now. Did you want to say was that 30 minutes, okay. Maybe that's
+
+Bret 29:56
+okay. All right. So the other topic is a, it's tempting to try to find a connection between death and peer review.
+
+Heather 30:07
+Peer review is sometimes the death of good ideas. Yes, it's
+
+Bret 30:09
+where good ideas go to die. But in any case, I wanted to raise an issue with respect to peer review because of what I'm seeing unfold, which is a very, very unusual circumstance. So for those of you who are not academics, and have not been academics, there's a part of the world of how science and other disciplines unfold that you can't see. And you probably can't Intuit, which is that, well, there's this principle called the Matthieu principle, which is something to the effect of to those with much much as given the idea of being a positive feedback loop where those who have lots of something end up with more than those who have little ended up with less. This is found across our system, there are amplifiers that take disparities and increase them. And one of the places that this happens is in terms of academic access. So at a very high powered University, you will have incredible access to what we call the literature, right, your library will have a great many of those things available to you. And there's ways to access any that aren't present in your library. And you sort of come to think this is just the nature of the world, you have now joined a field, you have access to all the things that take place. And it turns out that as soon as you leave a major university, even if you step to a just somewhat less renowned place, you discover a spectacular decrease in what you have access to. And if you go to a college, you find that your access plummets. And if you leave academia altogether, you find yourself facing a paywall that's asking you to pay 35 bucks to glimpse a paper that you just need to look at a little bit to figure out whether some result makes sense. So anyway, there's a problem with peer review that begins with the fact that it is a gate through which most people cannot pass. Hey, folks, sorry about that. We had some kind of a momentary power failure that took out cameras, computer, everything associated with the podcast, and it took us a moment to get back.
+
+Heather 32:19
+I've got a conspiracy hypothesis. So is that right? Yeah, it was the editors that nature, what took us out
+
+Bret 32:24
+the editors that nature, what took us out? I liked that hypothesis. And I liked the phrasing. Thank you. All right. Well, here we AM. Apologies. I think what we will do is we will have this second part to stream also be the supertrapp answer stream, we will just combine them. Okay. Does that work? Sure. Good. All right. So let me just finish up what I was getting at. The fact of the literature being available in proportion to the prestige of your university is a hidden fact about about the way peer review works. But there is another set of facts that is equal sorry, there are things being done here to resurrect the stream are amazing
+
+Heather 33:14
+technical support, Zachary, yes. had nothing to do with the failures, as far as we can tell tape and baling wire is creeping around, you can you can come up here if you need to.
+
+Bret 33:23
+I think we've got it. All right. So here's what I want to get it I'll just cut to the chase so that we don't face another set of problems. The COVID-19 situation is revealing something it's actually a kind of test of something that we have been talking about the dangers of peer review. Eric, my brother has been talking about the dangers of peer review on the portal, podcast, his podcast. And the the long and short of it is this peer review sounds like something that you need to have because of course work that doesn't withstand the review of peers isn't very high quality. But that does not mean that peers need to have veto power on whether your work ever sees the light of day because your peers Of course may have a conflict of interest about whether or not they want your work to see the light of day or they may be so myopic that they can't see the wisdom in what you're saying. And therefore they will block it because they say it's low quality, when really what it is is very far ahead of its time,
+
+Heather 34:35
+or you and a few of your dearest friends from the Cabal and you effectively peer review each other into lots of publications without saying anything about the quality of the
+
+Bret 34:45
+work that is very frequent. So why are we raising this now? We're raising it because the COVID-19 situation is producing an alternative view of an alternative way of doing it. which used to say, because COVID-19 is unfolding in real time. And because it is very important that we figure out how it works, how it's infecting people, what its vulnerabilities we may be how it is that we can behave so that we don't catch it. All of these things. This is unfolding outside of peer review. There's no time for the journals to send these papers out and have peers review the work and decide whether or not it should be published. There's no time to publish it on paper. So it's unfolding on these preprint servers. And what that means is that people are putting up papers, they're accessible to anybody with an internet connection. They vary a tremendous amount,
+
+Heather 35:39
+not that I don't think any of the preprint servers are behind a paywall, right, yeah.
+
+Bret 35:42
+And so you know, the preprint servers weren't really designed for this purpose, the preprint servers were designed in effect, so that anybody could lodge an idea, irrespective of where they were in peer review, and later on, you could see it so immediate access was important and, and such things but very often, they actually are limited in terms of who can use them. In other words, you have to be sort of a member in good standing within a field or something like this. But that's all neither here nor there. The important point is that these papers are emerging in real time. Every day, there are new papers available that discussed the mechanisms at work with the virus, the symptomatology, of the patients, the epidemiology, all of these things, they are accessible to anyone, most of us do not know who these authors are. So these things are now being broadcast to something much larger than a field, they're being broadcast to anybody who has a scientific interest in understanding how this thing works. And it is effectively the proof that this does function that the fact of no quality control on these things is not creating a hazard it's creating an opportunity that we can now you the public, if you want to can tune in to the dialogue between you know, let's say doctors who are seeing symptoms that are somewhat inconsistent with each other, you can tune in as the virologists are discussing the similarities of the receptor molecules in one virus versus another. And the fact that this works is tremendously important. And what I very much hope is that at the end of the COVID-19 situation, that we do not simply decide that peer review has to be reestablished as the only way to maintain quality. What I hope is that we will recognize that we've discovered that in fact, peer review is the abomination many of us think it is, and that it should be replaced by some sort of open source alternative.
+
+Heather 37:49
+Yeah, so there's a there's a related. Thank you, Zack, there's a related issue, I'm not actually sure might be interesting to figure out to hear with you live,
+
+Heather 38:03
+how exactly you think it interplays but there's a related issue that you alluded to, with regard to our one universities here, the big research universities with with a lot of funding, have the gold standard in terms of journal access, and if your faculty or student at one of those universities, it's invisible to you, once you know how to use the system, it just, it just slides right through. And, you know, in fact, this paper that I mentioned at the beginning of the first live stream, the influence of simulated sunlight on the inactivation of influenza virus and aerosols that came to us through Princeton you know, it's it's so easy we have we now for right now have this this r1 university level access and all you have to do is ask you have to you have to be able to find it but then but then you just ask it and it shows up for you. So there's there's a maintaining of the status quo by virtue of the fact that if you're at one of these places, you have access to literature and if you're not at one of these places, you don't have access, you don't know what you're missing, and it's very hard to jump into even knowing what it is that you're missing and therefore what to ask for. So when we were at evergreen, which is a public liberal arts college and was was once capable of doing very high quality work at the both the faculty and the student level one of my soap boxes the entire time that we were there was trying to get access to Muslims Web of Science, which is the the Science Citation Index, which is this indexing database that indexes so many journals you know, across a wide array of field is mostly natural sciences, natural and physical sciences but and it's not a full text database. You can't from there get to get to all of the full text but by learning how to use its search function well, you really confined you can do the lit review, you can do the beginning of the lit review that everyone needs to be able to do. But it's very expensive. Have an evergreen was never rich. And early in our tenure there, I was able to convince the then library Dean to buy it for the school. And I taught my students at every single quarter and said, You know, this is this is the access that you need. And then it got cut a few years before we left a few years before we did get cut. And the argument made to me, you know, obviously, ultimately was a financial argument, it was expensive. But the argument made to me by some of the people within library administration, there was basically, as a researcher, as a scholar, as a faculty member, there are only a couple of journals that you are probably interested in looking at Anyway, what the hell do you need all this really broad access for? And this, to me is just an encapsulation of one of the things that is most wrong with with higher ed now, and not not just the educational end of it, but the research and the idea that most people are doing research by being really, really familiar with a couple of journals. And maybe they also get the tables of contents for Nature and Science, and one or two other pretty big journals in their inboxes if they're scientists, but otherwise, they just read a couple and they don't need to look through to draw on anything outside of the very narrow field. Well, of course, we have a crisis in science, and in replication, and hypothesis testing, and in and in peer review, and everything. Of course, we do, because we're training a bunch of people to do brick in the wall science, instead of big, potentially paradigm shifting, hypothesis driven science,
+
+Bret 41:41
+we are forcing specialization at an absurd level. Exactly. Which is not only terrible for academics, but absolutely awful. For students, it's terrible. You, you should not be teaching your students to specialize at this level, undergraduates need to understand how they need to understand the general underlying stuff before there's any argument for specialization. And so for them not to have broad access across the literature is is just catastrophic. And it's frankly,
+
+Heather 42:09
+criminal, it doesn't look like an education, if you're going to be relying on the literature at all, if you're going to expect students to learn literature review skills, and maybe that's just not your thing at all, like, you know, it didn't tend to be your thing, right. But if you like, I also want students to be able to really review the literature, they have to be able to review it broadly, they have to be able to assess the claims, and you know, across a number of domains, knowing that they will be expert to begin with, and none of them, and they will never be expert in all of them. But that they can they they go in and they read it and they read it again. And at first everyone's thought is almost everyone's thought is I can't understand this, I must be too dumb to understand it, I must not have the level of education required to understand it. And after a while the best students begin to sense you know what, maybe this is written in a way such that I am not meant to understand it. There there are these barriers to entry put up at every single step to keep basically the riffraff
+
+Bret 43:13
+out, well, there are two things, you have terms of art, which are necessary in order to do the high quality work. And then you have jargon, which masquerade as terms of art that are basically there just to keep people who aren't inside the club from knowing what's being said.
+
+Heather 43:26
+That's an important distinction. Yeah,
+
+Bret 43:28
+I think it is. Yeah. So onto your super chat questions.
+
+Heather 43:32
+Here we go. Oh, wait, you
+
+Bret 43:33
+were going to tell a story. Oh, the story was the following. Your father, my Father, who art I'm having? Maybe somewhere, right? He's not here. Your father, the computer engineer, programmer extraordinaire, had a picture of himself sitting at a terminal debugging software with a toilet plunger. On the monitor. I have
+
+Heather 43:58
+that in the in the WordPress site that I created for him after he died. I have that picture. It's it's an excellent,
+
+Bret 44:06
+it's a marvelous picture. Yes. And it sort of reflected his his approach to things like debugging, he was definitely a no nonsense. Yeah. Get it unplugged kind of guy.
+
+Heather 44:18
+That's right. All right. All right. First Super Chat spot on. Thank you. Nate says a question about models specifically pertaining to non regular non repeating events. Are they predictive? Or do they serve a different purpose? If predictive, how do they derive an art the future from an is a present?
+
+Bret 44:36
+Is this an inductive versus deductive question? Is that what what he's after?
+
+Heather 44:41
+Maybe, maybe? So I mean, they're they, they claim they're predictive, of course. But is it? Is it inductive versus deductive? I'm not sure. Here's what I would say. I knew which of these mics was picking us
+
+Bret 44:53
+up. Yeah, I'm not sure I'm not sure what the question means. But I have the sense that this is this is the answer. You're looking for. For, unfortunately, models are being abused, they are taken to be reflective of the things that are being modeled. And in a complex system, it's very hard to get the model right enough. And it is very easy to fool yourself into thinking that you have the model right enough. So what I would argue is that the philosophy of science, logically applied to models suggests that models can be valid places to generate hypotheses which then need to be tested against nature, they are not valid tests of hypotheses. I can't say no model ever has been you could obviously in a very simple scenario, build a model in which you can test the hypothesis. But in a complex system, there are valid ways to generate hypotheses, you may be able to observe something in a model that you didn't expect, but you can't test things there. And that's, I think, what we're doing wrong.
+
+Heather 45:53
+Good. Good. To do, fellow biologist and academic here what is your take on Dr. David Sinclair's information theory of aging as well as his and Opera degrees approach to combat senescence and aging? Love you guys.
+
+Bret 46:09
+Wonderful go home? I sure hope the audio is on for this.
+
+Heather 46:15
+Okay, out of the this morning from my laptop now it's okay, great. All
+
+Bret 46:20
+right. David Sinclair's informational theory of aging, I believe now I'm not thoroughly versed in David Sinclair's probably it's a hypothesis and not a theory. What I would say is that in my paper on telomeres, I advanced what I believe to be the same hypothesis, I made an error, which is that I used a term which I now know would have been better replaced with another term, I said, histological entropy, which many people took to be an analogue for normal entropy. What I should have said was epigenetic entropy.
+
+Heather 46:59
+So what do you I mean, I loved that phrase histological entropy, as you know, but what do you mean by it? For those what
+
+Bret 47:05
+I'm what I mean by it is, if you look at the way development unfolds, cells know what to do that is to say, they know which of their genes to transcribe, based on two kinds of information based on a history of what cells they came from, that is to say, their lineage, and information from things like neighbors that says where they are, as you get old, they lose track of these kinds of information, because a, they are no longer the next cell in the logical sequence from development, what they many of them are, is cells are cells that have stepped in to replace a cell that was lost due to damage or wearing out. And so the amount of information about where a cell is, is reduced, based on basically increasingly bad information. And that bad information compounds because to the, to the extent that one cell is confused, it's putting out a confusing message to all of its neighbors. And so what you get is informational breakdown of the natural order in cells, which perfectly reflects what you see under a microscope, which is from a young animal tissues are very well organized, and the older the animal is, the more chaotic they become.
+
+Heather 48:22
+And at the just at the gross phenotype level. An example I think will will fit for people is you know, as you age hair starts showing up in places that it doesn't normally show up. Yep. Right and not just you know, during puberty, you get secondary sex characteristics, and hair grows and your pets and you're growing and such, but you get, you know, the the stereotype of the old man with the crazy eyebrows and the hair growing out of his ears, and
+
+Bret 48:45
+I resent that.
+
+Heather 48:46
+Such is, I think, a realization of this histological entropy.
+
+Bret 48:52
+Yep. Now that was my original example was a hair follicle out of place. And I've heard David Sinclair The reason I believe these things clear
+
+Heather 48:58
+your paper predate Sinclair's, or it comes after? Well, it's possible
+
+Bret 49:02
+that he wrote something much earlier, but i don't think so i think mine is far earlier. And that I wish I had called it epigenetic entropy, I think it would have been much clearer. histological entropy is I think, a very valid term, but it it did lead some people to misunderstand what was being said,
+
+Heather 49:22
+What about degray? What about what
+
+Bret 49:24
+about Aubrey de Grey opera degrees perspective. I'm basically just repeating what he has said is that the failure of the human body due to senescence is effectively an engineering problem. And that if it is addressed as an engineering problem, it has a small number of causes and that if we address those causes one by one, lo and behold, we will defeat aging and I agree with him that if you do defeat aging, that living 1000 years becomes readily within shooting distance. Where we disagree is that the fact that It may technically be an engineering problem has anything to say about how tractable it is. And in fact, years ago, Technology Review out of MIT ran a contest for any academic who could show the degree was not worth taking seriously. And I did not yet have my PhD. I don't think I was taken very seriously by the judges. But my point, oh, I did submit one. And my point was, okay, so aging is an engineering problem. Here's another engineering problem, taking a 1965 Ford Mustang and allowing it to trans people transport people to the moon without ever taking it out of service, right? In other words, having a functional vehicle, every step along the way, as you convert that Ford Mustang into, you know, an Apollo 11, or something like that. And the point is, yeah, that's an engineering problem is just not tractable. So my basic opinion is that Barbara de Grey has led us to a kind of false optimism about how tractable this problem is. I also in my response to him took him to task for having essentially no plan for addressing the informational breakdown of the mind that even if you were to solve all of the cellular aging and tissue aging problems of the body, you have another kind of problem, which is that the brain is not designed to function for 1000 years. So, you know, how much do you remember, as a young person, if you're planning to live 1000 years, you may be so forgetful as a young person, that it's not worth it?
+
+Heather 51:40
+That's right. The algorithms that work for memory for an 80 to 100 year old lifespan will be very, very different. Yeah. If the primary treatment is ventilators, which are 20% effective, why do models show massive deaths in an overrun medical system? Shouldn't the increase be 20%? Most can simpler care be performed at home? Can you do that one more time? Yeah. I think that there's, I think that there's a couple logical leaps here that don't quite track. If the primary treatment is ventilators, parentheses 20% effective? Why do models show massive deaths in an overrun medical system? Shouldn't the increase be 20%? At most, can simpler care be performed at home? You get it? I feel like maybe there's just some words missing. Maybe it's not logical leaps, but not quite tracking what the question is. I mean, the primary treatment seems to be ventilators, which is we talked about last time may not be the right, the right tool to be using. I don't know where this 20% effective numbers coming from. I've heard you in some countries, once you put on a ventilator, it seems like you got a 5050 chance. I've not heard 80% of people who go on ventilators end up dying. So I don't know what the measure of efficacy here would be. And then, you know, ventilators versus over on. You have something more here? I
+
+Bret 53:08
+don't really think I think at some level, the question comes down to if the failure of the system because it's over loaded is the cause of death, then we should be able to estimate the degree to which we have a higher residual than expected based on how many ventilators we can't find for people. But I don't quite get how maybe I'm just misunderstanding. Yes, no.
+
+Heather 53:35
+And I guess there's another interpretation there that if if the tool that you get in a hospital, if the major treatment is a ventilator, and it's not very effective, and you're Of course more at risk in the hospital of getting other having other problems. Maybe there's a point at which even if you're really really sick, the best move is to be at home rather than in a hospital. Yeah, that may be the question and I think you know, there is there is something to be investigated there. I'm gonna just ask you to look at the chat sack and every couple of minutes we're gonna check in and say Can you hear us okay, because I have no sensitive to hear you. And the audio is now much. Great, great. Just looking at anything else. Please tell us about the handsome Selectric to so we have no idea what you can see, but I have generally I block it, but I think it's there somebody
+
+Bret 54:26
+can see well enough and knows enough to know that that must be a Selectric to which indeed it is. Yeah, it has a little story that goes along with it. You and I both as kids grew up in a house that happened to have two houses, even two separate houses, because otherwise, that'd be gross, but two separate houses that had a Selectric typewriter. And I remember thinking this was a very I was a very mechanically inclined kid, and this was a super interesting device.
+
+Heather 54:56
+You never took apart your childhood home Selectric.
+
+Bret 54:59
+Oh boy. My parents learned quickly that I had a tendency to take things apart and as I recall it, I was more or less forbidden to touch this electric too because it was a very fancy typewriter. And although I was good at putting things back together, I was expected not to be able to do it. Maybe
+
+Heather 55:15
+Can I interject here and point out that you taught our younger son yesterday had to take apart a carburetor? Yes. So so you're still at it. And you rebuilt it. Yeah,
+
+Bret 55:25
+but actually this device here so we both grew up in homes that had a Selectric typewriter, and I wanted I wanted my kids to have a Selectric typewriter that we could turn into a printer by basically triggering the switches in the keys. Basically, I wanted to hack into the typewriter, and then trigger the individual letters to type by triggering the switches associated with each key. And we happen to cross this typewriter, which looked to be in great shape. I plugged it in at Goodwill didn't really work it came on but it did not work. And it was 11 bucks. And I thought 11 bucks I'll buy at a bitch I can fix that bad boy and got it home and open it up and discovered a wow is that thing wild on the inside and be very no switches. In fact, there are only two electric parts in the entire thing. And they literally are the motor and the switch. Everything else in there is mechanical and run the motors basically sending power through a belt into this whole system and everything else that happens in there as mechanical so
+
+Heather 56:40
+so you could technically power that with a bicycle. You could totally power that with a
+
+Bret 56:44
+bicycle. And I probably should just despite those people who were dubious of my my plan with the compressed air that wasn't there.
+
+Heather 56:51
+Didn't you also discover that they're like two or three Selectric repairman left in the country.
+
+Bret 56:57
+Oh, it's more than that. It's a small number. And they're doing I mean those things and it's got to be one of the most complex. It's not really a consumer object. It was a business object, but one of the most complex commodities ever devised. The thing is amazing. And they were they were repairmen whose job was to travel around and service those things in place on a regular schedule.
+
+Heather 57:20
+So that's what that was the what late 70s
+
+Bret 57:22
+right is what is most of those people are now dead. There are a small number of them still out there some, some of them are refurbishing these things you know and selling you can buy them for like I did 11 bucks, and then you refurb it and you sell it for a few 100 or something. But anyway, it's a fantastically complicated object. And I sort of at the point I realized how complex it was I started figuring out how to fix it. And I'm still learning it's, it's very difficult. But anyway, I've got that one up and running, it works, the correction works, it can actually lift letters off the page. So anyway, that's the story.
+
+Heather 58:01
+Excellent. In light of the disappearance of Dr. iphon, I probably mispronouncing the name in light of the disappearance of Dr. iphon, who leaked the first report on the COVID virus. Would it be advisable to protect future whistleblowers with something akin to diplomatic immunity? I think whistleblowers deserve diplomatic immunity, some kind of immunity, it's hard to know in advance, you know, how do you how do you know that you are worthy of immunity before you get disappeared?
+
+Bret 58:29
+Well, I would say if and only if you want an honorable system, figure out how to protect whistleblowers 100%. And a lot of people give lip service to the idea of protecting whistleblowers. But it is absolutely essential. And I say that I feel like I feel like a whistleblower when it comes to mouse telomeres. And you know, it's like, fortunately, it's the wrong metaphor. I tried to sound the alarm and the bell wouldn't ring. The whistle wouldn't blow whatever it was. Yeah, it just didn't work. Yeah.
+
+Heather 59:01
+hypoxia hypothesis current and former smokers are showing up under represented in the ICU data with the suggest evidence for the hypothesis. Now I feel like I saw something and I don't have in front of him. This isn't my computer. This is yours. I can't look at. I thought I saw the opposite. I thought I saw that smoking was one of the risk factors. One of the top six risk factors. I just saw list today, where diabetes was the top risk factor. Kidney Disease was in there. COPD was in there. I thought smoking was so I don't we can still take this on. But I would I would put a strong caveat on I'm not sure that the claim is right. iPod with regard to the hypoxia hypothesis. current and former smokers are showing up under represented in the ICU data. That's the claim here. Would this suggest evidence for the hypoxia hypothesis
+
+Bret 59:57
+almost feels to me like it should go the other way. Why would they be under represented in the ICU data, is that suggesting that they are healthier because they've already faced a low oxygen? Like they're effectively acclimated? Yeah, I don't quite see the connection. So if you want a question like that address spell out a little bit more what you think the connection might be and also let us know where we can find the evidence that you're going on the connection is there.
+
+Heather 1:00:22
+I don't know if there are character limits on the Super Chat, but definitely a link to a reference would help here. I tweeted y'all an account of a woman with strange symptoms who tested positive for COVID. I'll resend if needed wondering your thoughts. I don't remember of offhand which one this which this this was
+
+Bret 1:00:44
+strange symptoms who tested positive for COVID. So
+
+Heather 1:00:49
+yeah, hey, do resend. Do resend. I don't remember offhand what what this is
+
+Bret 1:00:55
+I don't either. But I will just say that is certain to be a pattern. Because so many people who are infected with this virus are asymptomatic. And so many people have symptoms for which no known cause exists that surely you're gonna end up testing some people finding out their positive and you don't want to miss attributing
+
+Heather 1:01:13
+perhaps sometimes they have that are unrelated to COVID-19.
+
+Bret 1:01:16
+Absolutely.
+
+Heather 1:01:21
+Hawaii, hai Hawaii has implemented a curfew, Michigan is preventing the sale of non essential items. When is it too far? How do we respond once we determine it is? Yeah,
+
+Bret 1:01:35
+this is a
+
+Heather 1:01:36
+really I'm wondering this very much lately, that the part the node here that I'm tracking most acutely is preventing people from going into nature. And this misread this like very, not just authoritarian but didactic, like we said stay at home. We said shelter in place. Yeah, that means you don't what was it? There's a report out of Southern California, I think Encinitas actually where we've got some friends who were in there, people were in their cars watching the sunset, alone in their cars, or in their cars with the people whom they were already quarantining with watching the sunset, and they can receive either $1,000 fine or six, up to six months in jail for not sheltering in place. They're in their cars watching the sunset. Yep, this is an incredible either just blatant abuse of power, or, more likely a confused interpretation of a far too broad directive.
+
+Bret 1:02:38
+So I would add, I don't believe you can make a society functional without discretion. And so in some sense, what we are seeing is a failure to either provide discretion or to utilize it properly. What you need is people who understand what the objective of the policy is, and know how to make exceptions that don't violate the spirit of the policy. And so, to the extent I don't remember where I encountered, it might even be a friend got evicted from a public park, they were sitting on a bench alone, you know, 50 feet from the nearest person. And they were apparently told that they were in violation of the law. And the fact is, you know, we use the analogy sometimes that we are physically a robot, but that robot has a computer writing on its shoulder and that computer is it has needs. And so if we simply start figuring out what the robot needs to do in order not to catch this virus, and we stop paying attention to the fact that you're going to drive people stark raving mad if you lock them down, and don't let them access those things that would make them feel some degree of normalcy and have almost no risk of catching or transmitting the disease
+
+Heather 1:03:58
+and give them no sense of legitimate hope or this thing ever ending.
+
+Bret 1:04:01
+Yeah, then you know, we're going to create a catastrophe and also next time this happens, we in the Northern Hemisphere might be heading into winter, not summer, right? We are in some sense, lucky that even if the virus doesn't respond to warmer weather, the fact that people you know many of them might have a courtyard they can go sit in or a tree they can sit under that's very helpful but we need to figure out how to do this humanely. And that means you know, the question is apt when is it too much?
+
+Heather 1:04:35
+No, it's it's it's quite apt. It seems like it is too much. And but but part of how it's too much is the rote and robot like receiving and dispensing of orders so I'm reminded of, you know, we're not we're not going through these as quickly as I was hoping we would before but I wonder if you would talk a little bit about this. The first is gonna sound like it's coming. Out of out of nowhere, but you experienced during occupy when you insisted on engaging with the policeman who showed up to disband the the Occupy, artists call it Yeah, the participants who were who were at the Capitol campus in Olympia, Washington. And you know, there were a number of our students who were up there with us. And then I think on a couple of occasions, the police showed up and so I left with our children, because it was important that if people were going to be arrested, no, no, it didn't happen to both, but you talk to the police. Yeah,
+
+Bret 1:05:40
+I thought it was very important that the police understand that they were facing human beings. And you know, there were some there were some bad cops, I remember them, there were some people who were clearly interested in exercising power and but there were also compassionate people and most of what you interacted with, yes, and the thing is, the many of the people who were associated with occupy had a strong anarchist bent. I'm quite anti anarchist, but the anarchists have the sense that all cops are bastards, and all of this stuff. And what that resulted in was not engaging the cops as if they were human treating them as if they are not human, which resulted in the cops feeling like they were dealing with non humans on the other side, and it was a you know, it was close to catastrophe waiting to happen. So
+
+Heather 1:06:31
+I thought you were being a Patsy for wanting to engage. Right? So the idea, you know, some some of the the anti occupy people would say, You're being ridiculous for engaging with the Occupy people. And the people with an occupy were saying, how not only how foolish Have you been? How dare you interact with the cops? And you had good human interactions with the policeman who had been, who'd been sent to disband a group? and with whom you had human interactions? Yeah. And I'm waiting for those stories here. Yeah. Now, and I don't I don't see them yet. There is so much contradictory information being given to us where a mask masks won't make any difference, stay home, go out and get sun etc. How do we sift through it or prevent the spread of seen of COVID-19?
+
+Bret 1:07:19
+Well, part of why we're doing what we're doing is so that you will hear how people who have a background in biology and have a lot of experience, you know, teaching students are parsing these questions themselves. And, you know, if you optimize for zero likelihood of spread, you will end up in a completely paralyzed universe, right. In fact, you'll starve because you won't be able to go out and get food and at some point, your supplies will dwindle. And you'll be psychologically destroyed, you'll be psychologically destroyed along the way. So in essence, what I really, I hesitate to say this, because I don't want somebody to get sick, because somebody else makes a bad call. But in essence, what you need is to understand as much as possible about how the virus functions, both in terms of how it invades a person, how it spreads from person to person, and how it spreads across the population. And then you need to figure out how to compile a package of responses, that reduces the likelihood of transmission as much as possible. And you know, to those of you who say, no, that's not good enough, it's got to be zero. Look, every time Amazon delivers you something, it's a trade off, you didn't go out to get it, that's good. On the other hand, it could come through your door on the package. And so knowing that it could come through the door on the package means you can minimize that trance by dealing with the packages of it's not safe. But basically what you need is a model model is not going to be perfect, but you need a good enough model that you can then extrapolate and make decisions that are safe enough.
+
+Heather 1:09:07
+And it will never be perfect because the information what we believe to be true. Now, not all of that is going to end up being true. Yep. And this, this will always be this will always be a more true statement with something that is evolving as rapidly as not just this virus, but specifically our relationship with it. Brett, I don't understand I can't see the rest of this question. Brett, I don't understand how traditional evolution small random mutations can explain the Cambrian explosion. Is it related to the Explorer mode you previously talked about? Please explain in such a way that a software developer understands it.
+
+Bret 1:09:46
+Yeah, so I've taken a lot of flack from some fairly prominent people over exploring modes, which I find funny. I can't say what the particulars are, but my base point is I don't believe that random mutation on its own results in the kind of diversity that we have, I believe, random mutation and selection built an earlier world in which selection then figured out how to explore more efficiently. And that exploring more efficiently is still a Darwinian process. It's just not so haphazard. And so when we see something like the Cambrian explosion, we may not know what innovation it was that set loose this tremendous diversity. But the question is, look, random mutation might not get you there. But random mutation building a mechanism. You know, it's like,
+
+Heather 1:10:40
+we got three things all working together and sort of leapfrogging over one another, but not necessarily in a particular order. I mean, there's there's, of course, more than mechanisms for micro evolution include other things, but the three things you just mentioned are random mutation, selection, and exploration. And exploration doesn't does not show up in the usual list of mechanisms of microevolution. Yeah, gene flow, it's not drift.
+
+Bret 1:11:04
+We've overly fallen in love with the random part of the story when it was never the important part of the story. But, you know, I would say the question is a little bit analogous to a, you know, colony of cells. How does it navigate around the room? Right? Are you telling me that colony of cells, you know, well, I'm a colony of cells? How did I know where the glass of water was? What happens to some of those cells are organized into a pattern that allows me to detect the precise location of the glass and you know, is it amazing? You better believe it's amazing, but is it unexplicable now, it's totally explicable so So anyway, it's that kind of thing. Yes, selection has figured out a bunch of tricks to make its exploration of design space more efficient.
+
+Heather 1:11:51
+Hello, Britain. Hi, there. I'm a current Masters of Public Health candidate and COVID-19 has now overtaken as it should, our daily discussions in class, stay safe and healthy. Thank you. As the global supply chain responds, we'll likely see 3d printers decrease the cost of acquiring guns, disrupting societies that don't have progressive gun ownership. Might the Second Amendment be a mimetic acceptation of a sort? That's the Steelmen podcasts question for the day.
+
+Bret 1:12:17
+I thought I understood the question. So the land Yeah.
+
+Heather 1:12:21
+A mimetic acceptation except
+
+Bret 1:12:23
+So acceptation are things that happened for one reason and are evolutionarily co opted for something else, which is
+
+Heather 1:12:31
+gouldian ism to distinguish between adaptation and exaptation? Yes,
+
+Bret 1:12:36
+probably every adaptation that we can name could technically be argued to be a stack of acceptation or something. But so the question is about gun ownership. And the fact that 3d printers will make
+
+Heather 1:12:52
+decrease the cost of acquiring guns, potentially, I think that that is possible now, although societies that don't have pervasive gun ownership, but they do have the materials and printers to be printing 3d printing guns at home, what is that going to be? Europe? Mostly? threes? I don't know. I mean, it's it. There's a lot of there's a lot of ifs, yep, here. And neither your die can make total sense of mimetic exaptation.
+
+Bret 1:13:21
+Yeah, I mean, I, I get what the words would mean together, I don't get how they apply here. Yeah, I will say, for better or worse, 3d printers make the question of how to make a gun, relatively trivial. On the other hand, you know, the same thing is true for a metal lathe and a mill. Right? And we can't very well limit people's access to the stuff. It's tougher,
+
+Heather 1:13:47
+though. You need you need more know how, with a metal lathe and a mill to construct a firearm, don't you? Yeah. Because, well, let's put it this way. You know, the blueprints, the recipes, whatever you call them exist. You get you get the 3d printer, you get the recipe, you get the materials. And yeah, you don't
+
+Bret 1:14:03
+really need to know anything to tell your 3d printer to do it. On the other hand, you need to know somewhat more to get a CNC machine to make the parts but however you get there, we're headed to the same place, which is gun just isn't that complicated? And so how much know how do you need to make one? Not nearly as much as you think it's, you know, it's just a question of really, whether you're, as long as they're cheap. It doesn't happen that often. If they become illegal, I imagine it will happen more. Yep.
+
+Heather 1:14:36
+Chomsky claims 99% of language uses internal. Hence, its characteristic use indicates that its primary function is for thought and not to facilitate communication. Do biologists generally accept this view? I don't I don't I don't know what biologists generally think. But yeah, I don't. You don't.
+
+Bret 1:14:56
+I'd say I'd say the opposite is true. Which is that It is, I believe clear that language has evolved for communication between individuals. But once you communicate between individuals efficiently with the language, it becomes a very useful shorthand internal to the mind. Yeah. Stay tuned because we will cover the question of consciousness. And it is wrapped up in this very set of issues.
+
+Heather 1:15:26
+Yeah, no. And the whole, the penultimate chapter in our book on the distinctions between culture and consciousness, yeah. Where was I? Does nature act as a system? or individual organisms simply looking out for themselves? In other words, are viruses or diseases a response to the system to the overpopulation of a certain species? nature does not act as a system in that way? There is no if the Gaia hypothesis is not right, there is know how forests don't evolve in the same way that individual trees and tree species do.
+
+Bret 1:16:01
+Yep. Yeah, amazing things are possible. mutualism is real. And there's no upper limit to how many creatures could participate in one. But there is a practical limit on how far that goes. So I would say emergent phenomena are real. It is not right to say that forests don't exist, but it is right to say that they do not evolve, right? They do not have the prerequisites to evolve. So really, what you have is a virus taking advantage of the kind of closeness that occurs at high population density. It's not that it is a integral participant in some agreement within the population or something like that
+
+Heather 1:16:46
+it succeeds more at in conditions for which it does the most harm at the moment. But that is not it being sent to do the most harm. How does sickle cell and gene variants possibly relate to the reasons why this disease affects African American communities the most?
+
+Bret 1:17:08
+Well, it would seem to me that it's relatively simple to test whether or not the disproportionate effect in African American communities is sickle cell related. In other words, if we control for those people who carry the sickle cell trait into adulthood, do we still see disproportionate effects? My guess is you would?
+
+Heather 1:17:27
+It's not clear to me from this question, if he is referring to our conversation last time, or if this is coming to navo? Yeah. But it's, you know, it's certainly possible and would be relatively easy. Yeah, to test.
+
+Bret 1:17:40
+But let's just say it is possible that sickle cell, which reduces the capacity of the blood to carry oxygen puts people who carry the trait as a heterozygous, that is to say they have one copy of the sickle cell gene and one copy of the normal gene, it would put them at disproportionate risk, which might result in more extreme cases, is always written sorry. It's also possible that economic factors or demographic factors are the reason for the connection, and it has nothing to do with sickle cell.
+
+Heather 1:18:15
+This does raise another correction of sorts in talking about sickle cell anemia. Last time, I had suggested that if you're heterozygous, you seem to do fine, but you probably aren't going to be an elite athlete. And a few people pointed out as David Goggins, I think, who is maybe a former Marine and an elite athlete and is also heterozygous for sickle cell. Really, there will be you know, there will be exceptions. But that's extraordinary. That is extraordinary. Yeah, I hope I've gotten the name right. I wasn't aware of him before this. Let's entertain. Let's entertain the conspiracy of COVID being caused by 5g. If in fact, your theory is correct, could 5g possibly interfere with hemoglobin because the iron is some kind of cellular antenna? Take this one. Yeah, you're
+
+Bret 1:18:58
+gonna let me take that one. Well, thank you. I would say I am not a fan of the idea of 5g for so many different reasons. I don't think we need it. And I don't think doing high energy, stuff in such close proximity to people is a good idea. I have no idea. I've heard these connections, too. I haven't yet seen anything that compels me. It's worth going down that road. I'm open to the possibility that there's some evidence that I need to see. But anyway, yes, it is unprecedented in many ways or it's not 5g 5g is unprecedented. And so could it have effects that we have yet to discover? Of course,
+
+Heather 1:19:41
+yep. And you know, we get to unprecedented things coming together more or less the same time so of course, they've been put together causally. But that doesn't mean I
+
+Bret 1:19:52
+want to see the I want to see the evidence that makes it worth my time to chase this particular connection. Yep.
+
+Heather 1:19:59
+Many species go extinct due to rain forest destruction for animal agriculture. Isn't it smarter to let pigs cows and chicken go extinct to save more species?
+
+Bret 1:20:11
+Yummy do that. Sure. Okay. First of all, farming, where tropical rainforests once stood is never a good idea. It doesn't work very effectively because the very nature of tropical rainforests is that they sit on top of soils, which some will claim are paradoxically depleted. I don't think it's paradoxical at all. This is one of the things I addressed in my dissertation. But the fact is, there are places that you can raise animals and do it properly. I am no fan of factory farming, I think it's despicable. And it cannot be morally justified. But that does not require us to not growing animals on fragile, thin tropical soils, and not growing animals in an inhumane way on a feedlot, or at a high density in a cage or whatever, that does not force us to go all the way to driving them extinct. We could eat a lot less meat and not eat zero, that would address many of the health problems that arise when people go to zero with respect to meat. And it can be done in a way that doesn't involve a moral compromise. So yeah, I don't want to see rain forest cleared to raise these animals. But it's never been a good idea in the first place.
+
+Heather 1:21:27
+Let's just put a tiny bit more nuance on that too. And say, it's not all tropical soils that are poor, right? You know, the tropics, being that part of the earth between 23.5 degrees north and 23.5 degrees south, it's huge swath of the earth. It's specifically the lowland. If you previously alluvial soils that are high clay that tend to now have rain forests on them, or those rain forests have recently, which is to say, sort of since the Industrial Revolution been cut. But there are plenty of areas in the tropics that have rich soils, you know, anything that's volcanic in the entire Andes, and, and cardiaca through Central America, for instance, have higher quality soils that can withstand both plant farming and animal agriculture without destroying the soils inherently. Okay, regarding your concept of metaphorical truth, why use the word truth, when useful or advantageous? would do we create different kinds of truth?
+
+Bret 1:22:28
+Well, the I think the long and short of it is lots of people seem to have preferences for how we describe things so that we don't tread on their particular sacred belief. And I do think that while what I call metaphorical truth is not true in the same way that scientific truth literal truth, laboratory truth is true, that when something is true enough to be the difference between life and death, that it is, it is actually unfair not to use the word. So my go to example would be the moken people of the Andaman Sea, who survived the tsunami, the Boxing Day tsunami, as a result of a myth told around the campfire about something called The Loon that seeks to taste human flesh. And anyway, it was a perfect warning for the tsunami. And my point is, as far as we know, no moken people died from the tsunami, right? That's an incredible track record, given how closely associated with the exact epicenter of this of the earthquake that caused the tsunami that they were. So this myth was so good, that it saved hundreds, maybe 1000s of mochan lives. Who are we to say it's not true? In some sense, I'm not claiming it's literally true, but it is true enough to save lives.
+
+Heather 1:23:57
+And it's paired, right it's it's this it's this four word phrase that is that has two terms that literally false, metaphorically true. And it it allows people to go into myth and say, okay, no one outside of the moken people believe in the lafoon. Boom. And yet, you can objectively observe the survival rates of the boeken compared with other people, the same distance from the epicenter of the Boxing Day tsunami, and say, Well, something in that belief was so effective that it saved all of their lives, is the story of the particular God that got angry. True. Those of us with the scientific sort of post enlightenment worldview would say no, but it created such the right behavior that is literally false, metaphorically, true. It's the pairing that is important.
+
+Bret 1:24:54
+I agree. It's the pairing. I know we need to move on but I want to say one other thing which is I am fond of the idea idea that for most of us, leveling up, tends to come in the form of a vindication that is tied to a bitter pill. And my feeling about the pairing as you put it, between literally false and metaphorically true, is that if you find yourself on one side of this divide or the other, it's those two things, you get a vindication and a bitter pill. Right, metaphorically true is a vindication for people who have these metaphorical beliefs and want them treated respectfully. But it comes right after the phrase where they're told no, that's literally false. Literally false, metaphorically, true. And until you deal with the package, you're, you're taking license that you're not entitled to, because both things are true.
+
+Heather 1:25:49
+Keep up the good work. Thank you. Thank you. Please come to Pittsburgh and have coffee with me. I'd love to sit down with you both. I hear that Pittsburgh is gorgeous. So I will get to Pittsburgh. My father was in grad school in Pittsburgh many many years ago.
+
+Bret 1:26:02
+Yep. Pittsburgh is now not a place we can go because there are people there and social distancing requires that
+
+Heather 1:26:11
+true. Yo, Matthew principle blues, love the discourse, love from Scotland. Look here, Brett, please discuss the potential connective strand of meaning between your latent programming versus Jordan Peterson's union shadow. That was like poetic word salad.
+
+Bret 1:26:28
+Yeah, well, yeah, I can't vary.
+
+Heather 1:26:31
+And it got they got less.
+
+Bret 1:26:34
+Yeah. What are the two things that
+
+Heather 1:26:36
+you're you're late into programming? Yeah, it's not a phrase exactly that you use?
+
+Bret 1:26:41
+I don't think he's talking about mine. I think he's talking about our latent programming, right?
+
+Heather 1:26:45
+Discuss the potential connective strand of meaning between your latent programming versus JPS. Union shadow?
+
+Bret 1:26:53
+Yeah, I mean, it seems to me obvious that your latent programming would contain all sorts of things relevant to many phenomenon, many historical circumstances, and that the young Ian shadow is Young's attempt to systematize these things where it's part of his attempt. So it seems to me like the connection is rather dependent on
+
+Heather 1:27:17
+whether young had that right, I see. Nobody is mapping the programming at some level. Yeah.
+
+Bret 1:27:22
+But anyway, I don't see anything. doesn't doesn't bother me that the two would be connected. All right.
+
+Heather 1:27:28
+Stream is frozen. Yes. Okay. Keep up the great work when you talk about Jeffrey Epstein. Steam. I say that right. Yeah. And the new episode from Eric's podcast, and I think Eric put something new up today. He did. Yeah, I think Episode 25. I
+
+Bret 1:27:44
+don't know about it. Yep.
+
+Heather 1:27:46
+Would you talk about Jeffrey Epstein. I have anything to say about Jeffrey?
+
+Bret 1:27:50
+Well, I, I have said previously that the Jeffrey Epstein story did not kill itself. I felt very clever when I came up with that. Apparently still. Apparently I still do. Yes. Yeah, I don't know exactly what to say. It does seem like there are an awful lot of questions that would reasonably be answered. And as Eric routinely points out, the failure of journalism to be pursuing questions that seemed to be on a great many minds, is conspicuous if nothing else. So anyway, yes, there are lots of questions. And the strata to which Epstein was connected does raise all sorts of possibilities. So
+
+Heather 1:28:36
+the depth and the breadth of his connections?
+
+Bret 1:28:38
+Yeah, and the nature of them. Yes.
+
+Heather 1:28:41
+Please, can you discuss invasive species? Is this a real thing? Is there debate here art conservation is simply picking a point in time and saying we like this best let's keep it this way. Thanks. Oh my god, there's so much here. So this is this is many, many hours of conversation. Let me try first just I'm gonna go backwards through the questions aren't conservation is simply picking a point in time and saying we like this best. Let's keep it this way. There is some of that for sure. Right? There is sort of a moment of this is when we the ecologists started paying attention. And we've declared that the moment in time that we're going to try to preserve and it it forgets that environments change and that evolution happens. And it's a pretty naive view of nature. That said, invasive species are real. And when it is humans with our modern technology, who are moving things around the world, either intentionally or not, and bringing them into environments where they have no native competitors or pathogens or predators, allowing them to take off and become monocultures to the benefit of nothing but those species. There's a problem and you've you've rendered ecosystems unhealthy.
+
+Bret 1:29:53
+Yeah, this is another thing I covered in my dissertation. We have a problem that is very serious with water. are called invasive species. One has to be careful not to declare anything that shows up in someplace where it didn't exist before. Invasive because that's not what they are. There are ornamentals there are non native species, but invasive
+
+Heather 1:30:12
+well, and you've got a predictive paradigm as to which which ornamentals for instance, are likely to escape from their ornamental status and become invasive versus stay in a garden and be just fine.
+
+Bret 1:30:24
+Yeah. And I would also say that in traveling the world, the devastation of habitats, that comes from invasive species is absolutely jaw dropping. My least favorite creatures on earth are probably trees in the eucalyptus family, because they have absolutely devastated habitats. In California, in fact, along with the whole West Coast of the US, the Andes are utterly transformed by them where Eucalyptus is everywhere, and the native trees that were there are found mostly in places where they've been cultivated, it's so destructive. So just to
+
+Heather 1:31:12
+be clear, Eucalyptus is native to Australia. It does. It does. It didn't start out in the new world at all, it was humans who brought it to the new world. And it's spread so fast,
+
+Bret 1:31:22
+it spreads. So it is simply a superior competitor. And the I think the answer you're looking for whether you want to hear it or not, is that the problem is, there's a trade off between competitive ability and dispersal ability. And so the limits of where things are found are very often structured by that very ferocious competitors are often limited in where they can get. And so when we transport something like Eucalyptus, what we're effectively doing is saying, Let every habitat be dominated by the same critters. And what that means is an overall loss in the diversity of critters around and I don't want to live in a less diverse world for lots of reasons. Having everything to do with human utility and well being. I want to live in a highly diverse world. And so if I want to live in a highly diverse world, invasive species are among the greatest threats because once on leafed, it's almost impossible to do anything about them. If they're really good competitors like Eucalyptus, then, you know, a single error where they get released is out of control almost instantly.
+
+Heather 1:32:29
+How does, how does fungi reprogram at brands? It's fun. It's a good question. I don't I don't know how it does it?
+
+Bret 1:32:39
+I don't think anybody does. Yeah. But what I can say is that the real question is, how do ant brains work? And
+
+Heather 1:32:47
+the itself is, I mean, so they, they have, don't, they have a bunch of ganglia, so they don't have a centralized brain? They have, I think, I think,
+
+Bret 1:32:56
+at the very least, they don't have something that we would all agree as a brain, but they do have neurological processing that results in coordinated behavior. And in order to understand how a fungus intervenes to get a creature to behave in this way, you probably have to realize what heuristics are running about inside an ant's head, which I don't think we know. But lots of, you know, to the extent that rabies causes, you know, anger in an infected dog that causes the dog to behave in a way that spreads the rabies, it's the same kind of process, but maybe it's easier to understand in a dog how you would trigger anger, because lots of things confusing,
+
+Heather 1:33:39
+because we know that mammals experienced these kinds of emotions because we're mammals. Yeah, so it's harder. It's harder to understand what seems like a complex behavioral response in an organism that we don't think of as having individually complex behavior. Yeah. One or two hours. All right. Please, can you discuss Sorry, I switched out, please. Can Oh, same question. No. Okay, the invasive species question. Again. I think we did it. Did you see the videos regarding Philly Metro personnel and security aggressively kicking people off for failure to wear masks? This is from jatis apologize if I'm mispronouncing your name someone we know on Twitter didn't i didn't see these videos. I didn't either. Yeah,
+
+Bret 1:34:30
+I don't Well, I don't know what to say I didn't see the video. So I don't know whether it would be obviously beyond the pale or you know, justified but I can say I have watched a radical transformation in how what percentage of people are wearing some kind of mask. And I regard that as on the one hand, very good news. People are taking this seriously. And on the other hand, how many people are going to die because other people were afraid to stand out, right? In other words, if you weren't wearing a mask because other people weren't wearing masks and you'd feel dumb wearing a mask or somebody hadn't given you the kind of license, you would need to innovate some kind of a mask, then other people were put at risk. And so what I hope is that next time, we will remember that we all ended up wearing the masks, and we will be able to jump to it and you know, a lot of lives could be saved. Yeah.
+
+Heather 1:35:29
+The biggest expert, the biggest expert in a research area usually has the most motivation to dishonesty kill work that is disruptive. True. How is it that this obvious conflict of interest is overlooked when a paper is assigned reviewers? Yeah,
+
+Bret 1:35:45
+well, let's just be clear. assigned reviewers is already the problem, the idea that the field has the right to kill off concepts, because they're not high quality doesn't make any sense. It made sense. Maybe in a world where ink and paper were limited, and you had to figure out on what to spend them. But we are now talking about pixels. pixels are not expensive. If you want to put out an idea that everybody thinks is stupid. Well, let's let you put it out. And if you turn out to be right, 100 years from now, we can come back to it. And we can say, well, we got that wrong. So what where's the harm in it? So let's just do the process of reviewing other people's work in public were the people who turn out to be right, especially people who turn out to be right and way ahead of their time are ultimately vindicated. And the people who we thought were experts who turn out to be wrong again, and again, and again, stop being listened to.
+
+Heather 1:36:40
+So there are going to be one piece of pushback there, it's going to be you know, everyone complains about reviewer two, right? Three, three papers, the three reviewers, and it's always reviewer two who comes up with the most ridiculous arguments against the paper. But in general, what those three reviewers peer reviewers on any paper are supposed to be doing is looking at different aspects of the paper. So for it, so if this is all to happen in public. Very few people have equal facility in say, assessing whether or not the theory theoretical framework for a paper makes sense. And this is actually building on the thing that the authors are claiming, and whether or not the experimental design and the prediction and the hypothesis that is being tested, is actually being tested with this experimental design and whether or not the predictions inherently follow from the hypothesis. So as a second round, data analysis is a hugely technical realm. And most of the people who can do that really well are statisticians who don't necessarily have the chops to do the hypothesis assessment and experiment design assessment. And I would say, you don't, it is useful to feel to know that someone with the chops that you don't have, has looked at a paper and said, yeah, that passes muster over in my end of things, especially, especially now with the ridiculously complicated statistics that people are using often to cover their tracks of but sometimes because the data really are really do call for complicated statistics.
+
+Bret 1:38:16
+Yes, but again, and I really want to emphasize, if you have some kind of scientific background, whether it's formal or not, you just have an interest, and you've spent some time thinking about it, check out what's going on with the papers that are emerging every day on COVID-19. And the lectures that are being delivered on YouTube, by one professional to others. We are this is happening in real time, and it's happening the way actual progress happens, which is to say, people are disagreeing with each other. in public, they're taking a stand, I believe that this disease is progressing this way. Because of these things that I've observed. No, I've observed these other things. And the point is, when it plays out in public like that, a it has a much higher tendency to be honorable, where you're playing with your own reputation. And you're saying no, I think it's this way because of this thing. Well, that's a risky position to take. So anyway, I guess, once you start doing this in private, and you have reasons to, you know, you're engaged in quality control, I think it's very hard to rescue that system. And the reviewers are anonymous, right? So anyway, let's just do this in the open.
+
+Heather 1:39:32
+can COVID be transmitted through farting? I haven't heard anyone say that. Mostly, when people are farting in public, they've got something covering themselves, right. But given that, apparently, it is in fecal matter and it can spread through air. I suppose. So.
+
+Bret 1:39:52
+Yeah, I mean, let's put it this way. You've set a kind of a low bar for can it be like yeah, you could probably generate us scenario. On the other hand, that's probably a pretty easy scenario to prevent from occurring very frequently. Yeah.
+
+Heather 1:40:06
+wear underwear. Yes. Hey, guys, what do you think? Why do you think anti semitism is so persistent? It seems to be rearing its head again, at both ends of the political spectrum? Yes, it does. Yes, it does.
+
+Bret 1:40:22
+Yeah. I think, well, let's put it this way, we don't really have the bandwidth to do this here. But I have talked elsewhere about the tendency of human populations to seek different kinds of growth, be it through the discovery of new lands, the discovery of technologies that allow you to do more with the lands you already have available to you. And when those things run out, our addiction to growth causes us to identify populations who can't protect, can't defend what they've got, and who make up reasons to attack them. And so basically, anti semitism comes down to the fact of Jews being an unusual population that lives at low density in many places. It's a it's a diaspora population. And not all of it, obviously, but a large fraction of it. And so that large fraction is always vulnerable to the population that isn't Jewish. turning their or turning on them. And so anyway, I think I've, my first evolutionary project actually, was a paper arguing that anti semitism evolves, and that it has to be stopped that it's basically a rationalization for lineage against lineage, genocide or warfare. And that is frankly, not that hard to understand.
+
+Heather 1:41:51
+Good. We're gonna try to be a little speedier.
+
+Bret 1:41:54
+speedier, all right, a bunch, no more adverbs.
+
+Heather 1:41:59
+What are your thoughts on UBI? And the issues that is trying to solve all their alternative solutions to those issues? Yeah.
+
+Bret 1:42:06
+All right. Up UBI. I am annoyed that this couldn't be discussed. 10 years ago, somehow, people had to, lots of us may have been involved in a discussion about the fragility of the system and the danger of people's incomes being dependent on certain things. Suddenly, UBI became discussable. Because people who were powerful started talking about it. That's too bad that it required that but okay. I don't think it's a great solution. I think it's a Cluj. And it addresses a real problem. And it's better than no solution. But I think we have to address the underlying issue that causes us to engage UBI as a solution. And I must say, in the era of COVID-19, I think we are finally we've have a circumstance that is finally forcing us to understand that a system built around economic efficiency is a fragile system. And it's you know, so even the Trump administration is talking about a stimulus package in which they're going to infuse cash by delivering it to people who are now suddenly in dire straits. So, you know, this has gone from an idea that was undiscussables, almost anywhere to an idea that's being discussed, you know, at the past at the head of the Republican Party. So anyway, let us learn the lesson of this so that we can get to a better discussion next time, which is if UBI is no good, what would be
+
+Heather 1:43:34
+good. Nate writes again to say thanks that clears up my confusion of models event. Good welcome. Total us deaths from flu and pneumonia. The last bad flu year were about 65,000 deaths this year since COVID-19, from non COVID flu pneumonia effectively zero. Not sure that's true, but but lower than expected. How? Question mark? Oh, well, part of it is that social distancing for COVID-19 works just as effectively and probably more effectively against other viruses that don't have quite as high transmissibility. So we're doing all of the things that we should have been doing all along, much more so right. But being very careful to wash our hands. And think about putting our hands on our faces after we've been touching receipts and frequently used surfaces. And the social distancing is far more than any society could put up with for years and years and years and years. But maybe we can learn from this. The parts of this that are not that hard to maintain, and that would actually solve will save many, many lives and also just many, many sick days. Yep. Good. You're here. All right. I'm being told Zack, you forgot my two super check questions from this week being of chat plus one from last week. We're not thanks to you while you were very inspiring. We are now using a an app which Doing it once from before the stream starts, but when it's up, we don't do we don't log those. Okay, I don't know if you guys could hear that. If they can, if they show up before, what did you say before we're live before we're live, then they don't get logged by the app. Apologies for that. The character, this is just a description of the, the character limit is based on how much you pay in Super Chat. $2.50 characters, $5.50 characters, etc. Okay, thank you. The impact of the virus will more than likely be devastating to the existing economic model. Could this crisis facilitate a radical rethink of the monetary system? That
+
+Bret 1:45:40
+we were just there? Yes. And it must, it must if this isn't the wake up call than the wake up call? Maybe too devastating for us to recover from?
+
+Heather 1:45:49
+Yep, exactly. Love you, too. Brett. Your story on Eric's Chan was? Yeah. Hi there, I was frustrated by the fact that nobody in the public sphere would speak of gametes, you were the first person who ever used that word in public. Presumably we're talking about what makes sex what, what the actual, most fundamental definition of biological sex is. There are lots and lots of indicators from primary and secondary sex characteristics, to differences in brain structure to genitals to chromosomes in the case of mammals and birds and a few other organisms, but it's gametes. That's a distinction. So thank you
+
+Bret 1:46:36
+gamey, size and motility. Yeah,
+
+Heather 1:46:38
+so if you have, if you are, and we've, we've said this elsewhere. And I have to if you are a biologist in the field, and you discover a new species, and it somehow you'll just, you have no idea what's going on with it. And there's plenty of species out there where you can't tell phenotypically or behaviorally, if they're male or female. If you find that one of them that one individual has gametes that are large ish, larger than average, sells within that within that organism and says sale don't tend to move, and that's a female you got on your hands. And if you have gametes that are very small, stripped of cytoplasm, and tend to be speedy, at least in some parts of their lifecycle. There you have a male sperm or pollen, being the animal and plant versions of the male gametes and eggs being a female, then yeah, it really does. It really does make it simple. Yeah. And it is just the fundamental underlying what the distinction is. Let's see, is it possible to detect a less lethal mutation right now? And try to purposefully spread that mutation?
+
+Bret 1:47:45
+This is in effect. I don't want to I don't want to go that far. I've been toying a lot with the question about sub lethal infections here. And one of the questions which I really would love to hear somebody who's well versed in this, who knows the answer, if it was true, that infections that do not that are asymptomatic, are not destructive, and not frequently transmitted, which is plausible, because it is the destruction that causes symptoms. And it is also it's the lesions that are spilling virus into your lungs or wherever that are causing the transmission. So if it were true, that an asymptomatic case was not destructive to your body, or not very destructive to your body, and not highly transmissible, then in effect, it functions like a vaccine. If on the other hand, it is true,
+
+Heather 1:48:43
+and the virus wins, in a way, it slows down its rate of spread, but it also never ends up in a host that dies.
+
+Bret 1:48:50
+Well, and this is we've been saying, since our first live stream, that there tends to be an evolution towards a lower burial and say, lower virulence, lower damage, infection over time, and this would be that accelerating. So you know, the virus doesn't want to make you sick, it wants to be passed on to the extent that want is a fair shorthand here. And so to be passed on asymptomatically would be fine. And anyway, there's a question about whether or not the host is the place where this evolution takes place, which I think in general, that is, but there will also be some evolution on the part of the the viruses and to the extent that less lethal ones spread it is likely to our benefit. But you know, I don't know I don't know where we are, and I'd love to know what is true in these asymptomatic cases with respect to damage and in further infections,
+
+Heather 1:49:49
+we need so much more information than we have, you know, is hydrochloric when, and I had said hydrochloric when at one point I think it's actually hydroxychloroquine.
+
+Bret 1:49:58
+I think I said Hydra. Clerk when you corrected me that I
+
+Heather 1:50:01
+had in an earlier episode, I think that hydrochloric, so I put that in your head is a drug clerk when used to essentially keep the body from burning itself up. It regulates the immune system from swaying out of balance. Correct question mark? I don't know that I would characterize it that way. But I don't know what exactly it's either it tends to do in the case of malaria, nor do I know what it is what we think its mechanism of action against COVID-19 is
+
+Bret 1:50:26
+Yeah, I think this I want to look this one up and figure out if we can say something concise about it next time. Okay.
+
+Heather 1:50:35
+Thanks, Brett. And Heather, for the engaging content, you're making the isolation very stimulating. You're welcome. Do you have plans for an evolutionary lecture series? Maybe?
+
+Bret 1:50:44
+Yeah, I would say we have plans probably after our book emerges. I think we will endeavor to get to put some flesh on those bones.
+
+Heather 1:50:51
+Yeah, good. What about Wim Hof voluntary quotes, voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans as a method to not overreact to virus. He got a couple questions about Wim Hof maybe the first q&a that we did, yeah. And neither of us looked into it afterwards. We both had some exposure.
+
+Bret 1:51:12
+I looked into it a little, but not enough to say yet I'm still I'm still curious about what he's
+
+Heather 1:51:18
+still a possibility. I think it is what, what Jamie? JAMIE will Yeah. And, and, you know, he's he, he Jamie knows what he's doing. And I trust that if he's thinks that something is valuable, it probably has at least some value to it. Yep. Okay. COVID, released on purpose Says who? Thanks.
+
+Bret 1:51:40
+I think what we said last time was that it seemed unlikely This was released on purpose, and likely that this was released by accident from a laboratory in Wuhan.
+
+Heather 1:51:54
+But, but it's open. Yeah, we don't know. Does the current working assumption that this is not a bio weapon, prevent treatment protocols to be more flexible and limit the research focus? Thank you very much.
+
+Bret 1:52:10
+My assumption from the beginning has been there comes a point, if this was a weapon, then it would predict certain things about it. But until we have evidence that positively suggests that it is actually a weapon, that it doesn't add anything, we would do the same thing. Yeah. At an epidemiological level. And so again, I want to see the evidence that says it's worth our time to pursue the this is a bio weapon, line of inquiry. And until I see that, my sense is, I don't want to get distracted by it.
+
+Heather 1:52:46
+Yeah, we're drowning in a sea of misinformation and under inflammation, and trying to imagine all the possible ways that, you know, like a switch could have been built into this. If it was a bio weapon that could change what it's doing. Like, who knows it's an infinite, it just opens up the possibilities to infinity. And we already don't have enough, we already can't limit the degrees of freedom enough. Yeah. Watch all your vids. Keep it up, if you can. Thank you. Carbon Monoxide therapy for COVID patients. I can't find out if anyone has tried this clinically, I was reading on the connection with malaria vaccines and vaccines, and stumbled across fascinating legit research. So again, if you are referring to fascinating legit research, link it here or find some other way to link it. I don't know. Carbon Monoxide therapy seems
+
+Bret 1:53:40
+sounds very dangerous. So my understanding of the carbon monoxide binds hemoglobin, better than oxygen and co2, thus displacing them. Yeah. So I can easily imagine you making a case of COVID-19. vastly worse. On the other hand, he would
+
+Heather 1:53:58
+need to I mean, if it was like a way of pulling out the the hemoglobin that's been attacked, and then simultaneous with blood transfusion from health. Yeah, I
+
+Bret 1:54:07
+wouldn't want anybody who didn't know what they were doing experimenting with. Carbon monoxide.
+
+Heather 1:54:13
+Yeah. Why isn't the Dorfman method used anywhere?
+
+Bret 1:54:17
+I don't know. Yeah. I don't know. Why isn't Dorfman method used anywhere?
+
+Heather 1:54:21
+What's the Dorfman method? What
+
+Bret 1:54:22
+is the door? I'm glad you Well, no chalkboard. Okay, I don't know what the Dorfman method is. So it doesn't really matter even
+
+Heather 1:54:30
+if you don't know what it is. Yeah. Do you have the uncut Weinstein versus Dawkins debate pangborn version deceptively edits out all the parts where you school, Dawkins, tons of missing film,
+
+Bret 1:54:39
+I don't think pangburn did that intentionally. pangborn was, I believe being a cheapskate and decided not to actually record the thing properly and it was being recorded on a handycam? Now, if I had known that that was the case, I would have had somebody in the audience, record it, but I didn't know that that was the case. Until A fragmented partial video was released. And so the only hope i think is the venue may have recorded it. And I have called them up and tried to find out and I've gotten nowhere. But if the Chicago theater has a copy, maybe somebody here knows somebody at the Chicago theater who could dredge it up, I would be forever grateful. Yeah,
+
+Heather 1:55:25
+now it'd be great. We don't have it. And as far as we know, Piper doesn't have it either. And No, it doesn't. It doesn't seem like that was intentional. on his part, just cheapskate array. Yeah. Please read my two questions the meaning of this chat, we just don't have them. Man if they started before. Regarding athletics and exercise, how does the impact of tearing down muscle apply to cellular senescence? Does this speed up the aging process?
+
+Bret 1:55:54
+So I think you know what this question is about, there's long been evidence that athletic activity does not advance senescence, which is a first pass paradoxical because it involves some wear and tear. On the other hand, muscle is an unusual tissue because it's multinucleate. And so the tendency for cellular reproduction to run away in muscle, at least strided muscle is greatly reduced. But there may be other pathologies that look like it. So I don't know the answer to the question, but let's just say first step would be recognizing that skeletal muscle is distinct in its cellular nature and therefore doesn't fit in the same trade off matrix or it doesn't fit in the same way.
+
+Heather 1:56:46
+All right. Could you talk about Gilbert's syndrome why was selected for and how it's linked to hemoglobin could relate to COVID-19 Wow, I don't know what Gilbert's syndrome is I am
+
+Bret 1:56:57
+far better versed in Sullivan syndrome sorry I
+
+Heather 1:57:01
+don't mean right. Now we just wait a minute just to very quickly that we don't we don't don't know what it is.
+
+Heather 1:57:13
+Do antibodies to antibodies after infection mean immunity. Okay, so this is written interestingly I don't know if you can say to antibodies after infection mean immunity over inability to infect others over inability to become reinfected? I'm not
+
+Bret 1:57:32
+it's slashes, right. Yeah. But there's also it's all of these three fancy
+
+Heather 1:57:36
+parenthesis three things are immunity, immunity, inability to infect others, and inability to become reinfected. Okay, I got it. So do if you have antibodies after infection, does that mean these things that mean you are immune, that you cannot affect others, and you cannot become reinfected? We think so.
+
+Bret 1:57:55
+Yes. Oh, it's not the antibodies.
+
+Heather 1:57:57
+So right. If If you test positive for a sorority test slash antibody test, the presence of your antibodies indicate that
+
+Bret 1:58:06
+well, the presence of antibodies says you were exposed. If
+
+Heather 1:58:12
+exposure, you've had a strong enough immune response to produce antibodies,
+
+Bret 1:58:15
+yeah. If your immune response is the result of having been infected, what we assume and I think now have pretty good evidence. We don't see a lot of double infections, people who recover and then get sick again,
+
+Heather 1:58:27
+we've seen none. There are a couple of cases that Nicholas Christakis was talking about early on that he thinks were due to the problem of false negatives, right? That people appear to have been recovered, tested negative and then tested positive again, but probably just hadn't had not recovered yet. But the short answer, those aren't serology tests, those were antigen test PCR tests.
+
+Bret 1:58:49
+Yeah, the mechanism is what are called memory cells. And at some point, I think I'm going to put together a lecture on how the immune system works. It's one of the most stunning things I've ever heard. And it's well worth exploring at an evolutionary level. But the thing is, your body fights an infection. At the, as it's fighting, it has effectively an army of cells that are specifically targeted at the infectious agent, and it fights this battle. And eventually, if you don't die of it, it wins. When it wins, that army edits down, and you create what are called memory cells. And these memory cells remember the formula for defeating that enemy. And so if you are challenged with another particle or viral particle that's close enough, then the infection never gets far enough for you to detect that you had another encounter. So it's those memory cells that would do it. So in order to get to the three things we're, you can't be infected again. You can't infect others and what was the third one and you
+
+Heather 1:59:55
+are immune, I guess In some ways, that's the same Yes, the same one and three are the same thing. So
+
+Bret 2:00:03
+the answer is if the, if the virus doesn't evolve too quickly, then probably having had it once is enough to prevent you from ever getting it again, because your memory cells will persist and they will spot it the next time it shows up. And at the point that you fully recover, unless it's one of these viruses that retreats to some tissue, which I think we would also know that already do you think? Yeah, because I think we'd see some recurrences that wouldn't make sense,
+
+Heather 2:00:30
+unless it's a longer term reemergence. But yeah, buybacks. malaria. Well, my guess is I mean for months or years. Yeah,
+
+Bret 2:00:36
+I don't think but again, that's that's malaria. It's not a virus. But there are viruses that do it. And I just don't know that we have seen a Coronavirus that does this. So in other words, it's resident in a population, but it's not that it hides in a tissue of an individual. So assuming you beat the pathogen, you're free of active particles hiding out in some tissue, and you have memory cells that can spot it, then all three of those conditions will obtain,
+
+Heather 2:01:01
+which may actually be two conditions. Yeah. A study shows SARS to effects Ace two and testes, decreasing testosterone, with elderly compromised unhealthy and dense groups. Thoughts on the population?
+
+Bret 2:01:16
+Well, if it's affecting the elderly, it's not going to have much of an effect.
+
+Heather 2:01:19
+Yep. And you know, it, it, it does, it clearly is affecting, or it's killing men and making at higher rates than it's killing women, men, it's making men sicker when they do get sick, that's making women. But men aren't the limit on population size, so it's unlikely to affect the population. Yep. Clothes get darker when wet because of like, light trapping, CDI, also is dyslexia and evolutionary adaptation.
+
+Bret 2:01:50
+Alright, let's talk dyslexia. Here's the thing. dyslexia is a kind of a garbage category that covers all sorts of things that interfere with what is considered normal reading, in my opinion, it's not really a disability, because reading is too new. In other words, to say that somebody like me is not against being defective. But in this case, to say that somebody like me, who has challenges when reading is defective, pays no heed to the fact that reading at a maximum goes back 8000 years and wasn't a common feature of human existence until a few 100 years ago. And so we basically are not evolutionarily prepared for it. So what I would say is, it is a novelty problem where reading is novel, you probably have a bell distribution of you know how good you are at reading. And there's some arbitrary threshold at which we decide that your reading is compromised enough that you have a some kind of a failure or a system failure, but that that's arbitrary. And my argument would be everybody's dyslexic when they're tired, or their glasses are dirty, you know, or there's loud music playing, right? There's lots of things that can interfere. And some of us are just dyslexic at 12 point font under decent lighting. And so it gets noticed.
+
+Heather 2:03:20
+And being an imperfectly matched for the dominant paradigm allows you to forces you to do end runs around the dominant paradigm and thus find solutions elsewhere. So as we've talked about elsewhere, dyslexia is one of these
+
+Bret 2:03:35
+I don't think of myself as doing n runs again, around the dominant paradigm. I think of myself as running circles around the dominant paradigm. Yes,
+
+Heather 2:03:42
+you do. And yes, you are. But no Autism Spectrum colorblindness, left handedness, there are all sorts of these things where there is a dominant way of being. And if you are somewhere outside of that dominant way of being you're forced into solution making that looks different, and it often ends up resulting in pretty heterodox thinking. Can the earth be considered an organism or super organism from an evolutionary biological perspective? Nope.
+
+Bret 2:04:16
+To flat cannot be considered an organism. No, it's not an organism?
+
+Heather 2:04:22
+Nope. Nor is it a super organism. Nope. Just like forest stone evolve, the earth doesn't evolve. We have shared fate here on the earth. But that does not mean that it is an organism or a super organism. My previous question, and I don't know, which that was, was intended to discover whether you believe it is possible that non COVID flu and pneumonia deaths are being counted as COVID. Oh, yeah, it's possible. I think it there's not a ton of it probably going on, but it's certainly possible that some are although
+
+Bret 2:04:52
+I think it's almost certain that some are by virtue of the fact that you have everything through asymptomatic cases of COVID and so people come into the hospital
+
+Heather 2:05:04
+and you die. It's going to be classified as we haven't. But we don't know
+
+Bret 2:05:07
+how we don't know whether it's enough to make a dent in what we think is going on or if it's just the rare case, but it's certainly not to be zero. Right?
+
+Heather 2:05:16
+Good. Is there a compromise between protection for COVID-19 while allowing the economy to work, perhaps continue telecommute mask wearing distancing in public places, but let work continue.
+
+Bret 2:05:27
+Yeah, yes. And there.
+
+Heather 2:05:30
+So far, I see almost no economies, no nation states making plans. And there is reference to what South Korea did, which was pretty damn effective. But there is such a paucity of testing in the US and Europe anyway. That, what are we supposed to do before we know what percentage of the populace has been affected? And therefore what the actual case fatality rate is? Yeah, it's high transmissibility. If the case fatality rate is 10 times the flu, but not 100 times the flu, it's a totally different landscape, have 2% of the US population at this point been exposed and infected, or 20%? Or 50%? We have no idea. So find out we've got to find out. And it seems like that just I hate it when people make these arguments. But it just doesn't seem like it should be as hard as it seems to be
+
+Bret 2:06:24
+yes, I would also say, we should figure out how to be surgical about what work we stop and what work we allow it, even if it doesn't come into play here. Even if we were on the verge of a breakthrough. And I must say the vaccine, if it comes is going to be a long way off, I've now seen proper analysis that suggests that, but whatever the mechanism that gets us through COVID-19, this is probably not the last time we will face it. And so figuring out how work continues without allowing an epidemic to continue spreading. If it's as hard as it is to figure that out. Now, it's not going to get easier. And this is this is our moment, because we've already done a lot of the heavy lifting.
+
+Heather 2:07:07
+Yeah. And I don't know how other places how other jurisdictions are defining essential services. But you know, in in Portland anyway, and I think I assume throughout the state of Oregon, hardware stores are open nurseries are open, landscaping supply places are open. And for us, this means that we can, you know, we're still stuck. And there's a tremendous amount of restriction in terms of what we can do. But we are able to continue to do a lot of work in and around our house that, you know, could have easily been delayed for, you know, months or years. And so, you know, in what way is a nursery an essential service, you can't make that argument from the perspective of, you know, I'll die if I don't have this plant. On the other hand, for those people who do spend time outside and plant their own plants, it is potentially a difference between coming out of the psychologically intact and not
+
+Bret 2:08:03
+Yep. How many more do we have?
+
+Heather 2:08:07
+We have? like four or five? Okay, good. I see closer to 10. But oh, maybe it's not? Let's see, I'm sorry, I'm trying to figure out where it was. Previously, you spoke of COVID being able to switch its behavior to mutate more easily. What possible mechanism could do this and be accurate? Well, mutation generally isn't accurate, most of the mutations would cause it to fail. And then those very, very mutations that worked would would be selected for and proceed.
+
+Bret 2:08:38
+Yep, a facultative. program that allowed greater variation when something told some strain of the virus that it was in a cul de sac, could be advantageous, not saying it's happens, but it's possible.
+
+Heather 2:08:52
+Absolutely. Can you explain if it is possible for the virus to have spread from a bat biting an animal that was then consumed by humans? We don't know. But it's certainly plausible.
+
+Bret 2:09:02
+Hmm, pretty unlikely. For one thing, we're talking about a horseshoe bat.
+
+Heather 2:09:07
+But But again, you know, is it might be zero, but it's possibly not zero,
+
+Bret 2:09:11
+much more likely that bat I mean, especially if this thing is depleting oxygen capacity, either by messing up the lungs or messing with the hemoglobin. A bap is going to suffer from that very quickly because of the way in which oxygen is used. So a sick that's not going to last very long. Unless this thing is at a really, really low level, which is also possible
+
+Heather 2:09:33
+or somehow it manifests quite differently in different hosts. Yep. Different host species, like it's always asymptomatic and bats,
+
+Bret 2:09:39
+right, which is possible. But I would also argue that that's going to come with low transmissibility. You know if the bat of the baddest fighting
+
+Heather 2:09:48
+Yeah, the biting thing here, horseshoe bats don't tend to horseshoe bat biting a pangolin would be quite a natural history scenario,
+
+Bret 2:09:55
+right on the other hand, falling out of the sky cuz it's sick and couldn't make it back. And some animal trundling along and happening on to it is possible on the other handle, don't they? They do. On the other hand, the the wet market connection is looking very tenuous to me. I did I started to do some looking into the distribution of bats around Wuhan. I'm having I'm having trouble buying that this was the wet market. I think it's much more likely the virology lab.
+
+Heather 2:10:27
+All right. Interesting. Please let us know. By the way, by Thank you, by the way, she'll consider questions asked me for live live next time. Okay, so
+
+Heather 2:10:38
+we'll try to figure that sure. It's not hard to do. Okay, Zack. Yes, we will also watch out for bots. Thank you. I don't know how to pronounce your name ocho. For the Dorfman method is group testing, combining samples to one repeat RP CPR test. Why isn't it used anywhere? That gets us a little bit closer, but I still don't really know what it's what it's referring to. Sorry. Thank you both for your work. You're welcome. Possible evidence of tissue retreat. Okay, so there's a link here, we'll take a look. Three more questions. Can you guys give us a tour of your house video?
+
+Bret 2:11:21
+We don't have a house. And if we did,
+
+Heather 2:11:24
+it would be on VHS. And you just like look at it.
+
+Bret 2:11:26
+There you go. Yeah. I don't know. It's kind of a frightening prospect. But we'll think about Yeah, maybe we'll
+
+Heather 2:11:33
+give you a tour of three corners.
+
+Bret 2:11:36
+Three well chosen corners of that.
+
+Heather 2:11:40
+Confusing question for Episode Four? Couldn't organism carry a benign virus that kills predators? Any known examples? Presumably virus would function like toxin? Yeah, I don't know. Yeah. Examples of that. I
+
+Bret 2:11:56
+will repeat what I said last time, which is the problem with this as an evolutionary mechanism. Is it the best deal if you had a virus that predators feared rationally, let's say, you would have to have some sort of an advertisement that you had the virus in order for predators to know to avoid you, but then the best deal is to use the advertisement and not have the virus at all. And so until you can get an honest advertisement of the virus, I don't see how it could evolve.
+
+Heather 2:12:23
+Yeah. Okay, two more questions. And then we are done. Do you believe that Homo sapiens are the final carbon based life form in our evolutionary lineage? Well, yes, unless we figure some shit out pretty quickly here.
+
+Bret 2:12:36
+Yeah. And we could declare ourselves, you know, we could declare our children a new The problem is the term species has these two different meanings, right? And so creatures in a sequence are different, we can declare our kids a new species, and because it's not the same criteria, we would use to separate two bat species, let's say, two co coexisting bat species. Yeah. But
+
+Heather 2:13:06
+he says, in our evolutionary lineage, he makes a point of not saying species. So you know, we right.
+
+Bret 2:13:10
+But that's my point is Yeah, our lineage is continuing at least another generation. Yeah. So I don't know how to answer the question.
+
+Heather 2:13:18
+Okay. One more question. Is it possible that the functionality of the memory cells is being hijacked by COVID and causing them to initiate hemolysis? So that's pronounced right. hemolysis, subsequently releasing ferritin and kicking off an aisle six cytokines store?
+
+Bret 2:13:35
+Well, the cytokine storm has been observed as a I don't know what the proper term would be, but a major correlate of the worst cases of COVID-19. Yeah. So I find it it's, boy, I don't I don't want to define it, because I will, I will screw it up. And then I will end up having to make another correction next time. But so cytokine storm? Yes. As for the several links in the chain, you described don't know enough to say. I will say that there are two possibilities. What was I reading, it had to do with whether or not COVID-19 was attacking the immune system, which would be a very frightening prospect. That's what aids does as AIDS or HIV attacks, the activated T cells. And then the alternative possibility was don't have it. I don't have it, but it looked like it was not attacking the immune cells specifically. So you know, who knows that evidence will develop. Again, I've now got a bunch of things I need to look into, but I will see if I can't come up with the particular paper I was looking at and pass it along next time.
+
+Heather 2:14:56
+Okay, one more question and then we're out all right. Has any of you have Have you spoken with Paul Stamets? Could mushrooms play a role in resolving COVID-19? No one by reputation but not the man. Yeah, I don't know if he's working on something.
+
+Bret 2:15:10
+So fellow greener though. he's a he's a fellow greener fellow greener. So anyway, yeah, I don't know. He seems to find mushrooms have utility and lots of things so don't be always shocked. But anyway, Paul, if you got something, contact us. That's right. All right. All right well this has been harrowing with all of the technical failures. Thank you for sticking with it and I think we will try to compile these together in some way. We will upload a final with all of them two together or a pair in any case, we will edit out the catastrophes. We will see you next time. Hopefully we will have our technical difficulties ironed out fully by then
+
+Heather 2:15:50
+back on Tuesday. 3:30pm Pacific
+
+Bret 2:15:52
+okay. Stay safe.
+
+This transcript was generated by https://otter.ai

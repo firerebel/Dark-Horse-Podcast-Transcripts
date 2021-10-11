@@ -1,0 +1,382 @@
+Bret 0:06
+Hey folks, welcome to the Dark Horse podcast live stream number 99.
+
+Heather 0:12
+Number 99. Here we go, here we go, Oh, this, this means that next week should be number 100. But we are going to take a break next week, due to one or more of us being out of town, we're not going to specify any more than that until we have returned safely. Fair enough, so 99 right now and, and then we'll be back in two weeks with Episode 100. We are going to be talking about whether or not science destroys our sense of awe. Today, we are going to be talking about Tylenol a little bit about necessity and sufficiency as conditions which are often discussed in science. We are going to discuss parenting a little bit two examples of parenting that I saw today that were interesting and, and a bit about strangeness around the availability of our book hunter gatherers guide to the 21st century. So without further ado, some logistics to ads, and then we'll jump right in. If you've gotten the book and read it and enjoyed it, consider giving it a review. We benefit from that that said it is not available almost anywhere, which we will talk about a little bit at the end of the show. It is available at Barnes and Noble still, so go there if you want it and don't have it yet. If you're watching on YouTube, consider switching over to Odyssey where we are streaming simultaneously and where this will be up forever. And there's also a live chat going on right now. You may ask questions for the second hour. The second one of these things that we're doing today by going to www dot Darkhorse emissions.com you might consider joining our Patreon Brett had a wonderful conversation this morning on his and you will be having another one tomorrow. That's Sunday, October 3 from nine to 11am. Pacific time. So consider going there this
+
+Bret 2:11
+morning we may have figured out how to fix civilization so it's still too early to tell for
+
+Heather 2:16
+sure. And you're not going to share it with us the
+
+Bret 2:19
+toy merge over time once we have tested the idea.
+
+Heather 2:24
+I see. Okay, you the few of you who were involved in the conversation are going to test it.
+
+Bret 2:30
+Well we're gonna you know, we're gonna prototype it and
+
+Heather 2:34
+always prototype Yep, as we say in the book, prototype, prototype. prototype. There you go. Please consider joining me also at my substack natural selections that substack.com this week I wrote about seahorses and their pregnancy being in males and how very extraordinary that is how completely convergent I mean really remarkably convergent male pregnancy and seahorses is with female pregnancy in everyone else who has pregnancy including the vast majority of mammals except for those little couple of weirdos at the base of the mammal tree that is the duckbill platypus and the echidnas and how that means nothing about whether or not it's true that in species in which females get pregnant males can too. It has no implications for that whatsoever so consider joining me there all the written stuff is is free and you can subscribe from me reading those those Tuesday posts out loud to you now without further ado, we have two ads this week. All forum and public goods and Brett will begin
+
+Bret 3:35
+Tara this week's show is sponsored by all form a company that is making absolutely terrific custom sofas. What makes the sofa terrific you can customize your size, layout and materials easily for a fraction of the cost of traditional sofas. Pick your fabric color and shape to fit your home and needs perfectly. They do armchairs and love seats all the way up to eight seat sectionals you can start small and buy more seats later on without needing to get a whole new sofa. Out form sofas are delivered directly to your home and shipping is free all forms sofas are delivered fast just three to seven days and you assemble it yourself no tools needed. Toby and I did this it's absolutely dead simple and makes for an extremely rigid and awesome sofa.
+
+Heather 4:24
+And Richard is what you want in a sofa you want in the frame you want to collapse into you in this hole does not
+
+Bret 4:30
+right now it's a it's a marvelous sofa it is. We got a beautiful sectional all forms sofa in whiskey leavener although to us it looks more like Carmel. It's soft and supple and not cold in the way that a lot of leather furniture is the four of us and the dog and often more than one of the cats pile onto it. Watch movies in the evenings. It looks gorgeous. It's incredibly inviting and comfortable fits the house beautifully. Also, some listeners asked if all form holds up to pets. Well Yes it does we have a leather sofa and the leather that all form uses is 20% thicker than typical furniture leather. It is incredibly soft and warm shows no were really the animals have left no mark on the thing whatsoever in however many months of use,
+
+Heather 5:17
+despite one of them being highly resistant to having her nails clipped.
+
+Bret 5:21
+Yes, the large one the dog people. Yes The the kaina form Yeah. If you prefer fabric the industry standard test for fabric durability, is the double rub count where fabric is rubbed back and forth. Anything with a score over 15,000 is considered heavy duty all form fabrics received a score of 55,000 over three and a half times higher. So their fabrics are going to hold up really well to pets. Finally, they offer a forever warranty literally forever. To find your perfect sofa check out all forum comm slash Dark Horse and all forum is offering a 20% off all orders for our listeners at all. forum.com slash Dark Horse.
+
+Heather 6:08
+All right. Our second sponsor for today is public goods. A sponsor we've brought to you before and we continue to be proud to be associated with public goods can simplify your life as a one stop shop for everyday essentials. Their ingredients are carefully sourced, high quality and affordable. public goods has towels, glassware, sponges, ramen and deodorant, dental floss and mustard shampoo and coffee and a French press to make your coffee in. They've got green free granola, curry paste and flatware. And while those three things together is not quite enough for a meal, there was plenty of public goods to fill out that plan for you. We've tried several of their products and have yet to be disappointed. public goods has great design public good products have great design to the aesthetic is simple and clean. They're no garish colors. Personally, I don't want the products that I use to draw attention to themselves. So public goods is a great fit. public goods cares about health and sustainability. Their products are largely free of harmful ingredients and additives and the ingredients are ethically sourced. And they also plant one tree for every order placed. Finally, their subscription services efficient and simple and easy to use. public goods members can buy all of their premium essentials in one place, it really is an everything store. For Darkhorse, listeners, we have the following offer receive $15 off your first public goods order with no minimum purchase, they are so confident that you will absolutely love their products and come back again and again, they are giving you $15 to spend on your first purchase, go to public goods.com slash dark horse or use code Dark Horse at checkout. That is p UB li si, g o d s.com. forward slash dark horse to receive $15 off your first order. All right. So on today's show, I was interested in beginning by talking a little bit about about science and art. We we've continued to do a lot of podcasts, a lot of media for the book, some of which is not out yet. And it's continuing for many weeks into the future. But one of the conversations that we had this week was with Bridget fettucine on walkins. Welcome a show that we've both been on before. And we had just a really terrific conversation with her. She's fabulous. She's wonderful. And one of the things that we ended up talking about both in the beginning and the end, actually was whether or not trying to understand things that are beautiful things that appear miraculous things that leave you filled with a sense of awe and wonder, are things that are best understood best approached with a scientific worldview, and whether or not if you do so you lose some of your sense of awe and and wonder. And our answer is most definitely no. Right? I would, I would suggest for instance, that that you put yourself somewhere that reminds you of the scale that you're at in the universe. And that immediately brings you back to a sense of awe for me. As a child, I grew up within about a mile of the Pacific Ocean. And those were different times. And I think my parents would have done this even in even in today times. By the time I was eight or nine I was allowed to walk down through through the little part of La where I lived and down the end of sunset actually to to the ocean and sit there and look out at it. And sitting there on the beach looking at the vast Pacific knowing in principle what was out there that Hawaii was a long ways out in Japan was a long ways farther out. And knowing there's no way that I could actually even begin to imagine the distances or begin to see what's out there but that imagining who was there and what they were doing and what kinds of lives they weren't leading was extraordinary and a little bit like dipping into good fiction as I was also doing at that point and continue to do brought me back to a sense of both the the smallness of For the human and the capacity that we have to, to understand what we are. And I would say that being on the top of a mountain can also do that. Being in the middle of a vast prairie, most famously, Montana, Big Sky Country at any time of day. And any night sky, that is far enough from city lights, or other forms of light pollution, such that you can look out into far faster distances, and revel really in how tiny we are and what all might be out there who will might be out there. It's extraordinary. So
+
+Bret 10:37
+I'm going to, you introduce this with the question about whether or not a, an overly mechanistic, let's not say reductionist, but an overly mechanistic approach to the universe robs us of some kind of beauty. And although this is a very easy critique to dismiss, and we have, in fact, explicitly dismissed it, pointing out as Fineman did that the scientist has an extra set of tools that the scientist can regard the flower, and the scientist can also understand the flower and that that's not a reduction in its beauty. But I think there's also something about this critique that lands a little close to home, right, because it is possible to intellectualize things that are better appreciated. At some other level, we've all encountered people doing that we probably those of us who are scientifically minded, probably do it on occasion and annoy other people. But I wanted to know
+
+Heather 11:30
+that that wasn't personalized, I think I think those of us who are scientifically minded, cannot help but occasionally run afoul of borders that other people have with regard to what it is that they want to be talking about in this way as opposed to not
+
+Bret 11:47
+alright, so I wanted to take up the opposite side of the puzzle. Okay,
+
+Heather 11:52
+knowing that I actually have an essay that does that as well that I want to do. So.
+
+Bret 11:57
+I don't know anything about the essay. So I don't want to tell you, I don't want to trample it. Yeah, if you want to go there first, and then I will take up my alternative if it isn't covered.
+
+Heather 12:06
+Sure, I guess. Okay. So I mean, I don't have a ton to say about it. But there's last week I talked about the Roger Scruton essay dying and time, having been introduced to it by someone who wrote into our q&a a couple weeks earlier. And I so enjoyed that essay, which I found online that I went out, and I didn't go out, I went online, and found this beautiful small volume. So not only is it are the contents of this volume, gorgeous, which I've just shown on the screen, for those of you just listening, but it's a beautifully bound, small volume, which I just so so deeply appreciate. It's called Confessions of a heretic by Roger Scruton introduced by Douglas Murray, and it's 1212 essays, some of which, like the one that I'm going to read from are really short, like three pages long. And the let's see, I don't have the notes here. But the online what it says about this volume is, Oh, no, here it is on the back. Sorry, reveals Roger Scruton. His confessions, quote, unquote, reveals aspects of the author's thinking that his critics would probably have advised him to keep to himself. So the essay that Douglas Murray writes about in his usual amazing way in the introduction that I was drawn to and then went to the essay itself is called effing the ineffable. Okay, so here we go. Something can be meaningful, even though its meaning eludes all attempts to be put into words. For is F sharp bilad is an example. So is the smile on the face of the Mona Lisa. So as the evening sunlight on the hill behind my house, Wordsworth would describe such experiences as intimations, which is fair enough, provided you don't add as he did further and better particulars. Anybody who goes through life with open mind and open heart will encounter these moments of Revelation, moments that are saturated with meaning, but whose meaning cannot be put into words. These moments are precious to us. When they occur, it is as though on the winding elite stairway of our life, we suddenly come across a window through which we catch sight of another and brighter world, a world to which we belong, but which we cannot enter. Maybe I'll let you go before we, before we wrap them. That was all Roger Scruton writing in a book shortly before his untimely death, so in fact, and actually untimely timely, given given the essay of that name, I mean it It raises questions, you know, he was not a young man, but was the was the death that he experienced in 2020 of the right at the right moment.
+
+Bret 14:50
+Let's put it this way. It's a shame to have lost him, but in terms of a poignant moment to go, it may have been
+
+Heather 14:59
+20 2020
+
+Bret 15:00
+Yeah, yeah. In any case, yeah, I think the point I wanted to make is complimentary to his point, his point, if I take it correctly is that there are certain things that are effectively beyond description and your attempt to describe them will in fact, do damage. Right, you know, you can go on and on about the Mona Lisa smile. But really the point is, words aren't really up to the challenge, nor should we really expect them to be, which leaves the, the smile is something to be individually appreciated, and we can sort of share our appreciation, but we can't, you know, just as I can't convince you that my version of yellow is your version of yellow, or vice versa, right, we can't know that we got the same thing from the smile, because it's too low bandwidth to describe it. But anyway, I take that to be his point about the sunlight on the hill, behind his house. And like that, but I want to take up the things that you mentioned, going to the ocean, for example, or a mountain or looking into the night sky. And I wanted to point out that in fact, these are places where as marvelous as they are for putting you in your proper context, they do not put you in your proper context, unless you have looked into them scientifically, at which point you can infer the correct thing. So let's take the night sky, for example. The night sky you look up into the night sky, if you're in a place without tremendous light pollution, and you just see this incredible number of stars, which isn't the least bit incredible, right? You're seeing 1000s of stars, they're all our local neighbors, if you're lucky, and you really have escaped the light pollution, and it's very next night galaxy, right? You will see the milky way you'll see a cloud of stars, which implies something but not even inherently, you don't necessarily know that you're looking at so many stars that it looks milky until somebody elucidates that and tells you what your Galaxy actually looks like. But once you begin to appreciate the truth of this, right that your galaxy is 100,000 light years across, right? That means that the light that you're seeing from the far side of the extent that you're seeing any at all, left, you know, 90,000 years before any person thought to do any farming, right? For your little cloud of stars to be that that something as fast as light takes that long to get across, it begins to give you some idea of the incredible distance. And then even that is nothing. It's nothing right? The Hubble telescope gives you a sense of how many of these galaxies there are. And even that doesn't really give you a sense, because it's from here. And so anyway, calculations have been done, I have to say my favorite number is 360 million, which is apparently the number of stars in the visible universe, right? The number of stars that have photons that can reach us, right? That's an amazing number of stars. It's It's It's impossible to comprehend. In fact, it's so many that were it not for all of the stuff getting in the way there would be no night because light would be coming from every direction at all times. Right? It's just incredible. So anyway, the point is, you can't interpret that from looking into a few 1000 stars, a few 1000 stars is good enough to give you the impression that you're not very important, right? Not in the universe sense. But it doesn't really give you anything like the scale necessary. And likewise, you know, the ocean, which I used to I used to bike to the ocean to my house before I could drive because a long way.
+
+Heather 18:42
+Yeah, you were you were much further than a mile.
+
+Bret 18:45
+Yeah, it was it was it was 10 or so miles.
+
+Heather 18:48
+It's a motion,
+
+Bret 18:50
+same ocean is a habit I picked up from my grandfather bike into the ocean. But anyway, you know, even that you're like looking just a few, you know, just a little bit in right, and then it drops over the horizon and the real ocean, you know, it all exists beyond that. So anyway, and then I guess so
+
+Heather 19:11
+are you arguing in part than that understanding that the earth is a globe, and that the curvature of the earth is obscuring some of some of the vastness from you is adding to the sense of your own smallness and reminding you of your own humanity or you're not, I mean, taking it there.
+
+Bret 19:27
+I guess what I'm saying is I get the same sort of visceral calibration from looking at the ocean, but I I don't think I ever really do it without noticing that the curvature of the earth is hiding most of it from me, you know, and that the ability to even see anything that implies the curvature of the earth is kind of cool, especially if you know what you're looking for. And likewise, I would say, you know, ascending a mountain to give yourself scale, right? You really get the picture. When you realize, Oh, well, this mountain, you know, might be the product of uplift that actually I'm on a floating patch of territory sitting on molten magma moving around the earth so slowly that I can't detect it. And that when they crash into each other, they force up mountains. Right? So anyway, I guess set a
+
+Heather 20:15
+scale a temporal scale that is imperceptible to humans. Absolutely. And
+
+Bret 20:19
+likewise, was I just talking to somebody about the fact that you don't really understand clouds, either until you've seen time lapse footage of them? And you've seen them flow like a fluid, you know, around,
+
+Heather 20:34
+sometimes you get this in a plane? Right? Yeah. Can you seem to get it in under some circumstances, you can begin to see what is actually going on that you really it's very hard to get that perspective from the ground under, under anything like normal conditions, right.
+
+Bret 20:51
+And so anyway, I think I think what I'm getting at is, I don't know what optimal looks like, I'm sure, I never reach it. But the optimal way to get the beauty out of this is it's a diminishing returns problem. And there's the part that's indescribable, and you should probably resist describing it. And there's the part that is only accessible through description and careful thought. And that, you know, ideally, what you want, is the composite. And, you know, there's probably certain experiences that are just best left completely at the somatic level.
+
+Heather 21:29
+Yeah, and I think some of what you've said, he revealed some of the differences between us, we are both utterly fundamentally scientific and evolutionary in our approach to understanding what we are, who we are, what we've been all of this. And obviously, when you're talking about uplifting mountains, or cloud formation, or the curvature of the earth, that's not evolutionary, that's that they can still be understood scientifically, but it's outside of the scope of of evolution. But I don't think certainly sometimes when I'm climbing a mountain, I think about uplift, I think about geological processes. And probably every time that I come, you know, round a bend and see some columnar basalt or something that I wasn't expecting. But I don't think in general, that's at least at the conscious level, in my mind, and similarly, the curvature of the earth isn't necessarily and I'm sure it wasn't when I was a child, even though I was aware of it, because I was raised in a household with an embrace of science. I think there are, I mean, as you ended with, there are things to be learned from, say, philosophy, and literature and art and music, that are not describable. By by science, and that does not say anything about us than being outside the scope of what evolution has acted on. Right as, as we make, as we argue, in hunter gatherers, kind of 21st century and on this podcast, and everywhere, you know, all of what humans are, is the result of evolution, take, you know, take it far enough back, you'll understand that you know precisely how you will but it is true. But that doesn't mean that the way to understand the value of that literature brings, or the value that art brings, in the moment a particular sense that you have from looking at the I don't want to really want to use the example of the Mona Lisa is the famous one. But, you know, for some of us, it's not it doesn't it doesn't produce necessarily. I mean, I've been a part of the Mona Lisa once and only once. And I don't remember it producing a sense of awe for me. But certainly, I've been in front of art, and I've been on in landscapes and listening to music and read poetry less so for me, but usually a prose, either fiction or nonfiction, that took me to a different plane. And I have not attempted to understand what that is, from a scientific perspective, nor do I think it's necessary.
+
+Bret 23:56
+Well, I agree, it's not necessary. The question. So I don't know. I mean, you know, our experiences are different. And I think I talked one or two livestreams ago about the experience of asking students in a formal context, like okay, what are your dreams actually, like somebody else was to see them up what they look like, and the degree to which they are shockingly different from each other is amazing. I mean, some people I don't think I've ever had a dream, where I wasn't effectively looking out of my own eyes. But the number of people who have dreams in which they are, you know, looking down on from above, or something is crazy, but
+
+Heather 24:32
+first person versus third person. It's not it's not a universal, right?
+
+Bret 24:35
+There's nothing universal here. And so anyway, I don't know how universal my experience of how I experienced these things is normal or even common. But I guess what I would say is I don't find I lose anything from the part of my mind that checks in with the stuff that I can understand or can become aware that I don't yet understand and might like to
+
+Heather 24:58
+I absolutely agree with that. I guess I thought I thought you were going to push back against that. That conclusion from from where you where you began here you would you would said, You know what, I'm going to take the counter position.
+
+Bret 25:09
+Well, you know, I have this one little exercise I do with myself where if I'm watching squirrels or something and as you know, I love watching squirrels. I just think there.
+
+Heather 25:19
+It's one of the things we do here on dark horse guys is we watch squirrels we really do. They're fascinating. They're really
+
+Bret 25:23
+they could hardly be better, right? It's really like, you know, Heather Knight joke that the creature you're looking for in some exotic places somebody else's squirrel. Yeah. And the fact places it's grackles. Yeah, squirrels are in many, you know, many squirrels are much more interesting to watch behaviorally than let's say, howler monkeys, right, howler monkeys are definitely more exotic,
+
+Heather 25:46
+but tree cows,
+
+Bret 25:48
+right? Yeah, right there. They're not that interesting to watch. But anyway, the point is, when I watch squirrels, one of the thoughts I try to check in with is this behavior that I'm seeing makes total sense that I know walking in the sense I can make of it as partial, I can understand some of what they're doing. And then there's a lot that I don't know yet. And maybe it's beyond the capacity to know. But the idea that they would be here, making all of these all of this sense, even if there was no creature capable of making sense of them, that they were making sense before they were, you know, North American creatures. Were making American creatures and both North and South America we're making sense before there were any people here to ponder them at all right? creatures make sense, they go extinct without anybody ever getting to watch them. And there's something about that, right? The idea that, from my perspective, it's hard to ignore the sense that they're making, but that clearly isn't what they're about.
+
+Heather 26:47
+Yeah. So I mean, at some level, you've reinvented the sort of, you know, if a squirrel evolved in a forest, and there was no one there to observe it, would it still make sense? Just obviously not the original. But yes, of course, it would. Yeah. And also pointed out that, you know, Heisenberg applied accurately or not to things like behavior where the observer themself effect what what happens is true. I think in many cases, even when you've, you know, you put yourself behind a blind, you've somehow removed yourself, and yet, the very presence of the observer in the system can affect what what is happening behaviorally. That said, if you weren't there, there would still be behavior going on. And it would still make sense.
+
+Bret 27:30
+Yes. Yeah. It's, I don't know how Yeah, I think the Eisenberg thing is loose, like best here. But But let's put it this way. It's absolutely true. Especially with invertebrates. Yeah. But it's very hard to introduce yourself into a situation and you guys
+
+Heather 27:47
+just ignore me. Right? Really? Yeah.
+
+Bret 27:50
+invertebrates are very good at noticing you and altering their behavior accordingly. But, yeah, what I mean, I guess there's a question about, you know, what does one advocate? How does one advocate that you go through life with respect to this question, and for whom? Are you advocating it? Right? Right. It may be disruptive for some people, is there a reason to advocate a sort of time sharing between different interpretive modes for everyone? Is it that,
+
+Heather 28:24
+that? Um, that's an interesting question. That sounds that reminds me of the question about, you know, is college for everyone? And I think, especially now, the answer to that is no,
+
+Bret 28:34
+I think the question now is, is college for anyone? Yeah, right. That's,
+
+Heather 28:39
+that's a different conversation, of course, but at least, you know, college and its current instantiation may, in fact, be best for no one. But is, you know, is an evolutionary perspective, valuable for everyone? I think underlying all that we have done for decades is Yeah, and that doesn't mean that it manifests the same way for everyone. But you know, what we what we argue in our book is precisely that, without ever explicitly saying this, this need not take away any of your sense of awe or wonder, nor need it take away your faith, actually. But armed with this toolkit, armed with an evolutionary lens with which to understand who you are, where you came from, you might better get to a place in the future that you would be happier to be.
+
+Bret 29:30
+Yeah, actually, this is a a radical change in people that I think we've seen in the last two or three decades, that there's still a substantial divide between fundamentally religious people and fundamentally secular people in terms of their ultimate belief system, but I have, you know, online when encounters a certain number of comments from people Every time you raise the the idea of evolution, they say that's not how it happened. God made it, right. But it's very rare. And in general, what you now find, which is much healthier is that smart people come in all flavors. And what we disagree of is the stuff that's really outside of the realm of what we are capable of looking into with proper scientific tools. And there isn't very much disagreement at the moment about whether evolution takes place and its explanatory, right? It still exists somewhere. But the mind numbing arguments that we used to have have largely been replaced by an acceptance that yes, everybody needs to know something about evolution, because it's too much a part of having built what we are. And as our book argues, it's too much a part of why we're out of place in the 21st century. And, you know, how great you know, just as just as people have gotten over their bigotry, right, bigotry, like the world we were born into, wasn't all that common, but you did encountered real bigotry, right? Real bigotry is pretty darn rare these days. still lots of ignorance. But, you know, the idea of like rooting for your people against other people, is it has become uncommon. And, you know,
+
+Heather 31:13
+and it has become understood that it's unacceptable.
+
+Bret 31:17
+Yes. As is the rejection of the idea that some Darwinian force has implications for people, right? That has become it's not as rare but it's still it's it has become rare. And I think our conversations have gotten better, because it means that we don't have this artificial divide between, you know, people who have religious values, and are absent from the analytical conversation about, you know, humans, let's say, right now we have people of all value sets included in that conversation. And it's, it's a big improvement, right,
+
+Heather 31:51
+which inherently will improve the quality of the conversation, you know, you exclude any any demographic due to bigotry and you weaken, you weaken yourselves, because you have fewer people from whom to pull who might have something to offer. Totally.
+
+Bret 32:07
+I do think we should mention, we have two pieces in the daily wire the moment SAT, right.
+
+Heather 32:14
+I think so.
+
+Bret 32:16
+In any case, it's an it's a, obviously a conservative outlet, but they willingly invited our evolutionary perspective. Oh, and it's coming up. Yeah. Anyway, I I'm I'm sort of, I'm intrigued to see what people will make of what we wrote a new and what they took from our book,
+
+Heather 32:37
+excerpted a little bit from the introduction, and then we wrote a new piece that is, in keeping with some of the thinking in the book about, about relationships and how to find a life partner,
+
+Bret 32:48
+right. And in particular, we talk about some things about which liberals were clearly right, and some things about which conservatives were clearly right. And the fact that the actual picture of where we are is necessarily a hybrid between these and not necessarily a comfortable one. Right, but I will be very interested to see whether or not it sparks a conversation that seems necessary. Yeah,
+
+Heather 33:12
+absolutely. This is maybe a slightly strange segue. But speaking of science, there's a paper out this week the specifics of which I'm not sure we need to spend any particular time on but let me see if it will come up. Okay, here we go. Zack, you can show my screen here, is published in hormones and behavior. With Tim Clutton Clutton Brock as the final author on this increases in glucocorticoids, are sufficient but not necessary to increase cooperative burrowing in Tomorrowland mole rats. Okay, that that is of some interest to some of us, maybe not too many people glucocorticoids being corticosteroid hormones that are involved in things like reducing inflammation and are understood to be part of a generalized stress response. Cooperative burrowing in these small rats that are different from naked mole rats but also do a lot of cooperative behavior. These these authors went in interested to look for this, this mechanism, this hormonal mechanism to see if it was causal in prompting this behavior and that's a pretty standard approach in you know, that you would find in a journal like this hormones and behavior like you know, behavioral endocrinology, animal behavior that's trying to get at mechanism as opposed to sticking to observations of the behavior themselves itself will tend to go and look and find yay or nay, like yes, this when when we increased or when we saw that it was increasing natively. When it increased, we saw increases in this behavior or we did not what these authors do, and they put it right up front in the title which struck me as important for us to just flag was that they found that yes, in this case Glu, when increase when glucocorticoids, excuse me are increased experimentally in these mole rats, they do find an increase in cooperative burrowing. But while sufficient, while an increase in this hormone is sufficient to prompt a change in behavior, it is not necessary to do so. And we usually in science talk about things being necessary, but not sufficient, and this here is sufficient but not necessary, which may well be a much more common thing. I thought that was that was worth spending a couple minutes on
+
+Bret 35:39
+Yeah, it absolutely is. I used to and I don't recall, but I suspect you used to also do a module on necessary and sufficient and in our teaching in our teaching, right. And so, you know, there are things which are necessary and sufficient, there are things which are necessary, but not sufficient, and there are things which are sufficient, but not necessary. And just simply having those categories so that you this is like one of the basic building blocks of understanding a complex system.
+
+Heather 36:09
+And I, so an egg is necessary, but not sufficient to produce a human embryo.
+
+Bret 36:17
+Right, for instance. So I want to point to one of the reasons that this is such a useful rubric to to walk into complex systems with, and it has to do actually with, you know, let's talk for a second about what a hormone is, right? A heart hormone is a chemical message that is released in one part of the body that has effects remotely, right, so it functions mechanistically, very much like a neurotransmitter. But a neurotransmitter is crossing a very tiny distance in a synapse, for example, whereas a hormone may cross your entire body, it gets dumped into the blood transmitted around. And it also has a kind of generality to it. So to the extent that you're being frightened, should turn down certain systems that are not priorities and turn up other systems, you can dump the frightened hormone into the blood, and it can trigger all the things in the direction that they should go, right, because they can just all have the receptor. And they know whether that receptor is a Hey, time to wake up and get moving or time to sideline this activity and prioritize other things. message.
+
+Heather 37:21
+But sometimes that signal comes after the frightening impetus. And sometimes it is it seems to proceed awareness, conscious awareness by the organism, at least,
+
+Bret 37:32
+right? And of course, there's an interplay of these things, right? What what particular reaction you have may be the overlap of, you know, several different signals that tell you Oh, this is that kind of event, right? This is a, this is a fear, this is an anticipatory fear, rather than Oh, crap, I've got to flee that frightening creature, kind of a scenario, right? But anyway, the basic point is, at some level, you're looking, when we look at hormones, hormones are easy for us to look at, because it's a molecule, and it's either present or it isn't present, or it's present at some concentration that goes up or down. And so we can just measure them, and we can also experimentally easily alter them, right, you can just add some to the system and see what it does. So they are, it's a very tractable set of systems. And as a result, we know a lot about what it does, but we don't necessarily have the logic nailed down. It's effectively like the ability to, you know, activate a circuit, right, if you had a machine that you didn't understand, right, and you, you know, took some piece of it and you electrified that piece. And you you know, you watched the you know, some lever does that, right? It's not that, you know, the thing that you triggered the wire that you energized is about that thing, necessarily. The point is, that's the lever is downstream of the thing that you activated, and you may have activated a bunch of other things, and you could have gone farther downstream. And so anyway, this all lines up with a it is sufficient, but not necessary if I activate something upstream and it activates 20 things downstream. But if I had gone another step downstream, it only would have activated for then the point is sufficient but not necessary, because you can go downstream and do the other thing. So anyway, I guess, I guess the point is complex systems are tough, but the throw up your hands in response to them is not the right thing to do. Because basically there's a logic they have to be built out of a kind of logic that with work can be unpacked.
+
+Heather 39:32
+Yes. And our attempts to reduce to make linear because it's easier to file in our own heads our understanding of systems like this, well if a then B, you know the logic of computer gates, sometimes would appear to be the logic of say synapses. But that does not mean that it's a it's the logic of say biofeedback into into penological systems, right that you have basically, those sorts of simple and or not gates at one level, but that you have so many of those systems laid on top of one another, some of which are themselves not using such simple gates, they are, for instance, not binary, but actually graded, you know, qualitative responses rather than quantitative responses, you end up with complexity, that cannot necessarily be perfectly understood with a simple linear model,
+
+Bret 40:30
+right. And part of that, you know, you point to the, the discrete versus the continuous. And neurons make a great case for this because, in fact, in each neuron, it's both got the, the axon and which is discrete, it either fires the message or it doesn't, and you've got the cell body, which has all of these dendritic inputs, and there are so many inputs, and they you either, you know, get enough inputs short enough, packed in time in closely enough together that you go above a threshold, and then the axon sends its message, where you don't so basically, you know, the one message
+
+Heather 41:04
+sent are not binary, but within, you know, with within the cell body, or no, I guess the zonal, and it's been a while since I've done this, but, you know, you have to hit some limit before the action potential
+
+Bret 41:18
+action in the cell body. And so And the thing is, it does make this point about, you know, is the, is the universe discrete, or continuous? You know, right? And the answer is yes, the answer The answer is yes, you get enough discrete inputs and it becomes effectively continuous. Anyway, I don't know whether that just lost everybody but but the the idea that yes, these systems, I mean, if you have enough, you know, logic gates, you can model the behavior of a continuous system, right? You have to sort of overwhelm the amount of actual complexity in the system with with the sawn off kind of bits, but But anyway, yes. There have to be simple rules, otherwise, it would be impossible to get a complex creature of the sort that we are,
+
+Heather 42:08
+right. So speaking of which, not really at all, snuck by Tylenol. All right. All right. You pointed to you pointed out to me this week. In fact, not very long ago. That this article on a site called naked capitalism is a lay article written by a person named eaves Smith called Tylenol could be risky for pregnant women. A new review of 25 years of research finds acetaminophen may contribute to ADHD and other developmental disorders and children Give me my screen for just a second sack so that I can pull up the actual article which this person who is one of the lead authors on the article actually is referring to
+
+Bret 42:56
+it is an Bauer who is the lead author on the article it's confusing the way this is written it's not you Smith, but doesn't doesn't much matter. Oh,
+
+Heather 43:04
+you're Yeah, this person is not in the right. Okay, so here's the article in what is it published in Nature reviews endocrinology. consensus statement paracetamol used during pregnancy, a call for precautionary action. So we're just going to read one the opening paragraph of the introduction and then show the two figures before we talk about this a little bit. a growing body of experimental and epidemiological research suggests the prenatal exposure to paracetamol, that's an acetal p amino phenol apmp, otherwise known as acetaminophen, otherwise known as Tylenol, might alter fetal development, which could in turn increase the risks of certain neurodevelopmental reproductive and urogenital disorders. Okay, and then they do this review, and here are the two figures which are a good few in here. Figure one associations between prenatal title Tylenol exposure, reproductive and neuro behavioral development suggests suggested from observational human studies, so it's not ethical to do experiments on humans, it's generally understood with something that is considered to be potentially a risk. So this is purely observational studies. But Thailand exposure in pregnancy can lead to genital malformations in boys. In neonates in childhood, an increase in ADHD, autism, hyperactivity, behavioral difficulties, and lower IQ and language capabilities in girls, and in adolescence and adulthood can increase the rate of early puberty onset in girls and then we have in animal studies, figure two just next page. when exposed to two Tylenol, we have lower rates of stress to Genesis, and of germ cells, which is likely to decrease fertility, increase in DNA damage in juveniles, lowered rates of cognitive performance in boys of locomotion and girls are higher higher rates of locomotion in girls. That's interesting, probably higher activity, lower motor skills, lower spatial learning. And then in adulthood, we have fertility problems, increasing male sexual behavior, lowing lowering of social behavior and learning in memory habituation. So all sorts of known effects of early exposure to Tylenol, which the author's also say, is understood to be one of the absolutely safest drugs on the market and is widely recommended to pregnant women. Because so many other things like n sets are understood to have risks. And one more thing before before you start bread, one of the things that that they also point out is that Tylenol acetaminophen is a background drug in a vast majority of other drugs. So you know, most of many of I don't know most, many of the opiates that people would get prescribed for pain, have acetaminophen in them as as one of the ingredients and in fact, some amount of opiate poisoning is likely to be palatable poisoning.
+
+Bret 46:21
+Yes. Because the opiates are addictive, and the Tylenol is actually quite toxic, which is something you and I have talked about on this program.
+
+Heather 46:31
+With regard to in concert with drinking alcohol,
+
+Bret 46:35
+it's especially apparently alcohol changes the pathway through which Tylenol is broken down in the liver into a more one with a toxic byproduct, I believe is the analysis. And so absent alcohol, it's less dangerous, but even absent alcohol, it's extremely toxic. Right? So Eve Smith, who wrote the naked capitalism article that calls attention to the Ann Bauer article that you were just citing says that effectively, she says, I must confess that one reason I am running this piece is that I have long and loudly maintained that acetaminophen, aka Tylenol is too dangerous to be sold over the counter less than two times the recommended dose level is considered toxic. Mind you, its dangers have been known for decades. And she cites a 2004 article that says acetaminophen overdose is a leading cause for calls to poison control centers over 100,000 a year and accounts for more than 56,000 emergency room visits, 2600 hospitalizations and an estimated 458 deaths due to acute liver failure
+
+Heather 47:37
+each year. That's in the US.
+
+Bret 47:41
+I believe that is in the US. Now, I looked into it a little bit. So really extraordinary numbers. Yes. They're really extraordinary numbers. I was aware of the toxicity of it. And my thought, and I think what I've in fact said, which I am now revising, is that the thing about Tylenol is it's very toxic, but at least we know what the toxicity is. It's liver toxicity which you can afford. Yep. Right. I think we've all said that, right? This doesn't suggest that at all, the liver toxicity thing is very serious. But what you were just talking about all of these effects on pregnant women and fetuses in
+
+Heather 48:17
+the development of the children that then result, right? That's obviously
+
+Bret 48:20
+a whole different level of hazard. Now, what's interesting is in preparation for talking about this, I started I just really went after the date of the invention of paracetamol, acetaminophen, Tylenol, all the same thing. And I was shocked at how far back it goes. Right? First synthesised in 1877. Yes, 1877 as a replacement for a very dangerous drug. But apparently it has been beset by concerns over safety for the entire period from 1877 77. I was amazed as that myself from 1877, up through 1950 is where it is understood to be safe enough to use but still major concerns about safety until in the 70s, it overtakes aspirin, right? And this starts to be understood to be the safe alternative and recommended very casually to people for any sort of pain they may have
+
+Heather 49:22
+Well, I don't know I don't know my history of drug development here at all, but I don't know or drug development and understanding of toxic effects. But raise a syndrome about which every modern American at least parent is going to be familiar with because you were told the point that you're you're pregnant okay. You absolutely must not give children under 18 I think it is aspirin because raise syndrome so I want you I wonder if that overtaking by Tylenol of aspirin in terms of its its prevalence in use as sort of a over the counter pain relief might have coincided with a recognition that aspirin actually had toxic For young children,
+
+Bret 50:02
+yes, I think this is strongly likely I would point out that based on, you know, a composite of what we That is to say you and I now know about the various drugs available. What are the safe alternatives for children and pregnant women? Well, there probably aren't any. Right? This seems to suggest that Tylenol has significant hazards, right? Right. Significant hazards for development, the incense, like ibuprofen carry risk to the heart. Aspirin carries the risk of rise syndrome and raise syndrome. However, however you pronounce it, you know, ironically, if I had to guess based on what we understand about these molecules, I would guess that the opiates are likely to be the safest now they obviously have an addictive danger, right, and an overdose danger and all sorts of stuff. Yeah.
+
+Heather 51:03
+But, but with, without all the fillers, taken an extreme moderation in part because they are actually or are closely mimicking molecules that we are already producing, and therefore our bodies have an ability to break them down safely.
+
+Bret 51:20
+Exactly. So is that logic bomb proof? No, there's lots of room you know, you can add a hydrogen and change a molecule from a benign one to a toxin but but the fact is, the chances of it being safer are pretty high, right? Which doesn't tell you what to do about the addictive problem. Obviously, that kills a tremendous number of people, especially if you have drug companies, cryptically profiting from an epidemic of addiction. But whatever. I guess the point is, look, if you really understood the story of Tylenol, it's a story of toxicity from the beginning. And it's a story of our changing perceptions and changing understanding and how that interfaces with what's available to us over the counter. Would it be you know, what a good system ever have declared it safe enough? I don't know. But, you know, I certainly have always found it odd that it exists in NyQuil in combination with alcohol, yeah, right. Like, if what we understand about alcohol affecting the metabolism of Tylenol is true. That doesn't make any sense. I mean, frankly, the
+
+Heather 52:28
+well you'll poison yourself, but at least you sleep well.
+
+Bret 52:31
+Right, I guess. Alright, so anyway, it's a very interesting puzzle, we should put the links of course to the naked capitalism article and the article that it cites which you've run the figures from in the description, people can look into it further
+
+Heather 52:46
+indeed. So I guess you know, as always, we want people to follow the science, no way. No, we want them to follow science, and we want them to follow the science I'm gonna I'm gonna say why. Okay, here we go. This is the Oregon Health Authority, which longtime viewers and listeners will recognize I am a huge fan of Is that how you would describe it. So I get their emails into my inbox on the on the regular and this week, Zach, if you would show my screen, we got this September 29 2021. CDC urges pregnant people or those concerning pregnancy to get the COVID-19 vaccine. Just one paragraph I want to share from this. The CDC advisory strongly recommends COVID-19 vaccination either before or during pregnancy, knowing that the benefits of vaccination for both the pregnant person and their fetus or infant outweigh known or potential risks. The advisory also calls on health departments and providers to educate pregnant people about the benefits and safety of recommended vaccinations. I'm not going to say much about this here except to point out that taking health and medical advice from people who actually can't bring themselves to use the word women in combination with the term pregnancy is maybe not a good idea.
+
+Bret 53:56
+Yeah, most of my favorite pregnant people have been women.
+
+Heather 53:59
+Really? Yes. That's extraordinary. That paragraph angers me tremendously. Yes. And I suspect that there's more wrong with it, then. The idea that pregnant people is how we should be addressing pregnant women.
+
+Bret 54:14
+Yes, this is complete nonsense and the idea that we have a scientific authority to which we can look and fallible as it may be, it's doing its best This is not it's best if it has forgotten that women exist, right?
+
+Heather 54:28
+Yeah. Now the disappearance of women again from from what is what we are supposed to be taken as the authorities, the end all be all and what we should be doing with our bodies is is suspect at best,
+
+Bret 54:41
+suspected best, especially if they are not recommending vitamin D.
+
+Heather 54:45
+Yeah, and I've seen nothing about that from the Oregon Health Authority. Yes, we still waiting on that.
+
+Bret 54:49
+Yeah, we should we should make sure that it's not there. But Wow, is this a low hanging fruit that is just not showing up on the public health radar? Yeah.
+
+Heather 54:59
+So we've got you want to talk about something that I have no, no background in? And I'm not sure if you decided for or against here. Yeah, I'll
+
+Bret 55:10
+just do it. I'll do something quite brief about it. I just want to point out I actually think it's kind of interesting in the context of our Tylenol discussion, where in fact, there's a lot to be said about what we have known about the toxicity of Tylenol and what we are coming to understand about the toxicity of Tylenol. And what that really says about, you know, our mantra, right. Welcome to complex systems and the meaning of Welcome to complex systems is, you will have an impossible time predicting all of the consequences of interventions, you will see something you will intervene, it may do what you think it does, but what else will it do? That is a question that should constantly be on your mind. So, this week, Manu paravur, showed up in the headlines, right? This is a Merck drug that shows a substantial capacity to fight COVID. They report something like 50% efficacy of Molyneux peer review. Now all new peer review is not a new topic amongst those of us who have been talking about the treatment of COVID. In fact, I was having a discussion with Pierre Cory about moneu pure veer back channel back in June in July, right. There's been a major investment in this and Merck is now trumpeting. It is a great pharmaceutical intervention for which it is seeking an emergency use authorization, I believe. But in any case, Pierre has a friend, I'm not going to call him by name. He's a PhD expert in infectious disease. So he's well qualified, well positioned in the world. And what he says, I think, will interest people in light of what they may have read and heard about monitored peer review. He says, I have a different point of view on two small issues that I wanted to share with you regarding mono peer review. I think it is incorrect to describe it as as copying one of the possible mechanisms of ivermectin, it is a nucleus, a nucleotide analogue, which becomes incorporated into nascent RNA chains. Yes, this is paramedical. Yes, transcribed by the RNA dependent RNA polymerase that ivermectin may, may or may not target, and parentheses, causing mistakes and eventually, eventually defective viral RNA. So in that sense, it is a classic antiviral targeting replication of the virus. Besides not working in hospitalized patients, as you noted, even if it worked as an early treatment, there are two main drawbacks of this kind of medicine. One, the virus will quickly mutate and escape the drug, as we've seen countless times before, for example, with HIV and to these kinds of drugs tend to be Geno toxic and toxic to cells in general, because the modified nucleotide will be incorporated into host mrnas. Now, I can't speak to any of that this is outside of my area of expertise, other than to say, I can't assess, I can't assess whether or not the claims are correct, though, I have every reason to believe that they are correct as presented. So what we have is a nucleus side, which is a basically chemically malformed nucleotide, I believe it is cysteine that it replaces and the point is, if you introduce this broken nucleotide, this nucleoside into cells, then what it does is it causes the RNAs that are produced afterwards to be malfunctioning. If they are viral RNAs, the virus won't work good, very effective against something like COVID potentially. On the other hand, the production of RNAs in the cell is how the cell works. So the question is, is it a
+
+Heather 58:53
+nonspecific, it's not specifically targeting viral RNA? It's targeting RNA
+
+Bret 58:58
+right now there are mechanisms where you can target a pathway that is inherent only to virus, right? So it's not that all antivirals are going to have this kind of hazard. And it isn't clear. You know, it could be that for whatever reason, this is happening in a place that it is affecting viruses disproportionately, or it could be I think it's unlikely, but it could be that damaging RNAs for a brief period of time over which you are making virus is worth the cost, right? Something like that. But nonetheless, the point is, we are playing with fire. And as you can see, with the Tylenol story, there's every possibility that there will be some hidden story about toxicity which we will partly not know and we will partly know and not acknowledge and it will result in the public having a very different view of the drug and thinking Oh, Tylenol is a safe drug. feel safe, you see 100 different versions of it, you know, in the drugstore. But But the point is really welcome to complex systems. Okay, you've proposed a drug to treat COVID a very dangerous disease. What's the mechanism of action? Oh, it disrupts the production of RNA. I gotta tell you, I want to see some very careful study. And frankly, EPA emergency use authorization for a drug that interferes with the proper production of RNA seems potentially reckless. I will be very interested to know whether or not this is also supposed to come with immunity from liability. Don't know. But anyway, so that's that's basically the long and short of it I was I was mostly wanting to point to what is apparently the mechanism of action of this drug and just say, it raises questions.
+
+Heather 1:00:42
+Indeed, indeed, it does. Let me change gears rather a lot. And just describe to two things that I observed this morning, I went out to the farmers market and then down by by the river, the wall I met briefly this morning, before we came on air, and I saw two different I observe two different vignettes. In one a mom, I know hip attractive, then youngish mom is walking down the street with a stroller. At some point, she turns towards the coffee shop that I'm sitting outside of. And I can see that inside the stroller is a child that is way too old and way too big for the stroller like actually having to hunched down in order to fit in. And also the awning of the stroller is pulled all the way up so that this child can't see out and at 9am on an October morning granted a blue sky morning, the idea that you need protection from the sun is absurd. And furthermore, this child had on leggings, over which on each of her knees were two giant bandages. And I thought this child is definitely protected from a lot of stuff. But why is this child who is I couldn't tell maybe, you know, maybe three and a half four years old, not walking? Why do they think their knees are so hurt even though they're not walking that they need bandages on the outside of their, of their leggings. And it just it puts it puts the lie to so much of what modern parenting is doing, you know, these sort of these, the health advice like bandage it, it needs to be covered, when the bandage in this case is entirely a fashion statement. And so I think we need we all need to be wary of advice that comes to us that is worn on the outside as a symbol as a fashion statement and question whether or not that's the thing that we're getting from it sort of a tribal affiliation, a stability snitch versus St. Jude's without indicator as opposed to actually helping your child become more amazing. And anti fragile was every day that they're alive. In contrast, I was then in an area where they had some of these artificial rock structures actually sort of looks like columnar basalt, but you know, pretty high, like the tallest one of these is 1214 feet. Yeah. And I walked by, and there's a young family with two young children, young children, I would say, two and a half or three younger than the child in the stroller, one of whom was on top of one of these of one of these fake stones of columnar basalt structures. And I just stopped in and marveled and thought that child is at some risk. And that child is going to be just fine. That child is exploring. Yeah,
+
+Bret 1:03:42
+do we need to describe what these things are for people to get the idea? Go for it. These they're actually fairly common in this part of the world as a result of some very ancient lava flows.
+
+Heather 1:03:56
+You're talking not about the place structures, but what columnar basalt looks like,
+
+Bret 1:03:59
+right? And so the idea is these are these giant columns that you may have seen. I think they're octagonal. Is that right? I don't remember. Anyway, they always look Yeah. I think it's octagonal. But it may be hexagonal isn't really always the same. Yes, it is. And it has to do it's like a giant crystal and structure it has to do with the way the stuff cools. But anyway, these giant columns are basically like natural
+
+Heather 1:04:23
+pillars. Anyone in California probably has sort of devils postpile
+
+Bret 1:04:26
+right devils postpile are there are many versions of it here. They're 10 times the diameter and you know, people sometimes have them at the play structures artificial Yeah. Okay. Sometimes people have them in gardens here and
+
+Heather 1:04:41
+you know, these this is, I don't know what the these fake. I don't know when it's made up. But it looks like it's evocative of this columnar basalt, but it's one of these it's basically a small climbing wall for children. And you know, our children used to play on them. I mean, in fact, I still do and you know, it's not easy to get up there. And I I have reason to understand that that one of the parents help the child get up and and yummy and maybe also help them get down low because it's a very small child on top of a very tall thing but you know a grand as wide as his or her face I don't even know what the sex of the child was nor does it matter you know this this was a child exploring his or her own limits and space and you know had a VISTA from up there that was wider than anything that he or she could otherwise have seen. And it was extraordinary and that child is going to go to bed tonight with a brain full of experiences and a body full of experiences that then is going to send him or her into dream world so she's gonna wake up tomorrow a stronger and more anti fragile and more wise being unlike the the totally protected and bandaids and stroller child.
+
+Bret 1:05:55
+So I would point out one of the things it's not the only thing involved in the experience one of the things likely involved is that there's a certain amount of fear in ascending such a thing and you know, leaping off it or whatever one does, which is going to be a hormonal II distributed around the body b it is going to cause the experience to be reviewed by the mind later on for value and so in some sense, the you know, the protection from the world is also kind of like a cognitive anaesthetic, right? Things don't rise to the level of needing much review. And I would point out I had an experience like you may have had an experience like this too as a kid I had an experience climbing on it was a kind of monkey bars but they weren't standard monkey bars they were a part of they were an ark. And the park in question actually had them overlaying each other so there were three of them, which meant that if you fell from the upper one, you hit the lower one and I hit my head and I got a concussion which I believe is the reason that I'm not good at all the things I'm not good at that was that I think that was a helmet well pretty let's put it this way most of what I'm not good at comes after that point. So yeah, I'm pretty sure uh
+
+Heather 1:07:22
+you're pleased with yourself.
+
+Unknown 1:07:23
+A little. But anyway, the point is, look, that's not it's not perfectly safe, right? Yeah, it's not perfectly safe and the not perfectly safe as you and I keep making the point that not perfectly safe is is a feature not a bug. The trick in parenting is to allow the degree of unsafety to be manageable by the kid at all times. So basically, their experience of life should get less and less safe as they get better and better at dealing with risk
+
+Heather 1:07:52
+indeed, yes. Yeah, I had I definitely I got a concussion on a playground as a child it wasn't it wasn't exactly that I was hanging from the rings by my knees and I I let go for reasons that I have now lost a concussion or time or something and I landed on my head
+
+Bret 1:08:09
+yes, I have I have a feeling that this is also the reason that you're not good at the things that you're not good at which is a smaller list. I think you may have hit your head less badly.
+
+Heather 1:08:19
+You know, it's a smile as far as you can see, perhaps right yeah, I just do a better job of covering
+
+Bret 1:08:24
+could be I should point out my at the point that I hit my head and got my concussion I found out how lawyers work. Because my that's when you found out that's when I found So how old were you? Thank you. Okay, something like that. I have so how do lawyers work? lawyers are the scariest animal in the jungle, and they get on the jungle gym on the jungle gym, and every other Yes, so my dad got the Sinead
+
+Heather 1:08:52
+who is a lawyer
+
+Bret 1:08:54
+he is a lawyer and even worse he's a litigator. So that's really scary anyway, he got the city to reposition those very play structures so that a child falling from one which is okay, didn't hit another would have a long fall, right? Instead it would one fall into the I'm not sure what chips had been invented at the time. But if wood chips had been invented, one would fall into them rather than on to the metal plate structure below.
+
+Heather 1:09:21
+So all right, well, sometimes lawyers are on your team. You want them to good
+
+Bret 1:09:28
+that's that's you want them you want to keep lawyers where you can see them on your team.
+
+Heather 1:09:32
+Absolutely. All right. Um, we want to talk just to wrap things up a bit about about our book and some some of the strangers around it's availability. Right. We are again, thrilled about the reception it's received, and it not having it was published in the US on September 14 on September 6, teenth Amazon sold out. And it has not been available since. That is amazing and very much too bad. And some of the some of that is attributable to the popularity even outstripped what the publisher already expected was going to be high. Some of the strangeness may be attributable to problems with supply chains, which are widely invoked now to explain why things aren't happening when people expect them to happen or promise that they would happen. But even assuming that those two things are true, not all of policy changes can be explained that way. Yeah, and, you know, I don't I don't know how many particulars we want to talk about. But I've I've had experiences in local independent booksellers, telling me things about it may never be available. Again. That's what the publisher says, which I know not to be true. And I found it. I just googled it, but like, where is it available? Oh, it's available and target later the same day that sold out at Target, what is going on? It is still available at Barnes and Noble. And we know that there's literally 10s of 1000s of copies, waiting in warehouses, ready to be sold. But we somehow that needs to be gotten out there.
+
+Bret 1:11:11
+The book is, in some sense, a victim of its own success. Yeah. Well, at least partially, I mean, I think, you know, it does seem to have organically sold out very quickly, which is a good thing, but it does
+
+Heather 1:11:22
+in the UK as well. Actually, the UK version also sold out.
+
+Bret 1:11:25
+Yep. And the audio version has done quite well didn't sell. That's harder for it to sell. But anyway, yes, it's it's a little frustrating. I mean, it's super gratifying, from our perspective, and it's also extremely frustrating. So anyway, if you haven't gotten a copy, keep the faith. I do think
+
+Heather 1:11:46
+Barnes and Noble does have it
+
+Bret 1:11:47
+Barnes and Noble does have it. Amazon is now reporting a date as far as we can see in November, but we have the sense that there are enough books that they should
+
+Heather 1:11:59
+be getting movement within a day or two. But, but we shall see. Yes, we shall see. We shall see. Anything else?
+
+Bret 1:12:08
+Ah, no, I think that's it. There seems to be where we are.
+
+Heather 1:12:16
+It seems to be where we are. Okay, well, perhaps we will wrap it up there and do a few end announcements and then say that we will be back in for those of you on with us right now. We back in 15 minutes doing our live q&a. You can ask those questions at Dark Horse missions.com. And for those of you listening, or just here for the main episode, this being 99 Episode 100 will not be next week will be off next week. But we will be back two weeks from from right now. 1230 pacific time on cheese whatever day that is that will be October 16. Two to bring you Episode 100 of the Dark Horse podcast live streams. So tomorrow is Brett's second Patreon conversation of the month consider joining him they're joining me for the monthly private q&a that we have on the last Sunday of the month on my Patreon. You can email any logistical questions that you have not questions for the q&a and not not questions for q&a, but logistical questions to Darkhorse moderator@gmail.com. And we encourage you to subscribe to the four channels that we are broadcasting this on, as well as all the podcast places that it goes to, which is to say, we are on both YouTube and Odyssey with both Brett's main channel and the Dark Horse podcast clips channel. And if you like videos in those places, subscribe, share that helps us out with the algorithms and we know we can use all the help we can get with those algorithms. Hell yeah. All right. So anything else for you to say before we sign
+
+Bret 1:13:54
+I'm sure there's a lot but I forget, I believe from stumps still recovering from that hit on the head.
+
+Heather 1:13:59
+Oh, no doubt, no doubt many, many decades ago at this point. Yes. All right. Be good to the ones who love the good food and get outside
+
+Bret 1:14:06
+Be well everyone.
+
+This transcript was generated by https://otter.ai

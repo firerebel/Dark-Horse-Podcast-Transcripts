@@ -1,0 +1,388 @@
+Bret 0:09
+Hey folks, welcome back to the Dark Horse podcast live stream our 23rd Q and A where I have just been alerted that revenge is a dish best served live. So anyway, that's coming up. I don't know when but it's not what not what happened. Okay, maybe I misinterpreted it, but that's how it sounded. And that came with that certain glint in the eyes. So I'm going to be on my guard. Yeah. And your toes. Right? Yes, exactly.
+
+Heather 0:37
+toes. All right. Once again, thank you, everyone, for supporting us for the Super Chat questions, we have more questions that we will get through. And we will get through as many as possible, knowing full well that there are many good ones that we don't we appreciate all of the comments of support as well. And so as usual, we start by doing about a half an hour or so of Super Chat questions from the first live stream in which we prioritize them based on the amount only and then we will go to Super Chat questions from this current live stream and, and read them in the order in which they come in. But feeling free to skip any that seem inappropriate or rude or just not worth our time, for whatever reason. I'm bald, though, it's very rare that that last thing happens here. Yep. Okay. First question, I am building a Twitter alternative focused on serving media and user comments, the challenge individuals existing biases, and allow discrete voting on content. What changes to Twitter's design would most improve online discourse and understanding?
+
+Bret 1:39
+Hmm, well, I see two things, okay. Maybe they're one thing, just two forms. But the thing that's killing us is the combination of the algorithm that you are steered by, and the inability to check what it is, I mean, even the fact that it is in motion, and I am I have been so struck by the fact that there is not maybe the most important thing we could be doing is have a field of people who will reverse engineering the algorithm by setting up accounts and figuring out what it's feeding them so that we could, perhaps keep our heads above water, but I never see this. So my point to you would be, if you're creating a Twitter alternative, you got your work cut out for you. But to the extent that there is some algorithm that decides what you see and don't see a it has to be transparent. And really, at some level, I think we are going to have to require that these algorithms become transparent Otherwise, the derangement of civilization will be so dangerous to us. So I don't know how we do that. There's obviously legal and ethical questions about forcing private companies to reveal their algorithms. But civilization appears to depend on the fact that we know what the algorithms are. But if you're building an alternative today and you want to attract attention to people like us, I would say if there's an algorithm it should be based on a transparent method and that there should be sliders. One of the things I would constantly be doing if I had access to it is tuning into what my antithesis sees on Twitter tuning into what somebody who's in the middle sees on Twitter, if I could draw
+
+Heather 3:21
+a version we have is so so blunt, it only Oh, I'm going to go to that person's feed. That's it. That is as far as I know, the only version of such a slider that we have,
+
+Bret 3:30
+yeah, and it's not even really a slider what I want to know is what they're seeing that causes them to produce that feed by saying these things and retweeting those things I want to see
+
+Heather 3:39
+you want to be able to see the feeds of people whose feeds you can see
+
+Bret 3:43
+I want to look through their eyes right and frankly, I mean this is something I think
+
+Heather 3:49
+I I don't think I want that yeah, I mean I mean I have to use it though no My point is I don't want people being able to see everything that I'm choosing to look at
+
+Bret 3:59
+oh that's not what I'm asking what I'm saying is I want you to be able to choose the sliders to the extent of the thing is feeding you stuff I want to be able to say well okay if you know if I want to see what the liberal perspective is my sliders over here if I want to shunt it over to the conservative what would I be seeing if it thought I was a conservative? What would I be seeing in the middle that kind of thing so I don't know that so
+
+Heather 4:19
+it's a generic thing it's not looking at what's not Yeah, yeah, yeah. No, I
+
+Bret 4:23
+don't I don't want that at all. Yeah, I
+
+Heather 4:24
+mean, I think you know, that creates a new problem which is you know, how is it deciding what liberal is but conservative is you know, how is you know, there's still something built in as to what it is, you know, what, what those labels mean? But I think what seems to be true, and I haven't thought about this enough recently to remember what the terms are, but Twitter has these two distinct settings where you can let it curate for you or you can say just show me everything give me a chronological feed based on you if I follow them and they've tweeted Let me see it. And you know, I certainly have it on that second setting the give me a chronological feed, do not do editing. on my behalf Twitter, and yet it is clear that it is editing on my behalf as per our conversation in the last hour. So what what is it it clearly is not what it is named, it's not what it appears like so much in the world right now.
+
+Bret 5:13
+So I would just say, to encapsulate, we have a problem where a AI and the steering problem that is to say the potential that AI will run away and become an existential threat is already alive. And well, it's happening. We expected robots, it wasn't robots, so we don't know what's happening. It's algorithms, they're doing it to us, we're destroying ourselves on the basis that it is driving us insane. The key thing is to be able to figure out where other people are getting their information and their perspective, in order that we can have those conversations in the middle that have become impossible. And I would just point out, if you think back, you'll remember, there used to be a Google search, right? Then there was Google search, that was personal, which you could turn off, which still didn't tell you anything, because since almost everybody had it on, it wasn't clear what you were looking at having it turned off, but at least it wasn't personal. And then we lost the ability altogether.
+
+Heather 6:14
+Right? You have to you have to unlock yourself in in every way that can possibly be done. Even so it's not clear to me that if you're on a computer that already knows who you are, that you're actually turning off the ability of Google to know who you are right?
+
+Bret 6:26
+And even if you do, what is it that you're safe? Nobody else is tuned into a depersonalized feed. What do you even what is that? You know? Yeah, it's an it's an empty experience. So anyway, yeah, transparency, and the ability to play around so that you can tune into the mind of somebody else by switching the sliders to what you expect that they would have been very useful.
+
+Heather 6:51
+Next question, comment. I disapprove of what you don't say. But I will defend to the death. You're right not to say it. Thank you both for defending free speech and promoting nuance. That's
+
+Bret 7:02
+pretty cool. I like the formulation. Yeah, I
+
+Heather 7:04
+did, too. I question three, I've interacted with many people who have experienced incarceration, I have a critical and skeptical mind. The police routinely abused their power. How would you suggest fixing this systemic issue?
+
+Bret 7:19
+Great question. Great question that's going to deserve a podcast of its own at some point. But what I would say is, consider the following proposition. The policing we have the policing we have which is routinely abused. That is a feature, not a bug is a symptom of something else. If you don't want to share. If you don't want to share opportunity, and you concentrate that opportunity, then you end up with the need to control people, so they don't rebel against an unfair distribution of of access. So the place to cure this is not at the police level, right? You're just going to end up with clergy, attempted fixes that don't work and have unintended consequences. What you need to do is fix the underlying problem, which of course, has a small number of very, very powerful antagonists, the idea that you would solve the opportunity problem is going to be opposed by those who have hoarded opportunity. So that's really the question we need to solve. And until you do that, I don't think the police issue is addressable in isolation.
+
+Heather 8:29
+Yeah, I think that's probably right. I wish I had access to what I saw sometime in the last week some analysis suggested that actually body cams are not demonstrably effective in reducing police brutality. So given that I don't know if having cameras in precincts having you know, everything that happens in the places where would be perpetrators are being brought in and and and treated and put in jail and such might help I don't I cannot quite make sense of the idea of the conclusion that body cams don't reduce police brutality, but this is apparently a robust conclusion.
+
+Bret 9:12
+Yeah, it seems they would and it seems that they are an extension of the same phenomenon if everybody's got a camera and what we're seeing is outrage that is obviously going to have impacts body cams which seemed to point the same direction but
+
+Heather 9:24
+yeah, and you know I had the same I this isn't the same but I had a related question watching that first video that we showed in the last hour you know the the two minutes of peaceable assembly of protesters with a black man speaking honestly and and truthfully to the police and having them come in and take them away like the police knew that was being recorded. Yeah, like even more so. What the hell are they doing? Nine what was supposed going on
+
+Bret 9:52
+there have the same what could possibly have gone through their minds? Yeah, yeah. Okay.
+
+Heather 9:59
+You guys have been alive. point of rationality Many thanks for an American expat in the UK. Thank you about your answer to the question in the last podcast. Do you believe that Marxist philosophy is driving any of this? So that was asked in the last podcast? The last q&a? We answered it. Wouldn't it be a better answer that Marcuse Ian as an herb Marcuse philosophy is driving this. I do think I couldn't tell you the names of any of Marcuse his works, but he is one of the people sort of early on in what becomes post modernism along with Foucault and Derrida and such. Who, who, yes, I, I actually do tend to point more to the postmoderns, and particularly the French postmoderns, than to Marx. It all gets cloaked in this Marxist philosophy, and as you talked about in your answer last time, you know, Marxism doesn't work, but it's a coherent, it's a coherent philosophy and there's much to be learned from knowing what it
+
+Bret 10:59
+says it's I would say it's a coherent critique, not go hand.
+
+Heather 11:03
+Okay, good. It's a coherent critique. And it is being trotted out by people who know the name Marx Who Have you no pictures of marks, it's lots of marks on their t shirts and all and so they think that they're Marxists and being accused of being Victorians or Mark Uzi and zero postmodernists sounds less like something they would recognize. And they take umbrage in a way they don't take umbrage at being called Marxists. But I agree, I don't think this isn't actually Marxist. It's much more of a postmodern set of ideologies.
+
+Bret 11:37
+I'm gonna, I'm gonna push back slightly, I'm gonna say it certainly has elements of post modernism it it is, what is the Sokol squared term for it? It's functionally postmodern. Maybe that's not the term but it's a grievance studies, guys. Yeah, it's functionally postmodern. Most of these people don't know the, the post modernism that they are enacting. They're enacting it anyway,
+
+Heather 12:02
+most of them probably haven't read the Communist Manifesto, either. All right. And that was
+
+Bret 12:05
+that was gonna be my point is that I think we could tie ourselves in knots trying to be precise about what this movement is. And what we will find out is, you know, is it Marxist? Well, it's Maoist Marxist, it's postmodern. It's new hip happening. It's all sorts of stuff. So it's hip happening Marxist. And I think it is important not to get bogged down in it. It's got enough Marxism in it that that deserves to be in the discussion. It's got enough post modernism that that deserves to be in the discussion. It is novel enough that it deserves not to be portrayed as exactly one or the other. But
+
+Heather 12:46
+I feel like postmodernist thought, renewed the ability for Marxist thought to get a foothold in the universities where these ideas are emerging from that Marxism, especially in the wake of the Cultural Revolution in the 70s. And China was most was really a backroom niche belief that was easy to get rid of just like actual racism, you know, white nationalism, it's easy to scoff at now, we are encouraged to do so and for good reason. And I think that, you know, a little bit of a little bit of information in the hands of some people who don't actually know what they're wielding. Because I mean, there there are important truths. There are kernels of things that are valuable within postmodern thought. And yet you combine in a nuanced, naive view of what post modernism is proclaiming, there is no objective reality and your truth is your truth and my truth is mine and doesn't matter if they ever meet but it's my truth is my truth. You combine that with, you know, with a, I don't even know if it's a naive understanding of Marxism, but you know, some kind of version of Marxism, and you're allowed to forget history, you're allowed to forget that never once has Marxist revolution gone anywhere good.
+
+Bret 14:03
+Well, you're allowed to overwrite reality with stuff that is useful. It basically the point is it's license to pen useful myths. But the problem is, you're not licensed to Penn Miss on all of our behalf. And so people are pending permits on behalf of this group, or that group or self or whatever. And it's, it's an extremely dangerous process, which has a lot to do with why this looks like a religious awakening, which is actually really it's the opposite of an awakening. It's an asleeping somehow. But nonetheless, those who are true believers feel that they have just experienced enlightenment even as they have become unmoored from reality.
+
+Heather 14:48
+Yes. Next question hypothesis. Humans have primate brains designed for social systems rather than logic or reason. When stressed we abandon higher order thinking in favor of implicit models, which asked who was at the bottom, these folks were saved the worst of any quarter based policing. I think, I think this is likely the only thing that I will take issue with here is that our primate says humans have primate brains designed for social systems rather than logic or reason. And all the other primates or, you know, the more closely primates are related to us, that our extent, the more likely they are to also show logic and reason, and compassion, and emotional regulation. And what we are seeing for sure, is a breakdown of logic and reason and dehumanization, and a lack of compassion and empathy for for other people. But we also see that in in the great apes, and many of the Old World monkeys in particular, like baboons, and large social groups that they have. They are collaborative, and they are competitive, as are we,
+
+Bret 15:59
+I would add, that there's a relationship between what is true and social reality. And very frequently, human beings do on more from a strict adherence to factual reality in order to accomplish something that we don't have the tools for presently, or that requires mythologizing things. And the thing here is we can project forward, we know what the consequences of the myths that were being fed in this case are, right? This is going to advance certain people as it hobbles other people and then collapse. That's what's common. So to the extent that you want to see some groups rise at the expense of other groups, and you're willing to pay the price of collapse, this seems like a good deal to any of us who feel like we've made progress. There's a lot yet to go, but it sure would be a shame to go backwards. The idea that you would invite to collapse is ludicrous. Now, I would point out, you're gonna hear a lot about people like me are gonna say, this is an anarchist revolution, and others are gonna say, Yeah, but you don't know what anarchism means. You're using it as if you mean chaos. And no, I don't I mean, anarchism, this is anarchism. They're on inventing government, they are wrong about the consequent to the extent that they are honest about what they think will happen next. They are dead wrong. And we can't, we cannot afford to demonstrate that to them by allowing them to run their experiment. It's not their world.
+
+Heather 17:28
+Next question. The current outrage comes from about a dozen videos of police violence that we've seen over the past years, if we saw a video of the 12 worst moments of your life, we think of you. So the excellent question. And I would say, we this isn't exactly the same thing. But I used to make the same point to my animal behavior students, you know, many students would show up to an animal behavior program. Really excited about the romance of it all, having, you know, haven't been grazed on your amazing David Attenborough videos, and less amazing and less well done Natural History videos of all sorts. And part of what part of what I felt my job was, was to, at the same time that I was trying to teach and excite students about what it was that how it is that you would actually know what animals do, and then why they're doing it. Also de romanticize it for them. And so they spent a lot of time many, many 10s of hours, out in the field, watching animals simply doing careful behavioral observations. And they were inevitably bored. Because most animals spend most of the time sitting around looking blankly at something, and or sleeping. And those rare moments of, you know, predator prey interactions, or sex, or, you know, whatever it is, it's actually exciting to watch, which is what Natural History videos are filled with, are in fact, a tiny, tiny proportion, I would say, what about if someone put a video on you? Your lives, even you know, you, young college students are presumably living more exciting lives than many people, you know, what percentage of the time is anything actually interesting happening, especially if people don't speak your language, right as you don't speak the language of the ducks, or the Beatles, or whatever it is that you're watching. So this is this is exactly right. And this brings us back to this point that we are the visceral anecdote is always going to attract our attention. And that doesn't mean there's not something real to be learned from it. Because sometimes it is exactly the rare events that are the forces of selection that cause the rest of the culture or the social system to be what they are, but the idea that they are the thing that is true, of of an individual, or of a population is not correct.
+
+Bret 19:34
+Yeah. And in fact, I mean, as we described before, there's a tool for this, right? It's a statistical analysis. That's right. And it you know, if it's done properly, it will tell you whether or not your sense that this thing illustrates a bias that I know exists in that other thing, you can test that question and so anyway, it's it's a shame and we have done ourselves no service by failing to educate we mean think about what we've done. done in the universities, we've allowed people to get degrees in the opposite of clear headedness, right? Why did we do that? And then now that we've got gential, dumb and ridiculousness we've credentialed them in ridiculousness. And now ridiculousness is staging a coup against reason. And we are forced to take it seriously because that's what reasonable reasonable people do is they listen to either perspective.
+
+Heather 20:24
+Some of you critique some of them, they are outraged. They are
+
+Bret 20:26
+deeply offended. Yeah.
+
+Heather 20:29
+Given the socio cultural significance of the algorithms selectively feeding us information, do you imagine that Dorsey and Zuckerberg monitor the ITW? And can anything be done to combat these impersonal mechanical processes?
+
+Bret 20:44
+To the monitor the ITW? I mean, you know, not
+
+Heather 20:46
+not them? But you know, is there any Is there any monitoring in particular, of our voices or other voices that are trying that are going against ideology that aren't strictly along a set of received ways of thinking?
+
+Bret 21:00
+I think lots of things are monitoring trends. And to the extent that anything shows the ability to shift things, it would be strange if it didn't monitor and did not intervene. And you know, we have the experience all the time of being approached on Twitter, for example, by accounts that do not appear to be reasonable. In other words, if you look at the the profile, and how old the account is, and how many followers it has, and you look at the pattern, the things do not look normal. And so what is it that has decided to reach out and inflame us or whatever? I mean, usually, I noticed these things, when somebody says something completely off. And I think how could anybody think that and then I go looking at it, I'm like, Oh, it's not a it's not an anybody. It's not an organic thought something decided to trigger an alarm sense by saying something that I would then think maybe is, you know, an idea in the world.
+
+Heather 21:57
+So but I mean, that's, that's necessary that you come to that conclusion. But not only did it take your time, it took, you know, you did spike, like it's impossible not to have some sort of an emotional spike, when you see something that's totally unreasonable. It's making a claim against you which, you know, 100% to be false. But it shows up in what was supposed to be some sort of a good faith engagement, which people disagree, and people agree, and they do so honorably. And then this thing comes in, and it's a success, you know, it is being successful, even even if you can figure out what that is that it isn't organic, that it isn't actually a real human being. So the question specifically, can anything be done to combat these impersonal mechanical processes? Yes.
+
+Bret 22:42
+And I've advocated for something that then set a lot of people a lot of accounts that I like, on edge, or I've basically said that in this environment, anonymity is much more dangerous than it is valuable. And people have pointed out correctly, that there are some very important events, historically speaking, in which the ball was advanced by something anonymous. And so who am I to go up against anonymity, but my point would be
+
+Heather 23:08
+a lot of people right now cannot speak, cannot speak what they know to be true, because they're watching the world collapse into incoherence. Right, but you may lose their job, but
+
+Bret 23:18
+you could have a Sudan, Sudan, Sudan, anonymous system siddhanam, it's one of those, you could have such a system in which the platform basically had had established who you were, but that you were anonymous. With respect to your the front facing part of your account, yes, but I would want to see it with some sort of, there has to be accountability. In other words, somebody who can put together a dozen accounts that are throwaway accounts, wreak a certain kind of havoc advanced a certain kind of opinion, as if it was widely held, that's very dangerous to our ability to think collectively. So there has to be some sort of restriction of accounts so that they begin to function like the people behind them, right? Your reputation, if you say something completely asinine, and you can throw away the account, and then you go to a new account that isn't burdened by that cost with reputation, that's a problem. So in some sense, there has to be a limitation on numbers. So the anonymous accounts don't proliferate, there has to be some ability for the asinine things that are said to actually follow the person who said them for something that's insightful that said to, you know, create some kind of credibility for the account that it has to be it begin to behave like a person, because frankly, and this is the part I think people don't get very easily. The ability to be anonymous is new, okay, that did not exist in our ancestral environments until very recently. So we are now dealing with the consequences of this novel fact and the consequences in the internet age are are very dangerous. So some sort of corrective. You know, I mean, I'm not saying you can't have an anonymous account on some platform, but I am saying that maybe those of us who are trying to think carefully would move to a platform in which that force was removed because it's having a tremendous impact.
+
+Heather 25:20
+Grateful comment from plant man, Dan, always enjoy hearing your important discussions. Keep it up. Thank you. Next question, Thomas Sol, Sol, how much is it soul insist that disparities do not always equal discrimination. So all believes economic policies of the 60s like the welfare state has been responsible for many of the issues plaguing black communities, thoughts. So soul was one of the two professors not at Berkeley whom that anonymous Berkeley Professor sent his letter to as it was basically the outside evidence that he had sent it and that this was this was real, and I think he saw and like the anonymous author and like, oh, God is it Mulford Riley maybe butchering, that there's a the other professor who was sent to all have similar thoughts here, and they they have a remarkable amount of truth. I'm sorry, I interrupted you.
+
+Bret 26:25
+Well, I was just gonna say, clearly, I mean, this is this is my primary point about, you know, it's very easy to see what happens when, when those when conservatives are overly empowered, right, conservatives tend not to do enough to fix problems that are fixable. Liberals tend to do too much, and they do not appreciate the unintended consequences that accompany solution making. And we've seen this time and time again. So, you know, were there negative impacts of affirmative action? Oh, you bet there were and the harm that was done to people who would have thrived, you know, under any rubric was massive. So we always have to be asking ourselves what is, even if we are well intentioned, when we build one of these policies, what kind of harm is going to come from it that we could foresee? And if there's something we can do to minimize it? Or does it actually mean that the policy will be a failure in the end, and that we have to do something else? You can see this coming down the pike with reparations, right, reparations are an absolute disaster waiting to happen. They will not work and on the in the aftermath of having delivered reparations. What will society think of claims of there being some sort of structural problems? So
+
+Heather 27:42
+yeah, so I mean, there's this really does require a long conversation. I don't I am not well enough versed. Nor have I thought sufficiently about this to know exactly what I think the answers are. And you I think it's there's no accident that it's it's easier to critique than to propose exactly what would be right. You know, I don't I don't think that a world without any welfare. Makes sense. I think a social safety net is absolutely necessary, in part to deal with the effects of historic racism. However, what we have what we what we had growing in the 60s seems clearly to have been an overreach, unintentional, though it presumably was that probably caused some of the problems that we see today. So next question, I'll read this because I'm, we can't see what you're referring to. So you have to figure out another way to allow us to see this six, see chat for previous, if you reorganize the main chart from least to greatest risk of police death, you have an index of disposability, it runs primarily along gender than race. So I can infer a little bit about what this might mean, but we can't see the rest of it. So I don't know how to address it.
+
+Bret 28:56
+Yeah, I mean, well, I can say, to the extent that we understand it, it is I don't know whether this person is reporting or predicting sounds like they're reporting. But if it's not, if it's reporting, then there's a question of where the methods right, and therefore the pattern is meaningful in the way the person is suggesting. And if it's a prediction, then the question is, okay, how would you have to look at data in order to know whether that pattern was accurate? And, I mean,
+
+Heather 29:25
+the one thing that I can I can infer clearly here is that the note no one argues that the fact that men are by far more likely to be arrested and incarcerated than women is due to misandry on the part of the police, that it is understood, despite all of the crazy relativism that is taking hold in people's minds right now that men on average are actually more likely to engage in violent crime than women are.
+
+Bret 29:55
+Yeah, that said, I think there is a there is a a pattern of thought that dogs us in this realm consistently. And it has to do with the fact that there is something to be said there's something to be borrowed from the analogy of the differences between males and females that can be imported into the racial realm. Right? And that there's something to be borrowed from morphology to be understood about psychology. And my concern is that there are actually very important biological reasons that these examples are quite limited in their utility. And
+
+Heather 30:30
+that the comparison between the two types of examples,
+
+Bret 30:33
+that mean in both cases that there there are some things in which you can say, well, let's look at the difference between the sexes and see what it says about biases in policing. And maybe we're misunderstanding what's going on, because there's a bias in confrontations between males and police more so than females. But the problem is, I hear a lot of people who are at an intermediate level of sophistication in this argument, and they're sort of senses. Look, we've all watched the NBA, right? Nobody thinks that the NBA is somehow misunderstanding that there are a lot of white players who could be competing on this field. Therefore, why don't we think that, you know, the cognitive realm is like sports where different populations have different strengths. And that's just the way it is. And there's a very good reason to think that it's not that way. And I don't see people understanding that the physical realm is actually abiding by very different rules. And what I want is a discussion in which we get to that and we acknowledge why it is that different sports play to different populations. And we understand what that does and does not say about the cognitive realm that I think is sort of the, the conversation we need to work towards.
+
+Heather 31:46
+So you know, one easy rejoinder, I would think, to what you just said, is, but aren't the environments in which different populations exist different? And you can imagine arguing, well, aren't the minuet more likely less likely to be good at gardening, then? Sure, then the comb and the comb less likely to be good at seal hunting than the anyway. However, so that's very particular skills based on very different different environments. But what what you didn't say, but what I know you were thinking, because we've been talking about this for decades, is that in both environments, the environment of the minuet, in the environment, the calling in the moment of every single human being has ever lived with the possible weird exception of this moment right now, effectively, problem solving, logical ability to pose alternative explanations for what you observe and distinguish between them. Creativity have all been absolutely necessary if populations are to survive. And it's not that everyone in a population has those skills equally. Of course, they don't, they never will. But every population that is survived to the current day will have had an abundance in some form or another, have logic and analysis and creativity.
+
+Bret 32:59
+Yeah, but I think we can go even further, this has to do with how these things are inherited. And so and you know, there's also historical, or a paleo historical discussion to be had, which we're not going to have now. But let's just say, the intermediate level of sophistication on these points is very dangerous. And it's not right. You need to go past the intermediate level where you start projecting what you know, to be true coming across your screen about the NBA and the NFL, and, you know, Wimbledon or whatever. And you start projecting that into this other realm where you've got a whole different type of inheritance and evolution. And so anyway, for a future day.
+
+Heather 33:45
+My fiance and I plan to read white fragility to understand what people are unaware of it's flawed view my learn after reading themselves. Any advice regarding a specific method of approach, he read with other work retreat before after, etc. The first thing that comes to mind is that, that you look at what James Lindsey has done on on this, and I don't think it's out yet, but Helen pluck rose and his book, which will be out soon, I believe, which I think it's called critical theories, something like that. I have not seen it, but I know them both pretty well, this point, and I know that their thinking is careful and detailed on this subject. Yeah, I
+
+Bret 34:23
+think Yeah, I'm gonna suggest a different method. Okay. Okay. Yeah, it's
+
+Heather 34:26
+your answer is never going to be about reading, is it? No, it is. Okay.
+
+Bret 34:30
+Yeah, it's gonna be about reading. I think you should read it before you read on Lindsey, and pluck rose. And then I think you should figure out and figure out what you spot about the Angelo and then see how it mirrors what they come up with because they're sure to be very deep into this analysis. And I trust both of them to do it very well. And to see all kinds of things and so anyway, greatest training exercise you could have is figure I mean frankly, maybe you'll find some I'm pretty sure there is some white fragility, but I think D'Angelo is a dishonest actor who's using this as a weapon. So, you know, are there people protecting their privilege by pretending this data? The other? Of course, but does that mean that anytime you hear somebody with light skin objecting to an accusation, you're hurling at them that they are actually demonstrating the accusation itself? Of course not. So.
+
+Heather 35:26
+So this is this is critical, though. I mean, what you said is, read it on its own first and come to your own conclusions. And actually make sure even before you discuss it with your fiance, like consider writing down what you think, you know, in advance of discussing it in advance of receiving any other wisdom from any other people, no matter how good you think their thinking is. Yeah. And
+
+Bret 35:46
+in fact, this is a tremendous level up opportunity, because let's call this the Candace Owens effect. Okay. Candace, Naomi, all sorts of people that Candace Owens is, in my opinion, a cynical person who is advancing her own cause at expense to the world. However, she's very frequently right. Okay. I don't trust why she says what she says, because I think I can show you the formula that will generate exactly what she's going to think about anything. And I don't you know, I don't know an honest broker for whom that's true, right? an honest broker will have some surprising opinions, they'll arrive to some conclusion conclusions you wouldn't expect. Candace never does. So that suggests to me that Kansas isn't for real. But if you think well, Qantas isn't for real, and therefore what she says is wrong, you'll be wrong more than half the time she has a lot of very awkward things to say that actually turn out to be true. She just has tapped into that script. yet. She's on script. So anyway, you have to be able to recognize the Qantas is right when she's right, even if you don't like why she's saying it, and the same presumably is true for D'Angelo or anybody else. I mean, D'Angelo is bound to be somewhat smart. Look how well she's doing. Yeah.
+
+Heather 37:00
+Oh, dear. Okay, we're gonna try to get through a few more of these before switching. Zack, Father's Day is coming up. Have you considered buying your data bolo tie? That tired bandanas? Got to go there's some great affordable options at cavinder calm, I feel like a bolo tie would be less effective against the plague.
+
+Bret 37:18
+I agree. Yes. ability to protect you from water bound particles. pretty low. So yeah. Not not a huge fan of that as a as a personal protective device, but we'll take it under consideration.
+
+Heather 37:38
+If anarcho communists truly seek to dismantle hierarchies, then how do they propose to prevent their reconstitution without resorting to authoritarianism? Are they really anarchists as such, or is that just a means to an end?
+
+Bret 37:51
+You got a mixture? You got some, some genuine numbskulls who really believe this stuff. And then you got some people who cynically use it to advance their own cause and very hard to tell them apart. I think the nice thing is we don't really have to the plan is so bad and so dangerous that the point is, well, anybody who's espousing that just simply needs to be kept away from the levers of power, you cannot allow these people near the levers of power. They're too dangerous, right? So anyway, yeah, they're both it's both true. I've met some real real dyed in the wool anarchists who actually believe this stuff. And then I've met a lot of people who are using it as an excuse. And that's, that's probably fodder for a dissertation somewhere. But at the moment, we just have to keep away from stuff that matters.
+
+Heather 38:37
+Yep. Critical Theory has invaded the partner dance world, including evergreen students. intriguing. I don't know who this is. But have you know evergreen students? I have many questions, but most pressing is what arguments can we formulate to try to reach people whose beliefs reject objective reality? I don't, I don't think there's going to be a boilerplate answer that works. And for some people, that won't work. I mean, we were having this we sort of continued our disagreement from the end of the last q&a at dinner that night, I believe, in which I was I was pressing you, for, you know, there are reachable people, you know, there are reachable people who are not yet reached. What How is it that we can you know, what can we say? Right?
+
+Bret 39:26
+Yep. So this is this is I'm glad you bring that up in response to this question, because I do think it actually requires some follow up. So I thought a lot about why it was that I sound different with respect to this problem than I did with respect to students where I saw almost nobody is on unrecoverable and I think it's, it's very simple. I think we're in a much more dire circumstance and then effectively, you know, it's like the difference between a doctor who thinks, you know, there's a chance I can save that person and a doctor in wartime, where there's a question of like, Look, this is a matter of triage, I might be able to save that person on a good day. But I can't save them now because it will cost three other people's lives to do it, right. And so I think when it comes to figuring out how to talk to people who are beginning to sound this way, you have to ask yourself a question, which is, is that person actually rescued? Right? Is that person actually rescued? Well, if I look at all of the people that I would like to pry away from this mode of thinking before it's too late, how many of them can I actually reach? And who is the best shot, and I just think it's more dire than, then we necessarily imagine some of the arguments are so preposterous that it seems all very cartoonish. But this is, this is a live fire exercise. And I would also like to say one more thing. I said something about forming the first against the wall club. Yeah. And I actually believe this, it's not that I want to be first against the wall. But I do think that there's something to the recognition that there's no place in the middle to stand, right? If you hedge, if you try to stand in the middle, and you try to hold on to what you actually believe, but signal just enough to the other side, that you're sort of sympathetic to them. It's gonna come for you. And so my basic point is, look, I am aware that what I am saying will cause the mob to see me as the enemy, and that they will put me against the wall first, that will be their choice. That's what I mean by it. And I don't want it and I won't let it happen to the extent I can avoid it. But I know from experience, that trying not to be first against the wall means that you're not going to have anywhere to stand right, you're not going to curry favor with the mob that way, and they're not going to spare you in the end. So you might as well make your peace with that fact, actually, they're going to hate me, there's nothing I can do about it.
+
+Heather 41:57
+So I guess this, this, again, could be a conversation that we've had for hours then that we could have publicly. But my my one piece of pushback against that, which you know, when you said first against the wall club, in the last livestream, whenever I guess it was 22. And I kind of I had this immediate sort of recoil. I think and I and I shared this with you later. I think part of that was, it's not that I don't share your values and your vision, but especially if it's you saying this part of my job as your partner in life, and the mother of your children is to make sure that we aren't both first against the wall. Yeah. And so there are actually different different strategies that you need to use and that you are likely to use actually, based on what sex you are, in part. If you see your partner doing something that is honorable, and you know that if you were to follow suit, you would create a much greater tragedy within your own family. Now, we aren't talking about actually being against a wall. But But I mean, I remember this when we were unoccupied, that you were very active, and I was somewhat active. And there was a moment when we were up there on the Capitol campus. And we had our kids with us. And the police showed up, and I put them behind me and I left because it was very important that that I not be part of something and leave them with both of their parents somehow involved in in something that left both of us unavailable to them. Yep. For COVID-19, to become more adapted to the outdoors, do UV to the vitamin D environment, would it likely give up quality and other areas of its skill set? Oh, interesting. Becoming more of a generalist in its current form? So if so would this be desirable, desirable for us or desirable for it? We just don't know enough about what it is and what it can do. To know, but it's certainly possible there's that there are trade offs inherent to their particular trade offs. here that it is already slid so far over, they would have to give up some of its capacity.
+
+Bret 44:13
+So the problem is, you will for reasons that have everything to do with the way we discussed this thing the way we name it the way we diagram it, you will think that COVID-19 and SARS cov. Two are a thing. They're not a thing, right? They're innumerable things. And the problem is, if one part of that thing one strain figures out a trick that makes it more generalist, it doesn't suddenly force the rest of them to pay the same price. So there's no value here in it moving in one direction or another. Because unless you shut down the part that didn't move. Now you've just got both phenomenon. So really, this is why some of us are very adamant about it. aggressive measures to limit the spread. And frankly, I think we hit the middle ground which isn't that valuable, which is we weren't aggressive enough. We were, you know, we were aggressive enough to really screw up the economy without being aggressive enough to shut down the virus and I would point out New Zealand. More cases,
+
+Heather 45:18
+they seem to have done it. They seem to have done it. Now. They they are an island. They're two islands to
+
+Bret 45:21
+Island. Yeah, that's an advantage. But I think we blew it. And one of the lessons is early, decisive action, you know, we could have done it in a matter of weeks if we had been willing to go far enough and instead, we may be stuck with this thing indefinitely. Yeah. Okay,
+
+Heather 45:41
+boy. I just want to get least through these last so called orange questions. There's two more here before we skip, switch to the next one's Breton. Heather, thank you both for continuing to provide such wonderful content considered considering SpaceX is ambitious plan for Martian colonization, do you think that careers in astrobiology will become increasingly valuable? I don't think we're getting there anytime soon.
+
+Bret 46:06
+I mean, the careers won't be valuable if there's interest in going to Mars, even if Mars is not that happening a place. The fact that there's work on getting to Mars, I think is cool. It's a, you know, it's a stem job you can be excited about. So I don't know. It's possible. I happen to
+
+Heather 46:25
+think We're shutting down Mars, are we?
+
+Bret 46:28
+That's a good question. Shut down Mars. I don't think Mars would put up with it. Probably not of all the planets, I think it would be least likely to go along with that proposal. But But in any case, I don't know. It's a good question. I hope we need to get past the next six months before we can really say anything about how you should plan for the future. Because if the future has been canceled, then you don't need to plan for it.
+
+Heather 46:50
+Yeah. Okay, next question, which I'm just going to read and say I absolutely 100% want to come back to this. And in fact, it's one it's one thing in enlarge that you and I and we maybe have talked about actually writing a whole book on the question being Tom finishes by saying thanks for a career trajectory, and much more. Can you elaborate on reinventing the wheel? suggest observational techniques, environments, which yield phenomena influenced by evolution sources for hypothesis, falsification, etc? I mean, this is Thank you for the question. This, these things are exactly what how we taught and why we both ended up becoming so fond of education and had education so central to what we did for so many years, despite the fact that neither of us imagined that that would be what we did. But everything you say here reinventing the wheel, observational techniques, environments, which heal phenomena influenced by evolution sources for hypothesis falsification. We came at it from so many different angles. You know, we did physical computing and a program on the evolution of humans, we, you know, we just did a tremendous number of things. And I want to come back to this and probably making at least a full episode, but probably more.
+
+Bret 48:03
+Yeah, I would say more important than sources, realms, all of that is just a habit of mind. And the habit of mind. In our teaching life, we we labeled it don't look it up. And the point was, we have this instinct we have such we have access to such an amazing repository of information in Wikipedia and elsewhere, where all sorts of things that you want to know about, you can just look them up and we get so used to the little burst of dopamine that we get for suddenly being knowledgeable about something that a minute ago, we wanted to know the answer to that we don't realize that the great reward comes from doing the work before you look it up. And then you look it up, right? So we used to run a field trip into Eastern Washington into a place called the scab lands that has an amazing origin story, which geologists got wrong for most of the 20th century. And it's very easy to look it up. But we told our students, we're going to take you there, don't look it up. And then we're going to show you the evidence. And we're going to see if you can piece together what happened here. And man, is it a great exercise.
+
+Heather 49:14
+It's amazing. And we actually we we gave a talk about this at Colorado College a number of years back and wrote a short essay, which is available, actually. So we'll link it maybe here. It's I think it's on my academia page. Yeah, don't look it up.
+
+Bret 49:28
+Don't look it up. I would also if I can just throw one more thing in here. When we were in Ecuador. We had an assignment for students there's a pattern of leaf damage that happens if you walk through a tropical forest you'll see these lines of holes in leaves,
+
+Heather 49:42
+lines, not not irregular, not just saw
+
+Bret 49:45
+in line of holes and the holes clearly have some relationship to each other. And so we set students about the question of what what explains that and they walked around for weeks and they're driving
+
+Heather 49:56
+different different ecosystems, lowland rainforest jungles, Clap for us lots of places. That's
+
+Bret 50:01
+a great, it's a great exercise, I'm going to tell you Yeah, and that one's not so easy to look up. I don't I don't know that it's described anywhere. But anyway, do your own work to stuff even if somebody knows, the fact that you have it there available to teach yourself how to think about stuff is, it's worth its weight in gold.
+
+Heather 50:19
+Help professors, if we were to steal man, the people of Chad's, then as the Capitol Hill autonomous zone in Seattle? What would the argument be? What would be necessary for lasting beneficial movement for the republic? Good question.
+
+Bret 50:32
+Well, you have to understand that steel Manning actually has an assumption built into it, which is that the people that you are steel Manning are actually of good faith. And while I do think that there are some people involved in chairs, who are probably earnestly of the belief that anarchie will result in something glorious, many of the people involved are not, and so you can't really steal man Chazz, you could steal man an individual's perspective on it. And I would say it's, you know, it's pretty straightforward. The idea that centralized authority is bad, and that thereby tearing it down will allow the organic emergence of something better. On the other hand, guess what, the United States is the organic emergence of something better, it is centralized, to an extent necessary, but it is also based on the consent of the governed. So the question is, what are you going to replace with what now? Right? I mean, we have a system is deeply flawed, but it's not unrecoverable. And nobody seems to have understood that if you tear it down. You're going to get Warlordism replacing it you're not going to get some improved version of civilization. Or if you did, it would be unnecessary to go through the, you know, the bloodshed in in between. So, what are you up to? So anyway, it's hard to steal, man, the whole thing, but individuals may be of a utopian perspective in which case they need to be able to look at the world around them with clear eyes.
+
+Heather 52:08
+Do you differentiate between organic struggle sessions as in the us right now and State Institute as struggle sessions as with Maoism or both leading to the same outcome? These these do look like struggle sessions. These do look so Maoist. Yeah, this this moment looks evermore you know, it's not it's not students. Exactly. So it's not red guard. Exactly. But it looks very much like what was going on in China in the late 60s, late 70s.
+
+Bret 52:35
+Yeah, I mean, there's a reason to distinguish but I think the point is, okay, well, that's interesting. There's a twist
+
+Heather 52:41
+on official it doesn't always look the same,
+
+Bret 52:43
+right? Not sure. I love it. Yeah.
+
+Heather 52:46
+Echo asks, performative solution proposal to current dead end, giant fake extraterrestrial invasion with real things to shoot at in the sky, it will create sense of common interest and growth give tokens when alien ships down better than above ground nuclear testing. Yes, yes. Better? Yes, for sure. Better than above ground nuclear testing. And yeah, having an actual common enemy would unite us until the common enemy was gone again. All right. We're back. You know, just just like the pandemic shutdown a bunch of this critical theory nonsense for a little while. It was down at a low simmer, until people were fed up. And it wasn't clear that the lockdowns were doing what they needed to do, etc, etc.
+
+Bret 53:28
+So, the problem is it's so hard to fake an alien invasion that at some level, it's just simpler to get real aliens.
+
+Heather 53:36
+Sure. I mean, do it cataloger.
+
+Bret 53:39
+I mean, if they're monitoring us, surely we can just you know, send up a flare. Yeah.
+
+Heather 53:45
+Brett, I saw your interview on the origins of game beam, a movement that is now growing. Are you planning on staying involved in it or in similar projects?
+
+Bret 53:53
+Yeah, there's stuff bubbling, that's looking positive. So anyway, we'll see where it goes. But the renewed interest in game be it's not a moment too soon. And as a matter of fact, I argued to them that we were many moments too late. But until we know that it's not possible, we might as well keep going in that direction.
+
+Heather 54:10
+You are that to them this week. Yeah. Yeah. Not years ago, when the first meetings were happening.
+
+Bret 54:16
+No, although I thought I may have said, Yeah, but you know, we're 30 years too late at the project, but it's still possible. But you know, things are moving fast, so it's getting too late. It is getting more too late at a very rapid pace. calculus.
+
+Heather 54:33
+Building what you said about young adult books these days, I mentioned that in our last and 22 I believe, let's petition to JK Rowling to write some thank you for the podcast love from Poland. Yeah, she's great. And you know, she's got our hands full at the moment with Yahoo's you're coming for her. But yeah, she'd be she'd definitely be one of the ones who I'd look at I've got I've heard from a few people. Also, recommending books that aren't quite haven't quite been translated in English. We're about to be suggesting that some of the non English ya, literature may be at least behind English in terms of its indoctrination with folk stuff.
+
+Bret 55:11
+So I would say about rallying that, I think for us becoming anti fragile, I think yesterday's paid the price, but she didn't start out there. Right there was a long period of time where I really thought she was actually a threat to the value in the Harry Potter series, because she kept saying all this crazy stuff. And so anyway, I think there's a model in there a, the amount of money that one has to have in order to feel safe enough to just finally speak the truth is more than it should be rallying, you know, is quite wealthy and powerful, and she can afford to make enemies. And anyway, she's leading the way and the, the, the game plan ought to be that those of us who, for whatever reason, are in a position to face the mob and stare them down. Those people create safety for the people who are slightly less better positioned from them. And if that can be made to cascade, there is hope.
+
+Heather 56:12
+Yes. We need more transparency in general algorithms, and social media, governments, etc. I also think Brett looks like such a huggable Papa Bear. So if we ever made you do Love bears? It's true. Would you ever consider creating an evolutionary biology lecture series? Maybe? Yep. What do you think about moving towards a single payer healthcare system, we spend the most per capita on health care, you have 80 million who are under or uninsured? Yeah, at first pass, again, without being at all? Well, enough expert in this, it looks like a far better system, the more we've got.
+
+Bret 56:56
+Yeah, I mean, I would like to improve on what the rest of the world has discovered. But I do feel like we're paying an unnecessary price in order not to step on the financial toes of the extractive forces that have have their, I don't know, their foot on our throat, whatever it wouldn't
+
+Heather 57:14
+be. Exactly. And with regard to the I don't know, I didn't know this number. I don't know if it's accurate. But the person who asked the question says there's 80 million people who are under or uninsured. And you know, one of the things that has become completely apparent to us in the wake of evergreen is if you're salaried, and your salary for big enough company that you have good health insurance, you don't fully know what all the situation is out there. And so at the moment, for instance, we're not under insured, but we are paying an insane amount of money to be not under insured. So you get you get ignorance of this from being salaried. And if you've been salaried throughout the decay of the American healthcare system, you may not have any idea how bad it is.
+
+Bret 57:58
+Yeah, it's a massive failure of empathy for the people who are most likely to have the power to fix the system are least likely to understand how dangerous the circumstances become to average people.
+
+Heather 58:08
+Yeah. Have you looked at I've no idea how to pronounce this cirques, S e. s, e, ar x, or other personal search engines? I've never heard of it. So no, but the idea sounds intriguing. From what I could tell from the question. I mean, I think I think what he's referring to is something like that.
+
+Bret 58:31
+Yeah. Yeah. Like something beyond that.
+
+Heather 58:34
+I do too. So is that I don't know if you guys can hear Zack, but Zack just said, I think you may be talking about DuckDuckGo. I have DuckDuckGo set as my as my default. But I don't I think this is a little different. Maybe, maybe? Aren't we just seeing the nonsensical culture disputes that accompany demographic change and transfer of power?
+
+Bret 58:55
+Well, you're looking at a power grab. And the problem is power is very badly distributed. So the desire to see something else, gain power is understandable. In fact, I think this is part of what put Trump in office was just that we were sick and tired of the same corrupt forces ruling us, you know, election after election. So anyway, this is another corrupt force. But this corrupt force has co opted the energy that might direct us to an improvement that is to say, the amount of energy being dedicated to a mythological portrayal of what is wrong, and totally nonsensical solutions that will only put us in greater danger. That energy could also be directed at something that had value and what a shame that it isn't.
+
+Heather 59:42
+Good. The next sort of seems like word salad to me, space explore it mistakes Marvel's absolute universal.
+
+Bret 59:50
+I don't know what that means. I agree with it.
+
+Heather 59:53
+Well, widely available psychedelic assisted psychotherapy help humanity out of our current situations. Well, that presumes that psychedelic assisted psychotherapy will become widely available, but could widely available psychedelic assisted psychotherapy help humanity out of our current situation. I think it's good. Yeah. But it's not the only thing we need. And it's not for everyone, but I think it could.
+
+Bret 1:00:17
+Here's the problem. The the truth isn't in the molecules. Sure, right? And so could could this kind of psychotherapy help people to see more clearly, of course, but it has to come with the material that would allow an upgrade to your software. So somewhere, you have to get the insight that then gets incorporated into your mind and actually improves what you see. So in some sense, I don't trust the mechanism that would, you know, in a sea of noisy data, I'm not sure that an amplifier is going to be helpful, right? I'm not sure it's something that breaks down boundaries and allows you to rewire around nonsense is going to be helpful. So I'm concerned that those molecules may be useful in a process, but that that process has other prerequisites in order to be helpful, and the other prerequisites look pretty rare to me.
+
+Heather 1:01:16
+Latinx in quotes, opinions, you may have noticed that the Boston mayor's executive order used the term I think it used the term Latin x and then when I was speaking about Latino people afterwards, I did not Latino being until yesterday, both the male and the gender neutral form of, of the of the more polysyllabic group, Latinos and Latinas. I think it's ridiculous. And from what i've, from what I understand from some attempts to look at this carefully, and from my own anecdotal experiences talking with actual Latinos, most Latinos due to this is this is not this is not organically coming from a Latino community. Yeah. And
+
+Bret 1:02:05
+to the extent that it is in the Latino community, it's not coming from the Latino community abroad. Now it is beginning to work its way there. But what I would say is, first of all, there's a fundamental misunderstanding about what gendered language is, right? gendered language is part of an error correction program. So that one knows what refers to what de gendering it creates an increase in the likelihood of error. And so I would say, you could argue that the terminology of male plugs and female plugs that we use to describe electronic components, that that is oppressive. It is not oppressive. It is a matter of communicative anatomy, it is descriptive of something and it allows the instant communication of something that would otherwise leave us fumbling for words about which thing you were looking for.
+
+Heather 1:02:56
+So that's all true, but you know, to steal man Latinx I just I don't think it was a good faith move to begin with. And I've I've not seen anyone whose intentions I end up trusting wielding it widely, but to steal man the idea? Why is it that the that across all those languages that have gendered you know, such such gendered terms? Do Is it? Is it inherently that the male form is also the gender neutral form? Yeah, it would, you know, it would appear to disappear women more than it disappeared as men. And you know, this, I, I hear this and, you know, for, for exactly, for very closely related reasons. I always was and continued to be a fan of bringing ms ms period into the language because until then, whereas you had Mr. Which doesn't specify anything about your marital status. You only had Miss and Mrs. And why is it that in order to address me, you need to know whether I'm married because for almost almost any interaction, it's not relevant. So, you know, Latino, as the gender neutral term, which also would refer to a man does have a history of, I don't want to use the word patriarchy because I don't really like the word but does have that history built into it. That said, I like the term Latino, it works. It is, you know, imposing linguistic change. top down can work as it did with Ms. But in this case, it feels like it's coercive and wrongheaded.
+
+Bret 1:04:30
+Alright, so I hear what you're saying. And I am a big fan of MS also. But there's a very good reason that you want to make that change, which is that the value of women was understood to be reproductive women's role changed positively, in the sense that they were integrated into the economy at almost every level. And that therefore a throwback to a time when women's value was in conjunction with a man was hazardous was harmed. led to the impression in every interaction where those things were invoked. That that was in fact what the person's primary role was in that interaction. So that needed to be upgraded. And in the case of the gender neutral issue, it seems to me you can wreck the language you can destroy the error correction capacity or you can do what we do in English. Right? We say guys, right? Now I also have been using the gender neutral term dude, for as long as I can remember,
+
+Heather 1:05:34
+right? You know this the slider for all of us will be somewhere different. You know, I personally, mankind doesn't sit right with me even though it sounds a lot better than humankind, but I use humankind okay, because for me, mankind really does feel like it's very explicitly not like Latino, but much more about referring to an era in which the people who were studying humans were actually coming not just through a male lens themselves, but actually applying that bias to how they understood the world. Whereas Latino doesn't have any such history as I understand it.
+
+Bret 1:06:04
+Right? And so a I agree with you i don't know whether I say mankind I certainly wouldn't object to saying mankind I tend to say humanity, but I don't, it's not conscious. Yeah. But what I would say is the ability to broaden the term guys, right so that it doesn't have a gendered component. Yeah. Or dude, is actually I mean, I must tell you, dude, I now have a problem with it again, even though for decades I did not Why? Because if I run into a trans woman, and I say Dude, what am I saying? Yeah, so even though
+
+Heather 1:06:43
+I so again, you know, if unless it's someone that you know who you know, well, even if this is if this is one of the very few interactions you will have with them and they are not they are not around you enough to see you call me dude. Right? And you know, other women, dude, then you may be intentionally or unintentionally misgendering them, right? When in fact, you're using as a gender neutral term, which has its origin in gender, right?
+
+Bret 1:07:05
+It is, it is very confusing an incoherent moment. But in general, what I would say is the good intentions of the people, you are talking to matter a great deal more than the little nuances of how we put the words together and disrupting our ability to communicate effectively in order to solve a problem that if it exists, is minor is a mistake, or the most important thing is that we are able to talk to each other and know what is being said. And to do so clearly. And frankly, if this is a problem that needs to be solved, it needs to be put at the end of the list. We have so many more dire problems, then the problem with the term Latino that it can afford to wait until civilization has been saved and the Republic is once again secure and all of these things yeah.
+
+Heather 1:07:55
+Okay, well, let me just quickly scroll through and see if there's anything else that jumps out at me is something we 100% want to get to hear the question about the Dark Knight Trilogy, which we just don't know enough about probably to answer. Someone still thinks we don't know what anarchism is. If you want to riff on that, well, I just check there's anything else here?
+
+Bret 1:08:16
+Oh, I would say it's I've spent so much time arguing with anarchists that if I don't get it, there's just something immeasurably wrong with me. But my basic sense is Look, when I mean chaos, I say chaos, when I mean anarchy, I say, anarchy, the fact that what I am saying and what I am calling anarchy, many of the people I'm describing would also call anarchy, tells me that the problem isn't with me, right? If you think that there's a problem with what I'm describing is anarchy, then you need to get the people who are also describing it as anarchy who are part of it to stop describing it that way.
+
+Heather 1:08:51
+Okay, there are a number of good things here. So I think we're just gonna end on this comment I was when you were talking about anonymity being very recent, I was trying to think about that there must be examples from history in which anonymity was possible. And so this person has said, anonymity is not recent Ancient Greece and Rome with the butcher, the pronunciation ledges to belly area, use secret ballot. pseudonyms are also a form of anonymity as in the Federalist Papers.
+
+Bret 1:09:19
+Now, wait a second. When I say recent, I speak as an evolutionary biologist. And guess what
+
+Heather 1:09:26
+were you really, I thought you were thinking to the 20th invention
+
+Bret 1:09:28
+of written language is recent, and does provide the opportunity for anonymity. So I'm well aware of these examples. But my point is, look, some part of us was built in an ancestral past that goes way earlier than this that didn't, there was no possibility of anonymity because the person was either there or not there. Right? They were either having their statement reported to you by somebody who is there and could be asked who said that to you or not. And so the idea that writing is recent doesn't jive well with what most people have. Learned because what most people have learned is so heavily biased into what we call history. But history itself is that which took place after a written record was possible, right? So pre history is much longer than history and has a lot to do with how we view the world. So anyway, forgive me for not being clear about that. But yeah, the Greeks pretty recent.
+
+Heather 1:10:22
+All right. I think that's it.
+
+Bret 1:10:23
+All right. Well, this has been interesting. I would ask, actually, please, would you tell us if there are clips in this or in the main livestream that you think we ought to separate out?
+
+Heather 1:10:35
+Have you Oh, can maybe you could email the Dark Horse moderator
+
+Bret 1:10:38
+is our course moderator. You could also attempt to put them in the trap, but probably better to email the Dark Horse moderator. All right, please. Like, subscribe, comment, shake your fist, share this thing around, whatever you need to do. timestamps would apparently be great if you suggest clips that would make it much easier for us to find them. Okay. Thanks, B. Well, everybody, and we'll see you soon.
+
+This transcript was generated by https://otter.ai

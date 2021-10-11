@@ -1,0 +1,1483 @@
+Bret 0:15
+Hey folks, welcome to the Dark Horse Podcast. I am Brett Weinstein, I should say in this case, I'm Dr. Brett Weinstein. And that will become relevant based on what our topic is. Let me say a little bit about who I am and then I will introduce our two guests. So I am a PhD in biology. My specialty is evolution, I have some background in immuno biology. And I'm going to be acting today in the role of Professor sometimes student, other times traffic cop, and translator, that's my plan in order to get this very complex story simple enough that people can understand it because it is of the utmost importance. All right. Oh, one other thing I should say is that there is also a final role for me, which is that when I was a graduate student, I did some work on telomere senescence and cancer and accidentally unearth a flaw in our drug safety system that, as far as I know, still exists despite my effort to raise the alarm about it. So anyway, this is not the first time I have encountered the drug safety issue. And it is a thorny, and wicked problem as some might say. To my right, we have Robert Malone, Robert Malone is an MD, PhD, no Master's, master's, and MD he is also and most significantly here, the inventor of mRNA vaccine technology from back as a graduate student, am I correct? Yeah. And I'm also a licensed physician in Maryland, a licensed physician in Maryland. And to my left is Steve Kirsch, who is a serial entrepreneur. And actually, you want to tell us about your, your role in COVID treatment research?
+
+Steve Kirsch 1:58
+Sure, I started the COVID-19 early treatment fund. And we fund scientists throughout the world on looking at repurposed drugs for outpatient clinical trials. And because the using repurposed drugs is the fastest, safest and in lowest cost way to end the pandemic.
+
+Bret 2:19
+All right, excellent. So I must say that this is a difficult topic for us to address, we all I believe are agreed that something very serious is afoot and the public is largely unaware that they have been placed into a kind of danger. And we also know that there's a great deal of stigma directed at those who would explore these dangers. I know that I personally feel a certain amount of Jeopardy over talking about these things, publicly. But I also feel a moral obligation to do so in light of the fact that I believe in my heart of hearts that a great many lives are at stake. There's just simply no question that come hell or high water This must be discussed. I would imagine you gentlemen feel similarly.
+
+Robert Malone 3:01
+Yeah, I I'm particularly concerned by all the censorship, because it's making so that we cannot have a rational discussion.
+
+Bret 3:09
+cannot have a rational discussion. I think it's a very, a very fair way to put it. I should also point out that our viewers will have noticed that we are sitting here unmasked, and I should point out that actually we are in an interesting sense, a model of something that I believe is not on the public radar. So if I'm correct, you Robert have had COVID
+
+Robert Malone 3:30
+of head COVID and I've been fully vaccinated with Madonna. All right,
+
+Bret 3:35
+Steve, you have been vaccinated, fully vaccinated with materna All right, I am unvaccinated but I am on prophylactic ivermectin. And the data actually, shocking is this will be to some people. The data suggests that prophylactic ivermectin is something like 100% effective at preventing people from contracting COVID when taken properly. So aside from the risk that possibly the ivermectin I got wasn't real, and I have every reason to think it was it certainly appears to be the the genuine article, I believe that what we have here is a demonstration of a kind of composite herd immunity, where through three different routes COVID vaccine, and ivermectin, we are protected and you are fair, doubly protected. So I would just say that for anybody who's enthusiastic about the vaccines, if you're unconvinced by what we have to say about the hazard of them, one thing to consider is that the way to get society to herd immunity and therefore drive COVID-19 to extinction, which ought to be our goal, the way to do it is to get people into this category in one way or the other, whether that's through prophylaxis, whether it's through a vaccine or whether it's because they've had COVID already.
+
+Steve Kirsch 4:45
+Don't one could argue that if everybody just took ivermectin for a month, worldwide, then the pandemic
+
+Bret 4:54
+some will find the title that I have given this episode perplexing. I would ask them to Stick with the episode through the end and I will explain why I titled it as I did I really believe that actually, we have the capacity at any moment we decided to utilize it to end the pandemic. And that it is it is well within reach, should we choose to see what is in front of us. But we will get there later on,
+
+Steve Kirsch 5:19
+you know, kind of like, it's kind of like Dorothy and the Wizard of Oz that she always had the ability to go back to Kansas, we've always had the ability to end this pandemic, it's just a question of whether we want to use it or not. Well, actually,
+
+Bret 5:31
+I'm gonna push back slightly on you, Steve, I believe I don't I was actually going to inquire from my friends who are closest to this, but I didn't get to it before the podcast. But I believe we probably have had the ability to end the pandemic at any point in the last six months that we chose to I'm not sure it goes all the way back because I'm not sure we would have known what to do.
+
+Steve Kirsch 5:50
+Yes, we've had the drugs available. And then the know how we developed late last year,
+
+Robert Malone 5:58
+right? Yeah. Okay. So if you'll let me my pushback as a virologist, molecular biologist, and physician and outbreak specialist. I think that, so herd immunity is a noble cause and objective. But if you look worldwide, I think that we kind of have to plan that we're unlikely to achieve it. So I applaud the logic. I think the probability is really high. There's no way pragmatically we're going to get there. And we're going to be stuck with this virus in various forms for the rest of our lives.
+
+Bret 6:35
+All right, well, here's the thing. We're not going to get bogged down here. So it's not the central reason for our conversation. I do want to have that conversation with you at some point because I believe what I'm doing is I'm probably butchering the term herd immunity by arguing that somebody who's on prophylactic ivermectin is within the herd. But in any case, I bring to Eve that it is possible based on at least the Argentina study, which suggests essentially 100% effectiveness of ivermectin.
+
+Steve Kirsch 7:03
+Yeah, I totally good.
+
+Robert Malone 7:04
+It's it's working quick. We're quibbling. And
+
+Steve Kirsch 7:09
+what you're saying is that from a practical point of view, but the point is, my point is that if if we were able to just like we're trying to kind of get everybody to take the vaccine, if we had put that into getting everybody to take ivermectin and fluvoxamine for for a month, if we and if we could accomplish that, then COVID would be wiped out.
+
+Bret 7:29
+We could do it. And actually, any municipality that could regulate its borders, could clear the disease if it could accomplish that goal, I believe.
+
+Steve Kirsch 7:37
+And so it's just a question of, you know, practically speaking, we agree with you, Robert, it's, it's practically speaking, it's hard to pull off. I'm saying that, theoretically, if we could get agreement, because we have Well,
+
+Bret 7:49
+how about this, let's table this, I will, I will give you my plan at the end of this. And my claim is that actually, there is a way to do this, we just have to think a bit outside the box. Okay. But let me just say that, Steve, I became aware of you, after reading your article on trial site news, in which this is actually kind of a living article in which you've been updating it as information has come to light. And I must say this article, I'm always troubled by the loss of the useful term red pill by people who have borrowed it for various purposes that I don't think are legitimate. But this, this article functions as a red pill, you read this, and either something's wrong with you, Steve, and you've completely miss portrayed the data, and there's no problem and something's up with you. Or if the data is anything like what you present, then the interpretation is quite clear, and absolutely startling. So I will just say, I believe that what you've, what you've pointed to is accurate and alarming is an understatement. I would invite people to look at it for themselves, I would invite people to show it to others. And most importantly, I would invite them to pay very close attention to what is said in response. You will get a lot of pushback when you show this article to people. But that pushback is not substantive. In my experience. It's emotional crickets. Well, you either get crickets or you get some kind of squid ink phenomenon where a bunch of ink shows up and suddenly the person you're talking to is nowhere. I
+
+Robert Malone 9:24
+think that I think the term for a lot of the blowback is gaslighting.
+
+Steve Kirsch 9:28
+Well, that hasn't happened yet. I think. I think it's, I mean, the feedback that I've gotten is they'll they'll look at it for about 30 seconds, and say, I don't believe this. And it's the cognitive dissonance. You know, it's the people who took the blue pill, right, and are living in the matrix, and everything is good. And this is this, this can't possibly be true, and they immediately write it off, but they can't cite anything that is wrong with it. They can't argue any of the points and they'll delve into ad hominem attacks and say, Oh, well, this was written by an engineer, he doesn't know anything, right? So and, And to me, that's a victory, because it says that everything I've written they can't argue with. So the only thing left to attack is to try to attack the person when you can't attack the arguments. And that's what people do.
+
+Bret 10:19
+And I would just say that, you know, looking at a complex puzzle, like this one needs some kind of tools. I mean, undoubtedly, in what you've written, there are things that aren't going to turn out to be right, undoubtedly, have just written so broadly that, you know, with this being such a large, live issue, undoubtedly, there are errors, but the point is, even if you read this thing, and you say, what if what he's saying is 50%, right, right, it's still so alarming that effectively, the response would have to be the same, something has gone wrong, we are in danger. And we are not, we are not behaving rationally, and you can detect where we are not behaving rationally, in numerous places that I hope we will get to. But do you want to outline the basics, like the bullet point, you know, the top 10 bullet points that people ought to be aware of, that you're calling attention to in your article?
+
+Steve Kirsch 11:10
+Um, it's, it's so hard because it's, it's, it's just this unbelievable story. And and let me just tell you how it works. Okay, sure. So it got started. When my carpet cleaner came in, and he was wearing a mask, I said, Hey, we're all vaccine, you can take it off. And he said, You know, I just got on, I got the Pfizer vaccine, and I had a heart attack two minutes later. And so he spent the night in the hospital. And he says, you know, he's kind of recovering from it. And I said, How are you? How are you doing now, and he said, you know, still didn't, you know, feeling bad about it. And he mentioned also that his wife, also her hand, she, you know, hold the glass like this, and her hand would be shaking like this, and that the water would be coming out, and she was perfect before. So I have two people, we've have very few people in my house, because of COVID. So the fish guy, the carpet cleaner, and the house cleaner. Right? And so to have not just one person, but him and his wife, I mean, that's like that is like lightning striking twice, in the same place. So and so if it was really a safe vaccine, than what I just saw was impossible. So that's kind of what triggered me off on this. And then I had been on this Canadian of physicians call with Dr. Byron brittle. And he showed this chart and he said, normally when you vaccinate someone, the vaccine goes in the shoulder, and it stays in the shoulder in the shoulder area. And what happens is the antibodies are generated and they attack the this antigen in the shoulder and it wipes it out. And and we're good. But what what what Byron brittle did is he did a FOIA request to the Japanese government to look at the biodistribution data. And what he discovered is that it doesn't stay in the shoulder where we all thought it should stay. It goes throughout your entire body, it goes to your brain to your heart.
+
+Bret 13:12
+So that's two problems. One problem is it isn't where it's supposed to be ideal where
+
+Steve Kirsch 13:18
+we thought it was but where we thought it was for all the all the and the other previous vaccine. The other problem
+
+Bret 13:24
+and this is your area of expertise is that what the what these vaccines do is they encode spike protein alone so that the immune system will learn to recognize by protein and will catch it quickly when one is confronted with COVID but the spike protein itself we now know is very dangerous and cytotoxic Is that a fair description
+
+Robert Malone 13:46
+more than fair and I alerted the FDA about this risk months and months and months ago. So discussion
+
+Steve Kirsch 13:53
+and to be fair, the FDA did not think that the s one subunit and the spike protein was toxic. So they knew the FDA knew about the biodistribution and one of the scary things is that the biodistribution light peaks in your ovaries
+
+Robert Malone 14:12
+and so so just to nail the point home um they did no they do I did send them manuscripts so in in their determination was it's almost like protein that they didn't think that that was sufficient documentation of the risk that spike was biologically act
+
+Steve Kirsch 14:32
+right. Okay, did not believe the spike was biologically active. So that was the big mistake. We
+
+Bret 14:36
+now know the spike protein is very dangerous very is biology. We also know so if it was very dangerous, but it did what the brochure on these vaccines says it should do, which is lodged in the membrane of the cells that are doing the transcribing. It would be a lot less destructive. Right?
+
+Robert Malone 14:54
+Um, I think that's fair. And you're right. It's not just the literate that The the documentation about the vaccine. It's the prior literature that was put out by the people that developed it developed these clones. So they were they were aware that there was a risk of spike being biologically active in having adverse events, if it did not stay stuck to the cells that were transfected that got the RNA and made it, okay. And, and they used a genetic engineering method of putting a transmembrane domain on it to ensure that it stayed anchored and stayed put. And there, they did limited non clinical studies to say, looks like it stays stuck, right? We engineered it to stay stuck. They did and and they publish that, here's the thing, special engineer, okay, is that, um, that's generally not good enough in non clinical data package. So before we get a product released to use in humans, in the normal situation where we're not in a rush, we have some really rigorous tests that have to be done in animals. And I'm revealing that spike gets cleaved off of Express cells and becomes free is something that absolutely should have been known and understood well before this ever gotten put into humans. So I'll just leave it at that. All right. Well, that's
+
+Steve Kirsch 16:27
+so what's that's the smoking gun.
+
+Bret 16:29
+Let me just make one thing clear. You said it very clearly. But lots of people who aren't familiar with this aren't going to get it. Okay. So the RNA gets into the cell, it is translated by the ribosome into a protein. In this case, it's the spike protein, which is the best target on the Coronavirus.
+
+Robert Malone 16:45
+We could debate that, but go ahead, but it's at least a very good one a
+
+Steve Kirsch 16:48
+good target. And if nobody argues with
+
+Bret 16:49
+the antibodies, grab onto it, the most likely thing to happen is that they will block it from doing what it does that facilitates the entry into the cell. So if everything works, the way the brochure says if it's a good term after about
+
+Steve Kirsch 17:01
+five days, though.
+
+Robert Malone 17:04
+So the whole reason to use an ad, no viral vector and mRNA is not just to generate antibodies. And a lot of the data and a lot of us that are deep in this data, think that the way that they're really providing that protection is by cellular cytotoxicity. So you're getting ctls against it. And that's the reason to use this gene therapy based technology is not just to generate neutralizing antibodies, but to generate cytotoxic T lymphocytes.
+
+Bret 17:33
+Okay, you and I are about to go down the rabbit hole, because this is fascinating, which I want to avoid doing. But you just said the reason to use the adenovirus vector, which is with the DNA vaccine is not the RNA vaccines, which is what we were talking about.
+
+Robert Malone 17:47
+I would I would call it it's not a DNA vaccine. It's an ad vector vaccine. Right? It's a not it is the use of the A recombinant virus, which happens to be a DNA virus. Yeah, but it's the same basic idea. It's gene therapy technology applied to vaccine, okay,
+
+Bret 18:01
+it's the same technology and everything downstream of the translation of the spike protein is the same I protein, yeah,
+
+Steve Kirsch 18:07
+it is the same. And, and by the way, we have no problems at all with mRNA vaccines, right? It's just this particular vaccine because of the spike protein. And because it breaks, it cleaves off the cell. And it goes throughout your body and your brain, your heart. And anywhere that you can have these symptoms that are so varied, whether it's a 16 year old, who can't talk or see 48 hours after injection, or someone who's you know, handshakes or someone who's, you know, my carpet cleaner, Tim, he's like disabled now. He's lost $30,000 in terms of his costs, and he's going in for an epidural, because he's in such pain. And so these and these side effects the victims of this of this vaccine, they're not being able to tell their story at the press, because, you know, Tim says, I tried to tell my story, and the press ignores him. And we have these these groups that aren't able to get attention,
+
+Bret 19:12
+aren't able to get attention. A large group of people who believe that they have suffered negative consequences was removed from Facebook. So there's very clearly an effort to
+
+Steve Kirsch 19:20
+200,000 users just wiped off the planet, right? If there are no if this is a perfectly
+
+Robert Malone 19:26
+so like, so the censoring has been going on for well over a year. It's well documented, it's unequivocal. And then my my argument is that by implementing censoring what we're doing is making it so that signals can't be detected. Yeah, people's voices can't be heard. And I I'm I'm of the opinion that we have to have free and open discussion, and we have to have full disclosure of risks and when you censor that you cannot have
+
+Steve Kirsch 19:59
+it Change changes everybody's mindset into believing it's safe and effective. And when you have that you don't report these adverse events as being associated. So that is because the right steps, they want to be the fly in the ointment. They don't you don't think it's possible, right? So when a doctor sees a miscarriage, and says, I've never seen a baby like this, in my entire career, where it's so bloody in the brain is split in half, and so forth. She's never seen anything like it. And she did and, and the woman was vaccinated a month ago, and she's 25 weeks pregnant. When you have that sort of thing, the doctor says, well, it can't be the vaccine, because the vaccine is safe. And so they say, well, it must be a genetic defect. And they reported as a genetic defect, and they don't even report it into the various system. So we never see any of these safety signals, because everybody is trained to think that it's safe, it couldn't have been back.
+
+Robert Malone 20:53
+So that's that's this group think problem. So I think we it is a real problem.
+
+Bret 20:58
+Here's what they're gonna say. So and I want to work out how this functions, right? I can take your story, hey, I, Steve talked to a couple people who came through my house in various capacities and heard an alarmingly large number of stories that were very frightening. Now, everybody at this table will agree, that could be anecdotal. It's totally um, it's not even anecdotal. It could be the result of sampling error. It might. Absolutely. And so the point is absolutely. How do you detect if something like that isn't sampling error? You find out what other people are? Yes, you look, you go look for confirmation. And at the same time that you were having your experience, I was having a slightly different experience, I was talking to every single person that I interact with, which is definitely not a random sample of people. On the other hand, we're talking about a woman who cuts my hair, my doctor, right? I was talking to everybody I encountered and I was asking them my dentist, I asked them, What was your experience? Did you get vaccinated? Yes. What was your experience, and the number of people who had a frightening story was alarmingly large. In fact, I believe it is the case that the only people who didn't have some anomalous reaction, were my parents and Heather's mom, which may be because older people have these things less that may be sampling error, I don't know. But the point is, there were stories that didn't sound like any vaccine I've ever heard of people who had weeks of fire, like pain in their arm headaches, that would not go away fevers.
+
+Robert Malone 22:26
+So I, so I, I'm a regulatory professional. And, and I do talk to the FDA. And I have good friends there. And in senior positions. They were aware, back when we were doing randomized clinical trials, that these adverse events were occurring, many of them were oddly delayed. And atypical for a vaccine trial on this is totally new technology. And that kind of gets at the core is, I think, one of our problems here is the assumption that this is like every other vaccine I've ever seen. And it's not it's very different technology.
+
+Steve Kirsch 23:14
+And so these these weird symptoms, it's almost like
+
+Bret 23:17
+the syringe we have mistaken the syringe as delivery vehicle for some sort of a proxy for how to feel about these vaccines. Now, Heather and I, on this program, when we heard how the vaccines worked, and that they had been accelerated through this process, our sense was, you're gonna deliver a brand new technology with respect to deploying it in humans, and it's going to interact with the immune system, and you're going to speed it through this process, we did not know that it had skipped the animal trials that might have alerted us to something really dangerous.
+
+Steve Kirsch 23:50
+You know, they didn't care. They didn't even I did solve. And I did
+
+Robert Malone 23:53
+know that. So I received the this data package that Steve's referred to, that the Canadians acquired by FOIA within about 24 hours when it went live. And I reviewed it on behalf of trial site news on request, and I was, I was really alarmed, frankly, by what I saw was very unusual. And so I had an even more senior and experienced Regulatory Affairs professional review it and he picked out more things like the absence of the repro talks, spell that out reproductive toxicology package that normally would be in the genome toxicity. So genotoxicity is toxicity to the genes of the test system, okay, and those, those being the creature that we've injected in, and in this case, it's the Ames test largely. So that's kind of level one for genotoxicity analysis. Um, but and these are imperfect data They're not you know, though, if there's one truism in, in research and non clinical research, it's, you know, we all say mice lie, monkeys mislead and humans are the only things that really prove whether or not something is safe and effective is for humans. And but it's We have to do something before we authorize, approve for a material to be initially tested again. So what the alarming thing was, for me, was that what had been done, at least in that package, and I'm told I spoke to Peter marks the director sieber about this and about my concerns. And he told me that the Pfizer has submitted a new data package and it just last couple of weeks, and they're currently evaluating it. So I think we have to take those data on with a little bit of a grain of salt because they may have been updated and we
+
+Steve Kirsch 25:52
+don't know what's in there. So is this in non human primates? Because there's a big no it was it was done, uh, you know, it was done in rodents. Yeah, but rodents don't have the same affinities for, for Ace, too.
+
+Robert Malone 26:03
+So we're down in the weeds. But I just I just wanted to say, I just wanted to say, right, agreed. And through all of this, I think we can all agree on Tony Fauci can agree that corners were cut in the interests of the emergency. And, um, when you do that, these are these these are processes to ensure safety that have evolved over decades, they took
+
+Steve Kirsch 26:35
+a risk, they took a risk, and they lost. So
+
+Bret 26:38
+we are going to come back to this. I know you have a background in bioethics, I would point out that all right corners were cut, let us all agree that we were in an emergency situation, I want to say, you know, the FCA I ran across an animation, I believe it was the FDA. And this specific purpose of this animation is to say the process was accelerated, but no corners were cut. In fact, the metaphor they use is basically a road. Right? And which they have straightened out the curves. And basically, you know, it was a reduction in paperwork. So it's a cartoon, it is very literally a car. Yeah, so we learned we learned from the disclosures that that that was a misrepresentation. But it's not just a misrepresentation. Because the point is, what is being alighted here is informed consent. Basically, everybody who's getting these vaccines is part of an experiment that we are running, that is actually wildly over generous of me to say, because for it to be an experiment, we would have to systematically collect data on what happened to them to every patient. And in fact, our systematic system isn't so systematic, voluntary reporting, voluntary reporting with stigma attached
+
+Steve Kirsch 27:47
+to if you report something, they're gonna say, No, no, no, they'll convince you that it's not. So I just wanted to say that I didn't just rely on like my carpet cleaner story, right? Oh, yeah, that was just the Oh, right. So my antenna went up. And then when every place I went, every single place, I talked to doctors, I said, Oh, you've got 900 patients, how many of them have you know, what's the adverse event rate, the serious adverse event rate, you know, and so doctors have a view. And I talked to paramedics, they've got a view, right? Every pipe, did a survey on next door and found, you know, 3% had persistent troubling systems that haven't gone away, right, you know, so every single thing that I looked to verify it was washing,
+
+Robert Malone 28:35
+so so you're you're coming at it from the street level, and that that has validity.
+
+Steve Kirsch 28:41
+And the FDA doesn't look at it that way. They they look at it. Let me just even just hang on, hang on one sec, the the the vaers system, which is the very vollen vaccine adverse event reporting system. Yeah. Okay. Nobody knows about that. They're all top poll to report into V safe, they get these text messages that only last for a few weeks or so. But nobody knows about this very system. And people aren't reporting. In fact, when doctors report in, they are told, you know, don't don't report this. This wasn't I mean, we've had reports reversed from doctors well, without their consent without the doctor's consent.
+
+Bret 29:23
+First of all, I don't want us to work too hard. Okay. There is something that goes on when we get into this space where the standards that are set for what constitutes evidence are absurd in the context of science and the way science actually functions. What you did is perfectly defensible. Had you concluded simply from three people in your sphere that there was a problem that wouldn't have been? Absolutely not that was an observation it says there's a problem with these vaccines and if I look farther, that signal is not going to disappear. It's going to continue out as far as
+
+Steve Kirsch 29:55
+yes and and when I looked at the various database, and I see like it's flashing For all the, you know, 30 years that Verizon has been around, and then it just spikes up, and it's like a hockey stick. So maybe we can then how do you explain that?
+
+Bret 30:09
+Maybe we should bring up that graphic?
+
+Robert Malone 30:11
+I'm sure. So while you're doing Yeah.
+
+Steve Kirsch 30:14
+And the assumption, by the way has to be for something like this is you have to assume that it's the vaccine because that's the conservative thing. Nope. You're going the wrong way? Yep. That was the biodistribution. And then here's, here's this graph. And and when I saw this graph, I said, Look that that needs to be explained. And the default is when you do a clinical trial, is you have to ascribe it to the suspect should be the vaccine, because this is what's being tested. And then you need to show that Oh, no, this was due to some other thing. And nobody's explained that that's the thing. And nobody's even asking that question. How many people have died? You're
+
+Bret 30:59
+playing by the scientific rules, right? Your point is I observed something? What's the hypothesis thing? And then the prediction is manifest. Right, right. And then the question is, all right, maybe there's some other hype, exactly. The same thing. But if nobody's coming up with it, right, exactly. Right. So they're there, they're using the rules of the game against science. Now, here is the graph that you're referring to. Right? These are the death reports in the various system as of May 28 2021. And what you see is there's a certain amount of death following vaccines, some of those deaths will be just random chance
+
+Steve Kirsch 31:32
+correct with random chance,
+
+Bret 31:35
+random chance, you have a certain number of people who have an anaplastic reaction to something of x, or they just thought grown in, right or they just stopped. But the point is, we get vaccines, they have values, there's a certain cost a certain number of people die, we're adults, we get it. But then the question is what the hell happens with the COVID? vaccines there? Why is how do you explain it so high? And so what you see there that number, I know is not up to date? The number Oh, no, no, no, they're they're way backlog. And also, their current number is like 6000. Right?
+
+Steve Kirsch 32:04
+probably somewhere around there. But they've, they've they've actually take, nobody can explain why they've removed reports from the various system. Because what we found is that the reports that were put in by people, and they disappear, they disappear. And then again, so this is a conservative estimate, because what about those reports that they took out that we can't see,
+
+Bret 32:26
+it's conservative, and we can't calibrate how conservative it is? Oh, correct. That's,
+
+Robert Malone 32:31
+that's a key point. Okay, issue. So can I kind of check it that, but, um, and I wanted to make sure that I was prepared before we had this discussion today. So this morning, I called some friends at FDA again, and talk to them about the databases and the database analysis. And I want to just check in and make sure that I wasn't misunderstanding or misrepresenting. And they used words like, it's chaotic, it's disorganized, they are not analyzing the data efficiently. They're understaffed, they're overwhelmed. Furthermore, all of these, whether it's v safe, or this fers database, which by the way, physicians are alerted and have been told for many years to use fers, and many of them do. Theirs is self reported, we don't have a good numerator or a good denominator in clinical research. We don't do this, we get all the N words and what we we if we're doing a structured clinical trial, we ensure that every single serious adverse event is carefully reported carefully evaluated a physician has to make a judgment call as to whether it is not or is possibly, or is definitely associated with drug administration. And the bias has to be anybody that if you think about this for just a nanosecond, okay, if if our goal is to ensure safety, the bias has to be to assume that there is some Association and then take the time to track it down. And in therein lies the rub. So we have in the last point I wanted to make is that under so I took the time to go back and reread the emergency use authorization and the most recently updated EU a that's the acronym for COVID. And the guidance from the FDA. The FDA had the latitude to require that the vaccine sponsors the developers implement more rigorous data capture for safety and they elected not to okay So they had the they had the statutory authorization to do that. And they made this conscious decision not to let me understand what you're saying.
+
+Bret 35:07
+Are you talking about in order to get the UAE? Are you talking about following the release talking about
+
+Robert Malone 35:12
+post post authorization for UAE, FDA had the option to elect to require more or less rigor in how the data were captured normally under an EU A.
+
+Bret 35:28
+So again, you're talking about after the vaccines have been authorized to, to give to the public has data on what happens when it is administered to the public,
+
+Robert Malone 35:37
+that's what you're saying, under an easy way. Normally, the way the statute was written, it's predominantly set up so that you no longer require written informed consent. But the sponsors are this was the original intent. But the sponsors are still required to carefully capture safety and efficacy information under ua, you're still an experimental product, you've just raised objects Wait, you've just not a jury system waived some of the requirements. And the current version of the EEA. authorization provides the FDA with the latitude to choose how rigorously that has to be done in in this case, I'm not aware that they implemented any requirements it's or the sponsors kind
+
+Steve Kirsch 36:28
+of look after those days See No Evil, Hear No Evil, speak no evil. I
+
+Robert Malone 36:32
+mean, it's I so it's like, almost like they didn't I don't I don't want to see it. I don't want to imply intent, right? I just want to stay with the facts. Those are the facts. So what I would say is that
+
+Bret 36:43
+this is one of a number of anomalies, where Fair enough, if you accept the the narrative about why the UAE was granted, if you accept how we ended up here, then certain things would follow. And when they don't, there's a reason to ask the question about why why, right. And so in this case, it seems like if you're going to release this under any ua because it's an emergency and because we've got a real problem that basically requires us to take more risk totally valid take, then what you would want to know is well, actually how big is the risk, and the way you would find that out is as you gave the thing to be that's the whole
+
+Robert Malone 37:20
+whole logic of ua is you're basically substituting real time capture of key information for prospective capture a view of of key information, okay. But in order to do that, you got to get the information. And it's got to be rigorous, right.
+
+Bret 37:37
+Now another thing. So there's a list of anomalies, and it would be great to collect them. In fact, you may have collected them, but but I would say when you've got any ua and that's the reason that you've licensed this vaccine and you have no reason
+
+Robert Malone 37:50
+it's not licensed, you have authorized authorized wide distribution of an experimental product. Fair enough.
+
+Bret 37:56
+But at the experimentation on humans, at the point that you have decided to do that, what you have done is you have said it is worth taking more risk in this case, because of x just certainly would not give it to people who get no benefit. If there's more risk than the people who get no benefit really shouldn't be involved. In other words, concur. COVID
+
+Steve Kirsch 38:16
+should no place to take an issue. Take a
+
+Bret 38:19
+pitch shouldn't take it because they're actually fairly well protected. Yes.
+
+Robert Malone 38:22
+Okay. So this gets to my point that I've made in a couple other podcasts, um, risk benefit risk benefit ratio sounds very sciency. But it needs to be and it can be made sciency and the standard process which the ACI p, the Advisory Committee on Immunization Practices of the CDC has in place and uses with every other vaccine is that there is a formal calculation about quality adjusted life years, which is the basis for the risk benefit equation. And they make a determination based on standard cohort brackets. Okay, of which adolescence is one, pregnancy is another infants is another etc. Okay. l the the elderly, the immunocompromised are also special populations. So usually, the standard government practice is there's a formal evaluation of true risk benefit for each one of those cohorts. And it shifts and by the way, risk benefit shifts over time as the incidence of the attack rate of the pathogen changes,
+
+Bret 39:35
+right, less current cases No, there's no benefit. Exactly reason to take the risk. Right. So I would also point out, though, that in this case, you know, again, I respect not wanting to assume or infer intent, and I think that's why is because there are multiple ways you can get here but somehow, both the numerator and the denominator appeared to have been gamed, right because
+
+Robert Malone 39:57
+I would say they have been insufficiently done. documented so that what we have is almost worthless?
+
+Bret 40:03
+Well, let's put it this way, the benefit calculation requires you to look at the full set of alternatives in order to understand whether the right Oh, yes,
+
+Robert Malone 40:14
+I concur on that.
+
+Steve Kirsch 40:15
+Yeah. So let's talk about, you know, what the, what the alternative is. Right, right, because that's been unfairly. You know, they basically have this evidence, and then the NIH and Cliff lane, by the way, runs the NIH COVID treatment guidelines. And I have told Cliff in many times, that fluvoxamine when it was confirmed in a large phase three trial, which is the standard of evidence I said, everybody's waiting for this large really well done phase three trial, and I told him about an interim result. That was p value of point O five, meets the bar. Show proves that it really works. There is no doubt no change. No, it doesn't even respond. When ivermectin there was a report by Tess Lowry. An excellent report. It was done three months ago, she widely distributed to the wh by the way the who knows that fluvoxamine works to win sort of the Gates Foundation, but they're saying nothing to people. And so this information, and and if anyone wants to challenge me on this, right, you know, if Gates Foundation wants to debate me on this, Bring it on, if the who wants to debate me on this, Bring it on, and I will show that they knew, and they're not telling people Cliff lane knew, and he's not changing the guidelines, you know, this, this information is being suppressed. And it's unfair. But let's talk about the ivermectin report, because because test Lowry, um, you know, created this report. And these guys did nothing. They sat back and said, well test. It's not it's not peer reviewed. So nobody's gonna peer review. And so we don't have to do anything. So test said, you know, these guys aren't doing anything with it. So I'm going to submit it to a journal. And she got it peer reviewed, and it's probably will be published tomorrow. In which case, all these people that said, well, ivermectin doesn't work. And I and I believe in evidence based medicine, and I would talk to to the top officials in India, and then they would say, I believe in evidence based medicine. I said, here's all the evidence. But here's the systematic review and meta analysis that you need. That's the highest level of evidence, look at the evidence, and he says, and the responses Well, the WHO THE who and the NIH Don't say so. I'm sorry, I'm not interested.
+
+Bret 42:39
+And they the evidence is overwhelming. And there's no there's no question. There's no question. And this is the drugs that we have in our
+
+Robert Malone 42:50
+ivermectin story, yep. Okay. That's the sticker for me. And, and I just got another report of a physician in Africa, who had championed ivermectin, and then there was a regime change. And now he's she's being threatened with putting being put in jail. There's all this pushback in
+
+Steve Kirsch 43:10
+Zimbabwe? Yeah, no, no, they changed it. So when
+
+Robert Malone 43:14
+my point is to underscore what you just said, Yeah. Is that at the doses that are being advocated that that appear to be effective based on the data, and I've been tracking the same data. Those are known to be safe. And so you have a drug, which is available in the pharmacopoeia. It's licensed physicians in the United States, at least in most countries have the right to prescribe from the existing pharmacopoeia even off label for other purposes, okay, at safe levels. And they're they're being there is active consequences of physicians prescribing this drug openly and speaking about and pharmacies won't won't even fill the prescriptions, and yet they're administering it a safe dose. So if it's being administered as safe dose, and it's even marginally effective, there's no harm, right? Well, there's there's something that just doesn't make sense.
+
+Steve Kirsch 44:16
+There's something called the precautionary principle, this is really important, okay, there's a precautionary principle of medicine. And this is what they use for mass squaring because mass which are mandated, they actually they didn't even have a double blind randomized control trial ever for it for mass squaring, you did the mandate, and then they did that you couldn't be a double couldn't be double blind, because you know, you can't do that. Right? Yeah. has to be a randomized control trial. So they ran there's one trial in Denmark, guess what happened? failed, knows it was not statistically significant difference whether you were wearing a mask or not. There was a slight benefit, but it wasn't statistically significant. So everybody would say, oh, easy, they'd always say, well, that's 70. So you can't use it. You know, until it's proven because They don't want to do an unproven thing. And yet for mass, they say, Oh, it's mandated. So and they do that on the precautionary principle of pressure principle says that, you know, as long as there are no downsides, and there might be an upside, we do it because until we have better data, and they're ignoring that for fluvoxamine, and ivermectin because they want to push the vaccine. So there's no alternative.
+
+Bret 45:22
+Yeah, they've they've reversed it on us. Yeah, they don't this is the this is the third anomaly. Right? So the third anomaly here is that given a drug about which people claim the data is ambiguous, I don't believe it is.
+
+Steve Kirsch 45:36
+No, it's not at all. But 23 studies all positive, it wouldn't
+
+Bret 45:39
+tell you not to administer it, given how safe it is. So you got a bunch of anomalies that say, they don't want to collect data on the hazard of the vaccines, right? They're administering the vaccines to people who get no benefit, in spite of the fact that there's clearly an elevated risk based on the accelerated profile. And they don't want you to administer a drug that appears at worst to do no harm and at best, potentially highly valued.
+
+Steve Kirsch 46:04
+And let me tell you the story of fluvoxamine. Okay, because this really is so fluvoxamine came out. It was published in JAMA. steinbeis. vaccine is an SSRI, it's an SSRI, and it penetrates the blood brain barrier, which is great because people are held this. Brain mental for brain fog. Yeah. Okay. And so
+
+Robert Malone 46:26
+I have experienced it. And I'm like
+
+Steve Kirsch 46:29
+ivermectin, flu vaccine goes all the way to the brain, and it causes the inflammation in the brain. And because it activates a sigma one receptor, which Francis Collins has written extensively about as saying, this is really important. So we have this drug that Francis Collins says, Yeah, I love the mechanism of action, we actually tried it. So in the trial had 100% effect in terms of no hospitalization for the 80 patients in that trial. And then what happened is that Jama said, Do not use doctors do not use this as just a hypothesis, despite the fact that everything leading up to that was all positive. All of the observational studies, everybody was saying there's a huge signal here. So you run it in a randomized trial and confirm it. And, and, and Gianna says, that's not just as hypothesis, don't use it. So there's this guy, Dr. David sefo. And I'm on his podcast talking about, hey, the flu vaccine thing. The trial that published in JAMA 100%, affects effect size. And so he says, oh, he had an outbreak at the racetrack the next day after the after my podcast. So he decided to ignore the advice from Java editors, Howard bochner, wrote, wrote that he said, Don't use this until it's proven in a clinical which violates the precautionary principle. Okay, so Seth tell said, No, I'm going to use this because it could save lives. And he gave it to 7777 people opted to do that, including a crossover. So a people fail the, the no treatment group, and said, I want the drug. And in fact, everybody after the first two weeks, one of the drug because they could see the difference, right? They didn't have to look at p values. They looked at one side, where people who are like, you know, second dad, the mental fog, the other side, they took the philosophy and, and in three days, people were like, back to normal. And they were they they told stuff, though, I want to get back to work like, like, there's nothing.
+
+Bret 48:27
+So let's unpack that a little
+
+Steve Kirsch 48:27
+bit. Okay, but wait, okay, yeah, finish the story, because this is not the end of this. Okay, so all 77 patients who got the flu vaccine, and it was 50 milligrams twice a day, most of the people got that dose, which is 1/3 of the FDA dose. They recovered, they didn't have any long haul COVID symptoms, after two weeks, and they'd never even developed any long haul COVID symptoms. So this is what I want to call the miracle of the racetrack because the other matching group, they had a 12.5% hospitalization rate and one guy died. So when you look at the p value of that symptom data, oh, that so the long haul COVID zero in the treatment group 60% in the no treatment group, and you do a fisher exact test and calculate the p value 10 to the minus 14. Okay, that's 10 orders of magnitude more significant and what that means is, vaccines the chances
+
+Bret 49:23
+that this worked by accident are 000.
+
+Steve Kirsch 49:28
+Okay, but But what should have happened is that NIH should have said, I want to send an investigator down I want to see if there was any bias. I want to see if there were any confounders. You know, this is like the miracle drug that we've been looking for. They should have been faced with something like hire staff down there
+
+Robert Malone 49:43
+where you, nothing to respond to this I'd like to respond to this is one of many examples of where repurposed drug information is not being able to be processed and made available to the general public. And to the scientific community they're suppressing because of journal editors.
+
+Steve Kirsch 50:05
+No no, no look, published in peer reviewed journals top Editor's Choice in peer reviewed journals.
+
+Bret 50:11
+That's just so but here's the thing, we know what
+
+Steve Kirsch 50:16
+the FDA said. It was quasi randomized and people that I choose, but the sicker people chose to take the drugs is exactly
+
+Bret 50:23
+what I was gonna say. The fact is, people do not understand how science works in a technical field like this. There is bias in the in the test that you're talking about. But it happens to be conservative bias because exactly what it means exactly saw is actually much better
+
+Steve Kirsch 50:37
+than random. And the FDA said, Now we're rejecting it because it was quasi randomized.
+
+Bret 50:42
+So this, this, again, is anomalous behavior.
+
+Robert Malone 50:45
+Well, that's that's the point I was trying to make is that there's we got to, so if we're gonna get sciency, we got a lot of data points. And they're, they're way past forming a line. And, um, they're hard to explain.
+
+Steve Kirsch 51:00
+You Oh, look, hey, I gotta tell you about my $2 million offer. But you can after the podcast, you can check it out on trial site news, there's an article, I offered a million dollars, if you could prove that the NIH got it right on ivermectin, I offer a million dollars, if you can prove that the NIH got it right on fluvoxamine. And you have two ways to win, you can either show that the evidence is that your hypothesis matches the evidence more closely, then the alternative hypothesis of it working, okay, or you can show that you're going to save more lives by choosing what the NIH did. Because the you know, the NIH doesn't care about wives at all. They never make the wives calculation in their recommendations. That's not say they don't care about lives. I think they don't make the if you look at the recommendations, they never include anything about the cost of why and I wonder about the cost of being wrong. Are we too far in the weeds right now? No, this is important, right? Because this is the everybody looks to the NIH for these guidance. And the NIH uses these academic principles of what is right instead of saving lives in a pandemic. I that is actually wrong.
+
+Robert Malone 52:13
+Actually, I would disagree with you. Well, good. Okay. I think that what's coming out in the recommendations right now, is not really alone aligned with academic norms. I think there is appearance that there's decisions being made that are somewhat arbitrary. Oh, like, like, like, like, the rosy ivermectin response,
+
+Steve Kirsch 52:46
+no, no, no, no, but but remdesivir? Yes, right. Here on like this,
+
+Bret 52:51
+this marginal remdesivir is crazy XML.
+
+Robert Malone 52:57
+dexamethasone is another box. I mean, all
+
+Bret 52:59
+right. So what do you have is anomaly after anomalies after anomaly, and they all go in the same direction,
+
+Steve Kirsch 53:05
+they all go in the same direction, everything strikes down being exerted
+
+Bret 53:09
+by an object you cannot see now my claim is going to be and this is something I've spent decades thinking about and working on, is that there is an emergent kind of phenomenon that fits regulatory capture, but doesn't have the components that you would expect to find necessarily when you go looking for it, right. So regulatory capture, as a concept has to be broadened. In other words, an industry comes to generate levers that it uses to influence processes, it increases the power with which those levers work. And somehow we are seeing the symptoms of that disease. And it comes out as you point out in biases in journals and what the editors do want and don't want, it comes out in, frankly, in the social media environment where what we're allowed to talk about, is being curtailed.
+
+Robert Malone 53:55
+And the effects of that it's somehow very organic. It's odd,
+
+Bret 53:59
+it's well, it's the
+
+Robert Malone 54:02
+negative ivermectin. It is an emergent phenomena.
+
+Bret 54:05
+It's an emergent phenomena. And so that means that this is a this is a wicked problem in the sense that when we are trying to grapple with what it is that's doing this, it is very tempting to imagine that there must have been a meeting in which people decide it was okay for 10s of 1000s, hundreds of 1000s possibly millions of to die needlessly given a pandemic, we might be able to end if we just simply decided to do it, but it
+
+Robert Malone 54:26
+doesn't have to have been a meeting that is a that can be a function of the underlying drivers. It can
+
+Bret 54:32
+be a function of the underlying drivers and if I can step into a murky realm here,
+
+Steve Kirsch 54:37
+but it could also be fun for me, but it could also be a meeting it could be like if you looked at Tony Fauci his emails, like Chris martenson has dissected those emails, and they're redactions to that he did that they got vouches emails and Chris analyze the redactions. here's here's the reasons for this
+
+Robert Malone 54:57
+to point
+
+Steve Kirsch 54:58
+to the very same thing going on here.
+
+Robert Malone 55:00
+And beyond, okay, beyond Chris to I mean, there's three major publications of record in the United States, The Washington Post, The Wall Street Journal in the New York Times, both the Washington Post and most Street Journal came out with the conclusion that the there's a lot of those redactions may hide things that were intended to be hidden. And we can't prove that.
+
+Steve Kirsch 55:29
+There were, but whatever, what is acted illegally,
+
+Robert Malone 55:32
+okay, well, well, but what is what we're
+
+Bret 55:34
+gonna we're gonna we're gonna table this for the moment because I think the important thing is we've got anomalies. Was there a meeting, I'm betting, if there was a meeting, journal editors weren't invited. Okay, so there was a right you're there, there were meetings, no doubt. And I bet you there wouldn't be if you tuned in on these meetings, you wouldn't necessarily know it was up. As a matter of fact, I would imagine that every time a new pharmaceutical is being brought to market by a company, they have some sort of meeting in which they say we have this very exciting new drug, it has this potential market, the upside is glorious. Here are the assets and bringing it to market here are the liabilities Oh, on the list of liabilities, there's going to be, well, here's a drug, it's now out of patent that has effects in the same area, but you know what, it would have to be used off label and that can't possibly be safe. So this is what we're going to highlight. It's not safe to use a drug off label, something like that is going to happen. It's not going to sound like people being deaf to the idea that people are going to die by the 1000s. Right? It's going to sound like something else. And so anyway, what we do know now, and people have been on this apparently for months, I became aware of this yesterday, which is that Merck, which very conspicuously another anomaly on the list, attacked the safety of its own drug ivermectin, even though they knew from four decades of work struggle the planet. Right. So that was an anomaly. Why would Merck say that its own drug was unsafe? Surely the society no evidence stripe site? Well, there there is no evidence. Right. So why? Well, it turns out they have another drug headed rapidly for what and UAE right? So what does the EPA require? It requires that there's no safe and effective therapy existing because if there was, you wouldn't take the risk of fast forwarding this process. And so And not only that, but they're also involved with Johnson and Johnson, they are partnered with Johnson and Johnson and producing their vaccines. So the point is All right, we've got an anomaly. Why would Merck say things about its own drug that aren't true? And that indicate that people should be afraid to apply it when the precautionary principle would actually suggest that they have to? Oh, absolutely. Well, I don't know it might have to do with the fact that their business, their portfolio of COVID therapy involves a ua Yeah, so
+
+Robert Malone 57:41
+so. So these days, awesome. They're really rigorous terms and conditions that have been propagated all throughout academic medicine regarding disclosure of conflict of interest. And this specific situation clearly meets those criteria.
+
+Steve Kirsch 58:00
+You mean they didn't say they were developing an alternative drug in the press release that they issued about ivermectin not working,
+
+Bret 58:08
+Robert. So all right. Now, let's
+
+Steve Kirsch 58:11
+say but, but look, I am sure that, that test Lowery's systematic review and meta analysis, which is the highest level of evidence and evidence based medicine. So once this is published, and this can be published, either today or tomorrow, now you're talking about her ivermectin, her, ivermectin. Yes. Okay. So once this is published, I am sure that, that GAVI will stop running those anti ivermectin ads that Google will refuse to run that and that Google will change that their the YouTube policy and they will restore all the videos.
+
+Bret 58:49
+This is the vaccine so I don't have unfortunately I don't have test yes, no, no
+
+Steve Kirsch 58:52
+it but it but it will be published. It's supposed to be out either today or tomorrow. And I've been
+
+Robert Malone 58:59
+I've been watching the show that meta analysis that that is being done semi independently of her. And I, I don't debate that the meta analysis data for ivermectin in to my eye is extremely encouraging.
+
+Bret 59:19
+Okay, so so let us let us collect our gains and move forward from here, what we have is anomaly after anomaly, they all go in the same direction, we've got a plausible motive for distorting things, we've got the strong probability that they didn't decide to allow people to die by the 1000s. And they didn't incite decide to inflict a dangerous pharmaceutical on people that as the danger emerged, they took the standard action to be very, very skeptical of the data of danger.
+
+Robert Malone 59:45
+I love I love your thinking that this is an emergent phenomena of the system that it exists and its intrinsic flaws,
+
+Bret 59:52
+its intrinsic flaws. And I would say that these things extend in my experience, they extend into all kinds of places so you describe that your contact you In the regulatory apparatus and the FDA, I think you said, report that they're extremely busy and they're just under strain. But my guess is chronic condition. Now it is. So how do you end up with an FDA that doesn't that chronically doesn't have enough people to deal with the data that comes in.
+
+Steve Kirsch 1:00:16
+What's worse is they want to accelerate the going from an era to approval, they want to accelerate, they're putting their, their foot on the gas, and they want to well, then they want to vaccinate one of our kids, they want to accelerate it that same time. So that's the wrong that's,
+
+Bret 1:00:33
+that's phase four of these drug trials, phase four being you release it to the public, and then you monitor what,
+
+Steve Kirsch 1:00:41
+you know, when all those deaths. Okay, before before you go get it approved. Yes, you're
+
+Robert Malone 1:00:47
+wrong now. Okay. Okay. Here's why. Okay. phase four is what happens after market authorization?
+
+Bret 1:00:54
+Oh, and we haven't got so technically we're not in phase four. Absolutely. Right. Okay, so here's the thing, we're still in phase three, we're these are still this is bedrock to understanding the bioethicist phase. These are still experimental products. This is phase three. That's why it's the emergency authorization did not require the collection of the requisite data to figure out whether or not it should go to phase four.
+
+Robert Malone 1:01:18
+Um, the data that are being collected are not being done in a rigorous fashion. And it's in basically my colleagues are telling me they're extremely frustrated, because they can't make heads or tails out of the data.
+
+Steve Kirsch 1:01:31
+Not only that, they can't they have not, the public doesn't know how many people have died. So from from the vaccine, I want
+
+Bret 1:01:41
+you to sketch the picture. Of course, we are obligated to err in the right direction, but what does this picture look like? How many people could you say we know have died and how many people might have died? And what does the distinction between those two numbers depend on?
+
+Steve Kirsch 1:01:55
+So in the various database, which is voluntary, they the the US government commissioned a study to find out how much under reporting this is, and they estimate that it could be only 1% of the reports that are actually reported and 99 out of 100 don't get reported. So let's which means 5000 reports translates into 500,000 deaths and I don't think it's that high right? It's very unlikely to be it's unlikely that you know, because right you know, there are mortuaries would be you know, over river run we you know, with vaccine
+
+Robert Malone 1:02:29
+death Okay, so
+
+Steve Kirsch 1:02:30
+right, what it's not that high, but but it's higher, it's, I guarantee you, it's
+
+Bret 1:02:36
+the 5000 that we know about, they're going to be close, they're going to be a few of those that are actually just sampling error. And then there's going to be the great majority of them, which are
+
+Steve Kirsch 1:02:46
+none of them have been explained right. But none of them has been investigated. We've
+
+Bret 1:02:50
+we are all old enough to have lived through the period in which every single person on earth knew that that cigarettes caused cancer but we were fighting in court about whether or not you can prove it because no individual depth could be established on that basis. It took a long time to get to the point where what we all knew about the population level meant anything about what happened to the individual who died of lung cancer after a lifetime of smoking. Right? So we are there we are playing games with what's obvious from the data and what can be denied on the basis of fancy arguments and statistics.
+
+Steve Kirsch 1:03:21
+It's hard to deny this Yeah, of course. And I think this is this
+
+Robert Malone 1:03:25
+is a this is a great opportunity to segue to this compilation from the UK yep of adverse events that's been done in a responsible rigorous fashion by a meticulous researcher that's well respected
+
+Steve Kirsch 1:03:40
+Tesla Tesla carry in any UK you want to see who by the way is not being funded by anyone. You know, she is like doing this on our own nickel. Nobody has been
+
+Robert Malone 1:03:50
+well that's it. That's it. That's another whole nother can of worms. Yeah, well, alright. Okay.
+
+Steve Kirsch 1:03:54
+But the point is, she's got no conflict of interest here. She's the been the champion of ivermectin. And then she looked at what was happening in, in, in the UK database, and you're seeing the same thing as invariance?
+
+Bret 1:04:06
+So let's let's look at the data. Yeah,
+
+Robert Malone 1:04:08
+let's, let's look at the data. So this this, can you Steve, can you tee this up? Give us some context, what are what is the source of this data? What are these data? So
+
+Steve Kirsch 1:04:17
+this is if you go to the the the first page they have a yellow tag system in Britain, which means it's, it's the it is Britain's version of the various system in the US. So it's a voluntary reporting system, where and in Britain, they have three vaccines, primarily the AstraZeneca vaccine, the Pfizer vaccine and the majorna vaccine.
+
+Bret 1:04:40
+So genic is an adenovirus DNA vaccine. Right? Your comment
+
+Robert Malone 1:04:43
+so all three vaccines in the UK are based on gene therapy, technology and are producing spike protein in cells, right. The genes have been introduced to the vitamin introduced in the form of the DNA of an ad Novi. I have a cold virus that we all get, or in the form of an RNA that's artificially inserted and artificially synthesized forgive my
+
+Bret 1:05:07
+ignorance here. In the case of the DNA vaccines, the DNA is integrated into the nuclear genome or no,
+
+Robert Malone 1:05:12
+not
+
+Steve Kirsch 1:05:14
+so that it sort of stays on top.
+
+Robert Malone 1:05:17
+It's
+
+Steve Kirsch 1:05:20
+attached.
+
+Robert Malone 1:05:20
+Yeah, it's epigenetic, it's it's a it's you can think of it as a small circular, extra chromosome plasmid
+
+Bret 1:05:27
+that has gotten so many cells. So I always worry when when people say gene therapy technology that they are painting a picture that actually isn't quite right here, even though that's technically accurate, I assume because you're using the
+
+Robert Malone 1:05:40
+eye up. I don't know how else to say it. Right crew cell. The guy that founded crew cell was the senior postdoc in the gene therapy lab that I worked at at the Salk. Okay, okay. dinko. Valerio and he came to me once a few years after crew cell had been founded, which was a gene therapy company based on that no viral vectors. And he said to me, Robert, you're right. We should use this for vaccines. Okay, and he pivoted crew cell to being a vaccine company. And the rest is history. It was bought by j&j. And that is the basis for the j&j technology. Okay, it is explicitly a retooled gene therapy method applied to vaccines. Got it full stop. Okay.
+
+Bret 1:06:25
+So you were telling us about what we've got here? Oh,
+
+Steve Kirsch 1:06:29
+I want to correct By the way, they just came out this morning. I just got it this morning at like, 5am.
+
+Bret 1:06:35
+So let me pause you. Yeah, in your piece? I believe it is not, you have to do some work to realize that the number of desks that we're talking about that 5000 number that's us?
+
+Steve Kirsch 1:06:45
+That's us only Oh, yeah. Yeah. No way. Right. In the US and Europe. It's, it's
+
+Robert Malone 1:06:50
+it's it's the self reported deaths,
+
+Bret 1:06:53
+self reported. reported. So it's a probably a lower bound on that number. Yeah. If
+
+Robert Malone 1:06:58
+you think through, you know, Mary has died after getting a vaccine. And you're the relatives of Mary, and you're busy killing destroy a bunch of stuff going on. Okay, the probability that you're going to say to yourself, Sellafield I need to log on to a website,
+
+Steve Kirsch 1:07:13
+no. vaccine. Right. All right.
+
+Robert Malone 1:07:17
+So my point is only it's understandable. This is the problem with self reported database, right?
+
+Bret 1:07:21
+it's it's a it's a bias. It's a bias. And indirectly, we can infer, well known and but I just want to say that number 5000 is a very frightening number. It's an especially frightening number in comparison to the US population, when we basically have to extrapolate out and the data from Israel from Europe seems to reflect this suck.
+
+Robert Malone 1:07:42
+It's the subset of the US population that's accepted vaccine. So it's not the whole us. Right, right. Right, right. True. It's like 130,
+
+Steve Kirsch 1:07:50
+some odd, but But the other thing is like, I mean, I contacted the FDA when I saw this, and I said, so what do you think was Oh, you should contact a specialist who understands the various data. And I said, You know, I thought I understood it pretty well. I did an analysis on trial site news, where I show it there's a video on trial site news, where it, I do some analysis, and it shows, oh, this is like, at least 100 times worse than the flu virus in terms of the deaths of vaccine, the flu, the flu vaccine in terms of deaths, and it I argue, actually, that's like 1000 times more
+
+Robert Malone 1:08:29
+than in so so that's and and that's, that's, that's kind of a straightforward unadjusted trial run, oh, can I can I transition to what we're looking at? Oh, no,
+
+Steve Kirsch 1:08:42
+let me let me finish. Because the FDA told me to go to an expert. So I contacted the open various people who are looking at this data. And I said, so it says, 5000 What do you guys think based on you been doing this for years? What do you think the true number is? And they told me that of course, nobody really knows. But based on their analysis, they put it around 20,000 deaths. That is, you know, so what are the real next that's, uh, yeah, that's just their opinion.
+
+Robert Malone 1:09:14
+So but even we segue
+
+Bret 1:09:17
+Am I am I right? Hang on, am I right? That even at the lower bound number, the 5000 It's a stopping condition. Well, not only is it a stopping condition, but I mean you tell me if I've got the statistic that you reported incorrect but I believe what you say is that that number is more deaths than for all 70 other vaccines
+
+Steve Kirsch 1:09:38
+combined over the last 30 years, right.
+
+Bret 1:09:41
+So that tells you something Yeah, and
+
+Steve Kirsch 1:09:43
+all and also the adverse effects. If you look at those that is not just the grass. So
+
+Robert Malone 1:09:51
+now let's look at No wait,
+
+Steve Kirsch 1:09:53
+you could please let me finish Okay, stop interrupting. Alright, good. Okay. Well, okay. Good. So the there are two aspects that if you look at this vaccine in terms of deaths, it's more than all the other ones. If you look at it in terms of adverse events reported, it's also more than all the other vaccines over 30 years combined. So there's, if it's not, I'm okay. You don't look if it's not if it's, you know, we have a hypothesis, yep. That because this toxic spike protein breaks off and goes into your brain and heart and all over and causes these words, that's totally consistent with what we're observing. Yeah. And if somebody has a better hypothesis, in terms of what is causing this, right, it's in the water, it's in the drinking supply, you know, whatever, whatever it is, what would you let's hear it, what would the dimension,
+
+Bret 1:10:50
+the thing that explains it have to be it would have to be something like someone put this in the data, right, which would then not explain all of the people that we run into
+
+Steve Kirsch 1:11:00
+somebody, somebody over report somebody who's gaming the various system, for example, but that's a federal crime, not only,
+
+Bret 1:11:06
+not only is it a federal crime, but the fact is the anecdotal stuff that we can all detect by asking people around us that it says actually, there's a real pattern and
+
+Steve Kirsch 1:11:15
+guess what, the exact same pattern exists in the UK. So when I got this report, and you look through it, look what look at all the symptoms here, look at all the deaths in each of these categories. And look at the breadth of this and it's two pages. So this is the you know, the first page this is just the this is
+
+Bret 1:11:34
+bleeding clot and ischemic adverse drug reactions up to the 26th of May,
+
+Steve Kirsch 1:11:40
+right and then the next page and you know, look at look at all these disorders that happen and then then it's now an immune system, immune
+
+Bret 1:11:47
+system adverse drug, we
+
+Steve Kirsch 1:11:48
+haven't even gotten to easy to ask
+
+Robert Malone 1:11:51
+question. Yeah, because many of these adverse events were already known with the recombinant adeno virus vectors. Okay, that we already it's already been well corrected. Before what No, no, it's it's particularly the clotting disorders. Yeah, we've known for quite a while that they were associated. That's why the j&j vaccine was stopped when you say
+
+Bret 1:12:12
+quite a while you mean since the release of these vaccines? And yeah,
+
+Robert Malone 1:12:16
+it's it it like, couple months ago, we remember we had a pause. Yeah. Right. Which is
+
+Steve Kirsch 1:12:21
+and why didn't why wasn't detected in the phase three studies will Oh, phase three studies are supposed to be perfect. But But talk to you phase three and going with this.
+
+Robert Malone 1:12:31
+Yeah. Okay. Steve, can you tell me this aggregated adverse event? log, that test is provided? Is this in the UK? Based on the yellow cards? Okay. Is this for all three vaccines?
+
+Steve Kirsch 1:12:47
+Yes. Okay. So yellow card system. So So what
+
+Robert Malone 1:12:52
+it is, is we need to be a little cautious, because we don't know which of those three vaccines have which rash doesn't
+
+Steve Kirsch 1:12:58
+have a break. Right? She doesn't have a breakdown. And but and my point
+
+Robert Malone 1:13:03
+is that we already knew that the ad vectors were associated with the coagulopathies, the clotting disorders that were in table one.
+
+Steve Kirsch 1:13:13
+So So look, but but we should scroll down to the conclusion of this, which says, okay, and she should go and you know, she put this together and got it out quickly says, The MH ra now has more than enough evidence on the yellow card system to declare the COVID-19 COVID-19 vaccines unsafe for use in humans, period, full stop. Preparation should now be made to scale up humanitarian efforts to assist those harmed by the COVID-19 vaccines, and to anticipate and ameliorate medium to longer term effects. And I can tell you, that Bruce Patterson, he's he's now he specializes in long haul COVID. So when you found the original thing, well, now he's getting patients who are coming to him with I had, I never had COVID but I had the vaccine, right. And those patients come to him. And in every single case, he looks at the bloodwork and he says your blood work is abnormal, your blood work looks like a long haul COVID. It kind of it's different, right? Because the vaccine you get it goes all over your through your body, like you know, in 15 minutes, it's like everywhere, whereas you have to get naturally it has a different pathway. And so the blood work looks different. But the point is that it shows up on his biomarkers as you've got long haul vaccine
+
+Bret 1:14:42
+right now. Well, I think it is, it is becoming clear to clinicians that long haul COVID COVID. And post vaccines syndrome are closely related. Because protein is shared between all of the that's
+
+Robert Malone 1:14:55
+and that's I think that's a I would call that a valid working hypothesis. Just for that association,
+
+Steve Kirsch 1:15:01
+right? And nobody, nobody is even looking at this. I mean, that's the sad thing. So
+
+Robert Malone 1:15:05
+that one yes. As a professional, okay, so we're looking at all this professional, nobody has looked at this for. For me, the thing that's alarming is that there's no alarm, right?
+
+Steve Kirsch 1:15:17
+Oh, yes. Exactly. Like why aren't alarm bells going off? 5000? a, you know, that's, that's my Why is nobody saying why is nobody in academia? Why is no dean of grad school thing like saying something like they're all silent? They don't look, they don't even know. The reason is they don't even look at the various system because I know a guy. He's, he's vaccinated like a million people. Okay, well, and I went to Robert, I, please, let me let me finish. Okay. And because I know him and you don't, all right, all right. We're good. His organization has vaccinated a million people. There we go. He is. Wow, all right. We're, you know, it's like, I can't even not okay, it's like the traffic copier. But I asked him, I said, so he says, I'm on the, the the CDC calls every week, you know, some because I'm one of their big, you know, vaccinators. And so I said to him, so do you know how many people have died have been killed by this virus? And he said, it's really, really small. It's like 100. You mean the vaccine? Sorry. Thank you. Bye. That is a really, really small, it's about 100. I said, Really, they're telling you it's about 100. Because the V safe system that is not transparent at all, to the public, you cannot search it at all. It is like this secret black box that nobody can see inside.
+
+Robert Malone 1:16:50
+Nor can my colleagues at the FDA that I just spoke with today. It's my data analysis.
+
+Steve Kirsch 1:16:56
+What what are they hiding bread? Right, well, what are they hiding again, so that we shouldn't be allowed to see that
+
+Bret 1:17:02
+we shouldn't be allowed to see. And in fact, I would argue that's why is it even
+
+Steve Kirsch 1:17:06
+anyone asking why we see.
+
+Bret 1:17:10
+So this is this is this is the problem. And this is Heather and I did a segment on our last live stream. And our point was actually you know what, people do incredible science under conditions that are way harder than where you have a database or you have a laboratory, right? We do science in the Amazon, right? You can infer pattern. In such a circumstance, you can test hypotheses, we do it all the time. And yet, we are being held to the standard at the same time, that the very data you would want to access is stored in a system that is impenetrable, right, so so so can
+
+Robert Malone 1:17:41
+I can I kind of kind of pick up that just a little bit in it because it's I'm going to try out the bioethics argument. Sure. Okay. So they're currently experimental vaccines. When the fundament, there's three fundamental bedrock principles in western bioethics. One is full and complete disclosure of risks. One is ensuring full comprehension of risks by people that are going to be taking the experimental product. And one is willing consent, you've got to have those three. And the thing about this database not being available for outside query by responsible parties, which is what By the way, any academic publication would require, if you were going to say, to in JAMA, you were going to say, we conclude based on our analysis of this V safe database, that the vaccine is safe, and that there are no deaths. Okay? If you're going to say that, you would have to say you would have to say that we will provide these data for outside analysis by third parties upon request, that's I, you know, if you publish, that's what, that's what you have to put in there is no ifs, ands or buts. Right. Okay. So what we functionally have is, folks, when the government saying this is the truth, trust us. We'll put in in but I'm sorry, but I'm sorry, we are not going to allow this information to be independently analyzed by responsible qualified third parties, that it's not right,
+
+Bret 1:19:22
+right. Well, at the same time, and I don't worry if there's, somebody is going to have to do the work to figure out how this actually functions. But then there's the social media side where the natural processes that would allow a martial prior like this essentially emerge naturally right? Is there something so shaped by an environment in which one is presumed morally bad if you express skepticism over things that one should obviously be skeptical about, if one tries to gather with other people who are suffering, the same symptoms, there's a whole bunch of Thou shalt not discuss this, that of the other doesn't matter who you are, which
+
+Robert Malone 1:19:59
+is unprecedented. It's unprecedented,
+
+Steve Kirsch 1:20:01
+but but there's no explanation for it, okay? Or there is no, no, because look, Mark Zuckerberg sent an email and this is in the public domain now where he said, he sent it to 20. 5g and he said, we will censor anything that goes against the narrative. I mean, essentially, that's what he said. Yeah. Okay. So when you have a Facebook group of 70,000 people who are vaccine sufferers, that group disappears overnight, you we have another Facebook group of COVID vaccine, side effects 120,000 people, disappears overnight. Yep. So how can you have, you know, like, 200,000 people who are in these COVID vaccine side effect groups, like they would have nothing to talk about, right? Because it's a perfectly safe vaccine. Like, what? We don't even know what they were talking about, because we broadcast? No, no,
+
+Bret 1:20:55
+we're not this is us good. We, this, this is unprecedented. We have no cognitive immune system to prepare us for this kind of shaping of what we can people or
+
+Robert Malone 1:21:08
+what we can even are allowed to discuss what is right, so not
+
+Bret 1:21:12
+normal. And so the point is, we use our normal heuristics to figure out how dangerous something is and how dangerous it is, would ordinarily be something you could detect by how frequently you encounter discussions of things that have gone wrong. But if those discussions aren't allowed to be had, the point is if you artificially have the sense that this is very safe, and so you know, again, it's an anomaly. Now, I don't think maybe I'm wrong. Maybe I'm being naive. But I don't think that you know, Twitter and Facebook were in the meaning in which something was decided that it was going to be fine for 1000s of people
+
+Steve Kirsch 1:21:44
+into because it's suppressed. They're buying into the whole thing. I think, Robert, please let me let me I may have
+
+Bret 1:21:50
+to use. I have never broken this app before. But we are going to be very careful. All right, we are going to be nice to each other. And that thing is going to get this I've just gotten a foul. Oh, sorry.
+
+Steve Kirsch 1:22:04
+Sorry. You have to give it to me, right? I thought I was supposed to take I was warning you okay? Yeah. Oh, that's a warning. I thought it was who's got the ball? Who can speak? No, no, it was like the gentleman here,
+
+Bret 1:22:15
+but you got the floor. Yeah. Okay.
+
+Steve Kirsch 1:22:16
+So thank you. Um, so, I did a test. I went to a vaccine, one in my local pharmacy. And I said, Hi, I'm thinking about getting the vaccine. But I've heard some things that some people have died. Does anybody know how many people have died from the vaccine? Because I'm not sure what to believe. So one woman says, Oh, I believe in God. And God says that I should go and take the vaccine. And then another guy says, Are you an anti vaxxer? And it's like, you cannot even raise even a question. In fact, I asked people on next door, I put up a poll, just say, right to say, how many people you know, oh, there's this posting on trial site news, how many people believed it? And you know, 10, people responded, five said, Yep, totally believe it. And the other five said, totally bullshit, right? And it was, it wasn't anywhere in between, I gave them like five levels. And it was either you thought it was total bullshit, or you totally believe this is another way sensors. The poll was censored by by next door, like hours later. And and so you can't even ask people the question. And when I asked the pharmacist, I asked the pharmacist, so do you know how many people have been killed by this virus? And she says, By the vaccine, thank you. Um, she says, actually, I don't. And it's almost like she never even thought that it's an issue because she they're so programmed to think that the virus that the vaccine is safe and effective, that your mind shuts off to the possibility that, you know, and if you have an abortion, you can't even think that it could have been caused by the safe and effective vaccine taneous.
+
+Steve Kirsch 1:24:08
+It's like, it's it's an it's so yeah, so yeah, this is
+
+Bret 1:24:12
+again, in my area of expertise. There is something about the you know, your poll small as it was revealed that there's something very unnatural about people's conclusions about how likely This is to be safe, you would expect a range, right? You expect some outliers, you think it's incredibly dangerous, you would expect some people to think it's perfectly safe, and you would expect a whole lot in between, but our environment curve is the total opposite, right? We're divided into teams and the teams are basically repelled by each other out of disgust. Right? Oh, yeah, no,
+
+Steve Kirsch 1:24:42
+absolutely.
+
+Bret 1:24:42
+So this, the sense and this is something that we have faced on this channel, from the beginning is to even begin to try to unpack the the nuance around this what is going on, right is to is to step into the line of fire of this disgust mechanism. You're morally bad for even raising this question. Now how can it be? How is it possible that scientists raising the question, how safe is this novel technology? Actually, how could that possibly be, you know, a morally deficient position? Right. It's the right thing to do. It's
+
+Steve Kirsch 1:25:13
+Yeah, I mean, you shouldn't be able to question. You know, science is about, you know, questioning and science should be free to, to question what the narrative is. And always there's a phase three, because even phase three studies are never perfect. And right. And so, but the thing is that when I posted this article to trial site news, I had a scientific advisory board of 14 academics, very high power academics, all of them resigned, like three days later saying that what I was doing, it was irresponsible, that it will cause vaccine hesitancy, I should take it down. They don't want to associate it with with me anymore. And don't email me ever again.
+
+Bret 1:25:52
+Was there any substantive critique? No. And I asked for it.
+
+Steve Kirsch 1:25:55
+I said, you know, hey, I'm sorry, you're resigning? But could you please point out an error? And I will correct it. And in my article, I say, hey, if you've got an error, post it and I will go and correct it. And they gave me nothing. They just said, I don't want to talk to you again. They gave me nothing of factual that was wrong with my article.
+
+Robert Malone 1:26:16
+So this is another symptom. That is another data point on that line. And this, this is the thing that I find most troubling, frankly. And it's much of it is coming from the academic community. I call it you know, self appointed academic policemen.
+
+Steve Kirsch 1:26:37
+Oh, yeah. Fake. You know, I go on clubhouse, and I show up in a room and I and I say, Well, I like to talk well, the moderators like shut me down. And and I then I challenge them I say, hey, let's go to a private room or let's go off on Twitter. You know, I claim that you're wrong about ivermectin, let's go up. And so the moderator says, Well, I can't go but I'll appoint someone so I go off and this guy, on on on Twitter, and he DM me and he says, show me your evidence. And I said, I gave him the the the web link to Tess's meta net meta analysis. So he says, Oh, that's a web link. I want the study. You know, and so okay, well, so here's the link that's in the study. So I give it to him. And he says, Okay, well I have to study this and I say okay, and it's clear he has never looked at a systematic review before because he didn't didn't ask for the protocol that they use and normally you would go and do that. And so and then then so I said, um, he comes back and says, Well, how would those studies fit you know, how did they I said, I guess you've never done this before because you wouldn't be asking for the entire protocol which you didn't ask for which was on the webpage that I gave you in the beginning so the point is that these people who are these self appointed police don't even know what they're policing right? And then there was I wrote him and I told him Hey, you know Tess's thing is coming out on the on it is peer reviewed. And you can't get any better than a peer reviewed meta analysis that's the highest and so I said you have to go and accept that and the precautionary principle says you should use it on your patients now silence
+
+Bret 1:28:19
+right so so again, the thing that the thing you should detect at the end of this is not all of the text in the middle it's that at the end of the day what's being said doesn't add up right if you believed the data was all that ambiguous you'd still give a safe drug because you don't have an alternative so literally we're literally sending people home without treatment where they go and sick and the people that they live with when there's a perfectly say it's worse it
+
+Robert Malone 1:28:42
+gets worse than that got worse we're sending them home and we're saying don't come back until your lips are blue until you're sick right no it's no it's not it's not sick okay it's hypoxic it's it's that your that said your blood oxygen is so sick is you know I've
+
+Steve Kirsch 1:29:00
+got a fever sorry my start is different than yours. But
+
+Robert Malone 1:29:04
+but but this is this is turning the dial up on sick Yeah, this is this is Yeah, this is pretty severe sick.
+
+Steve Kirsch 1:29:12
+They had a very have a very well, you know,
+
+Robert Malone 1:29:15
+you you have to get oxygen now. Right. Okay. Your lips are blue equals oxygen saturation of high 80s. Okay, that's way sick. Yep. Sorry. And, and our policy is, you know, despite all the data that you've and others have championed, you have personally funded, which I acknowledge that commitment. I think that's super important for the audience to understand is for you, this isn't just talk, you walk the walk, you took your wallet, and you said fluvoxamine and study at Wash U one of the top universities in the United States, you funded it. So when you talk about the flu vaccine study, it's not just that he pulled something out of the air, you enabled it. You Provided leadership Okay, so all those data out there and yet the current public policy is you come into my hospital and you've got all the signs and symptoms and you got a PCR diagnosis and you feel sick enough with COVID that you feel like you got to go to the ER and the ER tells you I'm sorry Mrs. Smith we don't we're not going to take you in because your blood oxygen saturation levels are not at critical levels and you need to go home and just incubate right
+
+Steve Kirsch 1:30:33
+one
+
+Bret 1:30:35
+but but without giving you a drug that would almost certainly make you better and without giving it to your family so you don't sick and and we are actually behaving in a way that propagates the pandemic right
+
+Steve Kirsch 1:30:45
+so it's so let me let me tell you it is it I think I think we
+
+Robert Malone 1:30:48
+can all agree that the behavior is bizarre. Yes, the base
+
+Steve Kirsch 1:30:53
+especially when we know like George Fareed and Bryan Tyson. They have a little commute that little practice they treated 6500 patients average age is 60 years old. Like zero hospitalizations, they say, we only get a hospitalization when someone comes up to us, like really late. But anyone who gets to us early, they don't go to the hospital at all, you know, we turn them around with our treatment protocols. So the the most important thing is to treat people early. Yeah, with these drugs. And they're there doesn't matter a treatment protocol has had it had Oh, it has hydroxychloroquine it has ivermectin, it has fluvoxamine in it. And the point is that they use the drugs that are shown to have an effect size and combined. They have an enormous effect and every everyone will have their own set of drugs. You know David ssef tell just useful voxel. He got 100% track record. Other people use ivermectin and fluvoxamine. I know a lot of Doc's who started with ivermectin, they edit for Vox. I mean, they say oh my gosh, you know, this is even better than what I had before. Right? So it's all about this combination of drugs. And of course, we don't tell people about George for read and and Brian Tyson, we they don't even exist because those are anecdotes, right. Right now we ignore the frontline physicians who are having success so that we don't go and and find out. Oh, you know, why isn't the NRA saying hey, this guy has 100%
+
+Robert Malone 1:32:28
+track record just said something that's super important. Okay. Okay. Well finally, know you said a lot of things that are important, but I want to highlight that one, you emphasize frontline physicians. And this is this has been my observation. It's like dealing with this community intensively since January of 20.
+
+Steve Kirsch 1:32:46
+Only trust these double blind randomized control trials are here to do it's crazy
+
+Robert Malone 1:32:50
+in and typically require 20 million or more to do well. Okay. I'm so torn
+
+Steve Kirsch 1:32:59
+over a billion dollars in the case of what guys let me Can I
+
+Robert Malone 1:33:03
+can I get the little yellow card? You wanna I asked for the floor. All right. I wanna, I just want to make our point to amplify on the good message that you just gave. Okay. Um, and it's a good news story. We need a little bit of good news here. There's a lot of a lot of kind of creepy stuff. We're gonna end with great news. Okay, anyway, we could use some good news along the way. I'm here in the states that across the world, we've had primary care physicians, frontline, Doc's, ICU, Doc's, desperately seeking solutions. And they have resorted because they have the right to do so as physicians to prescribe things off label. And I can tell you, these Doc's that I deal with all the time, are spending enormous amounts of time in the literature, reading the preprints, trying to figure out some solution to save their patients lives in the face of this amazing gap of, of clarity from the, from our centralized Public Health Service. And I just kind of wanted to take a moment and pick up what you just said, the innovation This is an amazingly paradoxical. What I've seen is all of the innovation in treating this disease is coming from these frontline Doc's that are tinkering and innovating and what this gets to is the fundamentals of and I'm gonna say it what makes this country great. Okay. And, and it's historically not been large, centrally controlled enterprises. It's been individual initiative in there. One of the good news stories in COVID is that a lot of the success have come from the docs like you're dealing with innovating tinkering, experimenting, trying things in there driven by the need to to give their patients some option I just wanted to amplify that Thanks for letting
+
+Steve Kirsch 1:35:10
+counterpoint to that when you're out when you get okay okay so
+
+Bret 1:35:13
+report Doc's on the ground are in a position to see this they are in a good position at least with respect to ivermectin because it's so safe right if you don't believe it's any good, but it might be you can give it to a few patients and if you see a signal then you can give it to more pay if you can get it if you can
+
+Steve Kirsch 1:35:29
+get it which you can't get an English back Canada pushback is
+
+Bret 1:35:33
+incredible. Right is the stigmatization of doctors, the punishment of doctors. But you also you make a really good point in in your document, right? Which is that doctors who have a number of patients below a certain three never see anything bad what they see are anecdotes, right and so you need a practice of a certain size before you see anything you're going to regard as a six 600 or more 900 wouldn't matter so much. If the doctors were in a position to encounter each other online and say, you know, I had the weirdest, and they won't talk about it. And the point is the stigma for talking about in public. I can't tell you this is driving the paramedics won't talk about it. They see all that professionals in all of the related disciplines, the number of people who will say to you, well, actually, here's what I'm seeing, but I really rather not because
+
+Steve Kirsch 1:36:20
+because I get fired i do i get fired, right? And
+
+Bret 1:36:23
+the point is, that's a signal in and of itself, right? That is a signal that some I can that's dumb that that's phenomenon does not want this discussed and frankly, again, if you imagine that what we've got now at the very least, right? We've got an excellent prophylactic that is extremely safe. We've got an excellent treatment that is extremely safe. Those are both ivermectin right, then we've got a flow of oxygen, which crosses the blood brain barrier. So it gets to someplace
+
+Steve Kirsch 1:36:50
+brain fog, and all that and long haul COVID. Right.
+
+Bret 1:36:54
+These things that's a pretty good kit to deal with this pandemic. It's it's a good kit for ending this right and and what we have is, I can't swear that it's related, but it's certainly conspicuously The only hypothesis, I can think of that we have financial interests of, you know, private corporations that involve these excellent treatments not being available in order to try experimental stuff. That's that's not out of patent. Right. But I wanted to point out something cryptic that's hanging out here, right? You said it's gonna cost 20,000 bucks to do a randomized 20 million bucks. Sorry, what did I say? 20 million. That's not a small amount of money. So when somebody online, whoever they are, whoever, however well intentioned they are, whatever degree they may have, when they say really the only thing that's going to convince me that I should risk my patients life with ivermectin, which is, of course, an insane assertion that there's any risk at all really, it depending so long as you keep the dose within the safe range within the range that we know to be safe, right? Of course, there's some risk but like, all drug right,
+
+Robert Malone 1:37:59
+the problem is I met with ivermectin, the risk profile is extremely well known. It's been out there for decades, three
+
+Bret 1:38:06
+years, 4 billion doses already delivered. You're so right. So here's the point. When you as a warrior on Twitter, you start battling for Hey, I'm a science person, I want to see the randomized controlled trial before I give patients any risk at all for ivermectin, what you're effectively doing is you are you are a warrior on behalf of new and less well known drugs that are still under patent and against drugs that are old and out of patent because who's going to pony up the $20 million for something they can't make a promise something they can't make. So I live I live very UAE I live this,
+
+Robert Malone 1:38:41
+okay, I set up a company ferric pharmaceuticals for Zika. And I work closely with the do D and developed a portfolio of drugs, repurposed drugs, many of which are now being applied to COVID because they're antivirals. Okay, I went bankrupt. The investment community had zero interest because there's no way to make a buck. Okay. And pharma would not partner because there's no way to make a buck and you can't so so that I have direct personal experience, validating the thesis, that they're that the financial incentives around drug repurposing are such that it doesn't get done.
+
+Steve Kirsch 1:39:23
+Worse is you can't get an E Can you give me a pen? Yes, you can't. You can't get an E ua, we applied for an era at the FDA. And they basically said, we're not convinced by your evidence. And, you know, and you need to come to us with a drug company to show us how it's going to be made. It's a drug that's already on the market, right? They're not even set up for issuing this anyway, on a repurposed drug. And so you're right,
+
+Robert Malone 1:39:55
+you're fundamentally right. Can
+
+Steve Kirsch 1:39:56
+I finish please? Okay. So we we reached out to all these drug manufacturers, usually we would get no response at all. And the ones that we that we did, and I won't say who they were, but you know, thank you for responding was, yeah, you know, look, we can't really come up with a financial justification to get involved. And I said, I'll pay for all your expenses. You know, I'll cover all your costs, and we just don't want to do it. So I can't even even if I had their phase three trial that they need, which I do have now. Yeah, they still wouldn't I still would not be able to get an ETA on a repurposed drug.
+
+Bret 1:40:42
+Yeah, so so I have a thought here. You tell me Actually, you're the expert on whether or not such a thing as plausible but here's my sense. Sorry, scoby. Two is a funny virus, right? It seems to infect a number of different creatures, but especially high on the list are minks and ferrets. Right now. I think that this is highly likely to be the result of experiments that may have produced this virus, but it doesn't really matter. The thing is, ferrets and minks appear to be the only creatures who not only contract COVID, but can also pass it on like human beings do.
+
+Robert Malone 1:41:18
+Now, not entirely sure that there are some other domestic animals,
+
+Bret 1:41:23
+there are domestic animals that catch it. I don't know of any domestic animals that transmit it. Now, if I'm wrong about that, I'm wrong about that. But
+
+Robert Malone 1:41:29
+in No, I don't know that you're right or wrong. What I know is that to detect that signal would be really tough. Yeah,
+
+Bret 1:41:37
+but here's the thing, the mink ferret signal, not a toddler, we won. So here's the question. Is there room for some kind of guerrilla research effort? Where fair ferrets? I mean, imagine you got
+
+Robert Malone 1:41:52
+2000 ferrets, but why do you need to do a gorilla research? Because what you
+
+Bret 1:41:57
+want is the quick and dirty, randomized controlled trial that demonstrates the effectiveness, the safety and doesn't cost the 20 million bucks.
+
+Steve Kirsch 1:42:09
+So though, there are ways to do that, right, let me just like the stuff tell Trump, right, instead of having the rigor of a IRB approved randomized control trial, when David softail did his study, it was like, Hey, I got two options for you. You choose, let me document that and I'll publish the results. Well, if you if you do that 1200 physicians do the same thing. And they publish the same result. Do you really need a randomized control trial? Believe me, I
+
+Bret 1:42:38
+think the signal here is such a slam dunk. It's 100%
+
+Steve Kirsch 1:42:41
+effective but we're now
+
+Robert Malone 1:42:43
+we're what you're talking about is building new animal model.
+
+Bret 1:42:46
+Well, no, I'm talking about the fact that a because ferrets and Manx which are very close relatives. That's why this is true. Have a human like Ace to receptor right, which is, if this was the product of research in Wuhan, this is probably why they would have used ferrets is because it's a laboratory available animal that has the appropriate receptor in order to create a human and it is universally used for influenza vaccine research, for example, so readily available, you can order them. So all I'm saying is that that is a ready made model for COVID. And therefore anything that we need to demos I mean look you 2000 ferrets, okay, we got half of them are half of them are treatment, half of them are control, right, you give the half that are treatment, ivermectin, you then expose them to COVID. My guess is you're going to find out that they don't get sick, the ones that aren't treated with that aren't protected with COVID do get sick. And then you take those that got COVID, and you divide them in half, right? And you treat those that got COVID with ivermectin or a placebo, and voila, we're gonna know everything we need to know from that experiment, I would imagine.
+
+Robert Malone 1:43:52
+So I used to be a primate center researcher at Davis, I do understand animal models, and I have good friends who have been at the tip of the spear in developing the animal models for years, we have a pretty good animal model and the golden hamster, golden hamster, so we don't have to go there. And yes,
+
+Bret 1:44:10
+those those hamster gets COVID transmits.
+
+Robert Malone 1:44:14
+I don't know about transmission. If you want to ask transmission question that's different, but you can still check for virus replication and most kinds of things is the currently accepted animal model. Is that in we can, you know, to get to get my point is, if you're going to go down there. There's a whole lot that goes into building a good animal model, including titrating, the virus dose and a whole ton of stuff. It's not cheap. Well, but but you're in at the end. Remember what I said, mice lie, monkeys mislead. The only thing that tells us about humans as humans. But wait, wait, wait, wait. And the way that the way that we can really tell about humans in this kind of context, is a meta analysis which we've got. We've got
+
+Bret 1:44:58
+we've got so but hold on. I say I have to go just a little bit down this rabbit hole here, okay, because I believe that the golden hamsters have anomalously long telomeres, which will be the result of their captive breeding, which have an implication for how susceptible they are to toxic phenomena like spike protein.
+
+Robert Malone 1:45:17
+So, okay, could be all right. So
+
+Bret 1:45:21
+my sense is that ferrets actually are a better model. Also, because we can model not only be the effect of the drug on the animal, but we can also model the epidemiological impact
+
+Robert Malone 1:45:34
+could be but and you're you're dead on that one of the lovely things about ferrets and respiratory viruses is that we have a huge body of literature on transmissibility and how to assess it. Okay, so so that's all fair, too. So what you're criticizing is the folks in the animal model community that have made some strategic decisions that you disagree with, and and that that may be that they should have gone down that rabbit hole instead of the one that they did. And right. And as far as golden hamster, I'm no fair. I'm no fan of that model. But But, but I'm just saying that even if we were to do what you did, which is a non trivial investment, yeah, we still don't get to. But test is done. Yeah. Oh, or Andy Hill.
+
+Bret 1:46:26
+I think the signal is so strong that and this is a signal that was that.
+
+Robert Malone 1:46:31
+safe. The there's so so what what is what is about to happen? Okay, yeah. And in what happened was there was some large trial started with ivermectin, and the data was supposed to come in right before the who determination. And it didn't come in. Because this is how it is with clinical trials. Sometimes you get the enrollment that you want, it's turning out to be wicked hard to enroll trial trials with COVID. It just is,
+
+Steve Kirsch 1:46:55
+well, who doesn't have any outpatient trials, um, which is another problem.
+
+Robert Malone 1:46:59
+They're not who trials so there are trials, large trials pending, Andy Hill tells me and we discussed at length about what he was going to disclose and when publicly And together, we made a decision, it says decision, I was just counseling him to just stop releasing interim results, and wait for these large trial results. And they're scheduled to come in about September. Now,
+
+Steve Kirsch 1:47:31
+who who already knows that ivermectin works, we already have, there's never been a case where a peer reviewed systematic review and meta analysis has been overturned because I asked an expert in this area. And I said, hey, what happens if you know you have the top level of evidence and you have one systematic reviews? This says it works. And you have another one that says it causes one then then how do you resolve that the that? And she says, Well, that's never happened in history. So we don't have to worry about that. So you know, you're you're advising the who to wait, is is counter to
+
+Robert Malone 1:48:12
+I'm not advising and who I'm advising Andy Hill has the same position. Yes,
+
+Steve Kirsch 1:48:16
+but now it's a moot point. Okay, because we now have this peer reviewed we
+
+Bret 1:48:21
+agree it is a moot point. ivermectin clearly works right the signal is overwhelmingly clear it's done and the people who are saying it isn't clear enough don't make sense because their next sentence is we shouldn't prescribe it until we have better evidence when in fact because it's a safe drug and because the evidence in their mind is not clear. You can prescribe it and see if it works because the
+
+Steve Kirsch 1:48:44
+you're being a hypocrite if you're saying hey, I subscribe to evidence based medicine and I believe and and I believe in the triangle and this is the way it's done. And then they don't do it. Right. They don't walk this talk
+
+Bret 1:48:56
+it's probably and it seems to match the incentives of a corporation it's got to us in play, and potentially a lot of money to be made if we can't deal with the pandemic and we have to get lost.
+
+Robert Malone 1:49:12
+I just like to add one more log to your fire. Okay. In the in the roster of the blizzard of criticisms about the ivermectin data one that comes up often is that these small studies that have been done across the world and various sites independently are not peer reviewed and published in the log I want to add on the fire is because is that it's become a wicked hard to get anything through peer review involving repurposed drugs, which is why I set up that whole special edition of frontiers in pharmacology for repurposed drugs
+
+Steve Kirsch 1:49:52
+and then all all of them and then it got killed. What No, all of the the, the editors quit. Yeah,
+
+Robert Malone 1:49:58
+I was one of them. I was one of them. Later, because because
+
+Steve Kirsch 1:50:01
+the journal because once these papers had gotten through the journal decided to, well, we don't like this The ivermectin is very,
+
+Robert Malone 1:50:11
+very arbitrary. So I would say that's another signal of some kind of that capture. That's that's that's all I wanted to share is this argument that's put out by your hypothetical objector. It's out there, you know, who is not an, it's not ever tried to publish anything, but by God, they're an expert. And I deal with them all the time on LinkedIn and Twitter. But the objection that those data in that those meta analyses are not peer reviewed, and published, overlooks the fact that it has become insanely, um, you know, bizarrely in you can, you know, I know because I interact with my academic colleagues, but it's we've never encountered a situation like this, where it has become this difficult to get anything through peer review. And anything that has to do with repurpose drugs, is just almost impossible.
+
+Steve Kirsch 1:51:08
+But it's easy if you have a study where you claim that the repurposed drug doesn't work. So when you can get all
+
+Robert Malone 1:51:14
+that we call that a negative a negative reporting bias. And I think there is a number of instances that is that support. You know, there's the classically there's a positive reporting bias that negative studies never get published right
+
+Bret 1:51:29
+here. This is the opposite of you were classic pee hacking.
+
+Robert Malone 1:51:33
+Right? We have we have currently some pretty strong evidence that the script has been flipped.
+
+Bret 1:51:40
+Yep. Which is, it is another day. Well, you already evidence of some kind of corruption of the system. Right?
+
+Steve Kirsch 1:51:48
+Or it's just an anecdote.
+
+Bret 1:51:50
+Well, the point, you know, what it does is it says the deck is stacked against it, for some reason, for some reason that we don't need to know. We have to be
+
+Steve Kirsch 1:52:01
+well, I can't imagine what that would be. I want to say a few things.
+
+Bret 1:52:05
+Okay. I want to make sure that before we finish up that we cover the issue of reproductive harm, because I feel like
+
+Steve Kirsch 1:52:11
+Sure, yeah, yeah. So okay, so so let me just say, I've been saving this. So for inpi. So if you get hospitalized, I'm you know, like Robert just said, Oh, you know, the doctors or the front lines are they're coming up with innovative treatments. I found it's almost the reverse, because I someone called me because her husband was in one of our our hospitals, El Camino Hospital. And I she called me for help, because you know, he's, he was in bad shape is on ICU. And so I've known about these drugs, super hepcidin and inhaled adenosine. And both of these are like, like four separate hygiene 50% of the time you give this it's like it's an empty hit, like anti histamine, right? So it's really treat eight milligrams three times a day. And you go from and I posted on this on my Twitter account, you go from lungs, which are like dark, to fully clear in 48 hours. And the physician say, we've never seen anything like this happens about 50% of the time. And so I tried to get El Camino Hospital to do this. On on this patient. I said, I'm a friend of the, of the wife, she's authorized me to talk to you. I'm you know, we have and he said, Well, I have to get that IRB approved. And it was like a Saturday, so I had to reach out and, and contact the arm. You know, he doesn't need IRB approval. But he told me, hey, if you can get an IRB approved, I have no no trouble doing it. So I get the IRB approval. He's and the IRB guy says, you don't need IRB approval to repurpose drug. So I tell him that, he says, Well, let me check that. So he calls the guy just to verify that I was telling him the truth. And then he says, Yeah, but we're not going to do it. And I said, Well, why you don't hear all the papers? Here's all the justification. Why would you not do this? And he says, well, we're just not going to do it. We convinced the patient not to accept that therapy. And it's like, Here you go, and you give them the treatment on a silver platter, right? And they say, no, we're not going to do it. And that's the same thing for ivermectin, right, when people have gone to court, to force doctors to give ivermectin and the hospital doesn't want to do it because if the hospital gives a drug, which has not been approved by the NIH, they are liable if something happens, right? Because if they follow what the NIH says, then they're clean of liability. So the hospital actually doesn't want to give you stuff that would save your life. Because the NIH is keeping it from you. Hang on, hang on, Robert. I know you want to talk But hang on. The other thing is that In a pandemic, another solution rather than the ferrets and animals is just to doctors are always the outpatient doctors are always trying new things. And so if they reported in right to the FDA, that's all we need, right? Because you see all the data coming in and you can see Holy moly, the doctors that are giving the ivermectin flu vaccine, they've got like no hospitalization repeatedly and so you can see a signal there. And the final thing and then Robert, I'll let you talk is that is that Bruce Patterson is specializing in long haul COVID and he's found that there are four drugs that are effective for long haulers it's fluvoxamine ivermectin, Simba. Staton or Staton and Moran rock or Mirage, maybe I have problems with pronouncing it. Yeah. And those those four drugs, he's found that, well, some people need like these two and other people need these two and other people needed in this dose and so forth. And he measures that the biomarkers so he has a scientific way to tell which of those but those four drugs he says that if some if if one of his friends gets acute COVID, which means you got COVID he says if they take these four drugs, right, because he knows what works because long haul COVID is essentially Oh, I get to experiment on you until I cure you and the thing and then so he says, Hey, this works in the long haul. COVID then, isn't that interesting that ivermectin works in a que COVID and is an interesting that fluoxetine works. Thank you, COVID. So if I was running active six, I would take Bruce up on the offer, and I would use all four of these drugs.
+
+Robert Malone 1:56:43
+So I can speak to that. Okay. So you hit on three things. Let's see if I can remember active six was one, what is that? We'll get there. Okay. Um, one is the inherent paradox of the disincentives for hospitals. Yep. Okay. Right. Um, and I forget what the third one was. Um, so let me just do the two that I've got a notepad I can't remember. I'm on that the hospital has two components. And and oh, well, the third one is I just wanted to acknowledge what a pleasure it is interacting with you because you often Oh, I remember now the third one, you often independently arrive at the same position, which kind of is validating? Yeah. That that the team that I work with the do D comes to? Okay, I work closely with a team at the defense Threat Reduction agency in the joint science and technology office that is specifically focused on coming up with systems to allow rapid response for outbreaks and engineered pathogens for warfighters. That's our mission.
+
+Bret 1:57:50
+So I want to highlight something, what you said will be misinterpreted by some people, when somebody else arrives at the same position. Yes, that's very nice invalidating, but what you're really saying is, if somebody arrives at the same position from a different starting point, yes, it's very likely that that position has a great deal of merit, right, it's a signal that the thing is actually robust, because it doesn't matter where you start, you land there,
+
+Robert Malone 1:58:12
+just so we'll put Thank you. Okay, um, the comment that you made about setting up a system to enable patient patient reported outcomes and physician reported outcomes on a national or global basis, is a profound statement. We have nothing like that. My friends at the FDA also came to that conclusion, and they're frustrated because it doesn't exist. And we have, you know, you come from the Silicon Valley culture. And that culture gives us as a nation, some incredible tools, including machine learning, and artificial intelligence and deep learning. And if we were to set up a system, as you're proposing to enable distributed capture of primary reports, from practicing physicians, began then and then apply our amazing toolkit now, for analysis of that, it is probably one of the strongest things that we could do that would have the lowest cost in terms of being able to identify and discriminate signal and noise from not from novel intervention. So that's that one good job. We agree.
+
+Bret 1:59:38
+And if you did it here, if you had that in place here it would have identified a kit of it sounds like for drugs that between them are least sufficient, which is amazing because frankly, antivirals that actually work and are safe enough has been hard to come
+
+Robert Malone 1:59:53
+up with. Well, there's a reason for that we can unpack but let's not I want to get down but
+
+Bret 1:59:57
+amazing that with this pandemic, that actually sorry, Hospitals hospitals,
+
+Robert Malone 2:00:00
+you've identified one of the structural disincentives which is legal liability and remember who the The cops are that are enforcing this. It's administrators. It's not Doc's. Okay. So what you have is MBAs are not allowed to MBAs controlling the practice of medicine and the use of alternative drugs, the other disincentive they have. And this is this is really, you know, coming out of the federal treasury, this is coming out of your tax dollars. Okay, is that they don't make the same compensation. If, if they're, if they prescribe him disappear, you know, six or 8000 bucks pop for treatment course. Versus they prescribe ivermectin. Okay. bucks a dose. Okay. They're not making the same nickel. Right? So there is a there's a legal liability structural disincentive. Yeah. So this, and there is a financial disincentive. Right now, what was the third one we were talking about? The other big theme that you're hitting on, which I've now lost, because I got lost in the hospital where I was talking
+
+Bret 2:01:17
+about long COVID and the fact that it's a place to test you've got a bunch of different tools.
+
+Robert Malone 2:01:26
+So no, I've lost that. All right. All right. Well, hold
+
+Steve Kirsch 2:01:28
+on. Before I go on to reproductive,
+
+Bret 2:01:32
+we go to reproductive harms. Damn, I've now lost what I was gonna say, Oh, sorry. I'm sorry.
+
+Steve Kirsch 2:01:38
+You should, I could give you my my paper. But there's another drug which we funded the work on, which is gs 441524. And this is an antiviral. It's an In fact, sort of the precursor to remdesivir and it works really, really well. And but it's being pursued by Victoria yen who is just an individual and and so she's raised some money privately to do this. But it was it was a long hauler, essentially got the destruct and long hauler said, Oh my god, I have been a long hauler for like, six months, I have been in pain I can't get out of and a week, or, like, three days after taking this gs 4415 to four. She said, like, I have I like back to normal. I have never seen, you know, it's like, it was couldn't believe it. Right? You know, and, and gilliat is doing nothing right on this drug. I mean, it's crazy, and it's much safer than remdesivir, it's easier, much easier to produce. And yet, the gilliat has totally dropped the ball on this thing, which was transformative for this long haul.
+
+Bret 2:02:56
+So somehow there's enough bias in the system to shut down anything generic, cheap and safe, and to amplify things that are dangerous news still under patent.
+
+Robert Malone 2:03:05
+And it's multifactorial, right? It's
+
+Bret 2:03:08
+multi vector. Now here's the thing I forgot, I've come back with it. The I was talking to a PR Corey about this. There's something that bugs me about what doctors once were and what they've become. And my sense is doctors, you know, I use the example of frontier doctors when I was talking to him, frontier doctors had a lot fewer tools at their disposal, right, a lot less knowledge about what could be done a lot fewer drugs, right. But what they had was the ability to interact with patients, you know, the house call led you to see the context in which somebody was sick, led you to see the pattern of sickness in a neighborhood, right? There are all kinds of things that you might detect classical diagnosis, right. And the point is, doctors were scientists, right? They may have been informal scientists, but they were in a position to experiment and Tinker and you give the patient example offices, right? It doesn't realize that something's bugging in the back of your mind that actually this looks more like that. And so you try the thing that works on that. And lo and behold, the person gets better. That kind of scientific doctoring is shut down by exactly the processes, you're talking about the license, the liability sensitivity of the hospital, right? The the the FDA broadcasting, you know, checklists are on high. All of these things are resulting in the information that would be screaming at us if each doctor was having the same patients. And, you know, they sit down at lunch with their buddy and they say, you know, I've got this patient, I don't know what to do, oh, I had one of those. And here's what I did, and it worked. And then you know, the point is that was
+
+Robert Malone 2:04:36
+there. It's not only that it shut down structurally. But the new wrinkle now is communication about it is forbidden,
+
+Bret 2:04:44
+right? It prevents the natural accumulation of information.
+
+Steve Kirsch 2:04:49
+And people don't believe that too. And when I see like, there's a case of a doctor who I finally convinced to use for boxing, so he said, Okay, fine. I'll use it in my practice. It If you're over 65 Yeah, multiple risk factors and you have symptoms and you know, you're in bad shape, then only then will I use it. And it's this is like, Are you kidding me? Right? You're supposed to use it as soon as the patient presents, right? And you're supposed to use it even you should be even using it on kids. Because, I mean, the tragedy is that I, there's a doctor I know that said, Oh, you're a kid, I'm not going to give you anything. Well, fluoxetine is really, you know, a very mild drug. And what happened is that the there's the 17 year old developed Tourette's Syndrome as a result of the long haul COVID. And had and so this doctor said, Okay, I learned my lesson, I'm going to treat even the kids and so you know, you have the physicians who are like, oh, can't do any harm will only treat you if you're necessary. But this is a virus you always treat viruses early, quickly. It's like It's like, if you had a fire right here on your laptop, you'd be like, like, we need a randomized control trial, like see if water would help, right? No, no. You take the glass of water and put out the fire. You wouldn't like wait, and wait and wait and wait. Oh, yeah, it's really big now, right? Y'all call the fire department. I
+
+Bret 2:06:14
+want to push back in one place. Okay. It's not serious push back. If you found is right. I'm compelled that we've got multiple drugs that work. Okay. I'm a little nervous about fluvoxamine because it's an SSRI. And so I know it's gonna have cognitive implications. Not not in 14 days, maybe not. But the point is, I'm a little cautious about it, because I know it's interacting with systems that we ideally would like not Don't,
+
+Steve Kirsch 2:06:35
+don't don't, yeah, don't don't take coffee when you're taking full blocks. I mean, okay, but
+
+Bret 2:06:39
+but here's my point, right? We've got a drug that seems to have no serious interactions with other systems. And so it should be your go to first if you've got fog, maybe
+
+Steve Kirsch 2:06:50
+No, no, no, no, no, no, no. And the reason for that, is that this you're you're thinking that this virus should be treated, you know, tenderly and gingerly. And let's only put, you know remember David, whoa. You remember David hold, right?
+
+Robert Malone 2:07:07
+aids, the guy that came Oh, yeah. lt drug combinations rates. It's really
+
+Bret 2:07:12
+hard. The
+
+Steve Kirsch 2:07:13
+and and so the point is that COVID is so deceptive.
+
+Bret 2:07:17
+It's not it's not the right analogy. And here's why. Okay, here's why. Because the the problem with AIDS was as a retrovirus, you had an impossibly fast rate of evolution. And so the reason you hit it with three drugs is that it can evolve in three directions at once. Yeah, right. And so the point is, it's like, you know, one of these military things where you've got guns on three islands, it stifles the enemy. In this case, there's no evidence that I'm aware of that there's actually any evolution away from the kind of protection you get from ivermectin. And so the point so if I ever met him,
+
+Steve Kirsch 2:07:55
+No, no, no, no, no, here's, here's okay. So here's my counter argument. Okay. Robert, you can go next. Okay. So my counter argument is this. So let's, let's take an anecdote. Okay. Let's take Dr. Drew, Dr. Drew, he's a doctor. He know, he knows what he's doing. He got COVID and he went for the the monoclonal he got it early. And he went for ivermectin. Okay, wait, wait, wait. He went for the monoclonal and he went for ivermectin. Yeah, that's what that was a stream engine to flock to me at all. Guess what happened to him?
+
+Bret 2:08:30
+While I'm trying to figure out whether there's any reason to expect I don't think that the monoclonal is going to interact with the ivermectin? No,
+
+Steve Kirsch 2:08:37
+it doesn't point no. Same thing. It doesn't Yeah, right. Okay, because the I think the antiviral for ivermectin is is fairly modest, but, okay. So he took those two drugs. Yeah, guess what happened? He kept getting sick. No, he Well, he ended up with long haul COVID. Okay, so the point is that we this is a very, very serious virus, and people are treating it like it's a regular virus. Okay. Now, I agree with you about HIV and how it's different. But David hos point should still be the same for this virus in that we should not go and say unlike like undertreated we should. If we have safe right, on error in an oven, right, and so so in the, in the pure corys flcc protocol, they say, well start with ivermectin. But if you're getting worse over two days, then give the flu vaccine. And that's not right. Because flu vaccine is it's not the mental drug. It's, it activates sigma one which calms down the inflammation. And the thing you do not want is inflammation in the brain. Yep. And this is what Dr. Drew suffered from. So yes, ivermectin is great, but it's not 100%. Yeah, and once we have a combo Which is 100%? Then we can go and say, Okay, we're done. Right? You know,
+
+Bret 2:10:06
+you've compelled me, right. Okay, the answer is my concern, which is real is minor in comparison to the hazard of COVID.
+
+Steve Kirsch 2:10:16
+Correct? Because Because he, he was, he was in terrible shape. Yeah. Okay. And, and I said, Look, Dr. Dre should try the philosophy, right? And I kept beating on him. Like, every time I was on a show, it was like, and he finally got the flu vaccine. Yeah. And he said, Wow, this is like really game changing. And I said, Yeah, you know, doctors are the worst patients, aren't they? Right? So the point is that treat this virus, like, like your life depended on it because you don't want to have any kind of, of inflammation in your brain.
+
+Bret 2:10:52
+All right, so I'm compelled. And I would say ivermectin, as a prophylactic, I think that's a slam dunk, treating it with the drugs. You've got that work in some reasonable combination. Slam Dunk, Robert.
+
+Robert Malone 2:11:01
+The third point was active six. Okay. All right. Okay. And it's germane, it's, it's germane to this, okay. Okay. A statement was, Steve suggested the obvious. Why don't you do trials with these drug combinations? Okay. After success. All right. So agents, so for me, this isn't a theoretical, I'm living it. I've been living it for the last nine months. Okay, I've been trying to advance a two drug and three drugs strategy with the US government funding through the FDA because my, the source of this capital is coming through the Department of Defense, we have to be very rigorous about ensuring human subjects safety, FDA compliance, all that good. We got to do everything by the book. That's the way it is and the D o t these days, like it used to be okay. We're really rigorous. So we're living. I can tell you that the barriers to proceeding with clinical research in either inpatient or outpatient environments for repurposed multi drug strategies are immense. The agency is requiring that we do the full portfolio of drug interaction studies before we are allowed to proceed. That's nine to 12 months worth of stuff. And in our case, it's for drug combinations that we already have data on substantial numbers of patients because of the things I was talking about. docs tinkering. Okay. Um, so this, this idea, which is totally valid is guided us from the get go, that we would build, we would learn from David Whoa. And we would use a multi drug strategy in this case for repurpose drugs. What we have is a rich library of capabilities relates to anti inflammatories, almost all the agents you've been talking about, are acting at the level of anti inflammatories, not antivirals. Why are we not focused on antivirals? Okay, Tamiflu is the best way I can express that the history long history of coming up with strategies for treating pulmonary viral infections, at the level of an antiviral agent is horrible. It basically doesn't work. It's a strategy that doesn't work. Why not? Because it's too hard to get it early. And that's what you got to do. Yeah, yeah. Okay. And what what you're doing with blue box mean, what we're doing with our agents that we're trying to get through the FDA, and perhaps we'll launch in India soon, is that we're attacking the second phase. COVID is a hyper inflammatory response. It's not the virus that kills you, is your response to the virus. Okay. And the good news, the, the, I'm sorry, I'm gonna criticize Tony. I didn't want to go there. The The, the thought leaders that have set public strategy in the drug space, have decided to a large part to emphasize direct acting antivirals. And they have sought to test those most often in a late stage combat environment. And like severe hospitalized, cause that makes no sense in well, more importantly, didn't work. But
+
+Bret 2:14:33
+but it gives it gives you the faulty signal that there's some ambiguity. I mean, I've seen this in the ivermectin data where the point is, the studies vary. And if it takes you five days to get to the patient, then of course the signal is weak.
+
+Robert Malone 2:14:46
+And if you're giving insufficient drug and you're only giving it for one day, and I'm ivermectin, so I, in my correspondence with the agency on advocating for an ivermectin containing arm in this study, I had to write the section about the justification for mechanism of action of ivermectin. And just to illustrate the point. Okay, so this is this is I've never disclosed this publicly, I don't have actually authorization to say so so maybe I shouldn't. But the truth is that I wrote this big long section summarize the different potential mechanisms of action of ivermectin, most of which are anti inflammatory. The agency wrote back and said, You have to do the studies in cell culture to prove the mechanism of action before we will allow you to proceed with the trial. Yeah, I mean, it's our decision was to just drop it. Yeah, it's crazy. And it's well, that it's, it's, it's at this point of another data point. Yeah.
+
+Steve Kirsch 2:15:43
+And there's so many, there's so many examples of that, like Lauren, the mob, right? Yes, the Lauren lumads
+
+Bret 2:15:48
+story is alright, so Gentlemen, I have to agree I have to put a signpost here. Okay, we are running up against time. And there are some things that I think we really want to cover to make sure that they are here, the ones on my agenda, I want to talk a little bit about the various different hazards from this vaccine. We've talked a lot about the damage that people suffer. But there are a couple other hazards and I want to while we have you here, I want to just get your impression about whether these things are something we need to worry about or not. And I think we ought to talk about the reproductive harm because this is an entirely separate realm where it's not you don't necessarily die. But if you lose your ability to reproduce, or you lose a or in the following generation, right? We don't know. And so anyway, that's it's well worth covering, because the signal there is very clear to I believe, yep. Okay, so what should we want to do? First, you wanna do the reproductive. In fact, I can bring up that graph, which will show you why this is an issue. graph from your paper. Sorry,
+
+Steve Kirsch 2:16:54
+the producer of the dark first cloud can't log in. He doesn't know his password. Just for the audience. Give me a little
+
+Bret 2:17:02
+I think it may have had with my not wearing my glasses. All right. Okay. So scroll down your
+
+Steve Kirsch 2:17:10
+page. And so are we actually looking
+
+Bret 2:17:14
+showing more? There we go. Here's the graph. And what this is you want to set this
+
+Steve Kirsch 2:17:18
+up? Sure. So and we brought we're Oh, wait, no,
+
+Bret 2:17:22
+they can't see a damn thing. All right. What am I doing? Yeah, I'm gonna put on my glasses.
+
+Steve Kirsch 2:17:28
+Look at this cheat sheet. Yes,
+
+Bret 2:17:30
+I do. My son created this so that I would look like an expert. Oh, there we
+
+Steve Kirsch 2:17:34
+go. There you go. Okay. So, um, by rum brittle. I did a freedom of action request of the Japanese government for the Pfizer data. And he got a biodistribution chart. And I've, I'm pretty sure I linked to the original data in my paper. And this graph was created from that Pfizer data. So this is not the Pfizer data itself from the Pfizer study. This is a graph and people have double checked and triple check this.
+
+Robert Malone 2:18:16
+It's a summary graphic.
+
+Steve Kirsch 2:18:17
+Sorry, Greg. So that you I have really, I did
+
+Robert Malone 2:18:20
+review the primary data. And I concur that the primary data is consistent with the graph that you have nicely summarized, right.
+
+Steve Kirsch 2:18:29
+And so what you see from this graph, is that when you inject in the shoulder, it these
+
+Robert Malone 2:18:37
+Do you want to walk through the teach the listener? How it shows them? How it shows where Yeah, what you're saying. So
+
+Bret 2:18:45
+yeah, some of these people, some people will just listen to this. So what we're looking at is a graph of different lines of concentration of spike protein, in various no shoes.
+
+Steve Kirsch 2:18:56
+Yes, it's a lipid nanoparticle.
+
+Bret 2:18:58
+Oh, it's the living nanoparticle, which is the delivery delivery mechanism, right?
+
+Steve Kirsch 2:19:01
+It's like It's like the Fed is it is the drug? Well, for people, it's the box. It's the box in which the mRNA for
+
+Bret 2:19:09
+the drug. So the mRNA is what causes the manufacture of the spike protein. But if you find the lipid nanoparticles that tells you that your drug got to this location, right?
+
+Steve Kirsch 2:19:17
+It's the delivery box, effectively, it's the FedEx Delivery box that that has the mRNA inside this,
+
+Bret 2:19:22
+this is you're exactly right. This is the lipid component. Yeah, that does the delivery. Okay, so good. So what we've got here are different lines that tell you over time from a quarter of an hour to 48 hours, where you find what the concentration in various tissues are and you've got some strong signals here. You've got it in whole blood not surprisingly, over the first four hours in other words, it's moving around it's circulating
+
+Robert Malone 2:19:50
+that in and of itself is unusual and should be it wasn't it wasn't so so the Forgive me, I'm just to get a little more precise. We've administered by needle into the deltoid of this complex. Yeah. And you're just tracking the lipid part of it. Now, there's also an RNA part of it. But as you say, it quickly moves into the blood. Plasma is the cell free fraction. That's the yellow mustard line. And the grey line is whole blood. So that includes the cellular part of blood. Yeah. Okay, carry on. Okay, and then
+
+Bret 2:20:27
+we get lines that rise. So all of these things decline as basically this diffuses through the body, which actually is not what you would hope you would hope it would stay in the arm, but it's basically diffusing through the body. So concentrations are dropping as it gets more and more evenly distributed. And then concentrations are rising conspicuously in two places, as we close in 48 hours. One of them is in the ovaries where it goes sky high, that's really frightened. Anybody that's looked at this data says, Yeah, that that is a very,
+
+Steve Kirsch 2:20:58
+and and it's the cognitive dissonance between what the CDC says is that this is safe for pregnant women, right? This is perfectly safe. And it's on the CDC website. It's unbelievable.
+
+Bret 2:21:09
+At some level, it's not safe for women at all. I mean, this is this is right. Before we interpret the data, let's make sure your listeners understand that Okay, so the ovaries show a high concentration for whatever reason, it's ending up in the ovaries of preferentially Yes, the lip is ending up there. And then the other place that we have a signal, which I think suggests something we need to worry further down the road, you tell me, Robert, if I'm on the right track here or not, but the fact that it shows up concentrating in bone marrow, bad news, actually, that suggests that you could end up with I'm not saying this is going to happen, but I'm saying we need to look for something like leukemias showing up here because of their creation and bone marrow. I know from other work, that it also seems to show up preferentially in in lymph nodes, which raises the question of whether or not lymphomas might be created. In any case, these are possible long term effects that we have no way of knowing don't arise because these things have not been injected into people for more than a year. So
+
+Robert Malone 2:22:12
+so we have two adverse event signals that are starting to become apparent my friends at the FDA Tell me Okay, that are relevant to what you're saying you're focusing on bone marrow. So typically a plastic anemia, leukemia, lymphoma, those kinds of things might if if there are is going to be is going to be a signal. We might see it six months, three years, nine years. Okay. cartel because this is a progression of cancer that often requires multiple mutations. Yep. Okay. So so let's just park that Yeah, um, it's a risk it is a risk that should be monitored, what
+
+Bret 2:22:54
+ways that you said you said somebody is beginning to see a signal of something, but I didn't get what it was. Yeah,
+
+Robert Malone 2:22:59
+so I was gonna get into the okay. There's two signals that are starting to come in. We don't have time to go into the nuance of how come it takes so long for them to figure out what's going on. Okay. But one of them is thrombocytopenia. That's not having the platelets Okay, okay. What is your manufactured in the bone marrow, which are manufactured so right now we're focusing on bone marrow signals, okay? thrombocytopenia is one of them. Another one that is very hard to understand that starting to come up in the database is reactivation of latent viruses. Okay, so this is single singles is an example of that, but there are many others and there's something in the literature about reactivation of human latent human retroviruses. Okay, so it is it is there anomalous findings cropping up in and I concur that it was when I received these data to evaluate, gave you that whole story. Okay. Those are two of the things and by the way, what's really odd to me about the ovarian signal is there's no signal on the testis, right? It's very low. And a colleague of mine, Dr. Kevin tomarrow, has done a lot of thinking and reading about that because it bothers him to his urologists. So he kind of specializes in the male reproductive system. And he has some theories having to do with CHARGE associated because these are charged lipids. So there are particular features of the ovary that may end as opposed to the test is that may explain some of this, but it doesn't get us away from the two core things. Number one. This was known with the original data packages, the Japanese data packages, essentially Li a historic document. It's different from what the FDA is currently looking at. So this is these data have been out there a long time. And yes, we have a whole lot of messaging, not in public view. It within the purview, the confidential regulators protected, not does this come out? And this is coming out of the regulators across the world,
+
+Steve Kirsch 2:25:21
+but not but yeah,
+
+Robert Malone 2:25:22
+this was this this messaging that confidential. So
+
+Bret 2:25:26
+let's just yeah, that messaging was inconsistent with the signals that were apparent, at least inside of the regulators in the data, the data, yeah. Okay. So they know we've got potential long term, if we got short term implications in the bone marrow, we've got potential long term implications in the bone marrow, we have short term implications in the ovaries, we've got potential long term implications. I would add to the list what I've been worried about most from the beginning, are autoimmune disorders that might show up in the long term. Is that possible?
+
+Robert Malone 2:25:56
+As I, we talked about this earlier on in, for me, it's less the lipid component, although that certainly has merit or autoimmune. It's more the circulating free spike protein, which we didn't expect in in the literature. And we were the developers assured us, this would not happen. The literature suggested we would not have free spike. Yeah. And then Harvard and Brigham did a study in nurses and lo and behold, we clearly have free spike after vaccination. And that has a whole other set of implications, but auto immune, development of autoimmune disease against complexes of foreign protein plus normal human proteins is certainly something that you'd have to monitor for, as we were discussing, the way that that's, that's part of the reason why you typically want a two to three year follow up period on the initial group of phase three patients to make sure that autoimmune consequences don't develop because they typically take time.
+
+Steve Kirsch 2:26:56
+Right? And this is why, you know, they always say that there's no such thing as a vaccine that was that is developed fast, you know, that like the fastest we've ever developed a vaccine has been like, what, like seven years or?
+
+Robert Malone 2:27:07
+Yeah, probably if we unless we go back mid century when things were loose last, right.
+
+Steve Kirsch 2:27:12
+But there's a reason for that. It's not just that, okay, well, we didn't have the taken away, we have better technology now, we still need to be able to see what the long term effects is on the 12 year old
+
+Bret 2:27:22
+time. And in fact, you can use animal models to do that. And the assumptions on which the animal models bring these things to light our fault, right? And
+
+Steve Kirsch 2:27:28
+how do you Well,
+
+Robert Malone 2:27:31
+what you what the animal models give us is a signal that alerts us to things that we need to follow up on carefully in humans.
+
+Bret 2:27:38
+Yes. Okay, so so hold on. So just to make this this segment clear, okay. We've got very alarming short term stuff. We've got short term stuff that is alarming on the basis of where we find these lipids, where we find the spike proteins, those things are reasons for concern because it wasn't supposed to be this way. We've also got an alarming signal in terms of the hazards and deaths are the harms and the deaths that are reported in the system. And there's a reason to think that those are dramatic under reports.
+
+Steve Kirsch 2:28:08
+Yes, and they're all consistent with this five distribution parts
+
+Bret 2:28:11
+of the harm equation. Okay, the harm equation involves there appears to be short term harm being done at an alarming level. Long term harm is quite plausible, based on what we already know about what's taking place. But we of course, are going to take time to figure out whether it's
+
+Steve Kirsch 2:28:24
+find out and then it's going to be too late. You can never you can never, you can vaccinate yourself, but you can never vaccinate.
+
+Bret 2:28:30
+Okay, so then there are two other harms that are potentially involved in this vaccine. I wanted to get your input on whether it's worth worrying about these things. One of them in as made famous by Garrett Vanden Bush, who was a guest on this program is the hazard of the vaccines because they create a very concentrated evolutionary push on Spike protein along that vaccinating into a pandemic, rather than in advance of the pandemic is liable to cause the evolution of escape mutants, and that it could in fact, make a much worse pandemic in the end.
+
+Robert Malone 2:29:07
+So this isn't a theoretical, this is a real, it's real. We already have the data. What does that mean? We are having escaped mutants arise all over the place.
+
+Bret 2:29:18
+Yeah. And you believe it is caused by the vaccines.
+
+Robert Malone 2:29:21
+So I can't I can't so because we got two variables going on at the same time. We've got vaccination, we got natural infection. Yeah. But in my mind, I mean, the data, the data are in Yep, um, the escape mutants are happening. Yep. Um, the, we have focused on the spike domains that are associated with escape from the vaccine domains. We have neglected to focus as a community on the other mutations that We're also accumulating. So that's that's kind of a sampling or selection bias that we have ongoing because it's what we're focused on the vaccines, but it's not the only thing that's changing. This is you mentioned HIV super example. HIV evolves during its infection of each separate patient, single stranded, amino stranded. So RNA is a virologist, in in there some veterinary biologists that are speaking about this, too. This is, for those of us who were hardcore biologists and vaccinology. us. This is accepted wisdom. Yep, this is just the way things are. And we're going to live with it in this kind of gets to my point that I made earlier, when I objected a little bit to some of the statements. In my opinion, we're stuck with this virus, or its downstream variants pretty much for the rest of our lives, it's going to become more like a flu, in the sense of we will have continuing evolution and continuing circulation of variants of this belief that that is in escapable.
+
+Bret 2:31:11
+Well, so I would argue, based on what I understand that that might happen, I've worried about it from the beginning, that the likelihood of it happening has to do with the fact that we botched the early response, and therefore gave it a large Canvas in which to experiment true. But I don't I don't, I haven't seen anything yet. That tells me that we couldn't if we got on this now that we couldn't stamp it out in two months, three months of concerted except
+
+Robert Malone 2:31:37
+for the experience of actually trying to do that with polio and smallpox. But But I'm glad to concede your optimism. Okay, I hope you're right. And I'm wrong. Good. It would be it would be a shame not to try
+
+Steve Kirsch 2:31:50
+it, you know, I'm not sure that's gonna happen with Tony Fauci. No,
+
+Bret 2:31:53
+no, I got a plan. You'll see. Okay. All right. So we've got to two pieces of this puzzle, we've got short term long term actual harm to patient, we've got epidemiological risk of the evolution of escape mutants. And then the third category that I wonder if we should worry about has to do with antibody dependent enhancement, right. And so for you, it was coming from my listeners who don't know what that is. And you can correct me if I'm wrong, but the basic point is, antibodies are complex proteins. They're a series of proteins linked together, they basically function by the tips of a y shaped thing that you've probably seen on various sites or whatever. That y shaped thing sticks based on the electromagnetic affinities of the tips to very specific objects that have the inverse set of charges are roughly the inverse set of charges. And there's some evolution that causes that sticking to get better and better. So our vaccines train the antibodies in the cells with receptors that are like antibodies to better and better recognized very good. So
+
+Robert Malone 2:32:56
+bad. Yeah, I tried to dumb it down a lot. And I talked about job I talk about a fork.
+
+Bret 2:33:01
+Well, I was for a long time. Anyway, so this is all true. But the point is, and my wife and I have a saying that we every time we get to some weird, unexpected thing. In this landscape, we say welcome to complex systems, because you don't always you know, there's the immunology is the ultimate complex system, we've got an immune system, which is a complex system inside a human, which is a complex system inside of civilization where there's an epidemic, which is a complicated and that's it's a very difficult puzzle. But yeah, anyway, the antibodies stick to the antigens, and in sticking to the antigens, the general thing, and what we hope is that they block the interaction of those, you know, the spike protein, for example, the stairs to with the h2 receptor, and then the virus can't get into the cell. That's what we hope. But it is also possible because really, what we're talking about is stuff that sticks to other stuff, but it can stick in a way that actually enhances the infectivity, right. So they're the fact that we don't control what happens after we introduce the immune system to the antigen and that the evolution can produce things with unpredictable effects can result in exactly the opposite. And in fact, this is not just a theoretical possibility. This is something we've actually seen, and I believe we've seen it with mRNA vaccines.
+
+Robert Malone 2:34:15
+Okay, so the credo Is that right? So there haven't been any mRNA vaccines and other creatures, we are the first creatures that has been tried to theirs does that. Okay, okay. Okay, but what you're talking about, um, when I so we've been writing and trying to get published papers about this, kind of from the beginning. It's not purely theoretical. It is the basis for dengue hemorrhagic fever. Okay, so it's not what he's talking about isn't something that he's just come up with out of his mind. It's, it's, it's actually the basis for one of the major viral diseases so this is why the second bout a decade's worth. That is precisely it, especially It has to be a different strain and and there's a whole, it's a lovely, it's if you want to understand the interaction of ideology and immunology, dengie is a super way to dive into that world. But, um, one of the nuances that that you almost got to um, if, if so I'm going to go to my metaphor of the fork, okay. And so the tines of a fork, if you think about that are akin to the sticky part of the antibody that he's talking about. But the fork has a tail the handle that we hold on to, okay, that tail is not there just for nothing. Okay, that tail has its own cool, evolved, neat stuff that it does. Okay. And one of the things that it does is it sticks to specific evolved receptors, it's called the FC region, because it's the constant region of the antibody, the tines are variable, as you say. So the part that sticks out, has a receptor that it binds to. Okay, receptors present in cells that normally can't be infected by this virus, dendritic cells and macrophage, which, by the way, go to lymph nodes and travel around all over the body and are totally central to our ability to generate an immune response. And one of the things with that happens with certain types, because there are different types of antibody dependent enhancement, but if the word antibody, so that's the fork dependent, this won't happen without it enhancement. What is being enhanced? What's being enhanced is infection and virus replication. How is that happening? How is the presence of an antibody increasing the ability of the virus to infect something else when it's blocking the virus, because what happens is that essentially that handle of the fork can now interact with the FC receptors on macrophages, dendritic cells and other antigen presenting cells and enable that virus to come into those cells that would normally not be able to infect. And those cells travel all over the bodies or immune cells. These are the cells responsible for presenting antigen and so what you what you happen, what you have happened with antibody dependent enhancement, is you can get an explosive increase not only in virus replication, but an activation of inflammatory responses, which happens about seven days after the infection. Okay, so hold hand all of the prior all of the prior vaccines that have been developed largely for veterinary purposes. And all of the prior attempts to develop human Coronavirus vaccines have failed due to AD E. That's one of the things that's really interesting. Really interesting about the current ones. is they are showing so much efficacy is the reason why I wouldn't take vaccine for a long time, is I was watching for an ad e signal. I'm not seeing it. We're all looking for it. That's good. We're not seeing what what
+
+Steve Kirsch 2:38:20
+did you get vaccinated? See, I got vaccinated because I didn't know any of this. I assumed that what I was being told is the truth. Nobody was dying, and everything was safe. And it was safe and effective that I was told that and I trusted the authorities. And I you know, was just like that. And then when I discovered, you know, my little, you know, 10 I mean, you know, popped up and discovered well, confirmation of hypotheses, you took the red pill. I've always had the red pill. But, you know, on this one, I said, you know, there's only so much you can question. Right? And when has the CDC ever, you know, misled
+
+Robert Malone 2:39:01
+Oh, I can't and I can't blame us. I can't blame ignorance. I'm a bona fide expert. Right. Okay.
+
+Steve Kirsch 2:39:06
+Right. So how did you so so so he didn't know about the Bible distribution? We didn't know about the free one we didn't know.
+
+Robert Malone 2:39:13
+Okay, so so
+
+Steve Kirsch 2:39:14
+you're about the path that you know, that's pathogenic. So
+
+Robert Malone 2:39:16
+why did it take the vaccine? Yeah, why did why did you? Okay, two reasons. I met him and no, it's I'm finally totally, you know, I'm totally transparent about it and have been in multiple other podcasts and online. Okay, there's two reasons. And I, I waited, I would not get involved early on. Because I knew that it was going to take time for the ad a signal to either be proven or not revealed. Yep. Okay. So I came to the conclusion, it's been enough time we're not seeing the ADC signal. And I don't have to worry about that too much. Remember, I'm along COVID? Yeah, there was a lot of reports popping up about vaccines helping with long Kava Oh, that and number two, I need to travel. Right. Right. And you're forced the rules. The rules are the rules that are emerging, particularly if you want to go to Europe or offshore, which is crazy. You got to have well, it is what it is. Yeah. You know, I mean, I live in the real world to travel from COVID. So the reason I, the reason my wife and I both took vaccines, because she's also a vaccine expert. The reason my wife and I bought Madonna, the highest dose, right, the one that the one frankly, the one that I advise everybody, don't take minturn if you're going to take anything, take Pfizer. Okay, that was been my advice again, and again. But it wasn't an option for me where I live in Virginia. Yeah.
+
+Steve Kirsch 2:40:43
+So, by the way, what do you what I took? Yeah, they never did any dosing studies to find out whether they were overdosing notice.
+
+Bret 2:40:52
+So hold on, I want to just collect our gains here. Okay. We've got two kinds of harm to patients short term and long term. Both of these are alarming. They're worrying from what we already know, you've got the possibility of the driving of escape mutants for which we know that we were getting escaped mutants, and we don't know to what degree that is responses to the vaccine, but it's at least quite plausible. And then we have the risk of a D, which it turns out, we
+
+Robert Malone 2:41:15
+don't have the signal for so that's good. Yeah. Currently, yeah. So far, but that's great. Okay. So I think that's a pretty good encapsulation of like worries in this neighborhood that are the one that that was unexpected as the coagulopathy associated with the ad, no vector. Okay, that that one was out of the blue. So the coagulation problems, which are almost the, one of the central hallmarks of COVID disease,
+
+Bret 2:41:42
+right? So am I wrong to think that that's just more spike proteins that
+
+Robert Malone 2:41:46
+are toxic? I think it's a plausible hypothesis. Okay.
+
+Bret 2:41:50
+All right. So wait, which
+
+Steve Kirsch 2:41:51
+means in English, he means that means he agrees? No, it means he's a scientist. Yeah, we I'm translating it for the non scientists. And
+
+Bret 2:42:02
+the tone in your voice suggested there's not another obvious more plausible hypothesis
+
+Robert Malone 2:42:07
+I
+
+Steve Kirsch 2:42:09
+fail to I
+
+Robert Malone 2:42:10
+it is, I think it is the most compelling current hypothesis that I know. Okay.
+
+Bret 2:42:15
+All right. So I think we have taken care of the big pieces of the puzzle that I was hoping to hit aside from the one where we save the Earth from COVID. Are there things on your agenda
+
+Robert Malone 2:42:28
+that you knew you wanted to talk a little more about the repro talks? Yes.
+
+Bret 2:42:32
+Well, indeed. So we did it. But yeah, what is it? What should people be thinking about the fact that we at least know that
+
+Robert Malone 2:42:39
+so that the thing that this signal about the relative concentration of these novel lipids that we've never had before in humans, that we don't have long exposure to in animals, and the signal in this limited rodent study, hopefully that which was not done under good laboratory practices?
+
+Steve Kirsch 2:43:04
+It was not up to real not up
+
+Robert Malone 2:43:07
+to the prime it wasn't even the RNA encoding spike,
+
+Steve Kirsch 2:43:11
+right? And you couldn't? Because you want to find out what were the spike actually, what
+
+Robert Malone 2:43:16
+but I spoke to remember I spoke to the director CBRE about all this. And he said, you know, that was then we have a new data package now. And please allow us the respect to evaluate it. Okay. And I'm Peter marks is among the best we have at the FDA. Okay, he's, he's time tested, he's smart. He has integrity. He asked me to allow them the respect to evaluate the product. And, and I think we got a got to give that but if we go off the data that the Canadians provided to us from that package, that shows the graph that you just showed, we have concentration in ovarian tissue of a novel, lipid reagent that is previously untested and has some very unique characteristics. It's an ionizable ketogenic lipid. We just don't know what that means. Here's the thing. Um, when I first started, when I first trained about what the history of the FDA is, the thing that is the hallmark of the modern FDA, is the response to thalidomide. Okay, and, um, that has guided the whole legislative structure and, and organizational structure, the FDA. That's all about reproductive toxicity and potential consequences in terms of birth defects. And I hope that Pfizer has submitted to Peter A comprehensive gene atop toxicity and reproductive toxicity panel in the non clinical studies, but even then, rats are not humans. And in what we've learned is that reproductive risks don't always manifest in the first generation. So I don't mean to scare, but I do mean to speak, honestly, and with integrity. And I think the, the, the honest position is, if you were to ask me, Robert, do you know what the reproductive consequences are for this signal? I have to tell you, no, I don't because we don't have the data. And and if He then asked me, has there been any examples in the past, have reproductive effects of agents in female reproductive tissue that were not anticipated? By the animal model? testing? I would have to say, Yes, there is. So I think my position on all this goes back to the bioethics, if you'll forgive me, there has to be full and open disclosure. I think we owe it, we do owe it to people to to the audience, to those of us who were facing this crisis, and wanting to do the right thing. I think we, this gets back to it's your body. I think that the burden is on the government not to tell us what to do, but to convince us based on the information what to do. And I think that they have an obligation, they do have an obligation. This goes back to the bedrocks of bio ethics to full in open disclosure. And I'm in the case of the potential reproductive implications of this aggregating signal in a female reproductive tissue. Um, I think that there needs to be transparency. And I think that we have to not assume that reports such as dysmenorrhea, which are occurring in you can appreciate if you're a young woman in you're having menstrual irregularities, it's kind of embarrassing socially to talk about it, and you're not going to rush off to the internet and go post it, even if you're a millennial. And I don't think so. I think that we that we, as a public health community, if I can speak for the public health community,
+
+Robert Malone 2:47:55
+really should err on the side of transparency and disclosure. And trust the American people and the people all over the world, the adults who are competent to make decisions, to make decisions for their own health. And for those adolescents, and infants and youth. Remember, they cannot give informed consent. They can't by definition, the only people that can give it forum are their parents and their guardians. And I do feel pretty strongly that these things that I hear about now in multiple cultures, the strategy we're going to give out ice cream, to get the kids to get vaccinated. That's just wrong. Yeah.
+
+Bret 2:48:44
+Now it's, it's tantamount to evil in light of the hutzpah, very scary implications of,
+
+Robert Malone 2:48:52
+we're gonna, we're gonna look back, we're gonna look back, you know, there's been times when, as a culture facing is, you know, many cultures facing major crises, war and other things, where there's been decisions made to cross ethical lines. And you know, in US history recently, in our experience in World War Two, we had the internment camps. Germany's had their experiences, heavens knows. And it's easy in the fog of war. And I can tell you from being on the front lines of outbreak response, it is like war. And I'm, it's easy to make judgment calls where you say that the the benefits merit compromising some of our core ethical principles. And invariably, in retrospect, we end up saying that was a mistake. Yep. And I'm gonna leave it at that.
+
+Bret 2:49:51
+All right. So I think you have a last point you want to make and then I will deploy my plan and we'll see how that goes. Well.
+
+Steve Kirsch 2:50:01
+Look, knowing what I know, today, if I had known what I know today, I never would have vaccinated my three young daughters, I would have done whatever I could, you know, they're of age, they can decide for themselves. But I would have done everything in my power to have tried to change their minds. And I don't have any boys. But if it were my children, I would do whatever I could to do that. I think it's, I do not understand this push to, let's get this, let's accelerate the approval of this, of this experiment and to experiment on our kids is to me, and the what really frustrates me is I have I know, one of the cabinet members of the Biden ministration. And I brought this to his attention numerous times. And he has tried to get the attention of the proper people. And I hear crickets and Bell doesn't ring it. It doesn't register because it's against the narrative. Yep. And there's a reason for that. It's, it's like, and I because I sent it to a friend of mine yesterday, and I said, Hey, can you get the, you know, I tried the secretary, and he was unable to get it to Biden's attention.
+
+Steve Kirsch 2:51:30
+Could you at least get it to and mentioned someone who's a top staffer of Pelosi? And so he looked at the document he spent probably spent two minutes looking at it. And he said, Steve, I love you. I've known you for a long time. You're a great guy. But it I mean, I should show you the email, but it ended with and you probably don't think that there was an attack on January 6. And that is just, you know, it's like, Look, it's gaslighting. Yeah. If you if you want to criticize what I've written, please tell me what's wrong. And I'll fix it. And and I said, so you just so tell me the truth. You just deleted it when when you saw it. He said, No, I didn't delete it. I kept it around. But I didn't forward it. Like he said he would. He said for it to me, I will send it to so just, you know, cowardice. Yeah, I mean, this is important, right? I might, I might be right on this. And everything I've seen, every single thing I've seen from talking to the paramedics, from talking to the doctor, seeing doctors fired, seeing paramedics intimidated, you know, seeing my friends doing the next door surveys, every single time I try to look for, oh, maybe you know, are they right? And I get nothing i get i get confirmation, the more I've learned, and for me to try to convince an academic Oh, and his argument was, Steve, you must be wrong. Because all the academics say that it's safe and effective, right? And you see these posts from, you know, I commented on a post from one of the doctors at UCSF who says, I'm going to vaccinate my kid. And I said, Well, you should look at this first. And, and so my friend's comment was, look, this is like global warming and so there's the global warming deniers and they're you know, deniers of you know what happens when it's tribal he goes and he says that he says blood drive you're up against all everybody else says that it's safe and effective. All the academics say it's safe and effective. No one is raising any alarms. And so it's basically they're saying like, there's something wrong with you. And in fact, right after by room's presentation, my wife was entertaining five of my friends or five of our friends. And after I heard this about the biodistribution I said, Hey, if you haven't vaccinated your kids, why just found out some information that says this is you know, this is going to be unsafe, and here's why we're supposed to be in the arm went to the whole body spike protein is not a harmless antigen. And, and then they said, Hey, thank you, Steve. Thank you, Steve. You know how we were gonna you know, vaccinate our kids, but we're not going to go to and then I walk out and then they're like, Steve, okay. Is Is he has he been working too hard? Is he like, you know, and I know you guys if this was a minor issue. Yeah. They're they're like thinking that he's, he's lost it. Right? Right. And so this is this is the frustration This is why people can't speak out. Right? Because the the narrative is so strong. That everybody believes in this false narrative. And so anyone who challenges and says the Emperor wears no clothes, is just shot down and marginalized. And, you know, they say to your face, oh, hey, thank you a lot. And then when you turn around, they're like,
+
+Steve Kirsch 2:55:17
+well, what's happened to him? You know, and and the the amazing thing, of course, is that here you have a case where the NIH is basically sandbagging effective treatments that the CDC is going along for the ride that the FDA is fooled, and that people in Congress I think Tony Fauci, who has been called out as the creator of the Coronavirus and caused this whole thing, and then screwed up maybe by not, oh, no, it's no, there is Believe me, I was I was very early on the lab. We should we should have a separate one on this. But Chris, Chris martenson does a fabulous job on his YouTube channel in taking down Tony Fauci and this whole cover up defendant but not okay. Okay. Yeah. But you know, but Congress, like I wrote to Anna, sorry, my Congress woman, and and I said, Look, here's the document, here's the facts. How do you respond to this, she wrote me a nice letter that says that via the vaccine a safe and effective we'll be rolling it out. And the CDC has found no problems. And I'm like, going like, well, they haven't even analyzed any of the cases. And they should be assuming that there's a vaccine, like think whole things, like their stopping criteria, you know, should be 100 deaths or 200. Yeah, anyway, Roberts, right.
+
+Bret 2:56:39
+They're gaslighting us. It's getting dia I hear you sound completely irrational to me, but you know it.
+
+Steve Kirsch 2:56:46
+Look, look, look, I expected this. I knew when I went, that I would suffer that, you know, I would be
+
+Bret 2:56:55
+30 seconds of comfort, and then we're gonna we're gonna fix the planet.
+
+Robert Malone 2:56:58
+Oh, this is always the case. When you're at the tip of the spear. There's the parable. Don't be a pioneer, or you get as arrows in the ass. Yeah. Okay, this is a paradigm shift problem. And the lovely thing about medicine is we've been through multiple cycles of this. The classic one is gastric ulcers, and the bacterial basis for gastric ulcers, which the guy that did that was subjected to everything that you're experiencing, and more, right, it is, it is just, you know, so I guess I'm saying welcome to my world. Yes. Um, but embrace you. And and it's the nature it is the Red Badge of Courage,
+
+Steve Kirsch 2:57:40
+right? He said, I was politically incorrect. Yeah, it's the
+
+Robert Malone 2:57:43
+Red Badge of Courage that you're going through this, and you have the guts, despite all that, to continue to say whether you're right or wrong, to have the courage to go to swim upstream, and say, This is Right,
+
+Steve Kirsch 2:57:58
+right. And everybody, by the way, everybody advised me because I told people look, and you know, this is the real, like, PR Corey doesn't do this. This is like you're taking on two albatrosses, right? One is championing early treatment, right? In Brazil, they don't think early treatment works at all, despite all of these, all the proof. So you're, you're trying to champion this cause, right, you're going up against the NIH and the W h. o. And, and they said, if you take on also the vaccine, you're, you're done. You're done.
+
+Bret 2:58:31
+So we'll never go into saying something very important. And I know he's right, because I've been through it in a totally separate instance. Right, the work I did that revealed that there was a flaw in the drug safety system, that bell still hasn't wrong. That was 2002. Right. So I know what that is. And Roberts, right, this is par for the course, except the stakes are really high here.
+
+Steve Kirsch 2:58:54
+And the amazing thing is that nobody is pulling the the end on cord in Congress to say, well, right off, but
+
+Bret 2:59:00
+that's what that's what we've got to do to save the world plan here because he really want to begin to wrap this up. And I think the point is, you've got all of these anomalous signatures, right? Even if the answer is and I can make a defense for emergency use authorizations for a vaccine that is not well enough, tested in the face of an emergency in the face of a virus that we might get stuck with as a permanent fellow traveler should let people know about that risk. I can't make that argument when there's perfectly safe therapies that are available off the shelf. That's right. Absolutely, absolutely. Right. ever could have made that argument for people who've already had COVID I certainly wouldn't have made that argument for kids or women or children. Right? Okay. You know, especially pregnant women but the fact is that's ovaries right. That signal is telling us something about potential long term reproductive health. So all of that said
+
+Robert Malone 2:59:48
+nicely worded potential long term reproductive health. Thank you.
+
+Steve Kirsch 2:59:53
+I will said something different that
+
+Bret 2:59:57
+he decided right yeah, point. Yeah, I'm I'm cautious this way. So let's just say we've got all of these signals of something I would call extended regulatory capture, where regulatory capture now reaches into not just regulatory agencies, it reaches into journals, it reaches into universities, it reaches into the social media layer, it reaches into the organizations of doctors, all of the things. And the World Health Organization. Good point. So this extended capture, we're all feeling it to the extent that people are not doing what we're doing here. And they are silencing themselves because they're afraid of the stigma that comes back if they talk about the things they think they might be seeing, right, everybody is being touched by this and all that self censorship. It is self censorship. But the point is, I don't think there's any way to beat that going through the front door. What you're finding out about trying to raise the alarm here is telling you something about that's not going to work because there are so many layers protecting it,
+
+Robert Malone 3:00:53
+we are aligned,
+
+Steve Kirsch 3:00:54
+right, right. So Way to go, zero the people,
+
+Bret 3:00:57
+not the not the people because people can't do anything. No, no, no, no, no, that was me. Like
+
+Steve Kirsch 3:01:01
+it
+
+Robert Malone 3:01:02
+sounds to me, like you're coming to the same point I Well, let's
+
+Steve Kirsch 3:01:04
+Okay, well, let's see. Let's see what
+
+Bret 3:01:05
+your solution is my solution? I you know, I have my own solution. Okay, so my solution. It doesn't have to be Ilan, but it can be Ilan, right. Now, here's my point. Ilan checks all the boxes, right? Ilan is hyper intelligent, right? And he appears to be hell bent on saving planet Earth. And he's willing to do this with herculean efforts, right? How hard is it to shift the country to the thinking that electric cars are super cool, right? How hard is it to get us to actually put people on Mars, these are difficult. And so my point is, look, if Ilan is hell bent on saving Planet Earth, the hard thing to come by when you're in the saving Planet Earth business is practice, right? It's very hard to find places where you can practice that skill and you need it because it's a difficult job. So my point is, this is the perfect instance. Because here, we have an easy way to save planet Earth. And it just so happens that Ilan has a tremendous number of resources. Now he could do this as a matter, he could get together some of his friends, and he could pull the resources or he could do it alone. But my point is, what we're really looking at is runaway extended regulatory capture, that has caused the greatest defect, if there is an argument to be made about our economic and political system, it is that our system can allow you to evaporate trillions of dollars of wealth in the pursuit of billions of dollars of wealth. And that is what is happening here. If what we see is
+
+Robert Malone 3:02:33
+the lot to be said for that statement that's that's that bears repeating. It's
+
+Bret 3:02:37
+it's pretty scary. And the point is, it's not just wealth. In this case, we're talking about trillions of dollars of wealth, we're talking about the tensions on the global economic and political system, like we have never seen before. We're talking about a huge amount of needless death and suffering and loss of years of, of viable life from people. So that's a hell of a lot to lose, so that some entity or set of entities can make, I don't know, 510 billion dollars, right? It's, it's absurd. So the point is, look, there's a bitter pill here, the bitter pill is, we can't solve the problem perfectly, right? We're gonna have to accept something ugly. And I think what we have to accept is that if this is going to happen to planet earth, with perfectly viable solutions available to offer us off the shelf that we're not going to be allowed to touch, I'm afraid the next move is that they're going to be taken from us so that we can't even source them as individuals, right? If that's what's going to happen? And the answer is, we need to buy out the interests of those who are doing it right, if they've got an emergency use authorization for an untested, dangerous new drug, and that's the reason that they're thwarting our ability to talk about the solutions that are available to us, and let's just fucking buy him out already. Right. And if that's Ilan, then it's Ilan and if it's a group of people then it's a group of people but there's no reason to CrashPlan so this
+
+Robert Malone 3:03:55
+is basically a shareholder activism argument.
+
+Bret 3:03:58
+I guess it is it's the little fish rising up enough I i've
+
+Robert Malone 3:04:03
+i've never even imagined to acting at that. With that strategy. That's profound.
+
+Bret 3:04:08
+Why wouldn't we do well in cash capital, right but the point is okay, I ain't got it I don't think any of us have it well as you've done I don't think you've got it
+
+Robert Malone 3:04:19
+not quite in that category.
+
+Steve Kirsch 3:04:20
+No but but you know, but you've done your part you
+
+Robert Malone 3:04:23
+can play I can speak to something
+
+Steve Kirsch 3:04:26
+assuming we're not selling stuff right you know, I don't know if it you know, YouTube is going to go and say this violates their policy we talked about ivermectin
+
+Bret 3:04:35
+you know, we're gonna find out in a few minutes whether we're even still on the internet. My guess is we are or somebody would have found a way to alert us
+
+Steve Kirsch 3:04:41
+well, I'm getting these all you know, these texts, I don't know, maybe
+
+Bret 3:04:45
+signal. It's a signal. But in any case, look, I do think you This is way easier than shifting people to electric cars, and it's a hell of a lot easier than going to Mars. Can we just try this one. This is Oh, this is a Hey, we'll practice saving planet Earth. Have a plan. And it's right there in front of us. And everything adds up. And the thing is, the thing that's really glorious about Ilan is he is way smart enough to look at the same data that we've looked at and reach the only conclusion you could reach. If you look at it, right?
+
+Robert Malone 3:05:15
+He'll see it. So I have to be careful here. I'm a consultant. One of my clients is a very, very large Indian conglomerate,
+
+Robert Malone 3:05:28
+run by one of the wealthiest men in the world who the tax law there is basically requires companies to tie into a nonprofit. And one has awareness, your comments Spark, a link in that setting, that very large, multi billion dollar nonprofit, a fund that's been created is actively investing in novel solutions of the kind that we're talking about. For the rural poor in India. And so that, I think one of the things that I have, we haven't talked about, but the global kind of geopolitical what comes out the other side of the sausage machine thing is we're facing a future where pharmaceuticals and vaccines are, are largely produced offshore, we've we are losing or will have largely lost our pharmaceutical industry here in the United States, as a consequence of this kind of kookiness. And it's the odd thing is, as you say, use the term market, regulatory capture. Problem with those kinds of situations is you get protected industries, and they're not able to continue to compete on a global stage. And I fear with good reason and knowledge and experience that we're we're well along that road. And I it's hard for me to see a future. Basically, I'm going to use slang, where China and India have not been eating our lunch.
+
+Bret 3:07:33
+Now, and you know, the thing is, this actually dovetails with the if you zoom out and you look at Planet Earth with respect to the question of vaccines and off the shelf out of patent drugs. Somehow, whatever it is, that looks a lot like extended regulatory capture is putting the United States behind exactly right. How is it we botched the initial reaction to COVID and now we're going to botch the solution everybody else is going to reach for ivermectin because it works and they're going to already about right they are in other ages. It's not just ivermectin sure other and other repurpose days right at full box. Right. You can take ivermectin and the
+
+Steve Kirsch 3:08:16
+prototype is inhaled gas tonight and and you
+
+Bret 3:08:20
+know, it's the one maybe there are others. But it is the one that seems to me, like a safe, prophylactic response, which is really the key to making it Dr. COVID to extinction, right. But so anyway, if there's an If more than one out there, or an Ilan that wants to do this, the key thing is you have to buy out the interests of the obstructionist, who are making billions and evaporating trillions and, and inadvertently, I assume killing 10s of 1000s, hundreds of 1000s, ultimately, potentially millions of people. And the other thing you have to do is you have to ratchet up a campaign to generate these agents and to get them to the people who need them. So we can drive COVID to extinction, which really does to me at least look readily possible. Okay, so
+
+Steve Kirsch 3:08:57
+I have a different solution. All right. Um, Ilan tweets, a link to this video. And he says, everybody should watch this. This is very, very, very important. He has 50 million Twitter followers. And with 50 million, you've got scale.
+
+Robert Malone 3:09:22
+Well, you guys are operating in a in a world that I don't touch. And so I defer to you, and your knowledge of these things. It's it's a different world that I live in, and I wish you Godspeed, quite literally. And I hope, you know, like we said about extinction at COVID. I hope I'm wrong. And you're right. Yeah. I fear I fear that many times. I fear that's not
+
+Steve Kirsch 3:09:47
+the case. So there's another there's another solution to which is that everybody who is watching this video, I think has a social responsibility, more responsibility, ethical responsibility. to retweet this shirt on, you know, it's whatever social media, LinkedIn, Facebook, the employees of these companies also, if you're an employee of Facebook and LinkedIn, and Twitter and so forth, that if you see your company acting in a way, that is actually where they're taking this, where they're promoting misinformation, or sore suppressing legitimate legitimate information, then please You know, if the only thing that can stop the the government is not going to stop these companies from doing the wrong things, but the employees of these companies can say, this is not acceptable for humanity. And I will not work for a company that is basically telling people to get the safe virus that is running ads that says ivermectin doesn't work. That is censoring. Like, how do you? If you work at Facebook? How do you think about working for a company, which is censoring these vaccine victims? who are trying to get support and trying to understand what can I do about them, and this company is censoring those people. And what we don't have is these people don't have a voice, the people who have died, that's crucial what you just said, the people who have died from this vaccine, don't have a voice, the people who the doctors who want to speak out, cannot, because they don't have a voice, especially if you got any kind of NIH funding, if you're an if you're an academia, you speak out, you will never see a dime, you will never get a drug approved. Again, these agencies have a long, you know, people I need to, you know, so I'm trying to be the voice for the voiceless for the vaccine victims who are ignored by the mainstream media. And and I just got a tweet yesterday from a woman who says I run a support group, and one of our members committed suicide. Because no this
+
+Robert Malone 3:12:14
+Can I can I jump in on this? Because
+
+Steve Kirsch 3:12:16
+nobody was listening to her. And yeah, can I click? Let me finish, okay. And a voice for the children, right? Because who is going to speak for the children? Right, who is going to be the voice of the children here, and to speak up for them. And so we have all of these people who are afraid to speak up, and I was told Steve, they told me, let me advise you don't touch this issue. It's a third rail, if you touch it, you'll you'll vanish. I was given the same advice, right? Um, you know, and, and look, and my, I really acknowledge you're taking the risk here, because YouTube may totally demonetised. You, your your income will be wiped out. And what you're doing is trying to spread information. That's all factual now, but it goes against the narrative, but what and so people, people, so people are afraid to speak out. And you know, everybody I asked every single person I said, Steve, do not do this, because you will get shot down, you will get gaslighted people will not believe you. And you will, this message of early treatment, then will never be heard
+
+Bret 3:13:35
+yet. But if not this, what and if not now, when that's that's really what it comes down to.
+
+Robert Malone 3:13:42
+Two things. The irony is that the RNA story went through the same thing. Where it got suppressed and shut down, it was considered to be crazy talk. Okay, that's a small thing, many years ago, that's a small thing. I'm riffing off of your speaker for the dead. Just kind of what you're saying. I just like to throw in that I'm in close contact with the long haul our community. And I'm like your story, a member of that community recently committed suicide. And there was a huge outpouring in social media, particularly in LinkedIn, in the long holler chat groups of other people that have been suffering long haul or syndrome. That feel, you know, hopeless and helpless. This is, you know, the parameters of depression and are also at risk for suicide. And I'm speaking, you're speaking to employees of IT companies. If If we can't allow these people to even have a voice, then they're completely disempowered. It's as if they are written out of history. And I think that if you want to make a case for a moral obligation, we must let these people who have no voice to at least speak to each other. If we're not going to listen to them as a public health community, let's at least let them talk to each other.
+
+Bret 3:15:22
+They have an absolute right. Yeah, absolute right. These people are suffering whatever they may be suffering from, they have an absolute right to discuss it with others who are suffering. Thank you. Absolute right.
+
+Steve Kirsch 3:15:33
+Yeah, I was trying to look for my the message.
+
+Bret 3:15:36
+Yeah, well, for what, for what it's worth, I'm getting these messages too. And people are clearly losing their lives to suicide, among other things, because it's so horrible. And how much worse does it make it when you're being gas lit and told that it isn't a thing and you're not allowed to talk to others? It's, it's an impossibly cruel situation. Alright, I think we have to bring this to a close, I think we've covered what we needed to cover, I must say, I am very grateful to you both. I regard you both as extremely courageous for speaking up. This is not an easy topic to speak up on. I know it's not safe for any of us. I do hope that whatever it is that needs to coalesce out there to fix this problem. We'll hear what we're saying and figure out how to put it into motion. If we haven't gotten it right, then that's fine. There's some way to do this. And it's got to happen now. And frankly, the clock is ticking. Because every every month that we don't do this or do something we are giving COVID-19 time to evolve to become a permanent fellow traveler, which will be an absolute tragedy for humanity. So let's get on this immediately. Thanks for joining us on dark horse. Steve Kirsch, Robert Malone. Thank you, thank you. I really appreciate it.
+
+Steve Kirsch 3:16:44
+Thank you for thanks for allowing us to
+
+Bret 3:16:47
+be here. Be well, everyone.
+
+This transcript was generated by https://otter.ai

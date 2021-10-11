@@ -1,0 +1,631 @@
+Bret 0:10
+Hey folks, welcome back to the Dark Horse podcast live stream q&a number 80 where there any questions,
+
+Heather 0:20
+so many questions so many questions
+
+Bret 0:21
+I guess just questions.
+
+Heather 0:23
+Questions are good. I always feel bad about not getting to so many of them but it is what it is it is what it is. I used to hate that phrase. It is what it is yes and you're saying nothing.
+
+Bret 0:34
+That's true. Yeah, that's true.
+
+Heather 0:35
+Okay, we're gonna start with three questions from last week which I always do for the for longtime viewers will recognize that I always do go back through after we're done and just pull up just a couple of questions that I particularly wish we had gotten to it does not mean that all the right questions we didn't get to or were judged unworthy not at all but these were ones that news were
+
+Bret 0:57
+felt definitely worthy
+
+Heather 0:58
+Yeah, exactly. And this first one actually is not a question but just a statement I wish that more scientists
+
+Heather 1:06
+It's been a long week has been I'm gonna start over
+
+Heather 1:10
+I wish more scientists today would do what Darwin did basically steal man all arguments against his theory and address them all before going public with his then extremely anti fragile theory.
+
+Bret 1:22
+I mean, all I can say is beautifully said except use the word hypothesis and you'll be golden
+
+Heather 1:31
+Yeah, that is a theory now Yeah. But it was not them. Yep. Yeah. Which I mean that that's actually part of what confuses people, right? Like the facts don't change but our our our certainty, as it increases changes how we view it as going from a hypothesis to a theory, a theorist
+
+Bret 1:48
+cannot advance a theory a theorist advances a hypothesis, which with if it withstands test becomes a theory,
+
+Heather 1:55
+right? So this question was asked last week, and I wish we'd gotten to it last week was for all I know, this is going on right now the question says my brother's wedding is next week, it will be a large gathering indoors. How do you feel about the ethics of large gatherings inside at this time?
+
+Bret 2:13
+I certainly wouldn't arrange one, especially I mean, actually doesn't at this moment, either hemisphere, you could arrange something outdoors. As it gets more summery here and more wintery down south, you might, you know, be in a bind. But I would say I would bend over backwards not to gather people indoors, spend as little time in cars as possible. If you're going to be in a car, definitely have the windows down.
+
+Heather 2:38
+Think about indoors as well, right? Like, you know, large gathering indoors, if there's ability to have a cross breeze, that improves the situation dramatically. Yep. What do you think of the ethics? That's the question ethics?
+
+Bret 2:52
+Well, I guess what I would say is, I think this is a place where we do have options, especially if you're whether it's going to cooperate. And given those options. I think it makes perfect sense to gently urge people towards having gatherings that are safer. And if you know if you're going to be indoors, it's not like indoors or outdoors. It's like, Is there a breeze? Is it a high volume space? Yeah, very different to be in a space with eight foot ceilings versus 20. foot ceilings, ceiling fans on doors open? Absolutely complete wall open. Those are very different spaces. So you know, think about them that way. It's not all or nothing.
+
+Heather 3:28
+Yeah, for sure. Brett, I am a 26 year old student in cell molecular biology with add any advice on home labs? I've never done well in school. So I do Oh, Chem experiments Arduino and CRISPR in my garage. CRISPR CRISPR. I actually had this that I'm first read through. I got the ocam and Arduino. But yeah, I mean, it's such a diverse, that's such a diverse set of things that he says he does like ride share, you know, if you're asking for infrastructure, or
+
+Bret 4:02
+I'm certainly, I'm certainly an advocate for you're doing Arduino and related stuff in your garage. And the more you Tinker, the better. I am in no position to tell you about garage CRISPR. As a matter of fact, I am only now learning from your question that wants to do CRISPR in their garage. So please don't augment anything with sharp teeth or pathogenic tendencies.
+
+Heather 4:29
+which cuts down the possibility is rather a lot
+
+Bret 4:31
+It does. Although this does get to the place where we just don't know enough to enhance a critter by adjusting the spelling of its genes. Right? So can't do that. Yeah, we didn't selection for that. Yeah, we need selection for that. Or at least we're not we're not good at it yet. Yeah, we're not going to be for a while. I don't know that I have any advice except it sounds to me like you found the answer to your conundrum. And it's great that you've got a garage in which to deploy these things.
+
+Heather 4:56
+Okay. So this question is from the discord. This week's Again for those of you joining us newly we have a Discord server available at both of our Patreon same Discord server. And each week people who want to post questions and they vote and so the the winner of the discord question. extravaganza every week gets asked and answered here. Humans have modified their environment in myriad ways, many of which are in tension with the selective pressures we have evolved under. At some point, the mismatch between the current environment and our ancestral one will be such that our environmental modifications are maladaptive. There are many lines of evidence This is already happening, such as mental health disorders, allergies, chronic illness and obesity. as a species are now less adapted to our current environment, are we just dealing with a new set of trade offs? How would you design an experiment to test for such a hypothesis? And if we are now maladaptive to our environment? What should we do about it? So I don't so I will, I will say, often I very much love these discrete questions, but I think we need to limit it to just one. So that was like four questions wrapped up in there and giants. And it's also I mean, this, it gets to very much sort of one of the central features that we are addressing in our forthcoming book, it's almost the central theme, right, exactly. To what can we attribute the remarkable level of illness across all domains illness taken sort of sensitive lotto broadly in the modern era, given that we are living in a time of extraordinary wealth and productivity, and is indeed, about the the rapidity with which we are changing our own environments, such that we are have, even though we are the best at adapting to novel circumstances of anything on the planet, even we can't keep up with the rate of change that we ourselves are producing.
+
+Bret 6:42
+Yeah, it is the hyper novelty, the the change of the rate of change that is making this an unsolvable problem. So it is a huge problem. It is one, eventually, if we do not extinct ourselves, we will recognize as one of the great challenges. And I think it also needs to be said, though, that While it is true, that we are massively unhealthy on so many different levels simultaneously, we are also doing very well in spite of that ill health, right. So you know, it is a mixed bag, but it's getting worse and worse for us. And the we have to rein in the rate of change, or we're This is going to be our permanent condition.
+
+Heather 7:24
+Absolutely. I guess it's one more thing to say about that, tying it into what we've been talking about, on so many these shows COVID that increasingly, and I don't I don't know that we've talked about any of these studies explicitly, at least recently. But the, the bad outcomes from COVID, are almost always tied to what are being called underlying conditions, also known as comorbidities. And some of these comorbidities are entirely under individual's control. And some of them you know, in terms of diet, for instance, that you know, the better the diet that you eat, the closer the closer, the more recognizable, the food that you eat is to the organism from whence it came, the more likely you are to be healthy. Many comorbidities may once have been about choice or parental choice about things that happened in childhood, but you but the adults no longer have any ability to actually change what is true about their underlying physiology, and they can still improve their lot. But, you know, many people, you know, with obesity and diabetes and such actually can't simply will that away, you know, there's it's not a force of oil issue, but it is a majority issue. But these are largely, the comorbidities for COVID-19 are large, largely modern conditions themselves.
+
+Bret 8:41
+Absolutely true. I will say the the bad outcomes, you know, death is very conspicuous. And so we rate that even for people without the comorbidities, there seems to be a lot of damage associated. Yes. So anyway, we should file that. Yep, that's,
+
+Heather 8:59
+that's true. It seems like and I cannot point to the data. But it seems like people who are fit, active spending time in the sun, eating good food, not only are more likely to have better outcomes, but are also more likely to fend it off in the first place and not get sick. And I'm not I cannot point to the research on that. But I've seen bits and pieces of that in places. Yep. And, you know, to the degree that even if it was 5% of the variability and outcomes, why wouldn't you do it? Like why wouldn't you take this opportunity to get that part of your life in order and thereafter be you know, be healthier and more productive? It's not you know, it's living living well. And being active is not a punishment, it actually opens up the whole world to you. Alright, first question from the last hour. Do you have thoughts and this is from someone who's called lefty but not loony. Do you have thoughts on conspiratorial ideology among the right? I was shocked at how quickly right leaning news veered towards a multi state multi judge multi election worker conspiracy to steal the election from Trump. I'm concerned about the Arizona bamboo audit. I don't know what that last name refers to.
+
+Bret 10:18
+don't either. Well, I can't remember where the aphorism comes from. But there's one that says something like, the cure for paranoia. Is candor, something like that? I think we are seeing conspiratorial thinking rise on both sides for two reasons. One, we have a very corrupt system in which conspiracy is a common mode. And so it does not it's not foolish to wonder whether or not corruption of one kind or another is driving decision making. And in fact, there are all kinds of questions that are very hard to answer about why we're dealing with COVID the way we are that do not lead you immediately to well, is this a simple conflict of interest? Is somebody prioritizing their you know, buying of a nice yacht over the lives of strangers? Is that what's going on? Because that's not so unusual, and yet it seems to fit. So anyway, conspiratorial thinking makes sense. And part of the problem is that we've demonized it. So people, there's no culture of how to deal with it, how to do it responsibly. And then the other thing is that the breakdown of the institutions that are supposed to sort out what's actually going on, right, the scientific institutions, the courts, the press, these things are how we're supposed to figure out what is true. And the fact that they have all been captured by somebody who's using this and that for their own purposes, means that we are left to sort out what's going on to our own, you know, instincts. And no kidding, that's going to produce a lot of low quality conspiratorial thinking, because effectively you forced people to a toolkit that's too blunt to do the job and doesn't have access to the right information. And it leaves them susceptible to those who want to sell conspiracy theories in order to buy a bag. Yeah, right. So you know, you want to fix this, what you need is, well remember what the New York Times used to be. We need one of those.
+
+Heather 12:14
+Right? We need some of those. We need several of those. I mean, one would be to start, yeah, zero being a special number zero, as you keep saying, there you
+
+Bret 12:21
+go. It's the flip side of that we need at least one place that you can go and it's not going to make the information in it true. But you need a newspaper that puts figuring out what's true as its highest priority.
+
+Heather 12:34
+Yeah. Wouldn't that be something Oh, man, universities, too, would not be great. You mean a university that was interested in figuring out seeking rather than social justice and
+
+Bret 12:42
+advanced people on the basis of whether or not they did a good job of figuring out what's true, irrespective of whether it's popular? That'd be that'd be cool.
+
+Heather 12:51
+It's fantasy space. Yeah.
+
+Heather 12:54
+Ontario, Canada gave the first doses of AC is going to be AstraZeneca. I think right? Now they have banned AstraZeneca vaccine for clotting and are apparently going to be given other vaccines for the second dose. Also, all vaccines are having their second dose is being delayed to 40 days instead of 20. thoughts. Question? Mark? I don't understand why governments to the degree that the clinical trials were done and are accurate. On what basis are government's coming in with presumably no new data and saying we're actually just going to mix it up now? Well, I don't think there is no, no. The first Well, the 40. So the AstraZeneca being being banned for maybe clotting. That's that's the that's the one thing here that there's no data on. But then oh, we'll just we'll just switch in a second vaccine for the second dose. I don't think there's any data on whether or not that's going to be effective or whether or not you might be more likely to have an adverse reaction from getting two different vaccines. I don't think there's any data on that. Please tell me if I'm wrong. And then but specifically, I was referring to the 40 days instead of 20. Now, the clinical trials, I think, you know, we're like the reason that they're usually and I thought it was actually Well, I don't know about AstraZeneca. But for at least the mRNA vaccines, I thought it was two weeks apart. And 40 days instead of 20, like just just choosing governmental choice to extend the length of time between the two doses. Seems like why would that choice lie with the government rather than with the scientists who developed and tested the vaccine?
+
+Bret 14:29
+Well, I have no idea how these decisions are being made. I do know that we are effectively in what I believe is called phase four, which is the ongoing monitoring of adverse events and things and I would imagine though, I know very little about how it's actually done, that there is a window you get your first vaccine dose and then some period of time passes and you get your next dose within some window of time not before such and such a period and hopefully not after such and such a period
+
+Heather 14:59
+and you think the clinical trial We're done that way. I don't know that window rather than Don't
+
+Bret 15:03
+worry. But my point is in the current environment, you would imagine that there would be at least some diversity of the period of time between first and second injection. And that that might indicate actually, you know, better outcomes or less adverse consequences. On the other hand, given how crazy this entire regime seems to be with respect to dictating protocol and declaring things safe and all of that, right, I couldn't swear that there's something reasonable like that going on behind the scenes, but maybe there is Yeah.
+
+Heather 15:38
+This is just a comment. Thank you for continuing these courageous and well thought out conversations. Thank you.
+
+Bret 15:44
+Thank you.
+
+Heather 15:47
+Oh, and then same person, no. Different. Okay. So this is a two part question. No, it's just a comment and then a question by the same person note anyone reading this Novavax is an American company and the vaccine is made in the US. I would like to hear your thoughts on Novavax seems to me the unknowns and risks are primarily concerning the vector of delivery. It's adenovirus. Oh, no, period, adenovirus and lipid nanoparticle so that for adenovirus for the DNA vaccine, I think AstraZeneca also uses adenovirus and lipid nanoparticles for the mRNA vaccines. Novavax uses neither and has a very high efficiency is the word here probably efficacies. What got autocorrected out here? I know I don't know anything
+
+Bret 16:33
+about now, but I can't speak to it specifically. I will say I don't and
+
+Heather 16:37
+I don't know what the Sorry, but I don't know what the vector of delivery is. That's interesting. I'd like to know,
+
+Bret 16:42
+I don't feel like the limit of the concern is the delivery vehicle,
+
+Heather 16:46
+nor do you or I think have a concern about adenovirus particularly in the case of the DNA vaccines. It wasn't it wasn't that the adenovirus delivery mechanism was was the big issue.
+
+Bret 16:58
+No, I mean, yeah. And you know, you could say it's a novel delivery mechanism. But the point is, it's a novel delivery mechanism, that is a variation on a very non novel theme, right? You know, diseases that we get sick within are not serious Arduino viruses, some of them some common colds. And so there is reason to suspect maybe that's not such a hazard. On the other hand, the the fact that we don't know what cells are going to take these things up and transduce them, at what rate? Yeah, how widely distributed is a concern that has nothing to do with delivery mechanism? Right? And then there's the other question about the evolutionary paradigm in which we are focusing very narrowly on Spike protein as the antigen and therefore potentially driving the evolution of the pathogen creating escape moon, so there are all kinds of reasons to be concerned. And then there's a general category of here's some stuff you haven't thought of that could be involved. So, I was recently contacted by somebody who has had a severe like, he reports life destroying adverse reaction, a very healthy person who has had a vaccination, a RNA vaccine, and as having a whole list of of very serious symptoms, and she pointed me towards the possible activation of the IG system, which is a weird system that for those of you who are not immediately I do not have the information immediately brought to mind i g is the system that mediates allergies. Now, allergies are by definition bad for you. So why do we have a system that mediates that? Well, that system appears to be a system that deals with pathogens that we in the first world don't struggle with anymore. So it's a system with nothing to do that gets misled into attacking things like like pollen, every now but we don't have a problem with parasitic worms. Now, interestingly, you could connect this back very easily to the discussion that we had in the first part of the program today because ivermectin is a treatment for a class of parasitic worms. The presence of the parasitic worms appears to prevent allergies there's very interesting data on that the absence of them having eliminated this parasite seems to have created a problem with allergies and the allergy system may be over activated and people who are reacting badly to the vaccine now, you know, I don't know but I don't know how we're gonna end up having to just tattoo Welcome to complex systems, foreheads
+
+Heather 19:51
+well and there's a sort of a welcome you know, pick pick your poison problem, right. And like, you know, modernity frees us up parasitic worms, and hands us allergies, and no one's saw that coming you couldn't have seen it coming. But this has happened in across many systems and you in fact we detail a few a few in in our forthcoming book. But you know, when you think you have outwitted selection and solve the thing that we have always wanted to solve, don't hold your breath. If you don't see the the other side of the trade off yet you pretty much by guaranteed will because selection can see pretty much everything it may take a while
+
+Bret 20:30
+selection has done a great job of optimizing all kinds of things that you don't know have been optimized. And so you see a hazard over here and you're tempted to cure it and you trigger the thing over there that you didn't know was connected to it. Yeah, so yeah. Anyway, it's it's, it's fascinating, but yeah, it's the fact of it being complex systems is what's so frightening, that people are playing around with the system as if they understand how it works. And if there's one thing we can say for sure, it's you don't know how it works, because nobody does.
+
+Heather 20:58
+Yeah. I have a question for you about what's happening off camera. Yeah, yeah. So our smallest cat is chasing bugs on the window screen on Windows. So she's going to what are the chances that window screen is going to hold? And if it doesn't, that she's going to plummet? You know, just a story but down to the concrete below onto the driveway.
+
+Bret 21:18
+I think the chances are very good at Olds they're not nearly good enough.
+
+Heather 21:25
+Oh, Zack, you want to just explain it to Moxie Taylor that maybe this isn't a good idea. She's very good at taking instruction.
+
+Heather 21:35
+Yeah, it's pretty well, um, okay. The screen itself while the screen may not hold, it's not secure. Yeah. She wants to be in the sun.
+
+Bret 21:46
+Okay, yes. It the screen is secure. It is her off label use of
+
+Heather 21:54
+the screen not guaranteed for cat use. Yeah. For cat hunting. Okay, next question. Have you seen the clip of Rand Paul taking Fauci to task for his part in the funding of Ghana research of Ghana, Ghana function Research Award missing here and the role of the NIH? Why is Fauci still in the COVID team with such clear conflicts of interest? And given the China our focus is a two part question. Given that China are anti us anti black have no qualms genocide in their own people, and they dabble in genetic hybrids? Shouldn't the null hypothesis be that COVID is a bio weapon the cut out before it was ready? Maybe that's really two different questions. I actually haven't seen the clip. I know you have Rand Paul taking Fauci to task. Yep. say about it.
+
+Bret 22:40
+Yeah. I mean, it's a fascinating clip of Rand Paul is a doctor. So he's well positioned to do this. He didn't have to be but he was. And Fauci is clearly possessing of some little glossary that has not been distributed to anybody that explains why the words he's using don't have the meaning that they would obviously seem to have if any normal person set them. So anyway, yeah, it's it's
+
+Heather 23:07
+your definition of is it's Yeah, it depends.
+
+Bret 23:08
+Well, yeah, it is exactly that. But yeah, it's it's fascinating why we're still listening to Fauci, I have no idea. I have no idea. And I think the thing is, the allergy to Trump was so severe that anything that was viewed as in opposition to Trump has been granted a kind of license left, no normal human being has and I don't know how many times I mean, look, I thought about digging it up for today's live stream. But the clip of Fauci a few weeks ago, or a month ago, spinning tall tales about how this virus may have come to humans through an intermediate that we haven't yet found. I mean, it was more Fauci nonsense, as was
+
+Heather 23:57
+his that's I mean, that's this. That's, that's not new. That's the standard. No, but this has been on the table forever.
+
+Bret 24:02
+No, no, but he recently went about hypothesizing some new way it could have happened that would explain why we haven't found any evidence for it. It was just completely out of thin air, no evidence whatsoever. Don't look over there, look over here, you know, nevermind, the man behind the curtain stuff. And so the point is, how many times would Fauci have to show up lying, or just simply involved in a pathway that is implicated in so I mean, he's central to the question of why Ghana function research was being funded during the Trump administration. He lied to us about masks, and which we now know because he told us that that's what he was doing. Yeah, I don't know why we're still listening to him. I find it shocking.
+
+Heather 24:48
+Yeah, and maybe we don't want to spend much time here but to the question about whether or not the null hypothesis, the null hypothesis should be the COVID as a bio weapon. I don't There's that. I hear what you're saying about what the China can be described as anti us. And I don't know if it can be described as anti black, but it's engaged in genocide against some of its own people. And they do have capacity. I don't think that's sufficient to make bioweapon a null hypothesis. I think that that would that would be cheating the same way, frankly, that the standard issue, biologists have been cheating by trying to subvert the leveling hypothesis this whole time?
+
+Bret 25:28
+No, it's on parsimonious. And you can actually see it in the way you've had to phrase the question because in order for it to be a bio weapon created by the Chinese, there has to have been an accident that got it released in a place that would implicate the Chinese. Right. So you wouldn't release it in Wuhan. If this was a bio weapon, that wasn't ready to go. So you have to hypothesize a lab leak on top of a nefarious purpose.
+
+Heather 25:52
+No, I mean, now you telling it can be a nefarious purpose that specifically wanted to implicate the wiV.
+
+Bret 25:59
+Okay, but that's not what the question, but
+
+Heather 26:02
+what we're doing here is exactly to your point that it's it requires a bunch of epicycles, right, like it requires it requires a whole bunch of extra levels of explanation, which, by definition, are not the most parsimonious possibility. Yeah. And the knowledge should be the most parsimonious possibility. You know, should given what you lay out here, should this be on the table of possibility? Should it be among the list of possible hypotheses? Yeah,
+
+Bret 26:28
+it should be Yeah. But if you're going to have that list, and I did make an attempt to in my flowchart from all those months ago, I did attempt to be exhaustive, there were lots of very low probability things on it. But you would have to include not just a Chinese bio weapon, but you'd have to include the possibility that somebody else released it intentionally. And they did so in Wuhan in order to implicate the Chinese because people would inevitably chair those dots. Yeah. Anyway, I'm not saying any of those things are likely. We haven't seen evidence for any of them. So let's leave them all as possibilities that must formally be included in a complete solution set, but for which there is no evidence. Yep.
+
+Heather 27:08
+Next question. What do you vaccinate your 13 year old daughter today? Well, point one, we don't have a 13 year old daughter point to know. Yeah, you do have a 15 year old son,
+
+Bret 27:19
+I would say it is a 17 year old to say how YouTube is going to view these things. But I would say if we're being asked hypothetically, were we to have a 13 year old daughter, I wouldn't I wouldn't vaccinate her, especially in light of the possibility that there's something that buys some or all of the benefit of a vaccine that we know to be safe in a way that we cannot know the vaccines to be safe. Yeah.
+
+Heather 27:45
+Was your mom vaccinated? Also, what's up with Bill Maher? Yeah, my mom was vaccinated as her Brett's parents, as are all of the older people, we know. And I think it's wise, and I'm glad for it. What's up with Bill Maher? I mean, as far as I can tell, so you know, we were obviously there. So we know the protocols they have in place are extraordinary. And so he for those who don't know, he tested positive. So you know, he missed I guess his first route, you know, his first show in since like, the early 90s. Yeah, because he's on under mandatory quarantine or some such even though he apparently has no symptoms, or very few. So everyone's being tested like three times a week, I think, and you know, very, very careful, like the whole scene is super careful. But that rate of testing means that you're more likely to, you know, probably there are a number of people who were positive for COVID at some point, and were asymptomatic the entire time, as opposed to pre symptomatic before showing symptoms later, and who just never knew and never bothered to get tested because they didn't feel anything. And so if you're in one of these situations, like, like Bill Maher's team, including him is in where you're getting tested all the time. Any exposure that would have likely been missed. In other cases, it's going to get noticed.
+
+Bret 29:04
+Yeah. Well, to your point here, though. So Bill Maher is in a very unusual position. The question is how, how much testing is being done to determine how frequently this happens, because it's possible that Maher is pre symptomatic, in which case he will have symptoms and then we could if people tend to get symptoms following vaccination and then getting COVID anyway, then you can know what the case rate is. But if the assumption is that people with no symptoms don't have it, and we only test people who do have symptoms, it could be that there's an awful lot of people getting the vaccine, getting the disease as not figuring it out, which then raises all of these questions about what is it that they transmit? In other words, do they are they much more likely to have a variant The reason that they got sick is that they had something that the vaccine did not protect them from, are they much more there More likely to pass on a variant that does not get full coverage by the vaccine. So right, this, you know, those who want that question explored should go back and look at Garrett vandenbosch. His discussion with me on dark horse and the other things he's posted, he has an extensive website. And I would just say, these possibilities are important. And we are very likely to be dealing with the consequences of not paying attention and thinking, Oh, we've got the solution. It's a vaccine. Let's get it to everybody. And then we're gonna get surprised at how clever nature is absolutely.
+
+Heather 30:39
+According to this Lancet article, there's a length that we have not had time to click on yet. Large scale testing of the AstraZeneca vaccine took place in the UK, Brazil and South Africa. Early variants originate from these countries as well. Could there be a correlation? There could be but there's so it's so complex, you know? Yes, there could be but that's not saying in any way that it's likely I have no idea.
+
+Bret 31:03
+Yeah, I'm not gonna say likely or unlikely.
+
+Heather 31:05
+I'm gonna say, would there be a court? Yes, of course there. Could you know if i mean? Well,
+
+Bret 31:09
+I would say I would want to look at the pattern myself. And whether there's something conspicuous enough that it seems like not just one of a million possibilities. And it's, you know, it may well be. So I would also say great strength of Garrett vandenbosch is that he is scrupulous about laying out the predictions for his hypothesis that will allow you to know whether it is accurate. And so anyway, I would look through that lens and figure out whether the patterns are the ones predicted, you know, it could be if he wasn't so good at what he does, it could be that those things are predicted by more than one hypothesis, but it is very good at what he does, and he's very careful. So I would I would take a good close look at his predictions.
+
+Heather 32:00
+I'm pregnant. I'm not. I am pregnant and not getting the COVID-19 vaccine. Should I be concerned about the section of vaccinated population becoming silent carriers and infecting others? I've read the vaccine is not meant to stop transmission. Yeah, it's i think that you know, those of us who aren't vaccinated, including for, you know, for reasons that should be understood even among those who think pretty much everyone needs to be vaccinated yesterday, which I believe pregnant women or you know, people who are, you know, no, you're actually are pregnant pregnant women are absolutely in that list. I've lost my train of thought exactly how I was phrasing that. But even people who are you who are basically willing to hate on people who are not getting vaccinated will understand that there's some part of the population that should not be vaccinated right now, for instance, if it would put the the health of your unborn child at risk, and it's absolutely true that for instance, the CDC is guidance that fully vaccinated people can now be unmasked indoors, in public spaces with with unvaccinated people, puts the unvaccinated people at some greater risk, how much greater is it negligible? Maybe is it not negligible? Also, maybe.
+
+Bret 33:23
+Yeah, I would say you are right to be quite concerned about the implications of how these things come together. And you know, the number one thing that you have is your ability to avoid contact. Yep. Right. That does not put you in danger. And it can be obviously very effective.
+
+Heather 33:51
+Do you think it is plausible that the coyote is can distinguish between the urine of wolves in the urine if your golden retriever it's not a golden retriever and it's a Labrador Retriever. So I'll rephrase that using the correct breed. So I'm not offended by this I had some golden retriever friends growing up but Brett thinks they're their lesser dogs.
+
+Bret 34:12
+They're gullible
+
+Heather 34:14
+they're sweet. They're just the same thing. Okay, do you think it is plausible the coyotes can distinguish between the urine of wolves and the urine of your Labrador Retriever? Does the coyote smell the urine in your on your pet and think Oh cute people wolf What if it were a pitbull do all that okay, there's three questions they're all the same. Okay, hold on. I'm gonna read all three of them and they all fit together to form a thing. domestication the botany causes the people Wolf's you're into smell like a wolf pups maybe wouldn't the presence of wolf pups signal adult wolves nearby? And are the DNA and golden retriever so different that the coyotes can tell the golden retriever is friendly I can't I can't tell actually that's supposed to be unusually or usually friendly because it's strangely misspelled. But anyway, the question is about effectively domesticated dogs having experienced a form of and I'm just going to be technical here and say it's Peter morphic, not necessarily the art Nino, it being a particular mechanism by which you end up with juvenile characteristics persisting in adult forms. So things like the floppy ears and such are Arpita morphic character. Everyone says miani I just can't bring myself to complete the do that way. But that's about I think there's a lot of evidence for right the domesticated dogs reveal some metamorphosis compared to to wild canids and the floppy ears alone, right? Yeah. But the idea that the pheromones in the urine would reveal would smell like baby pheromones or or or or scent molecules strikes me is not quite right that in general with Peter Morphosis, like you have salamanders that, you know, for instance, there's there's species that have facultative metamorphosis wherein some depending on what happens in development, maybe they develop into the usual metamorphosis, they go through metamorphosis, and they move on to land and they lose the webbing between their hands, and they lose the fin down their back, and they lose their external gills and start breathing through their lungs. And in some, in some individuals, again, depending on the development environment, they don't move on to land and so they retain their gills and their webbing and their, and their racing stripe, their racing fin. But all the rest of their body, like their reproductive stuff becomes adult. And so it's not that everything in the system except for Reproductive capacity is Pete amorphized it's that some things are basically the better to perform in the environment in which that that created the conditions for the metamorphosis. So you know, why would the why would the smell in fact it would be useful to us as people who basically co evolved with with dogs to have them retain the baddest ass smelling urine as possible, you would think precisely to keep away the wild canids to help keep away the wild canids.
+
+Bret 37:25
+Well, you got to two evolutionary sides to this puzzle. Always you've got the domestic dog and whether it wants to be detected as a wolf or be distinct from a wolf. And you've got the other canids and whether they want to be able to smell the distinction.
+
+Heather 37:42
+Well then there's three sides and there's also the people who co evolved with the domestic dogs and what they're so what the thing that I finished on was the people might actually prefer for the domestic dogs here and to smell like a wolf. Because then having domestic dogs around you and your tribe would help keep the wild plants away
+
+Bret 38:00
+could be although I must have struggled with this differently. We have known for a long time that it was quite possible to Yep, and how like a coyote and get coyotes to respond. What I don't know is whether my doing that around our house is going to make it a place that coyotes will be more interested in visiting because they could get to know some coyotes they haven't met yet, or less interested because the territory is spoken for. And I've been hesitant to do it because I don't know the answer that question.
+
+Heather 38:35
+Just I mean another observation wet so we haven't. We know the caterers are still around, but they're not as around as they were before. And when they were real when we were really in the thick of it three, four weeks ago. You and I both saw three coyotes just down the down the hill from us. And we watched as one started vocalizing and if we had not had our eyes on that wild canid I would have sworn to you it was a dog. Yeah, this day and then in the middle of barking it went into a Yep. And you could tell that it was a coyote. Yep. I've never heard of domestic dog make the Yep, that it made in the middle. But the beginning and the end of this, you know, probably 30 seconds long vocalization it sounded just like a dog. I didn't know that they could do that. That's unusual.
+
+Bret 39:17
+Well, let's just say you do have various pieces of the puzzle. I'm essentially certain that the human desire for the pee to smell either like a wolf or not like a wolf for the various reasons that humans might prefer that is going to dominate what the dog might want. In other words, dogs succeeds by virtue of the fact that it serves the interests of the people and that's why the dogs look the way they do and so anyway, that that logic got ahold doesn't mean that it's the same direction everywhere. But my guess would be it's very hard to beat the the receptive creatures ability to distinguish Especially since dogs can tell each other apart at the individual level, right, so they're highly sensitive to idiosyncrasies. And my guess is the idiosyncrasies almost inevitably, between domestic dogs and wild dogs are going to be so large that yes, I would expect everybody is unconfused by these things. Yeah, more or less. That's, that's what I'm saying. Cool.
+
+Heather 40:23
+Love you guys. I heard Brett say that the chances of significant life extension very low. Was Aubrey de Grey selling me a dream. Are you familiar with this work? Please answer. Love you guys been with you for years.
+
+Bret 40:35
+Yeah, Aubrey was Sonia, Bella goods. Aubrey has brought good to the world. But by and large, his line about this is an engineering problem, let's just solve it is nonsense. It can't work. There are lots of engineering problems that one can specify that are intractable. This happens to be one for reasons we know. So let's just say that the very problem that you want to solve in this case, has a downside that you will invite if, in fact, you solved and even if Aubrey was right, in all of his categories of things that you have to solve in order to beat this, there's another one lurking right behind it, right? Which is, do you really want to have a 20 year old body with a 90 year old brain, right, we don't have a clue how to fix the informational problem that comes from having a brain that was built for 80 years of life, and the fact that you might extend it indefinitely. In other words, you'd have to do a whole lot more forgetting in order to get that thing to work. And we just don't have a system that works that way. Nor would you be a functional person if your brain was upgraded to work that way, or downgraded or whatever it would have to be. And then if you even take those two critiques, the problem that he says is tractable isn't. Even if it was the brain issue right behind it is devastating to anything, there's no life that you would want to live that would be the result of having solved all of the mechanistic cellular stuff. But then there's this other problem, which is who knows what pathologies would emerge if you were able to live to 150 Do you know why we don't know because nobody ever lives to 150 so the point is, selection has had no ability to clean up the life after the maximum human longevity so therefore, what you've got is basically an invitation to new pathologies that are labeled to be extreme and so numerous there's nothing to do anything about so yeah, I'm not a fan of the style of thinking I think it is a waste of time and money and the reason it is a waste of time and money is that you could take the same money and the same time and you could invest it in extending average lifespan rather than maximum lifespan and we would make great gains we know that because we already do make great gains we've greatly increased maximum longevity we've basically extended you then we could extend that to more people or do an even better job of it so anyway, yeah, it's a bill of goods and I guess there's nothing to be done about it because fountains of youth are very attractive even if they don't exist. And that's where we are.
+
+Heather 43:14
+I'm taking my first post COVID trip to the Canary Islands specifically for different Torah and Lanzarote day this month any tips on what buyer diversity to notice or appreciate I I only speak for myself know almost nothing about the Canary Islands we'd never been there small you know what they're the tropical off the Atlantic coast of Africa i think but Spanish but never haven't been I have no idea to what degree any of their presumably fairly high degree of endemic wildlife even persistent or maybe there's just nothing maybe it's basically birds and marine stuff. Yeah,
+
+Bret 43:51
+that'd be my guess. Yeah. So the smallness of islands tends to result in low numbers of species don't even know how big they are also results in the vulnerability of those species. So things that people will have transported there
+
+Heather 44:05
+well the smallness and the proximity I mean like classic right like classic bio theory. Geography by geography right? is like the smallest of the islands and the distance from a source population the distance from mainland are the are both you know that you may or the islands get smaller, the islands get farther away from from a home population and you're less likely to have a lot of interesting stuff
+
+Bret 44:29
+going on. I wouldn't say that the species number goes down and animism is liable to go up with distance. But any case in any case, it's it's likely that on land, you may be very pretty and there may be a few nice things but
+
+Heather 44:45
+yeah, they seem you know, smallish pretty close to Northwest Africa.
+
+Bret 44:51
+Yep. But But if they haven't been carefully protected, my guess is on land. Not so much but
+
+Heather 44:57
+is Queen sanctuary which they might have
+
+Bret 44:59
+color. offshore and maybe I'm wrong. Maybe the Canary Islands are Yeah, I just don't have any idea honestly marvelous online. But anyway. Yep. Have fun and report back. Yeah.
+
+Heather 45:10
+Thank you for the weekly reminder that not everyone is going batshit. Crazy. Cool. What is your take on the worries about prion disease due to the vaccines? Oh, my God. I have not heard that. I don't know. I have no idea.
+
+Bret 45:24
+prion diseases as a result of the disease, vaccines or the vaccines?
+
+Heather 45:30
+I've not heard them. Yeah.
+
+Bret 45:34
+I think we need to reserve your comments and tell her that looked at it. You know, obviously, welcome to complex systems. This was on the list of possibilities. You're intervening electromagnetically in an environment you're basically using nanotech to block you know, it's partially endogenous nanotech, you're triggering the immune system to create antibodies that recognize the spike protein, but nonetheless, the ability to potentially change other things in the environment so that they fold differently than they would otherwise have done. Hence the basis of a prion disease. Is there? Yep. I'd be very curious and potentially frightened by the discovery that had been observed.
+
+Heather 46:18
+Yeah. Okay, two more than we'll skip to the to this hours questions. Both of these are comments I am 16. You guys inspired me to study biology?
+
+Bret 46:28
+Hell, yeah. Cool. Welcome to complexes.
+
+Heather 46:32
+It's gonna get messy. I have become Oh, so this is someone we know on Twitter. This is someone who goes by self made woman on Twitter I become perma banned on Twitter. I miss y'all his tweets, I feel like Sauron ripped from the Nexus. So this is a trans woman who I've become friends with who is utterly reasonable in her understanding of, of who she is, and what she is actually made of, and all that why they banned her. I don't know. So I'd love to feel like I'm just I'm not going to use your name here. Because you didn't use it there. But we had an email conversation a while back. And you can you can find my email on my website anyway. But get back in touch and tell me why you got banned if you would.
+
+Bret 47:17
+reasonability Yeah,
+
+Heather 47:19
+exactly that, that being trans and not putting up with the garbage that the trans rights activists are trying to force down all of our throats, was probably at which is obviously completely unacceptable. Let's see, we're going to the next hours questions now. Free 60 year old male and 30 year old female, which vaccinate which for a 60 year old male and a 30 year old female, which vaccine do you recommend? What are your thoughts specifically on the Johnson Johnson vaccine? Did your use on get a vaccine? Thank you.
+
+Bret 47:54
+Well, I can't recommend anything to you. I can say the considerations are as we've described them here, many times the DNA vaccine has one fewer reason to worry about it. Which is that the platform is evolutionarily not far off of something that people confront all the time and have for for a long time. So to which
+
+Heather 48:19
+is the Johnson Johnson vaccine vaccine that she mentions? Yeah.
+
+Bret 48:23
+But frankly, there's reason to be concerned about all of them even just at the level of what they do in common, which is produced by protein that will have unknown effects on the system. Yep.
+
+Heather 48:35
+And we are not vaccine yet. Another of our sons is
+
+Bret 48:42
+as of an hour ago, I feel I may have had the equivalent protection it's just begun I have another dose coming in 48 hours and then I'm going to keep up the maintenance on on the ivermectin but,
+
+Heather 48:54
+and I'm gonna I'm going to think on whether or not to do the same thing. All right. I'm gonna I'm gonna I'm gonna Yeah.
+
+Heather 49:03
+Oh, boy. Should we try to reclaim the term eugenics for those who only assays associated with racist genocide? isn't any form of selection, technically an amplification of desired traits ever undesired ones? No, I mean that that word is fraught. I mean, for the obvious reasons that you mentioned, but it's just like it's fraught, just in terms of its actual formulation to this this. This prefix EU EU means true or real. And, you know, the idea that people who are doing eugenics are practicing the real genetics that's that's terrible. That's not right. That's, you know that that proves that it presumes a misunderstanding of evolution, that there's some best fit that is universal, that change doesn't happen. And it's just it's totally misleading. And I would say that, you know, that prefix actually gets abused all the time. Over in biology space. I'm thinking of the youth ariens, right. There's three, three clades of mammals. The monotremes, the wacky mammals, the platypus. echidnas the meta therians middle mammals theory I'm being mammal, which is the marsupial's and the youth ariens, that true mammals, which is the placenta is which is us, well, who named the true mammals, the true mammals. It was one of these true mammals. And it's just like it it over and over betrays the arrogance and self centeredness of the people doing the naming.
+
+Bret 50:21
+Yeah, yeah. Yeah, I would say, for so many reasons. It's not the right term. And you don't want it it's Yeah.
+
+Heather 50:29
+I mean, there are some terms that I would Yeah, there are some terms that I would try to claw back. But on that one,
+
+Bret 50:35
+yep. Yeah. doesn't mean we can't have a reasonable discussion about, you know, selection in favor of traits and what it has to do with sexual attraction, for example, but that's not eugenics. That's a normal biological process, not an attempt to, to control it in favor of the true genes or something.
+
+Heather 50:53
+Indeed. In our ancestral environment, aren't family supposed to sleep huddled together skin to skin? Are we missing something important for our health and for family cohesion? Do we sleep on our belly to mimic human contact? That's interesting. It's really hard. Any such universal pronouncement is going to be tough because there's so much variation that you know if you if you are in the Arctic, probably Yeah, very much. So if you are in the you know, the Amazon, there's a whole lot of hammock sleeping. And mostly mostly you don't sleep next other people because it's really uncomfortable, because it's so hot. That's not the case, I will, to the degree that there is a universal with regard to sleep and proximity to other human beings. For humans, it's probably going to be about babies, right? Like babies and mothers definitely sleep skin to skin in pretty much I think everyone I'm just gonna say pretty much because I'm not totally sure but I think I think every pre industrial society Oh, yeah. And, and you know, there are a lot there are a lot of us who did that with our own babies, even though we live in neopost industrial societies, and it's better for baby. It's less disruptive actually, for sleep of mom. It's it's just, it's just better all around. And you know, people, it stops at some point, if you have if you have a strong bond with your kid. They don't become clubmate clingy and demand that you always do, the thing that you were doing in the past. Things creates
+
+Bret 52:23
+attachment, which creates security, which results in healthy adults. Yeah, yeah. So there are all kinds of reasons. I would love to know if there is a definitive review in ancestral sleeping styles. How did people actually sleep? And what does it have to do? How did they manage the parasites that might accumulate from such a thing? Yeah, you know, the sleeping on the ground. I mean, you know, sleep was managed in some way. And our current way of doing it is so novel and has so many pathologies associated with it, that at least knowing what people did and in response to what environments in some sort of systematic way would be very, very useful.
+
+Heather 53:04
+Yeah, but you know, for sure, sticking your newborn in a different room and letting them scream as some sort of crazy ham fisted way to teach them to buck up or something like that's insane well on this
+
+Bret 53:17
+crazy mid 20th century flights of psychological fancy where people thought that you know you were in constant danger of over to loving your children and causing them to Yeah, that's a scourge Yeah. Anyway, that stuff was all garbage. Frankly, if there had been anything like an evolutionary understanding in psychology at the time it would have been laughed out of the room right children are raised to become healthy well adjusted adults and adults are built to know you know, how to deploy love to their children and the idea that you have to intervene intervene in some countering your love right tamp down your love and you know, steal yourself to listen to your child in the other room screaming You must not give in and that's just nonsense.
+
+Heather 54:11
+I mean in fact a lot modern parenting has kind of reversed the developmental stages at which it does the right stuff. So you know early on, you want to be in contact with your baby as much as possible and you know, but either parent both parents, other caregivers Allo parents, and and attend to their every need as they as they show that they have them. And that allows you to much more quickly than these kids who were like isolated in rooms as babies to they will start these babies who are who are raised from infancy with with attachment basically. You know, anecdotally we know for sure, and I've seen in research that those children are earlier to explore or more confident going out, they know that's that their parents have their back and that you know that that we will do everything possible for them, but that they are also now increasingly going to be responsible for their own decisions. They are going to have to clean up their own messes, both you know, physical and psychological and social. And that actually creates anti fragility and, and awesomeness in adults in a way that letting them scream when they're babies and then coddling them more and more and more as they get older is asked backwards and produces generation. That is that is confused and damaged. And frankly, it's not really their fault. Yep. Thanks to you both, and to last week's q&a commenter for the valuable ivermectin info and deep dive, really dig the long episodes. I'm very curious about a theory or hypothesis. You once mentioned about dog consciousness being enhanced by association with us. Question mark.
+
+Bret 56:03
+Totally. And I must say I share credit for that hypothesis with our dog.
+
+Heather 56:11
+Luckily, she does not ask for authorship on such things. No,
+
+Bret 56:14
+she's very generous with respect to us authorship,
+
+Heather 56:16
+although she is going to be mad to find out that she's been diagnosed as a golden retriever. Right? And when that dog gets mad, I've actually never seen it. Right doesn't happen. It
+
+Bret 56:25
+doesn't get mad gets even. Okay, so the question is, why would I say such a thing about I'm
+
+Heather 56:34
+just curious, I'm curious about a hypothesis he wants to mention about consciousness being enhanced by association with
+
+Bret 56:39
+us. Okay, so you got to step into Heather in my toolkit on consciousness, which starts from the premise that consciousness is most fundamentally about the so called inter subjective space. That is to say, the reason that you would evolve something as clumsy as consciousness is, because it's the only way to accomplish the trick of exchanging abstract ideas between two individuals, you have to basically have an agreement on what you've said, right? So that you, you know what it is that you're processing, that means that basically, there has to be a shared space. And the point is that shared space is inherently about language, right? language is the tool that we use to access the shared space to hand over an idea to get it parallel processed, which is the reason for consciousness. Once you have that consciousness, you can do it in your own mind, you can debate between two possibilities, just as you would between two people. But the point is, the more linguistic you are, the more rendered that shared space is. And the weird thing is that dogs are pretty much second, right? You can make an argument for certain birds that they can get a large vocabulary. And I've In fact, heard some stories. Even last week, we heard a story about a bird that appeared to be able to put together disjunct words to make new concepts. I'd love to see that demonstrated. But anyway, a parrot one of a couple of families in which you might expect such such things. corvids would be another.
+
+Heather 58:13
+Those ravens J's.
+
+Bret 58:15
+But the point is, dogs are weirdly asymmetrical language wise, they can only say a few words. Mostly loudly, yes. I can't say any words, but they can understand a great many words, they can have a large vocabulary of things that
+
+Heather 58:32
+they actually do. They have no predictive language, but they have receptive language, right?
+
+Bret 58:35
+What's more, if you look at our shared consciousness model, it really isn't about language itself. It is about understanding what the other person is thinking which language is by far the most efficient way to do that. And dogs are pretty good at understanding what we're saying to them if we're consistent about it. But dogs are really good at figuring out what we're thinking from other cues to you know, as hunting partners, for example the dog into it's what it is that the hunter that they are partner with wants them to do to facilitate the hunt because they understand the hunter because they've done it a bunch of times and they get used to the pattern the way people on a soccer field would get used to what their teammates are going to do, and they would Intuit it without anybody having to say anything. So the point is, it is the partnership between people and dogs, that has clearly made dogs more conscious than their wild counterparts. And I would argue more conscious than even our closest relatives in many cases. So dogs are a special case because they've hung out with us for so long. And I. The thing about dogs that you don't necessarily Intuit is their history of domestication is longer than any other critters is longer and more intense because it doesn't have anything to do with farming. It has to do with hunting and because it has to do with how they it goes back some 30,000 years whereas every other human partnership with an animal is good. Back less than 10. So anyway, dogs are special. They've been hanging out with us for a long time. And they have some idea what we're thinking at this point, which is the basic answer your question.
+
+Heather 1:00:10
+Yeah, bugs. Yeah, studies have shown mano Amiens, metabolizing invertebrates. Does this mean they can feel pain? Or rather, this means they can feel pain, right? How would they feel if anything? Was it from Mary, my former student? I don't know if I don't remember she was your former student as well. I guess if she was she still is your former student. Right? Yeah. Anyway, just to say that this is this is someone who does have background in, in thinking about this kind of thing. And I don't know, I didn't know this results. And I don't know if that means that they feel pain. I'm Well, sure. I can totally make that link. But maybe
+
+Bret 1:00:49
+he got a drill down on what you mean by feel pain, right? And there's a, I'm not gonna fully deploy it, here. And now. But if I make a circuit, right, in which you push a button, and a light goes on, and I say this is the suffering circuit, right? Does the circuit suffer? Just because I called it that. So the reason that that's relevant is if you had a drone that had an alarm on it, when an arm had broken off, right? Is the drone suffering, it detects that its arms broken off, okay? Now, if you do that with a spider, if a spider loses its arm, and a signal is sent. And in fact, one of the marvelous things when you look at insects that have come out of the forest in a tropical environment, where you get a ton of insects, lights, which is not so cool, but nonetheless, you do get to see
+
+Heather 1:01:41
+sort of a light trap. So it's to help to collect right, not inherently killing them, but just to observe all these insects that are attracted to light, you know,
+
+Bret 1:01:49
+fine, a lot of the tropical insects are missing limbs, they've had around with something and they're not complete, right? And the most fascinating thing is that they seem to have programs that accommodate that it happens so regularly, and they survive it that a program that figures out Well, how do you lock them out when you're missing that leg? Right exists in there? Cool?
+
+Heather 1:02:10
+Well, detection is valuable. Well, right. And
+
+Bret 1:02:13
+so they must have detected that they're missing a limb, right? And if that were you that detection would at least involve pain. So do they feel pain,
+
+Heather 1:02:21
+but if they're, you know, if there's a program to employ at the point that you lose a limb to make you better off in the world. And upon losing a leg as an insect, you just immediately get sealed off, there will in fact, be very little, if any benefit to experiencing pain,
+
+Bret 1:02:35
+exactly. But then take it one step further. Which is, why would there be any subjective experience of pain in that creature at all? Why would there be any subjective experience of anything, right? Because the fact that it's all automated, it's all automated, right? And I don't want to detract from how sophisticated the automation in a fly or any other arthropod is, it's amazingly sophisticated, but there's no, you don't get any
+
+Heather 1:03:00
+there's nothing behaviorally they can do this nothing they can do to modify their environment to make them more likely to recover from the loss of a limb, for instance, which is not the case for salamander or human right, then what why would selection have burdened it with the subjective experience of Oh, fuck, this hurts,
+
+Bret 1:03:18
+right? So I don't want to rule out that they could or that some rare insect does, while the rest of them don't write any of these things are possible. But in order to know what is true, what is worth imagining is true. The question is, what does it allow you to predict that you couldn't predict without assuming that thing? And the answer, as far as I know, is nothing. Yeah. So yeah, you know, I was cautiously say, not clear that they have subjective experience of the fact that they have something that plays the role of pain doesn't mean that they Ouch, you know, it may not be on there.
+
+Heather 1:03:51
+I like it. I like it. Can you still be an asymptomatic spreading even after taking ivermectin? How does this work in other diseases for which it's used? Yeah. So this is what I was trying to get at in the first hour? I don't know the answer to that. Nor do I know. Well, let's see with regard to the other diseases for which it's used, I don't know if there's any other respiratory diseases. So you know, if it's, if it's blocking, like sleeping sickness and sleeping, it's it's used for like helminthic things. And you know, you're not going to things that require a vector, right? Aren't it's not it's not a relevant question. Well, it's sort of a relevant question, okay. Because
+
+Bret 1:04:31
+you can't transmit presumably, I know nothing about the lifecycle of the particular worms that causes blindness, but I believe they have a second host.
+
+Heather 1:04:42
+So I believe so you can you cannot
+
+Bret 1:04:45
+trigger the disease in someone else, absent all of the members of the lifecycle, but can you do your part right in that lifecycle, and my guess is going to be based on what I've seen, and I am completely open to discovering But it isn't what I think but my guess is going to be highly effective at preventing you from coming down with a disease. Without coming down with a disease, you're not going to transmit it. Some people are going to get the disease at a much reduced level their rate of transmission is going to be low because comparably
+
+Heather 1:05:16
+reduced level to match the degree of disease they have precisely,
+
+Bret 1:05:19
+exactly yeah. And that therefore, there will not add the number will not be zero, but it will be very close to zero. More importantly, though, what they pass on in that case will not be specially selected, right, it will not be specially selected variants because the action of ivermectin on the spike protein is general more like innate immunity than it is like adaptive immunity. So don't know that that's true. But that would be my best guess based on what I know.
+
+Heather 1:05:55
+Next question. I am Jewish and very disturbed by what is going on in Israel, as well as the anti semitism on social media. What are your thoughts? Indeed, I will say I'm I'm not Jewish, but that Barry Weiss, again, has produced some excellent thinking on this. And she is she sort of one of two few lights in the darkness?
+
+Bret 1:06:21
+Here? Yeah. Yeah, I have complex thoughts. Because, you know, I think, like many Jews, and maybe most especially Jews in Israel have misgivings about the Israeli government and the way it behaves with respect to Palestinians. On the other hand, I recognize just how dangerous the environment is, and just how difficult it is to get the Palestinians to the table for a proper peace agreement. And so there have to be ground rules, right? firing rockets at civilians is intolerable. Hamas is a terrorist organization. And, you know, this is the desired result is chaos. And I think it is far too easy to wag one's finger at Israel, when in fact you don't have a solution that works for the predicaments in question. So anyway, I do. I hope to see a great breakthrough here. But I am not going to bend over backwards to make excuses for people who are targeting civilians and using other civilians of their shield and last, yeah, absolutely. It's insane. Insane and quite despicable. And frankly, people who don't recognize that ought to think harder about the problem.
+
+Heather 1:07:39
+Yeah, indeed. Do you have thoughts on Biden's simple rule tweet mask or Vax? I have not seen the tweet. I've not heard of it. But you can Intuit it from the question. I'm not thrilled that we seem to be losing nuance. I guess maybe that's just enough. Like we've said enough about what? We've already answered several questions here about Yeah, actually saying that, even in closed spaces. I'm not sure I even want to say anymore.
+
+Bret 1:08:14
+Yeah, I will just say, in the context of what we explored in the first part of today's live stream, How the hell can you turn this into a simple binary where you have a choice mask or Vax? First of all, masks are not fantastic production. The vaccine is not a secure solution. Right? We have
+
+Heather 1:08:44
+asked that better than nothing you're not saying
+
+Bret 1:08:47
+I'm not saying masks are nothing I must say. I think that there is some nuance that needs to be explored with respect to masks and you know, it's now we've never been doing this with mass long enough that we're in a position to know a lot more than we did. But But the point is, I don't want I don't want Team Blue wagging its fucking finger at people who are concerned about vaccine hazards. I don't want them you who is Joe Biden to tell us that, you know, it's mask or Vax when Joe Biden was on the team that thought we needed to be wearing them outdoors until two weeks ago. Yeah, right. This The fact is, these people have burned their credibility on this. Yeah, I
+
+Heather 1:09:24
+mean, the CDC is recent pronouncement about if you're fully vaccinated, you don't need to wear masks indoors or out, like how about how about let's start with what we do actually know and have known for 14 months now, regardless of your vaccination status. If you're outside, and you're any distance at all from people, you don't need to wear a mask full stop, that what that gets in the way of though, is the assessment of whether or not you have a star in your belly or don't and so as long as we have these rules and this you know, this actually this, this little piece of video that you showed me that I guess Eric, your brother had tweeted yesterday from Rachel Maddow Basically revealing that she has been feeling virtuous for hating on people who are not wearing masks outside.
+
+Bret 1:10:07
+Yep, absolutely. And she's trying to wrap her mind around what it would mean not to be able to assume that somebody without a mask was a bad person. It's, you know,
+
+Heather 1:10:17
+this is the administration of unity. Apparently. I see unity. I see. No, I mean, I actually see a lot of evidence that they're trying to do exactly the opposite, that the divisiveness that that even Trump supporters recognize Trump loved that he helped that he facilitated, that he augmented, but no, he did not fully create that divisiveness that we all lived for years through looks a lot different in a Biden administration. Fair, very different. But the divisiveness and the political winds from keeping us hating each other and looking askance at each other is very much alive. And you know, for those people who were so certain that a win for Team Blue last November was going to change that environment while you were wrong. Yeah, like this is just just a nightmare scenario in which we are being divided at every possible turn.
+
+Bret 1:11:10
+Yeah, and I must say, as long as we're on the topic of that Maddow thing I do feel like it is. No one hesitates to use the term proof, but it's as close as you're going to get to the revelation of exactly what you were hypothesizing about. snitches, right. As far as I know, you were the first person to say anything about that. And the sneakiness of it was revealed as Maddow is wrestling with the fact that the rules of the snitch game have now changed. The good people are now no longer recognizable by the symbol that had been agreed upon by the people with the NPR tote bags. And you know, and the fact is, okay, so we guessed right, yes, you were doing that. Yes. You all knew that you were doing it. And now you, you want to you have to, you know, get around to accepting that action. Oh, that good. People are the ones without masks because they've been vaccinated. I mean, okay, screw your game, you know? Yeah, that's garbage.
+
+Heather 1:12:09
+Yeah, it's entirely a social game. And it's antithetical to scientific attempt to to understand the world. Yeah.
+
+Bret 1:12:16
+And it is anything but we're all in this together, which is what you've been pretending we're all in this together. And therefore, you have an obligation to do this. And to do that, when in fact, your advice has been low quality to begin with, and oftentimes, simply about finger wagging right? masks outside. That was never there was no evidence ever that that was a good idea. Yeah.
+
+Heather 1:12:38
+Is there any evidence that the that HIV emerged from gain of function research? Never seen any? I don't think I actually I don't know the history of Ghana function research enough to know if it even extends back that far. I have no idea. I just I just don't know.
+
+Bret 1:12:53
+Yeah, I think I can say there is no affirmative evidence for that at all. That there was concern that it might have emerged from the use of primates in I believe in early polio vaccination campaign. I believe, in fact, that bill Hamilton, the great evolutionary biologists who died of complications from malaria, and somehow an aspirin that lodged itself weirdly, in his digestive tract,
+
+Heather 1:13:26
+I don't know the aspirin angle that he,
+
+Bret 1:13:29
+at the point that he went to, he was kind of a what's the term he was a bit reckless, he was a very smart, good guy. We know we knew him a little bit. But anyway, he was a little bit reckless. And he went to Africa, I think did not take malaria prophylaxis, even though he was going to a place that had
+
+Heather 1:13:48
+serious separuh. Yeah.
+
+Bret 1:13:52
+he contracted malaria and it killed him. But the trip he was on when he went was actually to investigate that hypothesis. I have seen reports that whatever he was looking into didn't pan out. And so therefore it is assumed that the hypothesis is false. Maybe it's even been conclusively demonstrated to be false. But no, I don't think gain of function research ever played a role. It was a question about monkeys or monkey or primate tissue that may have been used. In fact, I'm saying monkey and I can find I can phylogenetically defend that but it was almost certainly chimps that would have been the the source.
+
+Heather 1:14:30
+This is just a next question is my question. Mice from Jack's lab. Here's a link live webinar on their offerings for COVID related research may 20, noon, 30, Eastern Daylight Time.
+
+Bret 1:14:44
+All right, I should source some of those Groucho Marx glasses with the nose. Yeah, yeah, yeah.
+
+Heather 1:14:52
+Okay, let's get through. I don't know four more questions. What are your thoughts on Merriam Webster changing the definition? of anti vaxxer I didn't know they had as the new definition now includes both of you. Oh good. Wait what love the show, especially when you guys make each other laugh highlight of my weekend. That's what it says. Presumably Okay, so Zach's gonna
+
+Bret 1:15:12
+look at, it doesn't include us specifically, presumably, don't of
+
+Heather 1:15:16
+course Cabrales somehow but it says but so it was Merriam Webster zacky. You can see it. Okay. While you're doing that, I'm gonna move to the next one. Okay, is that we'll come back to it. two axes. Yeah.
+
+Heather 1:15:32
+In what class? I don't know.
+
+Heather 1:15:35
+I don't know the sounds familiar, but I don't quite read anyway. In what class? Did you guys bring up the periodic emergence of cicadas? In you are their books I can read to learn about similar phenomenon biology Can you recommend in the entry texts on evolutionary dynamics? Well, we Yeah, for for the final book, The first book that we recommend everyone is Selfish Gene. Yep. Bye. Bye, Dawkins. 1976. We'll do that after we answer this question. Okay. Um, and I don't know your parent execute a similar phenomenon similar? Well, I, I don't know. I mean, we should ask john and Dave, but I don't know that similar phenomenon. Yeah.
+
+Bret 1:16:13
+similar phenomenon or Bible to be on other planets that we haven't found yet? Yeah. Where's the pity? Yeah, I don't know of any symbol. I mean, there are other you know, jaw dropping things. But you know, that one's special.
+
+Heather 1:16:24
+Yeah, that one. Okay, so Zach, our producer has found Merriam Webster's definition of anti vaxxer and put it on the screen that's practically on the ceiling, which is why we appear to be looking at the ceiling now.
+
+Bret 1:16:35
+Yes.
+
+Heather 1:16:38
+Definition of anti vaxxer a person who opposes vaccination or laws that mandate vaccination as anti vaxxers launch campaign against a bill that would eliminate their ability to opt out of required shots supported with the proposal of delivering more than 21,000 petition signatures to the opposite Office of State Senator Ben Allen.
+
+Bret 1:16:56
+Well, I would say shame on I mean, first of all, I'm not exactly sure why they're defining a term like anti vaxxer, which is like, you know,
+
+Heather 1:17:03
+it's a word.
+
+Bret 1:17:06
+I'm not sure it's a word. It's a it's an epithet in some sense.
+
+Heather 1:17:11
+But the question is, I
+
+Heather 1:17:14
+guess, I mean, I guess this the first part of that definition, a person who opposes vaccination, you know, under all circumstances, anti vaxxer I thought referred to that. Right. And so the or laws that meant so good, but I think it's slightly written comes well, is that maybe that's it maybe that maybe, maybe you're arguing it shouldn't be in the dictionary because it is always used as epithet. Even though there is some small I actually don't have any idea how big the category of people is, who simply opposed like, I know that simply post vaccination. I know they exist. I've met some I know some, but but I don't I don't know. I wonder if it's like, you know, the actual alt right, like, yes, they exist, but it's just this tiny fringe group.
+
+Bret 1:17:57
+I don't know. But I think the thing that's really troubling to me is that the way they've written that it's a motte and Bailey, it's boss. Well, yeah. Think about it. A person who opposes vaccination or laws that mandate vaccination. Is that ever a person who opposes any law, right or write any vaccination or All right, the point is, those are extremes of a continuum. I'd say you're a frickin idiot if you don't oppose any vaccine. Or
+
+Heather 1:18:27
+if you can say in advance, I approve of any vaccination that comes down the pike at me and I approve all laws that mandate any vaccination, what kind of a moron would have to write the analysis done? That makes all reasonable people anti vaxxers. It does whether or not you fall out where we do on COVID-19 vaccinations that makes every reasonable person and anti Vax To be
+
+Bret 1:18:46
+clear, because somebody is going to clip that right. The point is, Merriam Webster's definition is written so that it is either maximally narrow or maximally broad, depending upon what mood you're in. And that means you can use it arbitrarily as a weapon. So it's like a dictionary as
+
+Heather 1:19:05
+mood ring.
+
+Bret 1:19:09
+Curious bludgeon. Yeah, but true. God damn, yeah, that is a terrible definition. And given that, like, you know, as far as I know, Merriam Webster, they've got one job. Yeah, I think so. They got one job. Right? Right. Clear definitions. And here, what have they done? they've written one. Boy, you could parse that either way. Yep. For sure.
+
+Heather 1:19:33
+Okay, so I said I'd like to more I'm just going to skip to some that I think. Oh, here's a follow up. We talked about synesthesia A while ago. Hi to what or maybe it's not a follow up. So we talked about synesthesia A while ago. And you're asking hi to what degree is occasional synesthesia. synesthesia, a useful start over Hi
+
+Bret 1:19:59
+Hello. Pretty good.
+
+Heather 1:20:03
+But to what degree is occasional synaesthesia useful survival wise for humanity? I the question asker is a synaesthete? Yeah, I think it is. And I think I think I think two things. I think that, you know, rare phenotypes are valuable because they introduce variability into a system yo. And you know, the go to example for this, which I like not just because I'm a left hander rugby is it's an obvious one is that across cultures across time, as far as we can tell 10, roughly 10% of people at any given population are left handers. That right handedness is always dominant. But that except in in those strange situations, such as, for instance, my father grew up and were left handed, this is considered a sign of the devil and you're basically forbidden from from using your left hand, left hand is always shows up at this real rare persistent level. And it's provides value. In you know, if you had everyone being right handed, then there are going to be situations where you don't have the optimal person for the job. And synesthesia, which allows you to basically cross the usual sensory boundaries, I feel like could have a similar similar virtue.
+
+Bret 1:21:18
+So there are two things buried in here. One is the specific things that as soon as the encounters or perceives maybe a value themselves, yes, and then there's also so that my view is likely, sometimes it will be true. But there's also the question of slight diversity in pathway just simply results in a population that sees more stuff. And so even if synesthesia had no direct perceptual value, the fact of some people having had the developmental experience of not experiencing things on the same channel that others did would cause them to be somewhat differently wired in a way that's often useful. And I would point out colorblindness also shows absolutely periodic utility. It is,
+
+Heather 1:22:16
+it's not persistent. Because there's such a strong genetic component. It's not at a stable rate across populations in the same way, but it is but it is, I don't know of any populations in which it is totally absent,
+
+Bret 1:22:28
+right? And the red green colorblindness, I believe turns out to be adaptive. And in modern circumstances are relatively modern circumstances people may know that colorblind people were used to spot camouflage and World War Two, because they're less sensitive to color more sensitive to pattern that's definitely I don't have red green color blindness. I've got a different color blindness, but that's definitely something we've got to do differently. Yeah. But you know, I do find whether it is downstream of that or not, I do find that there are certain things where color is distracting and patterns what you're after that I'm pretty good at, you know, spotting bat tents, for example, I was very good at. I've been
+
+Heather 1:23:11
+quite so much about RVs. You weren't as good at that.
+
+Bret 1:23:14
+Fat campers. Yeah, but anyway, yes. I know it's a cliche, but neuro diversity has intrinsic value, which doesn't mean that every variant has value, but it does mean that you don't want a population of people who all have the same strengths and weaknesses.
+
+Heather 1:23:32
+Exactly. So this is a comment, not a question. I'm gonna read it and then find one last question, but I'm at the one hour 15 minute 22nd point of Brett's Dark Horse interview with Garrett vandenbosch. It stressed that ivermectin should never be used prophylactically.
+
+Heather 1:23:47
+I don't remember that.
+
+Bret 1:23:49
+But I don't either. Go back and look at it.
+
+Heather 1:23:56
+Well, this is a giant question, but I'm going to finish on it anyway. Why are there a few species Chicanos, for example, in which females compete for males? What makes them different? Yeah. So, we do have a substantial portion of our forthcoming book on mating systems, which is the the core theoretical basis which your question is stemming from so mating systems, largely referring to population wide? Do individual females tend to mate with one or multiple males and two individual males tend to mate with one or multiple females the names for the various mating systems you will mostly be totally familiar with. a one to one ratio on both sides is monogamy a free for all is called promiscuity unless you're in humans, in which case somehow we're calling a polyamory now although there will be people who argue it's not a free for all but okay. And then polygamy is the umbrella term for a skew in terms of one sex tends to have multiple partners and the other Sexton To have a single partner polygyny, being the one that is most familiar where males tend to monopolist single male tend to monopolize the reproductive efforts of multiple females, leaving lots of males and mated polygyny, multiple females polyandry is the opposite in which a single female will tend to monopolize the reproductive efforts have lots of males leaving many females unmated maybe, although I've never actually heard that part of it described. And Jakarta's in which females compete for males is an example of polyandry. But you would also see female competition for males in situations of monogamy. So, for instance, with people we have Yes, we have male male competition and female choice in humans, but we also have female female competition and male choice in humans. And because it's just female, female competition and male choices, very little female choice and male male competition. But that is all set up. None of that goes to explain why Chicanos and Fela ropes and a few other rare a few other rare species actually engage in polyandry.
+
+Bret 1:26:03
+So first of all, we should say, in the first part of today's program, we talked about john Cooley and David Marshall experts on cicadas magicicada in particular, we also know one of the world's leading experts on Jakarta's, specifically pheasant tail Chicanos, which are polyandrous and live in Thailand. Hi, Laura, if you're watching.
+
+Heather 1:26:28
+So she was also we were in grad school, we were encouraged.
+
+Bret 1:26:31
+Yep, rolling grad school together. They were great lunches, we got together and talked about stuff.
+
+Heather 1:26:36
+And Laura was impacting our wedding. So yeah, yep. Anyway,
+
+Bret 1:26:40
+so anyway, the I must say, I have I'm gonna have to dust off my tooth. Yeah, thinking about polyandry. But the key thing that I think
+
+Heather 1:26:52
+is I don't force you to that is, yeah,
+
+Bret 1:26:55
+thank you. But the key thing is the limitation on parental effort, right? So in the human examples, the rare human examples of human populations that engage in polyandry. And in the case of Chronos, what you have is a situation and into kindness, it's key that we're talking about birds, right? Because a female bird, people won't necessarily know that right? birds can lay a female bird can lay eggs and a bunch of different nests. And so if what's limiting is parental effort, a female who can get a bunch of males to each mindedness can lay eggs in them. And so that system is modular and flexible in a way that mammalian systems typically aren't. So the the human cases tend to be situations in which the environments are extremely harsh, and therefore the effort sufficient to raise offspring is not manageable by a couple, right? So the point is, having extra females makes the problem worse, not better, having extra males results in there being enough parental effort to raise children in the harsh environment. So what typically happens, the males that marry a single female tend to be brothers. Why? Because that reduces the cost to each of them of the offspring being fathered by the other since they are genetically 50%. related. So anyway, there's a lot to be said. But in general, the key is going to be there are rare circumstances surrounding parental effort that favor the evolution of polyandry. Yeah,
+
+Heather 1:28:31
+so one of the models and I just I cheated, I looked up one of my own slides from my my shorebird lecture with I gave a teaser about the origins of polyandry. One of the things I'm reminded of is actually we only know what from fish, fishy fish and birds. Interestingly, and that may just be that there's like less sociality in general and in the non avian herps. But that's, that's interesting. So, you know, at first you sort of need male care to evolve for lots of reasons that it could and if male care then allows the female to start producing more eggs than she then a single individual can take care of, then then basically the both she and more than one of possible mates could win by her divvying up her a bit of effort among multiple males.
+
+Bret 1:29:21
+So when you say fishy fish, are we talking? See horses and
+
+Heather 1:29:26
+I only have the bird stuff here because this was a lecture on shorebirds but
+
+Bret 1:29:33
+alright, that's my prediction. Yeah.
+
+Heather 1:29:36
+All right.
+
+Heather 1:29:38
+Yeah. We can always, always glad to talk about mating systems, but maybe we should stop. Yep, maybe we should. We should stop that now. Well, it's been a long couple of episodes
+
+Heather 1:29:51
+Long and
+
+Bret 1:29:52
+Winding,
+
+Heather 1:29:54
+Long and Winding podcasts. So we will finish by imploring you to Subscribe to this and the clips channel to like the video to share it with people in whatever way is is good. And you know especially for these these Q and A's the the terrific guy that we have who's working on the clips channel with us really pulls out clips and gets them out there quickly if there any particular q&a is that you are interested in seeing clipped. Go ahead and email Darkhorse dot moderator@gmail.com to send that request and our model will send that on. consider joining us at either our Patreon. For monthly private q&a is on mine and monthly private conversations on threats. And in the intervening week before we see you next, make sure to love the people you are with and eat good food and get out.
+
+Bret 1:30:56
+And if you can't be with the one you love, keep it in your pants until you get home. I just think that's good.
+
+This transcript was generated by https://otter.ai

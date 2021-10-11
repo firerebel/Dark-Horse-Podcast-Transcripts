@@ -1,0 +1,400 @@
+Bret 0:07
+Hey folks, welcome back to the Dark Horse podcast live stream the q&a section in which we answer your super chat questions to the best of our ability. Dr. Heather Hein, shall we get to it? Let's do it. All right. All right,
+
+Heather 0:21
+we'll start off with these that came in last hour, and get through as many of them as we can, and then switch to those that come in this hour, usually in the order in which they come in. So first question, is it racist to believe that if you are of a certain ethnicity, you have the propensity to express an allelic variant over another?
+
+Bret 0:42
+I can't imagine how that would be racist. I mean, first of all, things like imprinting exists, it is not inconceivable that a mechanism in a population could trigger some kind of an edit or some kind of epigenetic mechanism that would bias in one direction. I mean, I think the thing is, it's simply mechanistic question no matter what it is, you know, is it is it sexist to recognize that females are on average, not as tall as males?
+
+Heather 1:14
+Right? So I mean, there's ethnicities have, for instance, different amounts of melanin, express, on average different amounts of melanin. The question is, do you believe that all things that are true of humans have reflections are reflected differently across ethnicities? And, you know, we we have argued that you shouldn't expect that something's like, gee, the measure of general intelligence should vary across races or ethnicities. But we obviously do see things like height, melanin, athletic ability, maybe particular propensities and proclivities, over in ability space, but not general intelligence. So no, it's it can't be racist to believe that different ethnicities are different, which is basically what you're asking at the mechanistic level. But are they different across all possible realm of human difference? On average? We shouldn't expect that either necessarily.
+
+Bret 2:22
+I'm going to go a little more aggressive here. Okay. I don't, I think by and large, we are overly infatuated with a narrow genetic interpretation of human variants. And this falls down when you get to cognitive stuff, which is why GE doesn't behave like, you know, the capacity to run long distances are at high speeds or whatever. However, even if it did, right, let's say that whatever the mechanism was, there were differences in G between populations, would it be racist to study them, or think about them know, the nature of sciences, it's about the discovery of what is factually true. And frankly, we know that in the history of humans, there must have been differences between populations in how intelligent they were, because that's the only way you get the variants on which selection can actually increase human intelligence, which it obviously has done. It does not mean that those differences exist in the present. And I think we have good reason to suspect the interpretation that says that they do or are responsible for a large fraction of the inequalities that we see, frankly, I wouldn't know which way to bet in terms of which populations would be ahead, because I think the majority of intelligence is derived a different way. But facts are facts, studying them doesn't make you racist.
+
+Heather 3:40
+That's right. And I guess just to say one more thing on this topic. This is about propensity to express an allelic variant over another, which is to say, a difference in size or scope of a particular phenotypic expression, presumably. But there's also differences in variants, which are harder to explain, and so don't tend to get as much play. But to take the hotbed issue that is not the one that we are talking about right now. So not race, but sex. across many domains, you have the hypothesis of greater male variability. And that hypothesis has been borne out by the data in many things, including GE, in fact, so we don't find, for instance, between men and women within a population, you're controlling for all the things, all the other things you would want to control for a difference in mean intelligence between men and women. But you do find more men at the tails of the distribution in both directions. So more male geniuses and more male imbeciles, with the average being the same. And that's not to say that there aren't female geniuses, and let's say there aren't female imbeciles, but that the greater male variability hypothesis seems to be born out across cultures with regard to not just g not just general intelligence, but some other things as well. So A lot of the stuff when we end up talking about differences, we tend to just default into talking about measures of central tendency things like averages, rather than measures of variance, which is what this greater variance
+
+Bret 5:12
+hypothesis is about. Yeah, so put that in your pipe and don't smoke it because that wouldn't be ladylike. Next question. We need a cricket seven perfect.
+
+Heather 5:26
+I was waiting for it. Zack, I was waiting for it. Yeah. In next question in the pursuit of power and wealth, the fetishization of differences between people has been the source of the cruelest acts. We have found no biological basis for the concept of race. Racism thrives on people not knowing this. But is it racist to keep looking for a scientific basis of race?
+
+Bret 5:49
+I would ask the person who posed this question to sit down before we answer it, because we have bad news for you. That stuff that you've been told about there being no biological basis for race isn't true. Now there is an argument to be made a responsible argument to be made. And I have in fact said that race is the bastardization of a concept that is true, right? race is a problem because for example, one drop rules put you in a racial category. And one drop rule is not a biological fact, that's a sociological imposition on a biological fact. But populations exist. There are measurable distance differences between them. The notion that has caused people to argue that race doesn't exist, is this, that we tend to find more variants within races than between them. That, however, does not negate the existence of populations, or negate the fact that they are distinguishable. The fact is, males and females are different. And there's more range of variation in something like height within both categories. And there is a difference between the averages it says nothing about the reality of those two categories. So anyway, don't listen to people who feed you garbage. And sometimes they'll feed you garbage that you want to hear because it would make your life simple. If race didn't exist, wouldn't that be marvelous, but something that has been bastardized into race exists? I don't think there's a tragedy in there. I think it's a perfectly fine thing. And frankly, the answer could be horrifying. But I've seen no reason to expect that it will be so let's be courageous and do this properly. Because if we stack our policy and ideology, on top of a shaky foundation of pseudo facts borrowed from pseudoscience, what we will end up with is a structure that does not stand over the long term and the backlash when it is understood that we have been lied to by scientists who wanted to tell us something that was overly pretty will not be to our benefit.
+
+Heather 7:54
+Perfect. Next question. Do police unions have anything to do with the situation? It appears to require police to collectivise against the community, ostensibly, their employer shoehorns good and bad cops into a block and allows qualified immunity negotiated into contracts? so tough question. I'm sure they're contributing at some places. And yet, you know, mid, early, mid and late 20th century, the unions were so critical for workers rights police included, that I'm not sure how it is that you that you walk this line? You know, I wouldn't say that the answer is, therefore police shouldn't be unionized. Because you put police in an even riskier position with regard to their employment status. And that's not going to make them better on the beat. Right. But that's, that's not going to make them into more professional keepers of the peace. So what do we do?
+
+Bret 8:53
+Yeah, I think the problem is, this is a classic of liberal solution making. So there is a problem. The problem is that management is inherently effectively unionized. And so if workers don't unionize, they are at a disadvantage when dealing with management, you have to solve that problem somehow. If you solve it with a union, you get a whole bunch of other problems. And so I think, you know, we've seen the catastrophic collapse of unions in the US over the course of the late 20th century especially. And there's a question about what could we do to serve the purpose of unions, which is to give workers symmetrical power with management, basically, to level the playing field in their negotiations without inviting some of the negative consequences that we've seen. I don't know what the role of police unions is I you know, I have zero direct information about that certainly stands to reason that it is contributing to a problem. But again, at some level, this is why we got to come up with a better term than PR wrestlers, but why people who believe that we actually have to substantially alter the system because there's too much legacy code and it's costing us too much. See a necessity to re evaluate larger scale issues because if we deal with just the symptoms, it's not going to work.
+
+Heather 10:19
+Next question, are you aware of the rat city experiments? Do you think any of these issues are related to population density, for instance, bluntly put, it seems harder to ignore your neighbors sexual proclivities when their sex life knocks your pictures off your wall. So the rat study experiments refer to mid I think, mid to mid late 20th century work by a nephrologist and animal behaviorist, who gave rats ad libitum food and water which is to say as much as they wanted, and therefore allowed them to make more of themselves to the degree that was possible, such that they increase the population density. And then then he watched as the society right society fell apart as things got super Dennis's
+
+Bret 11:02
+this, these are I've never heard of called rat cities. Right? utopia experiments.
+
+Heather 11:06
+Right utopia. There's another I did look it up. I can't remember now what the sort of formal name was.
+
+Bret 11:12
+The researcher was Calhoun. Calhoun.
+
+Heather 11:14
+Yeah.
+
+Bret 11:17
+Yeah, so I actually think this has very little to do with what's going on. I do think that there's a general property where back when I wrote my paper with David Lottie, on the evolution of moral self sacrifice. I remember somebody asked me what I was working on. And I explained to it and they said, Oh, when times are good, people are bad. I was like, Okay, yeah, folk wisdom, once again, reinvented by evolutionary theorists, but But in any case, the point is, yes, there is something to be said, about the ease with which we have things even those of us who are suffering tend to have an overabundance of food. And, you know, we're not we don't have enemies spilling over our borders, threatening our well being. And also, there might be some relationship, but in general, I
+
+Heather 12:08
+mean, that's, that's a slightly different thing isn't that having an easy and comfortable life and having a and being crowded, are not inherently the same thing. And you know, some people seek the energy and the amenities of a city. And so those are highly correlated. But the level of comfort and the level of crowdedness are not, are not the same measures?
+
+Bret 12:29
+Well, the problem is, I don't think we know what those experiments mean. And I don't think we know frankly, I don't even know if they were reproduced. Yeah, I don't either. So if they're not reproducible, then that says one thing, I know from my own work on laboratory rodents that those animals are effectively destroyed by the inbreeding that is done to render their genetic backgrounds uniform. And so frankly, if you look at mice out in the wild, you find a very different animal behavior, really, than the mice that you find in the lab, the mice in the lab are mentally retarded. And so does the fact that you take laboratory and, you know, Calhoun wasn't working in, you know, in 2000, he was mid 20th century. Were the animals he was working with compromised in a way that affected what happened when he over supplied them what had happened with wild animals. They're just so many questions I want answered. And then is there any real analogy to what we have? Which, you know, I don't think there is.
+
+Heather 13:34
+I think, though, that is likely that you increase population density and behavior changes. In fact, I would say it is nearly impossible. That's not true. And the example that comes up for me, maybe only because I would just like to not talk about humans for a moment is that tangara frogs on BCI by the beer machine, so let me just plug those words here and see if a beer machine it wasn't the beer machine? No, no, they were outside of Kodiak pond, but wasn't the beer machine right there.
+
+Bret 14:03
+No beer machine was 100 steps downhill in the domain lab building.
+
+Heather 14:10
+Okay, I could have sworn you could get beer and watch these frogs inside. So
+
+Bret 14:13
+now without taking 100 steps.
+
+Heather 14:15
+Let's see. Okay, so bcis, barro Colorado Island, the Smithsonian own research island in the middle of the Panama Canal that was formed when the Panama Canal was was was made. It's an island on which Brett lived for 19 months while he was doing his research on bats. And I was there with you for five of those months or so. And these frogs, these tangara frogs are remarkable and very well studied, in part because they're on BCI and BCI is one of the preeminent fuel stations in Latin America. And so if you if you're looking to work in a field station, this is one of the places that you go. And there is in fact a monograph, book length manuscript written about the behavior of these tangara If you really do have fascinating behavior, and I will resist telling you anything more about them right now. But as it turns out, almost all of what was known and written into this book about the tangara frogs was based on what was going on in what's called Kodak pond, Kodak, Kodak, Kodak pond based because it's where people take pictures, right?
+
+Bret 15:21
+Actually, I don't think so the building is Kodak and I'm wondering if not exactly related to Eastman Kodak Can't I look back I was the only researcher living in this building that was already at the point I lived there condemned due to a termite infestation. But anyway,
+
+Heather 15:36
+so you don't think it's about but I mean, you just said you think it's about the camera. Like I took it, I was saying Kodiak, but I took it to be the, it's about where people took pictures, because it was there, it was easy to get pictures of these frogs there because there was a light, and, and there was a lot to eat. And so the frogs congregated in this concrete lined pond. And they were at high population density, and therefore they were doing a lot more engagement over sexual selection stuff than they do at when, as it turns out, they're out in the forest when they're at much lower population density. So a lot of what we came to understand about the species of frogs turns out to be true under the very particular and artificial conditions that were created by people who would put a field station and a light and concrete line to thing that filled with water and became a habitat for frogs. So your population density changes behavior, for sure.
+
+Bret 16:31
+Well, do we know anything about what happened in Kodak pond? I mean, the thing about Kodak pond is under Colorado, which was a hilltop before the Panama Canal filled in. And I mean, I arranged all over this thing as I was doing my work. There were not natural ponds that were like Kodak ponds. So it was a very unusual location. The frogs existed in the forest there, but they definitely existed in lower density, and Kodak pond, which was, you know, a meter across was a unique, a unique spot. But the do we know whether or not the behaviors that were seen in Kodak pond, were distinct from places that do have the behavior of the same frogs
+
+Heather 17:16
+and places that do have those much lower density? Well,
+
+Bret 17:20
+I'm sure there are places, let's say on the mainland, where water accumulates, you know, that scale. And so you might have an accumulation to tangara frogs that looks like Kodak pond,
+
+Heather 17:31
+if memory serves, I believe it was Dave Marsh, actually was a graduate student who was there at the same time that you were who did the work on BCI, outside of Kodak pond, who found many, but not all of the same behaviors that had been documented by Edward upon God, random Ryan, I think, at Kodak, but not all of them. And they were also doing some different things. And I just I don't have enough specificity. Now to remember what all Yeah, what all was different. Anyway, we probably have feared too much.
+
+Bret 18:01
+We don't have veered. Yeah, I do think it's quite possible that the rat city experiments are compromised by rats that are cognitively compromised by a breeding protocol that's about making a uniform genetic background and not about preserving their capacities, which I think is a point actually, that was even mentioned by Fineman in cargo called science where he talks about the fact really, that there were things to remember what exactly his point was about rats, but he made points about psychologists continuing to use rats for experiments. He certainly makes the point that they used rats and experiments, when other experiments had already shown that the rats were capable of detecting things that the experimenters needed to eliminate in order to, to use them for the purposes they were using.
+
+Heather 18:52
+So fascinating and critical. Science was written boy 70s, the latest maybe even as early as the 60s or 50s. Yeah,
+
+Bret 18:58
+yeah. Classic paper. Yeah. All right. We got to move on.
+
+Heather 19:02
+Indeed. How could the racism? How could the quote racism predates COVID be a legitimate argument? Does poverty research deficiency not predate racism, given that it existed before tribes interacted therefore, predating COVID and racism? Therefore, protesting to reopen the economy was good. That is a lot of their force. Yeah. I think I got this. Okay. Good, because I'm not quite tracking it.
+
+Bret 19:28
+Here's the thing. It can't be a legitimate argument. And the problem that I would say a general problem is that the dishonest brokers in our system have a tell, which is they think every argument goes in their favor. The honest brokers all know that even if they're right, some of the arguments go in the other direction. And so what this is, is an argument that somebody offers How could this not be useful in our pursuit of what we want which is to behave as we want and Not be blamed for putting people at risk during COVID-19. Now, as we have pointed out, it may be that the fact that these protests are taking place outdoors means that they're actually safe through no proper planning or
+
+Heather 20:13
+but if that's the case, then the mocking of the protests from the other camps two weeks earlier, were equally safe. And certainly people should have been allowed to have outdoor ceremonies like some like funerals, and graduation ceremonies, right? You know, if these are safe, they're the only thing they have going for them, honestly, is that they're outside. Yep. They people are not being careful. Otherwise, some, some people are mass, but they're yelling, and they're close together. And they're, you know, they're dancing, and they're just not being safe. And there's a lot of things that we were prevented from doing that if these are safe, then all these other things were safe, too.
+
+Bret 20:51
+Yeah, I agree. So yeah, it's a garbage argument. And the people who offer it ought to know that it is, and maybe
+
+Heather 20:58
+they do. Yeah. And that's, I would like to know that. Yeah. Let's say that community policing works perfectly. Wouldn't different communities possessing different resources ultimately require redistributive programs that would lead to centralization at the new community patrols into new Metro Police Departments?
+
+Bret 21:16
+Well, it depends what you mean by that. The thing is, we've seen this with schools, right, where we have this cute little trick that we do, where we collect tax money locally for the local school, which means Beverly Hills gets an awesome school and watts gets a lousy school and you know, that's just a natural consequence of the way we collect taxes and then utilize them. So that is a property that reinforces a pattern of, of opportunity. And anyway, not
+
+Heather 21:43
+much redistributing going on. That's
+
+Bret 21:46
+my point. Right, that the the jump in this question is that it would necessarily require redistribution, when in fact, it really depends on what the foundational principles of the system are. And when the system detects that it's done something that could be optimized, better if it were done some different ways, so I wouldn't a I mean, I guess the whole thing is kind of strange, because what are the chances that community policing if community policing is simply we're going to get patrols together and police ourselves? What are the chances that that the bad people won't figure out that if they sign up for the community policing that they can go and brutalize people? I mean, you know, it's gonna become a protection racket. Yep. Sure. Well, yeah.
+
+Heather 22:30
+Next question. What do you think the effect is of Twitter banning Trump's message about unifying healing, not hatred now on YouTube? Well, amplifying messages by others, saying that he makes no effort to unify, understanding that no position is an endorsement of either.
+
+Bret 22:45
+Yes, yes. The whole thing is so absurd. The fact is, it's not Twitter's job to decide when we get to hear the President. And, frankly, I can't stand listening to this president. But I know it's not Twitter's job to protect me from what he's saying. And frankly, I don't think that there is a limit. I don't think there's a point at which he becomes so vile. I mean, I don't you know, I don't think that's his thing. But if he did, yeah, we would need to know about it right away and having Twitter protect us from in our sensitive little ears is just so upsetting. Actually, I don't use my ears on Twitter very much. I guess it's my eyes. But yeah. And in any case, it's not Twitter's job, no matter what is going on in the White House. We'd need to hear about it so we can react to it properly. And yes, they're I don't know about the message that actually they shut out. But it sounds like it was, you know, if I, if I know the man, he made a political calculation delivered an address that paid lip service to unity, which he is his least favorite property, because dividing us is his his his go to move. But he said something about unity. And the fact is, even if it was cynical, you have a right to judge for yourself. If they say he doesn't unify, and he's giving a message that is ostensibly about unity, then you get to make the choice about whether or not these two things are falsifying, or if in fact, the message about unity was really about division.
+
+Heather 24:18
+Yeah, I haven't heard of this one either. But a month or more ago don't know when everyone was still on lockdown. NPR and a number of TV news services announced that they were no longer gonna broadcast his daily press conferences. And this is insane. This is This is absurd and it's it's just as bad as YouTube taking down the video of the Kern County doctors or the pandemic video you know, both of which we talked about and explained why we think there was basically nothing to these things. Yeah, with with a few exceptions, but we need to be able to go to the source and assess for ourselves. censorship is not the answer. And what is the effect the effect is Going to make the message stronger, the effect is going to make the not necessarily the message but the messenger. So the effect will make in this case Trump's stronger it will have made the message of pandemic and the Kern County doctors stronger. And that's obviously the opposite effect of the people who are engaging in censorship or hoping for so maybe based purely on self interest, we can make that argument so you're doing you're shooting yourself in the foot when you do this, you know, allow us to see what it is that people are making and assess for ourselves and allow others who we come to trust to assess and allow us to see their assessments.
+
+Bret 25:36
+Twitter, you're making an ungodly messenger. Even worse, crickets. Yeah, so many crickets, this time of day.
+
+Heather 25:46
+Do you believe these public displays of white people apologizing for their white privilege is helpful?
+
+Bret 25:52
+I'm sorry, but I don't know. Now, this couldn't be less helpful. And it's not about apologies. It's about as we talked about in the initial live streams, it's people solving their own problem offering fail t to the mob. And what that does is it makes the mob stronger. And it means that when somebody says no, I won't do it, you're not entitled to an apology because I haven't done anything wrong, that that person is going to face a more ferocious enemy. So when you see somebody apologizing to the mob when they have not wronged the mob, what they are doing is creating a worse harm for somebody else. They are externalizing harm. It's like dumping toxic stuff into somebody's stream, and then it washes into their water supply.
+
+Heather 26:35
+Perfect. You state that there's a deep bench of black intellectuals. Your list includes those that think like you How do people like ibram X and Tana Hussey coats play into your idea as ardent intersectional lists while standing in compare? I think it ends there before you clearly have something to say here. But let me just say that our list included, a lot of people on the right actually included the people who we actually are aligned with politically on the left. People like Chloe, Valerie and Thomas chariton Williams, and then many people on the right, who we don't particularly share politics with, but it's true that we did not have intersectional lists, like coats and romax on our list and not
+
+Bret 27:16
+a single authoritarian.
+
+Heather 27:17
+Oh my god, right.
+
+Bret 27:19
+So look at Heather's Heather's absolutely right here, there are people on our list that we disagree with. As a matter of fact, I don't think there's a single person on our list that I fully agree with.
+
+Heather 27:29
+I don't fully agree with you.
+
+Bret 27:31
+I think that you do. Alright, so the problem. Is that a that's a good list.
+
+Heather 27:41
+Yeah, be the title. I want to add Thomas Sol, and I'm probably mispronouncing his name. Elder in the community economist, and Camille Camille Foster, obviously.
+
+Bret 27:54
+Yep. And I. There are others who are on the list too. I would say Dave Chappelle belongs on the list and, and hotep Jesus. So anyway, what I would say is, look, we don't agree with these people. We agree with them about something, we agree with them about what decency sounds like what it's like to participate in good faith in a conversation about things over which you disagree. And, you know, I don't think Tallahassee coats is unrecoverable. But I do think he's taken a position that's very hard to reason with. And I would love to see him level up. But there is an obstacle to it. So I think frankly, this is just a case of, of what about ism, right? Well, if you're going to include all those people, how about including this one, and frankly, I have said in several places, that you need to be able to shut people out, who are not acting in good faith in order for a high quality conversation to function, because high quality conversations are fragile conversations. And so what I want is a conversation that contains people who are fully ready to play and those fully ready to play players. We do have a deep bench. So are there people who might be on that bench who I am not naming there are but you know, is that bench full of rock solid people who are ready to go right now to lead if they have the position to do it from they are so that's good news.
+
+Heather 29:25
+Yeah. I mean, I would, I would love to see a conversation between for instance, Tallahassee coats and Chloe, Valerie, and you know, between him and a number of people, but I don't know, I don't know that he would come open. Yeah,
+
+Bret 29:41
+I don't know either. And I we saw Chloe Valerie, offer to have that conversation with Candace Owens and Candace Owens and Tony's tickets are not the same. They're definitely they are not the same creature. But nonetheless, I think that's it's the point. Kansas is a clear example of somebody who won't be reasoned with.
+
+Heather 30:01
+Yeah. And I wouldn't put her on the list either. Yep. hypothesis, stand your ground and kancil culture are two sides of the same coin. Both are a variation of I feel threatened or offended. So I'm going to shoot or cancel you. What is the potentially bigger threat? Excellent question. I have said before, that the extremists on on both sides are dangerous. And that while I think that the extremists on the right, are outnumbered by those on the left, and the ones on the right are better armed. And so there's this question of how much how much damage can fewer better armed people do compared to more? Not yet, in the way as well armed people? And, you know, maybe that's too simplistic a comparison, but I don't know. I don't know where it falls?
+
+Bret 30:52
+Yeah, I'm a little concerned that it's not, you know, there is some relationship between these two things. But I don't think it's a close relationship. I don't think it's it's two sides of the same coin. I must say, I've been canceled a few times, I've been shot, zero time. So I don't speak from a great deal of experience. But I'd certainly rather be canceled than shot that said, which one stands the greater chance of disrupting functional civilization and replacing it with something worse, canceled culture is way more powerful than it appears. And
+
+Heather 31:24
+in part because it doesn't appear to be able to do as much harm, right? Just I mean, just like the kinds of violence that male criminals do, is more likely to be brutal and horrifying, and be captured on video in a terrible way. You know, the average kinds of you know, crimes that that women engage in, for instance, is is less horrifying and that brutal, violent way. But it's not to say that there's not crime that can't do that. Can't do a vast civilization level damage.
+
+Bret 31:54
+Yeah. We talked in the first hour about the the point that I made anywhere and everywhere that the the problem that we were seeing had very little to do with free speech and was only tangentially related to college campuses. One of the places that I said that was in Congress, when I was invited to testify was on a panel with Allison Stanger and Robbie George. And anyway, I told them, that this was an insidious and dangerous viewpoint that was capable of transforming things without your awareness. I noted that at the point that the democrats took over the house, they took down the video of that, of that testimony. So I don't know how regular it is for one party to take down the testimony that took place under the prior parties administration of their body of the Congress, but nonetheless, I was struck by the fact that there did seem to be a tendency on the left to try to obscure this point. And anyway, yeah, that that it is a high level and dangerous process that we should pay attention to. But definitely if you got to choose between getting shot and getting canceled, go with canceled
+
+Heather 33:20
+Okay, we're gonna try to get through at least the next oil let's just try five. It's tough. Again, many more questions that we can get to, and we appreciate the questions and the support. hypothesis, a cab, all cops are bastards is literally false, but acting as if it were true increases one's chances of coming out of an encounter with the police unharmed. Can we replace it with something that serves the same purpose without side effects?
+
+Bret 33:46
+How do you figure that a c a b increases the chances that you're not going to be harmed by a cop? You've just told them that they're a bastard no matter what they do?
+
+Heather 33:56
+Well no, I mean, I think you know, let's imagine that this isn't something that you are yelling at them and graffitiing on buildings but that you have it in your head that you have it in your head that police are dangerous and I you know, I as I understand it, you know, I mean, this is not how I grew up because I because my skin is white and I'm female. And so this was really not something that I had to worry about as much but you know, I as I understand it, in some African American families, this is exactly what is what is taught, right? No, not not that not a cab, but assume that you're not going to come out of the out of an interaction with police well, and so avoid police interactions if you can.
+
+Bret 34:42
+I'm having none of it. I'm having absolutely none of it. And here's why. When we participated in occupy, I made a point of talking to the cops which got me branded as a traitor because I was told all cops are bastards, and therefore my talking to them was counterproductive. What I learned from talking to them was unambiguous. Some cops are bastards, others are not. Here's the problem. And all cops are bastards mentality results in no crossing the line. Now, as we've talked about before, those of us who are not cops tend not to circulate amongst cops, we don't know them. They are a monolith. And they don't tend to know us. What is essential, essential everywhere we're bad policing is a possibility. What is essential is that the populace is understood to be composed of humans by the police. And the police are known to be composed of humans by the populace. That's the thing that takes the the hair trigger, and lowers it so that it is not so likely to break out into violence.
+
+Heather 35:51
+To so it's not be it's all cops are a risk to you.
+
+Bret 35:55
+Any cop that you don't know might be that is decent advice. You don't know until you've spoken to a cop, but the possibility that that cop is actually on your side is also there. And one of the things that I got in talking to this DHS officer was that he felt a an obligation that I did not expect to see, to protect the protesters even to protect the rioters, he understood his job was to defuse the situation without anybody being harmed. And he talked to me about the pride with which certain past incident incidents had been resolved without harm. And this was a badge of honor. And so the idea that one of these things might break down into violence, that's a failure. To the extent that you are aware that the person on the other side doesn't want to engage in violence. They're not you may be looking for an excuse for violence, but they're not. That is an important piece of understanding and all cops are bastards is absolutely toxic. As I said on Twitter several days ago, it is accelerant being poured on this fire.
+
+Heather 37:12
+Next question is about a movie that I don't know. light hearted question, what are your thoughts on the movie The Hebrew hammer? I don't know. Do you know it? Or no, I'm
+
+Bret 37:20
+tempted to say something glib. But given that I don't know who he is, I probably ought to have my tongue until I do.
+
+Heather 37:28
+Can you clarify the main flaws that you see in the BLM blacklivesmatter movement, any ideas for how we support the movement while addressing the flaws that it can be more effective?
+
+Bret 37:40
+You want to take it? Well, you. Here's the thing. First of all, Black Lives Matter is an idea. And Black Lives Matter is a movement, the movement is headed by people I don't trust, they have done things in setting out their mission that reveal that they are up to something other than pointing out the fact that black lives are undervalued in our society, which I fully believe they are. So the fact of the movement being headed by people who appear to be up to things other than the state admission is in and of itself sufficient. But I would just point out as an example, the fact that BLM is officially anti Israel puts people I think it puts any decent person in a predicament. Why is it that in order to take a position on the undervaluing of black lives in America, one also has to take a position on the con various conflicts with Israel, it makes no sense. And so it's it's a Trojan horse that smuggles in this one concept that's unrelated with another concept. And the whole idea is, you're supposed to sign up based on the hashtag. And anytime somebody wants me to sign up based on the hashtag, my question is, can I see the fine print? I want to see the fine print, because I have a feeling there might be something in there that I don't know I'm signing up for.
+
+Heather 39:06
+Yeah, I guess I would just add I agree with all of that. The second part of the question is any ideas for how we support the movement while addressing the flaws? I don't, I don't want to support the movement. I want to support the idea, the concept. And it has because it has been taken over by this hashtag. And by this movement that is called itself this thing is actually I think, doing far more harm than good. It is it is almost certainly at this point given what is going on in America streets, forcing people, some people who were maybe a little bit on the fence back into a somewhat more racist position. Because the violence that is being done in the name of black lives matter when it is the vast, vast, vast majority of people including black people who want none of it who have no interest in any of it.
+
+Bret 40:02
+And what's more, I have not seen leadership come out of it that does any of the things that are needed. It has not basically shut down the rioting and looting so that you have a protest that can be taken seriously. So anyway, that's on that's on BLM. And if it reforms itself, fine, but until it does, it's a compromised movement that is taking this energy and directing it. counterproductive. Lee,
+
+Heather 40:27
+like it's one more thing it doesn't it doesn't seem to allow for dissent, which is just picking up on what you said. And so any movement that does not tolerate dissent is not one that I want to encourage anyone to be part of there there has to be dissent allowed, or else it's or else it's not worthy. Tomorrow, we'll switch. Is it useful to think about evil and dysfunction as an evolving mind virus with the risk that certain ways of addressing it result in something analogous to drug resistance? Should we think in terms of social media distancing? Yes, we should.
+
+Bret 41:04
+Yeah, so there's a lot wrapped up in there. And it was going to take me 20 minutes of quiet time to figure out yeah, exactly what i think but I
+
+Heather 41:11
+mean, the second question, should we think in terms of social media distancing? Yeah,
+
+Bret 41:16
+let's just say, there are things about our social media environment that have radically changed essential elements of how things are done. And we don't know what the consequences are. I would argue that the fact of our would be leaders being trapped in the gig economy, could well be a completely natural and accidental outgrowth of the way business model interfaces with influencer status, yada, yada, yada. But it leaves us in a position where we are lacking the thing we need most, which is leaders empowered to lead. So I don't know that social media distancing will do it. But certainly thinking about the downstream consequences of this novel media environment is essential. And we are overdue to have that conversation in earnest.
+
+Heather 42:09
+So the next two questions, all you you might have a quick answer and the first one, but I want to come back to them. When we have one more time where I may even just put a put a post up on medium or something. One is, thank you all for the same wonderful content. I'm in awe of how you think if you were to suggest one book or otherwise, to help one further develop the critical thinking skills, what would it be, you have something on your head, and
+
+Bret 42:32
+it's gonna seem left field but guns, germs and steel, you need to understand that human beings are involved in the game that the human beings as individuals don't know they're involved in. And understanding that means that you are empowered. If you can transpose what you learn from guns, germs and steel on to, you know, the streets of American cities as they break down into these tribal battles. You'll be way ahead.
+
+Heather 42:58
+That's great. And then the second one, thank you for continuing to make consistently interesting content, what vaccines or other precautions would you recommend or consider required for traveling to Central South America? So this is this was part of the job that I made for myself when I was running study abroad trips, it depends precisely on where you're going and not just what country but what latitude and whether or not you're in urban areas or I mean not just what latitude but what altitude you know, the lowland jungles are where you're more likely to get the mosquito vector diseases etc I'd be happy to share some of the you know requirements that I had and advice for particular curricula for particular places that we went but in short, if you're going to be traveling in Central and South America and going to the lowlands and getting away from cities, you are likely to need malaria prophylaxis although not necessarily depending on where where you're going and you may need yellow fever vaccination not color because it's no good and a few others
+
+Bret 44:02
+as well I've color because it's no good and you're not going to die But anyway, but just to say
+
+Heather 44:06
+the vaccination the color of vaccine isn't very good and cholera doesn't turn out to be a killer of people who are wealthy enough to be traveling from the US to Central South America. Yeah, so it isn't a just go to your you know, travel nurse and just accept all the shots they want to put in your arms you actually can do a much better job than that but there will be other worldly shots that you'll need in order to pretty much guarantee that you'll stay healthy.
+
+Bret 44:32
+You will however, be surprised at how many places I mean even the deep end of the Amazon where we just went did not require malaria prophylaxis, I guess wasn't an issue
+
+Heather 44:40
+but I mean the CDC is recommendations are you absolutely need it but when you talk to the people on the ground there they say we actually it's you know, it's in locally recorded history, sort of 3040 years there's not been a case of either buybacks or falciparum malaria and so none of us who live here are are taking the prophylaxis. You Do you like Well, okay, then we won't either.
+
+Bret 45:02
+So the final thing to say is that in general, going into such environments, people fear the wrong stuff, the thing that's really going to get you might be tree falls or rapidly changing water conditions that cause you to drown. Unexpectedly, the snakes are less of a danger than you think the malaria is less of a danger than you think. And you know, there are places where these things are key hazards, but be prepared that the thing that's going to get you is the thing you aren't bothering to think about. Yeah, right. It's something something different.
+
+Heather 45:36
+Okay, on to the Super Chat questions from this hour. First, so you've marked it here, Zach, this line? Yeah, looks like right. How does one explain to friends have dangerous vote blue no matter who is especially considering the issues, blue wires or blue areas are having to do their policies? I'm not naive to red state issues. By the way. How do you explain it to friends?
+
+Bret 45:58
+Well, it depends. It really depends how smart your friends are. And unfortunately, they need to be pretty darn smart to get over this one. But here's the thing that I would just start with, okay. If the point is that Trump is so dangerous, and so frightening that you have no choice but to vote for the thing that's being offered of the alternative to him, no matter how decrepit and uninteresting and clownish, clownish, for example, if that's the idea, then how do you address the fact that Hillary Clinton actually used surrogates in the press to advance Donald Trump's candidacy? Because she, he was her chosen adversary, he was the adversary of choice, because she thought she could beat him easily at the polls. And so he was advanced as a Pied Piper candidate. So no matter how much you dislike Trump, I don't understand how this doesn't end up on blues bill. And if blue is doing this to you, right, if Trump makes you insane, and blue was advancing Trump, then the whole The game is up, you can see it, it's right in front of the whole system is corrupt and insane. It's delivered you a a divisive president on the one hand, and an empty alternative on the other and get the hell over it. And if your friends can't hear that, find better friends. I love your rants. Guys.
+
+Heather 47:24
+It was great. Next question, do you feel the extreme COVID shutdown followed by the seeming rapid endorsement of the riots from elites exposes an authoritarian ulterior motive? I don't think so. It's not beyond the realm of possibility. But I don't see those two things as linked in a conspiratorial like way inherently,
+
+Bret 47:50
+I think we have to be open to any possibility here. One thing that this DHS officer said to me said, so many interesting things that were really worth remembering one thing is, he said, and I asked him what he really thought was going on, he said, I think we're getting played, and he meant all of us. And I said, by home and he said, You know, I'm really not sure, but I do have the sense that we are being ushered towards something. Now, I don't know how to take that exactly. That could mean almost anything. But there is a way in which the one two punch of COVID-19 followed by this unrest and rioting. Presumably, this is an organic sequence. But the problem is, we have gigantic adversaries who have their own interests with respect to where we are, and they pay attention to world events. And I certainly wouldn't put it past them to take advantage of a naturally occurring event and seed things into our discussion that would cause us to harm ourselves. I mean, you know, frankly, I'm upset to see the protesters and rioters be declared terrorists. I think it's an abuse of the concept and it's not a good fit. And there's a reason it's being done, which is that it causes a suspension of the Constitution with respect to them. On the other hand, terrorists what they do is they take advantage of psychological biases in order to get you to harm yourself, right? a terrorist organization is not big enough to hurt you. So what it does, is it takes advantage of, you know, things deeply in your nervous system that can be triggered with very frightening things that they can cause you to see. And then your reaction to it is what does the harm it's like a bee that stings you the bee isn't in a position to kill you but your own immune reaction to it might. And so that overreaction is a weapon in the wrong hands. Do our enemies know that this was a powder keg ready to go off and, you know, if, if we're worried about them, manipulating elections, we ought to be worried about them. Taking advantage of things that cross our news cycle and could potentially be weaponized by ceding certain elements.
+
+Heather 50:11
+Do you have thoughts on the anti lynching bill and its implications, Rand Paul stopped it because he was worried about it being too broad allegedly. Thanks for all. I know almost nothing about this. I can't say much.
+
+Bret 50:21
+I know very little. In fact, most of what I know is contained in the question, but I do have the sense of why do we need an anti lynching bill, right? Am I for lynching? Anybody who has the slightest bit of knowledge about me knows that I am not remotely for lynching. In fact, you know that I also think that the Evergreen situation could have resulted with my lynching resulted in my lynching. So anyway, I'm all for us not having lynching. On the other hand, it's very much against the law. We don't have an epidemic of lynching. In fact, it's a long time that one has to go back to find an instance of it. And so I do have the sense of the fact that our legislative apparatus is focused on this is conspicuous. Yeah, and I certainly have my problems with Rand Paul, on the other hand, I do not like the idea that there's a bill that everybody has to sign on to to do away with lynching because we all don't like it. And Rand Paul is now suspect, because he stood in the way I don't know why he stood in the way. But would I be shocked to find out that, you know, he was taking a principled stand against a manipulative bill, I wouldn't be shocked at that.
+
+Heather 51:34
+This looks like a comment that maybe ends midstream. So I will read it as it's written here in Brazil, the SJW is basically copy everything that goes on in the US, they try to see society in black or white terms, where race has traditionally been a spectrum and a person gets wider as she enriches presumably This means a person gets wider as she as she gets richer, so yeah, so this is metaphorical. whiteness that is correlated with wealth. And that's actually how I understand I've only been in Brazil once but I I studied Brazilian culture a bit in college and that's how I understand it as well. That's too bad what you're saying about it basically mirroring the you know, the extreme left mirroring what's going on in the US? Of course, it also seems like bolsonaro is kind of a mirror for Trump in many ways. From what I've seen, worse, orderly. Yeah. Just because I can I can see the effect he's having on the Amazon and know enough about what is true of the Amazon to know that he's not telling the truth. But I guess it's not surprising then that if you've got this pretty apparent pretty right wing populist character that he came in on a way of extreme pseudo leftism, that doesn't that does not that he was sort of an imagined antidote to that isn't that surprising? I guess. Yeah. Shame, but not surprising.
+
+Bret 53:01
+bolson arrow is a bit like you put Trump through a charnel house mirror
+
+Heather 53:07
+charnel house? I don't know. I have to look up charnel house.
+
+Bret 53:12
+Oh, I think it's not good. I might have to look it up too. But Okay.
+
+Heather 53:17
+Next question. Heather, can you share your experience with bodywork after your boating accident, it saved my life after my car wreck, but I'm afraid to talk about it, because it's often labeled as New Age pseudoscience. Yeah, I'll say just a couple words here. And I actually have thought about this sufficiently that it's on a list of way too many topics of things that I might actually write an entire book about at some point. There's a lot of woo out there. There's a lot of new age and pseudoscience out there, but there's also a tremendous amount that is not particularly sanctioned by the mainstream sort of MD world. That is that I feel like it saved saved my life to that the ability to which I've been able to come back and feel almost entirely intact after an all body wreckage four years ago now has been extraordinary, and some of the forms of bodywork that I didn't know existed, or I'd heard of, but barely knew what they were before that have proved remarkable or something called strain counter strain therapy, which emerges from the osteopathic tradition. craniosacral, all sorts of Osteopathic stuff, structural integration.
+
+Heather 54:36
+Boy, there's there's some more that I'm not thinking of at the moment. Yeah, I'll have a lot more to say about it. But
+
+Heather 54:45
+in short, the skeleton is, is easy to look at and measure and point to because it doesn't seem to move or change much once we become adults. Because as mammals we have something called determinant growth and it just stops growing. It's the soft tissue that is actually necessary for most of the healing. And even though I was I was broken up the skeletal and soft tissue level pretty much all over, it is getting all of the not just skeletal muscle, and ligaments and tendons back in place, but also the maybe especially the fascia, which is the sort of thin sheath of muscle covering all of the skeletal muscle between the skeletal muscle and the skin, that is really important to get an entire body working in integrated way again.
+
+Bret 55:31
+So for my part, I would say, we don't tend to get more limber and capable as we get older, once we reach adulthood. But the change in what you are capable of post accident as definitely gone in the direction of better and better as you have engaged these things. So whatever the explanation for how they function is, there's a lot to be said for the fact that medicine, which does so much harm, the way it is currently constructed, would have looked at you and said, Well, this is damage, let's manage the symptoms of it and your late 40s, you're just going to be senescent now, right, so you know what to prescribe stuff to manage pain and things like that, and much better to give your body the opportunity to heal and to potentially increase the degree to which you can I mean, the fact is, it's not rocket science, you've got connective tissues that are frozen in the wrong place, because an accident tore something and they are involved in you know, keeping things from moving against each other, and then freeing those things back up will have positive impact. But just as you have unambiguously seen my reaction to wheat, and you know, it's real, because you know that when I end up with wheat that I don't know, I've had symptoms come. Shortly thereafter, I've seen dramatic improvement in what you're capable of you, you're not back to where you were, but you are headed in that direction, even as you're getting older. So anyway, there's a lot to be said there, but the pattern is unambiguous for somebody who knows you as well as anyone and spends almost all my time with you. Yeah,
+
+Heather 57:11
+I guess maybe just two more things to this now. And I, you know, I could spend years talking about this. Some of the extraordinary practitioners that I have found, and some of whom I continue to work with, who did not know me, I think I didn't know any of them before the boat accident. So they didn't know what kind of a person I was, but they've all they've many of them have spoken to I can see, you know, your athletic pneus coming out that you know, I was an athlete and, and highly athletic. But that was completely invisible. For months, two years after the boat accident, I just couldn't move. And the other thing is that it really completely depends to some degree on the tradition, and the the particular things that that the person who was working on you, the body work person thinks they know. But it's really particular to the person themselves, the protection, the practitioner. And so one thing that my strain counter strain therapist up in Olympia, I used to say she's brilliant, she's, I think, mostly retired now. So I'm not going to share her name here, because she's just not seeing patients anymore. She was trying to train someone new. And she was having a hard time doing it. So she was completely schooled in the science of why what she was doing was working. But she also had the intuition with her hands that she could, she could put hands on another body and feel what she understood from science to be true, but also knew what to do through intuition. And it's that combination of things. And I think this is true across pretty much all domains, not just body work that understanding the why and the what, which is to say the science of what it is that you're doing and what it is you're trying to do. In combination with trusting your instincts, assuming you've got a good enough background to have good instincts, and running with your intuition. And especially when you know the science and your intuition and the compassion that comes your intuition come together. That's when you have a practitioner who really can do amazing things and and help the body heal.
+
+Bret 59:18
+Yep. Final thing I would say is I have also seen you go to things and come back and say yeah, I don't think it's real. So yeah, the fact that you say these things work for you tells me unambiguously there's something to it doesn't mean it will work for everybody. But it means that for what you had going on, it was the right thing. Yeah.
+
+Heather 59:38
+Yeah, I've definitely run into some, some will and Okay, well, that was $60 or, you know, 45 minutes and I'll ever get back but not going back. So I like that. Okay, some nurses. Next question. Some nurses may be experiencing vicarious trauma and are unable to think until the waters are calmed. Is it possible to implement active listening and mirroring skills to calm the waters first. I'm not sure what the first is in reference to. I think if we take it as a comment, I think I agree that I think our health health providers across all aspects, if they've been involved in treating COVID-19 are experiencing trauma, likely, and may not be in their best frame of mind in order to respond rationally to everything that's going on.
+
+Bret 1:00:37
+I also think, you know, PTSD functioning the way it does that, if and when this is over, there's going to be another crisis for them. Because going back to normal, is it should be straightforward, but it isn't for deeply human reasons.
+
+Heather 1:00:52
+Right. Good. Hi, Brett. How long do you think it'll take to integrate evolution into the medical study curriculum? Do you think it is likely to prolong or shorten the time needed to qualify? Thank you for these podcasts. That's from twinkle catnap.
+
+Bret 1:01:06
+Let's put it this way. If the medical establishment can't get its act together by 2300, I'm out.
+
+Heather 1:01:15
+2300 do science. Yeah, I'm sorry. I was reading another question.
+
+Bret 1:01:18
+I don't know. I mean, I've almost given up on medicine getting properly evolutionary medicine should become properly evolutionary. I don't know 50 years ago, yeah, the evolutionary stuff was sophisticated enough to
+
+Heather 1:01:35
+be properly very least they should have responded when Williams in se wrote it how or why we get sick. Why we get sick, why we get sick in the early 90s or so. So 30, almost 30 years ago.
+
+Bret 1:01:48
+No, it's inexcusable. And the the amount of harm that is done because doctors somehow skipped the the Darwinism is appalling. And as I will keep telling you, it's as bad as it is in medicine. It's even worse than dentistry. There's just no awareness of this being a Darwinian landscape and that we're just harming people.
+
+Heather 1:02:09
+Yeah, it's the second part of this question is fascinating, though. And you think if if, if somehow, evolutionary thinking broke into the medical curriculum, as it obviously should have? Do you think it's likely to prolong or shorten the time needed to qualify like wood, wood, wood, evolutionary thinking? Perhaps, just because your the knee jerk response would be while you're adding something more for scars is going to make the coursework longer, but myton it basically cut the Gordian knot on a lot of the stuff and allow a simplifying like you just like, you carry the water, like, oh, okay, now we have such a more simple foundation. And yes, your specialty fields are still going to require all of that work, but in terms of understanding the body as a holistic system that has emergence to it. And that can be understood With a few simple things from what you can, you can build from first principles. It's much simpler than doing this rote memorization, that is how most of we understand the medical curriculum to be taught, in part because some number of the people who we were teaching, were effectively going into pre med and so you know, I did a lot of teaching of comparative anatomy, labs, and such and Sydney, I never, I only used I use lab manuals, because that's where the diagrams with the cats and the sharks and such are. But I didn't use the textbooks, but I got them for free, because they were trying to get me to force the students to buy them. And the texts are crazy, like these texts, could be the texts could be two thirds, at least the length that they're they are if they just took an evolutionary approach. Therefore, I think that medical curriculum could as well.
+
+Bret 1:03:53
+Oh, I agree. Can we call this ahkam? scalpel? Yes. All right. We can. We are agreed.
+
+Heather 1:04:02
+Our in three minutes. Okay, let's, let's just do three more. I don't know what they are. I just chose three because why not? And then we'll sign off. Rat Park question mark, Bruce Alexander with the rats who chose to use or not use opiates based on how their surroundings were configured. So that's something different. So that I think is in reference to the earlier question where that was my first reaction to that, Oh, is he talking about rat bark. So this these two different things, it's rat utopia, which is this work done? Giving rats adlib food and water until they became overpopulated and then society fell apart. Sounds like utopia to me,
+
+Bret 1:04:39
+and the population crashed. But again, we don't have to sit and replicate right.
+
+Heather 1:04:42
+And then there's the rat Park, which I think we've actually referenced this at some point earlier in these live streams, which was basically I'm not sure this was the intention, but I understand it to be a test of the hypothesis that opiates Produce addiction that opiates are addictive. And therefore if you give organisms opiates, or mammals that have the receptors for them, they will become addicted. And what they found was, you give a rat in a cage with nothing to play with opiates. And sure enough, he's gonna keep on hitting the trigger and get addicted. But if you give a rat, opiates who's in a cage that also has some other rats and some chew toys, I don't know what rats want, but if you if you if you enrich the rats environment, they're much less likely to be addicted. They'll try it, and maybe they'll go back and try it. You know, on weekends, I don't know. But they're much less likely to become addicted. And that give her a round of fish. Oh, no. I'm sorry. We still aren't drinking. Like
+
+Bret 1:05:41
+we're still not drinking. Yeah, we're endogenously producing substances that are producing that effect.
+
+Heather 1:05:47
+Yeah. Okay. Second, the last question. Adam illogical correction. The meme. blank blank two Electric Boogaloo? Yes. I can't remember what movie it was. But anyway, that's how the question reads the animal logical correction, the meme quote, blank, blank, two Electric Boogaloo. Originally, in the 80s movies. The last two years it found Civil War Two Electric Boogaloo and then more generalized Boogaloo, covering unrest. So I don't remember exactly what you said earlier about the history so
+
+Bret 1:06:19
+that I had actually, this officer told me some of this. So the idea is Boogaloo has different meanings in different contexts. And the etymology has to do with these films. And obviously, they are borrowing a term from a musical and dance reference
+
+Heather 1:06:41
+from the 40s 50s 60s. With that, certainly James Brown. Yeah. dances Yeah, exactly.
+
+Bret 1:06:49
+Yeah, no, thanks for the correction. I would I would love to know is how many different usages are currently in fashion? Is the idea that this is a race war code. Is that a 4chan joke that they're playing on us? And it doesn't really mean that is that really happening in the fringe
+
+Heather 1:07:07
+elements that are trying to take over and otherwise legitimate thing is, is the thing mostly legitimate? And it's when they're legitimate forces trying to move in the right direction? Yeah. It's really hard to tell. It's just like this question of what percentage of the bad actors that we're seeing on the streets right now, what percentage of them are the rioters and looters? And what percentage of them are the police? I don't know. Uh, no one knows. Okay, last question. Is it possible that youths who are being drawn to riot alongside the anarchists in quotes are becoming radicalized by having witnessed the sickening examples of police brutality against protesters this week?
+
+Bret 1:07:44
+Yeah, I mean, that's, that's part of the point. Yeah, the point is to predict that the police are brutal, to force them to be brutal and to say, I told you so. And I think we are all suffering from it. Because if you look at the films of you know, these flashbangs, and CS, gas and smoke bombs, and pepper and all of those other things, it does look brutal. And the real question is, do you understand the context? And no doubt, there are many cases in which these things are being deployed needlessly. But is that the average case? I don't know. And you really have to see the entire context. And unfortunately, as much as the ubiquity of cell phone cameras means that we get a chance to look at all sorts of stuff we wouldn't be able to see directly otherwise, it also puts an awful lot of power in the hands of those who decide where the clip starts and where it stops. And so beware.
+
+Heather 1:08:41
+Well, there are a lot of lot more questions here. And I'm sure many of them are good, but I think we are at the end. The next time, the audience is going to see you it's going to be in a perhaps this premiere event that you're going to put up with. How do you pronounce his name?
+
+Bret 1:09:01
+Yuri Dagon, Dagon, URI Dagon, a fine, fine fella. And we had a very good discussion. So anyway, please consider tuning in for that. And Monday, at
+
+Heather 1:09:11
+some point, probably midday,
+
+Bret 1:09:13
+I will release it Monday. Partly it's complicated, because I would love it if you could be there. And he's on Moscow time, which is, I think, 10 hours ahead.
+
+Heather 1:09:21
+We got what Zack is pointing out that none other than Eric Weinstein has posed a question here. So I think maybe we should we should do that one before we sign off.
+
+Bret 1:09:28
+Wait, this is wild, because I did not actually know that Eric Weinstein was a different person
+
+Heather 1:09:34
+than you.
+
+Bret 1:09:35
+I don't know. People tell me this all the time. They tell me I didn't know you and Eric are two different people.
+
+Heather 1:09:39
+Yeah, I don't see it. And Eric, if you're watching, I imagine the PA doesn't see it either. So I can, I've always been able to tell that you guys are different.
+
+Bret 1:09:49
+Really, you guys realize that Eric is like six three. I'm like 510. So there's that and Eric's hair is like, twice as crazy. I have a beard. There's lots to go on here. I'm dressed like a border collie, there's that.
+
+Heather 1:10:07
+Okay, now we have to take this seriously, how do we avoid Eric asks, How do we avoid the BLM takeover redirection, harnessing and weaponization of all the general anger that has been building, including legitimate racial anger? So this this is this is the better version of the question that we addressed with regard to you know, how do you? How do you how do you turn BLM into the movement? You want it to be a sort of, like, like, No, we put BLM aside? Yeah. So this this is a of course, Eric always nails it. Yeah. Eric always
+
+Bret 1:10:39
+nail so yeah. Here's the thing, dude. Consider my formulation. All of our would be leaders are trapped in the gig economy, that is not going to work out because the gig economy has certain dynamics to it, where people can click away, right? leaders don't have that problem. Now you can decide you've lost your faith in a leader. But that's a much more difficult process, right? It's like, you know, it's like a divorce. So what we need to do is figure out how to take the leaders and I swear there are a bunch of them who are perfectly positioned and ready to go. We got to figure out how to put those people in a position where they are understood to be leaders and not understood to be producers of content. I believe that is the maybe the only thing necessary in order to redirect us. Is it too late? I don't know. I surely hope not. All right. Great question, bro. Maybe we're there. I think we're there. All right. Well, this was great. I really enjoyed it and look forward to the next one. So please tune in for me and Yuri Dagon on Monday. And stay tuned for future content. Like Subscribe, comment, spread it around if you thought this was good. And in the meantime, before we see you next, stay safe.
+
+This transcript was generated by https://otter.ai

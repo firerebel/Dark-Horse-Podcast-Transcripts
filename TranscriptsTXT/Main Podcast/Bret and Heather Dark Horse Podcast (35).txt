@@ -1,0 +1,313 @@
+Bret 0:08
+Hey folks, welcome to the Dark Horse podcast live stream our 35th. Is that correct? Yep. 35th. I am here with Dr. Heather herring as always. And we have so much to talk about because the world just does not stop doing its crazy 2020 thing. So we are going to get right to it. So we start with the Unity update. Yep. All right, many people are asking about unity 2020 unity 2020 is about to go into a different phase. And that phase is offense, I must tell you that I am looking at information about how this election is shaping up. And I never cease to be shocked, even though I'm well aware of the parameters and how they're all laid out. So what I will tell you is that we have something an initiative we are going to debut this week, probably Monday, it is for Americans primarily. So it will probably be done Monday evening, I have to check with the people I'm interfacing with in order to make it happen. But this initiative is called campfire. And campfire involves discussions of the Unity 2020 project in all of its manifestations and what we should be doing going forward and hopefully you will join us for that. We have it slated to be interactive, we have built the capacity to make it interactive. And we will unveil that on our first campfire. And then we will build it out so it can do more over time. But in any case, look out for announcements of our first unity campfire. We also have an animation to debut today our second animation. Zach, can you bring it up on the screen and play it?
+
+Clip 1:51
+Every four years, each American voter has the privilege and patriotic duty to decide who is the lesser evil? It's the question that's been at the heart of our great democracy for decades. That's why political scientists developed a machine to assist with that process. The evil meter in text data on revolving door politics influence peddling insider trading and a host of other parameters so that every American voter has a clear and obvious can we get evil meters that go to 11? That was do go to 11? What is going on? Someone get the lights. Oh, come on. You're fighting over this again? Isn't there a better way? Like what? I don't know. It just seems like we're so focused on the lesser part that we're missing something. Oh, yeah. Who needs that machine? unity? 2020. Let's try this without the evil.
+
+Bret 3:01
+All right. I'm feeling better already. Yeah, lovely animation. Thank you, Harris. So anyway, I think that's it for the unity update, look for the campfires. And we will get down to the business of how to make this movement function.
+
+Heather 3:16
+Where should people look for the campfire? Well, you
+
+Bret 3:18
+can look for an announcement certainly on my Twitter feed, you can also look for it at the Unity twitter feed articles of unity. And we will put a message on our website, articles of unity.org. So those three places are places you can go. And the Unity YouTube channel as well,
+
+Heather 3:38
+which is also where you can find this animation. Yes, you will be
+
+Bret 3:40
+able to find this animation. We will upload it but this has been the debut so it is not up yet. All right.
+
+Heather 3:46
+Well, today we have we've had to cut a lot of things that we wanted to talk about today. Some of the things that I want to talk about today are Vaclav Havel, the personality traits of people of particular political ideologies, the connections between white supremacy and biological sex, and Aristotle. Okay, okay. Okay, so, let's start. Let's start with with Vaclav Havel. A viewer sent me his essay, the power of the powerless and suggested that my point about these signs that we're seeing and windows which I'm calling don't hurt me displays is very much like what he talks about in the third part of his essay, which I'm going to read today, but first, let me just remind viewers of who he is, was, he died, I don't know 10 years ago, something like that. He was a Czech playwright and essayist, a political dissident who founded among other organizations, the committee for the defense of the unjustly prosecuted, and he was a political prisoner for many years. His political party played a primary role in the Velvet Revolution which removed the communists from party from power and Czechoslovakia in 19. 89 and following that hovel was the last president of Czechoslovakia through 1992. And then, following the dissolution of Czechoslovakia, he was the first president of the Czech Republic through 2003. So he wrote this essay, the, the power of the perilous, and the whole thing is worth a read. But here is a somewhat long excerpt from it. The manager of a fruit and vegetable shop places in his window among the onions and carrots, the slogan, Workers of the World unite. Why does he do it? What is he trying to communicate to the world? Is he genuinely enthusiastic about the idea of unity among the Workers of the World is his enthusiasm so great that he feels an irrepressible impulse to acquaint the public with his ideals, as he really given more than a moment's thought to how such unification might occur and what it would mean. I think it can safely be assumed that the overwhelming majority of shopkeepers never think about the slogans they put in their windows, nor do they use them to express their real opinions. That poster was delivered to our greengrocer from the enterprise headquarters along with the onions and carrots. He put them onto the windows simply because it has been done that way for years because everyone does it and because that is the way it has to be. If he were to refuse, there could be trouble. He could be reproached for not having the proper decoration of his window. Someone might even accuse him of disloyalty. He does it because these things must be done if one is to get along in life. It is one of the 1000s of details that guarantee him a relatively tranquil life in harmony with society, as they say. Obviously, the greengrocers in different to the semantic content of the slogan on exhibit, he does not put the slogan his window from any personal desire to acquaint the public with the ideal it expresses. This of course does not mean that his action has no motive or significance at all. The slogan communicates nothing to anyone. A slogan is really a sign and a such a consensus contains a subliminal but very definite message. verbally it might be expressed this way. I, the greengrocer live here and I know what I must do, I behave in the manner expected of me. I can be depended upon and I'm beyond reproach, and will be I'm obedient and therefore I have the right to be left in peace. This message of course has an addressee. It is directed above to the greengrocer superior and at the same time and as a shield that protects the greengrocer from potential informers. The slogans real meaning therefore is rooted firmly in the greengrocers existence. It reflects his vital interests. But what are those vital interests? Let us take note, if the greengrocer had been instructed to display the slogan, I'm afraid and therefore unquestioningly obedient, he would not be nearly as indifferent to its semantics.
+
+Heather 7:38
+Even though the statement would reflect the truth, the greengrocer would be embarrassed and ashamed to put such an unequivocal statement of his own degradation in the shop window, and quite naturally, so for he is a human being, and that's a sense of his own dignity. To overcome this complication, his expression of loyalty must take the form of sign which, at least on his textual surface, indicates a level of disinterested conviction. It must allow the greengrocer to say what's wrong with the Workers of the World uniting. Thus, the sign helps the greengrocer to conceal from to conceal from himself the low foundations of his obedience, at the same time concealing the low foundations of power. It hides them behind the facade of something high. And that's something is ideology. ideology is a specious way of relating to the world. It offers human beings the illusion of an identity, of dignity and of morality, while making it easier for them to part with them as the repository of something super personal and objective and enables people to deceive their conscience and conceal their true position and their in glorious modus vivendi, both from the world and from themselves. It is a very pragmatic but at the same time and apparently dignified way of legitimizing what is above, below, and on either side, it is directed toward people and toward God. It is a veil behind which human beings can hide their own fallen existence, their trivialization, and their adaptation to the status quo. It is an excuse that everyone can use from the greengrocer who conceals his fear of losing his job behind an alleged interest in the unification of the workers of the world. To the highest functionary who's interested in staying in power can be clothed in phrases about service to the working class. The primary excuse a tertiary function of ideology, therefore, is to provide people both as victims and pillars of the post totalitarian system with the illusion that the system is in harmony with the human order and the order of the universe. The smaller dictatorship and the less stratified by modernization the society under it, the more directly the will of the dictator can be exercised. In other words, the dictator can employ more or less naked discipline, avoiding the complex processes of relating to the world and of self justification which ideology involves, but the more complex the mechanisms of power become the larger and more stratified the society they embrace. And the longer they have operated Historically, the more individuals must be connected to them from outside, and the greater the importance attached to the ideological excuse. It acts as a kind of bridge between the regime and the people. Across which the regime approaches the people and the people approach the regime. This explains why ideology plays such an important role in the post totalitarian system. That complex machinery of units, hierarchies, transmission belts, and indirect instruments of manipulation which ensure in countless ways the integrity of the regime, leaving nothing to chance would be quite simply unthinkable without ideology acting as its all embracing excuse as the excuse for each of its parts. So he's writing about the state, of course. And the way that the will of the state is exercised by apparently free actions by people who are he is pointing out, of course, not free at all. And while there are certainly state excesses in every state, and right now, for us, most of what we've been talking about here has been the excesses of the new ideology, the new religion and john mcquarters framing that is coming from the the pseudo left, the far left. And it is exactly the same tactics.
+
+Bret 11:03
+Yeah, I'm not actually sure that it's different in any regard. And I urge
+
+Heather 11:08
+that it's not the state well, yet it's becoming the state becoming
+
+Bret 11:11
+the state where it is threatening to become the state very quickly. And this is the thing that is so frightening to those of us who are watching this train wreck unfold in slow motion is that we have a cynical political party toying with this ideology. Basically, imagining falsely, that it can use this ideology to its own ends, which you and I have seen unfold exec at evergreen, this is exactly what explained, explained George bridges, empowering this movement three years ago, and it dismantled the college and the college has not recovered. It is continuing to double down as of this most recent week. On these same ideas. I I learned of there are these things called institutes, which you now summer Institute's at evergreen, our little meetings on topics that occurred during the summer that faculty participate in. And there was apparently one done remotely this year because of COVID, in which the assembled faculty were apparently enamored of the idea that they should put up memorials to the protesters from 2017. Which is just staggering in light of the spectacular decline the college has taken as a result of the action of these people and their faculty instigators.
+
+Heather 12:39
+So that's, that's exactly analogous to Yes, what Hubble is talking about here, and the signs and windows and the now ritual repeating of we are on the stolen lands of the people who came before us at the beginning of, for instance, live theatre in many places. But also what happened at Yale with the Christakis is where the chief instigator of the protests that became much more than protests against Nicholas Christakis ended up being awarded the the award by Yale and I don't remember exactly what it was called. But it was basically the award for contributing the most to easing racial tensions on campus. I can't even say with a straight face, right? So yes, let's let's erect a monument to the protesters at evergreen on the Evergreen campus. And what will those who come after? What will the archaeologists of the college who could start acting there pretty quickly, depending on how quickly it falls? What will What will they think of that?
+
+Bret 13:37
+Right? Well, what will they think of that? Indeed, and I should say, this is obviously not unprecedented in this case, because evergreen also took the lead proced protester, who became a writer and kidnapper, Jamil, and put him on the committee to rewrite the Student Code of Conduct they actually paid him to help rewrite the student code of conduct. So anyway, everything is on its head. I'm reminded there's a scene in catch 22 in which a squadron has I believed dumped their bombs over the ocean in order not to fly over enemy territory and in order to hide this embarrassment they are given medals for their bravery. Yes, sir. Anyway, Joseph Heller saw this stuff. Military contest.
+
+Heather 14:24
+No actually that catch 22 should be on the list of books along with brave new world and 1984 and animal farm for
+
+Bret 14:33
+sure. Absolutely. Yeah.
+
+Heather 14:34
+All right. Anything else you want to say about the extended? Yeah, the greengrocer hovels greengrocer, and I don't remember which episode it was. I forgot to go back and look but several episodes ago I showed several pictures that I just taken in a neighborhood in southwest Portland that morning, showing how many businesses are you know, I said then feeling compelled putting up these drones Don't hurt me displays of, you know, from as simple as just the black lives matter to you know all manner of further ideological support beyond that. And I don't think that almost anyone who's doing it is doing it actually under their own volition no matter what they would
+
+Bret 15:15
+tell, you know, they rationalize it later. But that's not where it comes from.
+
+Heather 15:18
+And that's and that's the brilliance of you know how the Hubble liveness right
+
+Bret 15:23
+now. So I do have two things to say one is I'm pretty sure, I would have found what he said interesting before the current era, but I wouldn't have understood it, right? Watching, you know, as I ride my bike around and things like this, and I note where you know, whose lawn is announcing it's, it's the word of black lives. And you know, which theaters are broadcasting it on their marquees, and all of this, you know, I have this sort of odd sense of like, what's actually going on, and that explains it exactly. I will also say that I'm now seeing online and in my personal life, people from former Czechoslovakia, who are attempting to reach us Americans with a very important message. And I don't think they have it perfectly right, which is bad, because it means it's going to be harder for the massive part that is right, to get through. But their point is, look, we saw this, we saw this exact thing. And it proceeded something that you do not know is coming, because people I'm in fact, somebody said it to me just today on the Patreon discussion that we just finished. They said, up until the moment that the shooting started, people were telling themselves, it couldn't happen here, cooler heads will prevail. And so anyway, I think the problem is that the antagonist is not identical. And so it is going to be easier to dismiss that warning than it should be.
+
+Heather 16:43
+And it never is. And of course, you know, too, there will be some similarities, no matter how dissimilar the situation, there'll be some dissimilarities no matter how similar. And the trick is figuring out which of the which of the things that might be similar or dissimilar, are actually predictive of what happens next. Yeah. And what we are saying is that melanio hovel has this very precise level of prediction here, around signage popping up, you know, he doesn't actually specify, you know, it being all of a sudden, but to me the all of a sudden pneus of it, you know, and the Black Lives Matter signage actually showed up all of a sudden and became this this sign of fealty on campus at evergreen I know elsewhere on other campus as well back in probably 2016. Actually, this was this was before but now right now, this is on this is on more lawns, this is on more storefronts. And yeah, let's maybe maybe that for now
+
+Bret 17:42
+that one last thing. Benjamin Boyce came up with Episode 22 of the complete evergreen story. And it revealed tape from a class that he had been in his final evergreen class, when he was a student, which the recording is from after the protests and riots had begun at evergreen. And it involves a struggle session which just like the match is not exact for Czechoslovakia. The match is closer now it's close to Mao except with a twist, you know, the professor is in on the struggle section and it is a student being humiliated. But anyway, it is well worth the lesson. And anyway, I will have more to say on it in the future. But you probably if you're looking for things to to look into that would be a good one to understand what things sounded like in a class as the nonsense unfolded.
+
+Heather 18:36
+Yeah, I guess one more thing with regard to contemporary or close to contemporary movements and historical moments that have looked like this and from which we should be learning. You say you've been hearing from people from Czech Republic. We've also been seeing people talk about similarities to what's been going on in Venezuela. And you know, we have we have spoken with some refugees from Venezuela The last time we were in Ecuador, or not the last time actually when we were in Ecuador with our class in 2016 who had you know these these highly educated professionals who had to flee who told who told quite remarkable stories which maybe we'll share at some point and then I think on an episode upcoming at some point we may talk about a similarities between what's going on now in America and what's been going on in Chile very recently because I've I've received some communications about that that basically says I'm writing from the future I in Chile, I'm writing from the future and it's the near future and it's your future if you guys don't see this
+
+Bret 19:41
+your future in the world's one superpower which adds another layer to this because if we destabilize ourselves that would be stupid from the point of view of our well being but the amount of the world has writing on it is huge.
+
+Heather 19:54
+Yeah. All right. Well, let's, let's talk about a paper that was published this last month, I guess now it's August now. So July 18 2020. It's called the dark triad traits predict authoritarian political correctness and outright attitudes by Jordan moss and Peter O'Connor, one of the authors forwarded it to us. So that's how I come to know about it. And let me just discuss briefly what it what it finds. It's brand new, there hasn't been I expected there will be pushback. There hasn't been any that I've seen yet. And I don't see anything in my admittedly not super in depth read of it. But I did. I didn't read the paper in its entirety. The background is that we know the personality traits are associated with a range of political attitudes and behaviors. These include there, there are several examples of this Well, well vetted in the literature, that people who are on the left tend to be more open to experience and identify as being more open to experience and people on the right tend to have tend to be more conscientious. So that's just just to and you know, there is there is no value judgment in me saying that this is just a result from many replicated, basically, psychology research endeavors that find that this is true. So this particular study, this Mohsen O'Connor 2020 study, looked at the distribution of four traits, those being entitlement, and then the three so called dark triad traits, which are Machiavellianism, narcissism and psychopathy. So they looked at the distribution of those four traits in three groups. And the three groups that they looked at our one far right group, basically white identitarian ism, and what many people would just they give as alt right like actual alt right, not the mass number of us of us who are sometimes called that because they're trying to get rid of us or something. And then two groups on the far left, so they I think the thing that's really new here is that they split the far left into two groups, what they call political correctness, authoritarianism, and political correctness, liberalism. And they say that in each of these three cases, and I'll define these in a minute, but in each of these three cases, they they are a very small but extremely vocal and unduly powerful voice in what is happening in politics right now. So their guards to the too far right groups normally which get lumped together. They say that the political correctness authoritarians, the PCA is espouse beliefs for, for instance, in the need for violence to achieve goals. And the blue correctness liberalism group tends to speak in terms of compassion. And now they don't do this. But I feel like this neatly maps on to sort of Malcolm X versus Martin Luther King, that the the the Black Panthers saw the need for violence to achieve goals and were very, very vocal about it. And Martin Luther King and his adherence, spoke much more in terms of in terms of compassion and did not speak to the need for violence. So we have these these three groups that this study is looking at in the form of I think they looked at something between five and 600. Americans who from from, from questionnaires, the author slotted into either political correctness, authoritarians, political correctness, liberals are white identitarian. And then they assess through other well known psychological measures whether or not intended to show relatively high forms of any of these four personality measures entitlement, Machiavellianism, narcissism and psychopathy. And the result in short, is that while the political correctness liberals did not show particularly high levels of any of these, both the white identity Aryans, the so called alt right, and the political correctness authoritarians, what has sometimes been called the control left but specifically the authoritarian control left showed scored much higher in psychopathy, and entitlement, then do the political correctness liberals, or presumably background levels in the population, but not narcissism and Machiavellian but not narcissism and Machiavellianism and Machiavellianism? Yeah, that's interesting,
+
+Bret 24:11
+because I would have thought narcissism and Machiavellianism would be rolled into psychopathy.
+
+Heather 24:17
+Yeah. So you know this this we could get into when I would have to do more review of what all the measures are, you know, the dark triad. The three dark triad traits are sometimes lumped precisely because they can be hard to distinguish from one another and some argue that they really shouldn't be distinguished but using the measures that these authors used, which do distinguish them, they found higher levels of entitlement in psychopathy in both the authoritarian left and the authoritarian right. But not the basically the PC liberals and I don't love the word liberals there but you know, there it is, who are you know, who may well be the people putting the signs in their yards and on their storefronts, and arguing that we do need a kind of, you know, aggressive affirmative action, then prevents people who used to have power from retaining any power in the future, you know, all of which I disagree with, but that those people do seem to be driven by different personality traits and does not seem to be about entitlement or about psychopathy, whereas there are higher levels of psychopathy and entitlement in both the authoritarian left and right.
+
+Bret 25:20
+Yeah. Now, two things. One, I think the the thing that is most under described in this whole process is the rationalization that takes people who may be motivated by something like fear, and causes them to act based on their compassion. In other words, their compassion gets hijacked. And they become part of the problem by virtue of the fact that they're trying to address a fear that is, frankly, legitimate and understandable, but the way they do it externalizes the danger onto onto other people. So
+
+Heather 25:54
+I hear you basically predicting that the political correctness liberals are more likely to become political correctness authoritarians, with perhaps greater exposure to the political correctness authoritarians, or as this just appears to grow in power, and does actually grow in power? Oh, there's that I mean, is that is a prediction. It's not that
+
+Bret 26:13
+they become authoritarian. So they become the pawns of the authoritarians, and you hear this in their language. So early on, back, you know, 2017 ish, there was this thing, of course, you're an ally to black people, right? Well, sure. Who wouldn't be right? Well, here's what ally means. It means accomplice. Oh, okay. Well, now you've just signed up for a willingness to break the law. Okay, what is, you know, what does that mean? Well, it means that you are to do the bidding, you're to do what you're told you are to advance the cause you were to stand between the law and the black people. And so the point is, you have now been captured by virtue of your own desire to actually deal with a real risk. You know, it's not necessarily the people who feel that risk who are doing it, but the point is, it is your compassion for people that causes you to do the bidding of others. And then you look like an an authoritarian because basically, the point is authoritarians have got your strings. Now, I did want to say, you draw an interesting distinction between Malcolm X and Martin Luther King, where are you putting Martin Luther King? Like
+
+Heather 27:26
+I said, that's not that's not in the paper. That's my mapping onto what they've, what they've done.
+
+Bret 27:30
+My concern about it is that I don't see anything in what I understand at Malcolm X that I would describe as psychopathic. In other words, yeah, I think he was definitely militant. But the point is, there was also a selflessness to his militants, right? Well, I think he knew he was going to end up paying the ultimate price for it, which does not strike me as something a psychopath would do.
+
+Heather 27:53
+I also don't think Martin Luther King was politically correct. Right. So I mean, I don't I don't think it's a match in terms of the descriptors of it in terms of a lot of what is going on here. But in terms of if we're, if we're trying to draw a distinction between the movement that is happening that is revealing itself, in probably your office, and on the streets right now, in very different ways, between these two, between these two manifestations, we have a part of the movement can be driven by compassion, or one that feels that violence is the only way to go. And that is a decent, decent match. And we have cat bell in the background. Yes. Now
+
+Bret 28:29
+when you say in your office, you're not talking about my office, because we are we're currently in your office. Yeah, that's happening. Is it on this side of the room? Are that side?
+
+Heather 28:37
+Am I supposed to be on the cat side? Yeah, it
+
+Bret 28:39
+actually fits for me. Yeah.
+
+Heather 28:42
+Yep. All right. Oh, you wanted to segue from that before I talk about? Yeah, wait. So this is um, and so I wanted
+
+Bret 28:50
+to say that, you know, we spent a lot of time in the last couple of live streams talking about the confusion that the world seems to have about what's going on in Portland. And the Portland writers won a huge victory, which is that they managed to invert cause and effect, but they got an important photo op out of it, which is that the state negotiated to have the federal government withdraw its officers. Now they're withdrawing them under the agreement that the state will enforce the law which if the state had done in the first place to federal officers wouldn't have been necessary. So the the idea that, you know, we have driven out the feds and you know, law and order is now going to be managed by
+
+Heather 29:32
+one we've agreed to do what we should have been doing two months ago, right?
+
+Bret 29:35
+And so it's not a win for you. This doesn't fit with the idea that the feds are fascists who came here to beat people up because why would they have agreed to leave and it doesn't fit anything about the chronology. But well, I
+
+Heather 29:49
+mean, I I can see I don't believe that but I can see that. They came and they were interested in beating people up being consistent with They were sent in order to solve a problem by someone. Bye, bye. Suppose that was seen by someone else. Well, like I don't I don't believe this, but I don't I don't think that's an inconsistent interpretation.
+
+Bret 30:11
+No, no, what I think is the local rioters managed to get the local authorities not to enforce the law leaving the only law and the only relevant law given that they were attacking federal buildings. As federal officers, there needed to be an influx, I don't I'm not going to defend how they behaved, you need more legal expertise than we have to even evaluate whether or not that made sense or not. But it certainly made sense that you would have to send federal officers to repel these nightly riots. And the fact that those officers are now leaving is not evidence of anything other than the state having agreed to do its job. However, it does open the possibility we're this a well disciplined movement, that the movement would now become very careful to halt the violence which preceded the federal officers arriving here, because then that would foster their story that they had been reacting to an attack by the feds. But instead, the narcissism of this movement is resulting in it suddenly having no reason for being because the reason for the world's attention is reduced if there's not tear gas being fired at them, and there's no reason to fire tear gas if they're not behaving violently.
+
+Heather 31:27
+Well, maybe. So just just to get back to that last paper, maybe it's not the narcissism of the movement, but the combination of entitlement and psychopathy
+
+Bret 31:33
+psychopathy, yes. But one of the things they did, which I found totally shocking, was Hey, Zack, can you put up the video? Yes, yep. So this is a display out in front of, I believe the Justice Center. And this is the severed heads from
+
+Heather 31:57
+Windows from
+
+Bret 31:59
+good lord. Yes, this is recently
+
+Heather 32:03
+This is since since there's Thursday, or later since the explode out.
+
+Bret 32:07
+And you can see, it appears to be the severed head of a pig. I believe it is real. They have placed a police cap a local police cap on it. Or at least that's the way it's been reported. They placed it on an American flag, and they set it on fire. Right. So the obvious implication, this is an obvious threat of violence against the local police. Right? Who are the reason that the Federal Police are now willing to withdraw? So these people are now being threatened clearly with death, if you read not very deeply into this? And it also suggests something, you know, I can't say for sure that they didn't source the head of a pig from a butcher, and that this is all symbolic. But there's actually reason to think that they may have killed the animal because there are two prior incidents. So Zach, can you show the picture of the the head next to the statue? Now, that one so this is a prior incident in which a severed pig's head was placed at the base of what was once the elk statue, which was then burned and removed. And then
+
+Heather 33:19
+there's so much beauty in this movement, I find,
+
+Bret 33:23
+right and then here in a prior incident, a pig was found wandering
+
+Heather 33:28
+downtown. This is a live pig has been blanketed.
+
+Bret 33:31
+Yeah, somebody put a blanket over it. And the police rescued this pig. And the interpretation was apparently that protesters had intended to kill it ritually as part of their protest. And I think we
+
+Heather 33:45
+did but we don't know that that's true. I mean, it's also I think, the first time that a big has been found wandering downtown. So it's clearly somehow related or that is the clearly the most parsimonious explanation is that it is related to the protests, riots,
+
+Bret 33:57
+all I'm saying is house. There's something wrong with a person who is trafficking in the heads of animals in this casual way, and in the same way that I think we are rightly frightened by the child who cultivates their own indifference to suffering by torturing animals. I think there's something about the choice of symbolism here. This is no longer graffiti of pigs heads with their eyes crossed out which is disturbing enough in light of the fact that it subscribes to this all cops are bastards. And can you put up the graffiti on the windows Zack? Okay, there's a picture here. So, dead Feds. I think the point is, look, the message here and when is this
+
+Heather 34:46
+from before they rolled out before they pulled out? I
+
+Bret 34:50
+don't know it was posted this week. But my point is that the movement is trafficking in the idea of justified lethal violence against All police you don't need to know which police you're around against, they all deserve it. And death is fine. And we are going to use dead animals to symbolize our commitment to this idea, we are going to place it on an American flag, the whole thing suggests a depth of lunacy and disconnection from reality. That is extreme. And it could just be a few people. However, Where exactly are the people in this movement? who say, well, that does not speak for me? Right? Yeah.
+
+Heather 35:33
+Well, I do wonder, again to this to this Mohsen O'Connor paper that I was talking about earlier, which I'll post a link to. If they're right, there really are two different camps. And that is that maps on to our understanding of there are a few, what we've just been calling bad actors, for lack of more precision, and there are a bunch of allies. And some of those are fun sitters, and some aren't, but they're willing to do the dirty work often of the bad actors, and at least they're certainly willing to put signs up and vote for Trump mandatory diversity trainings, and all of this. But it does suggest that there is that as we move forward, as we try to figure out how to fight this ideology and make it less palatable to people because it, it is divisive and dangerous. That is just true. That there will be different strategies that will work with these two groups, for sure. And this, you know, this isn't what we've been saying for a long time that basically the people who are the bad actors who who do have high levels of entitlement and psychopathy are going to be very hard to be to reason with. And you know, when people ask us, I let you know, I lost my friend group. And sometimes our answer has been like, well, if they're gone, they're gone. You'll make better friends. And I don't like that answer. I knew it never, it never pleases me. To the degree that any of them are in that high psychopathy entitlement group, seriously, make better friends. But to the degree that they are in a much larger, but still dangerous of succumbing to ideology group, that tends to think in terms of compassion, and tends to think that what they're advocating for as compassionate, we need a different kind of language. And basically offense, which involves something like actually, what you're doing is the opposite of compassion. This is not going to be helpful for the people that you claim to be trying to help. This is not going to help rise raise historically oppressed people out of oppression. This is going to divide and, and destroy.
+
+Bret 37:30
+Well, last time, I introduced two concepts that I thought were important for understanding how this thing functions. And one of them was verification ism, right? Unfortunately, we don't have time to get to the example this this time. But the verification ism lens turns out to be super revealing. And you can just watch it unfold for anybody who's willing to speak off the cuff about what they're thinking. And the other one was auto immunity, that we're attacking the very things on which we depend, we're being induced to, and I want to do under introduce a third, I increasingly think that we are watching something that is, I believe, literally, a group psychosis. And I believe these things are actually present in history. You know, the one surrounding witches in Salem, for example, looks like psychosis. And it's possible there's one hypothesis that actually it was the result of wheat that had begun to grow arrogant fungus, which is basically a hallucinogen. It's the backbone of the LSD molecule. And you can imagine, in a world where things have cut loose, because your mind is suffering from a neurotransmitter that triggers unreal kinds of things to be commonplace that people could talk themselves into a belief system about what was who is causing it, and how to deal with it and all of that. So I think we are seeing the same, the same phenomenon, yes. And that it is worth thinking about. And the question about what do you do if your friends or if you're losing friends to this, if you think in terms of you are losing your friends, to a psychosis into which they are being drawn? In Part explains the, you know, frankly, I think it is callousness that i i advanced in response, which is, it's not that there's nothing tragic about their loss. The question is, what can you do about it? And
+
+Heather 39:22
+so this is losing friends to psychosis, losing friends to a cult, tough love is there is the right move in that in that case, and sometimes that involves saying, you know what, and we're done.
+
+Bret 39:32
+Well, if you have six other friends who are watching somebody drawn into the psychosis, you can stay to some kind of an intervention. Yeah, but if it's you, and you've lost six friends to the psychosis, you're very unlikely to be able to reach them. And so
+
+Heather 39:46
+you do know if, in, in a situation absent context, if you have seven people to use your example, and one person sees things very differently from everyone else. It's possible. They're missing what Everyone else can see. And absent every other bit of context, all else being equal, that is more likely, just from a parsimony perspective. But this is a kind of scales falling from the eyes thing where once once you see this this way, and you can start, and you can start understanding a lot of other things that you are seeing in from this perspective and start predicting where else it might show up in the world and from whom else you might be seeing this. And you know, what, when our inboxes look the way they do and we are seeing appeals and your apologies to the many, many people were just not responding to who are saying, you know, my, my workplace, my Theatre Company, my Museum, my county fair, my, everything is falling prey to this. And I'm watching people stop making sense. And they are being less kind and less good to one another. And this doesn't end well. Yeah.
+
+Bret 40:57
+So I don't know what to make of the psychosis angle, but it's one of these things where you test a new concept. And then you just start looking at new data, things you haven't encountered before and say how well does it match? And unfortunately, this one matches really well. It fits as well, I think is the verification ism and the auto immunity. Yeah. And so it also, it does say something about what genre of solution we ought to be looking for. And maybe that's the silver lining is that as bleak as it is to watch some large percentage of the population fall into a group psychosis. The point is the thing to do, the thing you must not do, even if you have to do it in the moment is not to humor it with other people. Right? You can't steal man psychosis.
+
+Heather 41:48
+Right? Well, it's possible we should come back to this and really make the point cleanly with regard to these three all in one place verification ism, autoimmunity and psychosis and group psychosis as three perhaps pivotal hallmarks of this movement. Good. Move on,
+
+Bret 42:08
+let's do it. Yeah,
+
+Heather 42:09
+this will be easy. No. We are told in this article published on July 28 2020. Here's Zach if you want to show this article. Briefly. JK Rowling and the white supremacist history of biological sex this article tells it's it's going to be speaking to So did you did you show it I've taken it down now Zach? Okay, good. quotation This is so a friend of an online friend of mine a person who is trans forwarded this to me and said would you please please, please, please take address this in your next live stream. And so and so we are going to do it just very briefly, you haven't read the piece, but you can imagine what's on there. So I'm gonna I'm gonna have a couple of quotes. He certainly has a tantalizing title oh so tantalizing JK Rowling in the white supremist history of biological sex. So one quotation from it is as many people are engaging in conversations about how white supremacy has shaped so many of our political and social institutions, there is no better time than the present to talk about how biological sex and sexual difference were created or created, over time to protect, promote and police the boundaries of whiteness. That is a quotation created, biological sex was created over time to protect, promote and police the boundaries of whiteness. Boy, this article is crackpot mess. It's a crackpot mess of misunderstandings about evolutionary theory again, always right, always add illogical completions. I'm going to let's deal with a couple of them. It conflates the veracity of an idea with the wrong thing of people who've stood near that idea. It's a classic bait and switch move, right? And it happens all the time in evolution. You know, people misunderstand or wonder appropriate, a bad understanding of evolutionary thinking, and climate is their own and conclude stupid, illogical, racist, sexist, whatever it is conclusions. And then people who want therefore to believe that anything evolutionary is racist, sexist, whatever, say, Aha, those people over there, they said that they're doing what you're doing, to which we can say but they're not. They're wrong, they're confused. They're bad. Like that's not what they're doing. That the fact that stupid people or broad minded people stand next to ideas doesn't make those adjacent ideas wrong. Like this just seems so obvious, and yet we deal with this all the time. Okay, so here's a quote from the article. Darwin his followers argued that all human peoples were related, but it was said that different races were on different scales are stages. All human beings were now to be viewed and judged as being on a racialized continuum where intelligence beauty, morality for quantity and physical ability increased as one moved up evolutionary stages of growth. The white Europeans who formulated these theories considered themselves the most advanced. So that's some 19th century bullshit misunderstanding of what Darwin said. And it's not what evolutionary biology is. It's not how evolution works. It's not about stages. It's not about hierarchies.
+
+Bret 45:18
+Well, I want to push back just slightly. Yep, there is a hierarchy in paleontology that describes a move from basically familial units up through civilization, you know, so, before you get to a tribal system, you get to
+
+Heather 45:36
+an anthropology mean, then. Yeah, paleoanthropology.
+
+Bret 45:39
+Oh, okay. Okay. That you have a head man system Anyway, there is a progression, there's
+
+Heather 45:47
+hierarchy within populations, for sure. Yes, this
+
+Bret 45:50
+was understood in Darwin's time by Darwin, in other words, there is some stuff that you have to read in the context of the level of understanding that existed. When Darwin was writing. On the other hand, there was also a awareness that is now caricature it out of existence, that even to the extent that there was some sort of understanding that hunter gatherers were in some way, primitive, there was no sense that that inherently meant that they weren't headed towards civilization and finding themselves in a different stage. So anyway, I don't want to dwell in the 19th century, right? No man sorted out.
+
+Heather 46:33
+That's the big flaw here, right?
+
+Bret 46:34
+Yeah. But anyway, the point is, look, you know, you could do a sober analysis here of what they had right? And what they had wrong, and what persists and what doesn't, and, and all of that, or you can get,
+
+Heather 46:47
+we're not arguing that all people are equivalent, or all cultures are equivalent, or as good at doing everything that other cultures are doing. Nope, not not true. Not true at all. And there are those who would argue that and therefore are claim that some some people in some cultures are better at doing some things that other people in other cultures are doing would claim that That in itself was the same thing as this racist garbage when it's not, right. In fact, okay, so another just one of the thing this article does, it discusses actually discusses an idea again, from 19th century race garbage that I hadn't even heard before I thought I'd heard all the stupid things that emerged from supposedly, you know, evolutionary thinking, but apparently, high degrees of sexual dimorphism. And humans was supposed to be an indicator of a more evolved race, which is so and the person writing the article doesn't know what they're doing. They're completely clueless. So they actually seem to claim the opposite. But you got to look at the link and it's like, oh, okay, so, yeah, these these people in the 19th century, who were trying to use science to justify their racist conclusions came up with this, they found that, you know, Europeans, they, they found evidence that Europeans had more sexual dimorphism that men and women are more different in Europeans, usually other races. They were talking about indicators that just all across the board, it seems not just not just tight, I don't think. But it's, again, the fact that there have been confused racist who spin their fantasies in the language of science does not make the science racist, right? The fact that you have an idea that is taken and used to some and that is not okay, does not make the idea itself not okay. Those aren't the same thing. So, again, the whole article is actually what I've written here is it's a verification mess. It's it is it is that verification, mess of motivated reasoning and sloppy thinking. But it's also true, so I kind of threw up my hands like this, this is some let's see, what is he the author of this article is a PhD candidate in political science and also a student in feminist studies. So he can't get it right. That's higher ed, for you at the moment. That's, that's terrible. And we've talked about that a lot. But I wanted to actually just use this as a segue to quickly say something about, you know, again, even scientists are hiding behind this kind of, of logic now and some of them actually seem to believe it. So a friend of a friend, a biologist, friend, recently shared his biologist friends claim that everything is a social construct. And this this guy, this former, I think, friend of a friend, literally uses the fact that there is no single definition of species that works for all species to then claim that both math and sex are social constructs. Hmm. So just I'm gonna repeat that because there is no single definition of species that works for all species. The unspoken connector here is all biological constructs categories are the same therefore Math is a social construct and sexism for construct and gender is a social construct and everything is a social construct. So I responded to my friend who shared this guy's a biologist, are you kidding me? Like to conflate the lack of universal species concept, with the lack of any formal belief, no firmly definable categories in the world is to abandon the idea of an objective universe, like heat, this guy doesn't get to call himself a scientist actually, like I wish, sometimes I wish I could be king for the day and take all of these PhDs away from people, because this is such a serious failure of of logic. And if you are actually claiming to be a biologist who thinks who who has looked at all a diversity of species and decided that the lack of a universal species concept is mappable. On to there is no sex. As ridiculous you and I used to face students, you we used to meet students who came from totally crap k 12 educations, who somehow have been totally, totally confused by creationist households. And within weeks of meeting these 18 year olds, we would disabuse them of this nonsense. And now we have PhDs in the sciences who are arguing this. It's insane. I don't I don't think this guy would recognize a phylogeny if it hit him upside the head, and in all kinds of like to see it doing.
+
+Bret 51:24
+watch one of these trees falling. Exactly. So at some level, it's such weightlessness and cowardice isn't saying, if you think that sex is a social construct, you're doing it wrong. Same goes for math. Yeah, good, good. Good. I like that. That was good. That was good. Yeah. Are you are you where you wanted to go with us? Sure.
+
+Heather 51:44
+I mean, I could go off for a long time. Well,
+
+Bret 51:46
+I just want to point out that actually all three of the characteristics that we've been playing with, yes, sit here, you get the verification ism, you're going to go through science, and you're gonna find something like species ambiguity, which is real and assume that that means ambiguity is the same for every other category. That's verification ism, you have autoimmunity, where we are attacking the ability to make sense, right? If you attack science by basically taking any conclusion that it would render and putting it in the same category as something problematic, like species, then you are basically making it impossible to establish anything. And then there's psychosis, right? This? Yeah, well, this, that if you think about what it is, like, if you ever encountered a psychotic, right, there is a belief of a malevolent force that is attempting to manipulate and endanger and there is license, you can categorize. It's all cops. Right? It's the cops. Right? They are the bad thing. And in this case, right, there is a, you know, do you know what? Sex is? Sex is a weapon of white supremacy, right? That doesn't sound paranoid fit you? Because it does to me, right? That sounds like the government is sending me messages through the fillings in my teeth, you know, and Sakhalin, right? It's that level of nonsense, the
+
+Heather 53:13
+claim that it is created, the concepts of biological sex and sexual difference were created over time to protect, promote, and police the boundaries of whiteness, right? Like 500 million years ago, guys,
+
+Bret 53:25
+well, let's put it this way. You can even just test that scientifically, right? You could just simply go to hunter gatherers, non white people, and test the question of whether or not they believe you don't even have to ask them what they believe. You can just simply look at pairings, right? Who pairs off with whom, right? They know that sex exists, whether they use the same terminology for it that we do or not, and you can establish what its
+
+Heather 53:53
+homosexual parents, which does happen in every culture known. Do they make babies? No, they don't, you know, sex was not created for white supremacist they expect to,
+
+Bret 54:05
+right, they know that those parents don't produce babies. So the point is, you could test it scientifically. What's the next move? That scientific concept you are using to establish that this is not a tool of white supremacy is itself white supremacy. So of course, it would conclude that right? So the point is okay, right, exactly. it's it's a it's a hermetically sealed psychotic box
+
+Heather 54:29
+into which they want us all to go,
+
+Bret 54:32
+right? What could possibly go wrong?
+
+Heather 54:35
+What could possibly go wrong? Yeah. So I will want to finish by talking a little bit about Aristotle. But maybe you have something that you want to go to before before that we're at close to an hour probably at this point. Yeah.
+
+Bret 54:49
+55 minutes. Well, I wanted to say something about COVID and what I've learned about something, but I think maybe we should hold that off to next time. If We've only got five minutes. Okay. But we will do it.
+
+Heather 55:03
+We got a lot of COVID stuff. Yeah. All right. So in the beginning of these live streams back in March and April, we made a point of always either beginning or ending with corrections. And we haven't been doing that as much lately. For one thing, our discussions that were so COVID-19, heavy early on, there was, you know, there were stuff that we just got wrong, and there was stuff that had changed. And so it was really important to correct the record very quickly as as we always did in our classrooms, right? We would, you know, what, no, I'm
+
+Bret 55:33
+just, you know, the comparison between the sort of detailed inner workings of a viral particle as it invades a cell, there's a lot of room to just be simply wrong there, as compared to sex is an invention of white people to oppress others. You know, it's pretty easy to be on the right side of that issue, if you just maintain an ability to think.
+
+Heather 55:53
+Yeah. Which seems like people are having a harder and harder time doing that.
+
+Bret 55:57
+Well, that's part of why they've they've come here, yeah, not to join a community of people that retains
+
+Heather 56:02
+data and want to retain the ability to think yeah, we, we thank you that you're here. So Well, one thing before I get to the the main correction is we talked about Akash. Again, I think was the last episode or maybe that was episode before that. The upside down flag that was being flown outside the federal courthouse courthouse. So we've heard from a lot of people, that it's not inherently an anti patriotic statement against the country whose flag it is. But that is an indication of a country in distress or disarray. And a number of other
+
+Bret 56:32
+I think it's a nautical thing that flying a flag upside down as a universal symbol for distress.
+
+Heather 56:37
+I heard I heard a number of different origin stories and I honestly did not go into the history. So I think nautical may be the original origin story. It may just it may be convergence, I don't know. But it's not an it is not inherently an anti patriotic move is what I heard from people yeah,
+
+Bret 56:54
+which we said we said that you could read various things into it and then this puts a different spin on it.
+
+Heather 56:59
+Yeah. But the but the main correction that I want to make is that as I discussed on the CMT labs concept of retrospective big tearing in I think it was Episode 33 and I i still I think this is a concept that is well worthy of discussion and of talking about the idea being that plying today is moral standards to people from an earlier time is an you know, basically calling calling earlier people bigots because they didn't ascribe to the same beliefs that we are expected to ascribe to today. is in his framing a retrospective bigot tearing? And it makes it it makes it makes no good sense. Right. And he I used his recent tweet on the matter as as a jumping off point. And he specifically talked about this if you want to put this on the screen just for a minute sack he talked about this op ed should we cancel Aristotle by a Agnes Callard, a philosopher and professor at University of Chicago. Okay, you want to take that down. And the concept retrospective bigots hearing is absolutely an important one. But this op ed is exactly the opposite. And so I want to correct the record maybe on behalf of Dilip as well, but also to say, to read a little bit from this op ed, and to note just how much Dr. Callard is, is on the side of careful thinking and logic and compassion here.
+
+Bret 58:36
+So your point, if I get it correctly, is that to lab Miss diagnose this article and that the article and two labs point are in the same direction?
+
+Heather 58:44
+Exactly, exactly. So just an excerpt from collards, excellent, excellent op ed, which again, is, which is called should we cancel Aristotle, which your answer is no. Quote, what makes speech truly free is the possibility of disagreement without enmity. And this is less a matter of what we can say than how we can say it. canceled culture is merely the logical extension of what we might call message and culture, in which every speech act is classified as friend or foe, in which literal content can barely be communicated, and in which very little faith exists as to the rational faculties of those being spoken to. In such a context, even the cry for free speech invites a non literal interpretation as being nothing but the most efficient way for its advocates to acquire or consolidate power. I will admit that Aristotle's vast temporal distance from us makes it artificially easy to treat him as an alien. One of the reasons I the author gravitate to the study of ancient ethics is precisely that it is difficult to entangle those authors in contemporary power struggles. So I owe Callard an apology and this is a correction that she she like to lap is pointing out the app you know the the retrospective bigotry and looking to past historical figures and finding fault with their with their morals rather than learning from them and understanding the space and time in which they lived.
+
+Bret 1:00:07
+Alright, so she does not want us to cancel Aristotle. In some ways, unfortunately rather
+
+Heather 1:00:12
+we not cancel her. Well, right.
+
+Bret 1:00:14
+Okay, let's agree we won't cancel her. But the thing about presume canceling Aristotle is that we'd be in good shape if we were warranted to do so because he will not see it coming.
+
+Heather 1:00:23
+He won't. It's true. Yeah, easy target. It's just hard to make the reason retrospective bigots hearing why it's so effective.
+
+Bret 1:00:29
+Yes. Yeah.
+
+Heather 1:00:31
+Yeah. All right. All right. I think we've come to the end of this hour. Yes, we have come to the end of this hour. So we will be taking the Super Chat questions that you wrote in this hour, as many as we can. And the ones that come in next hour, in starting in about 15 minutes, you can join us on our Patreon where you'll find discord and private q&a. And there's a clips channel that you can find some clips at and various other goodies I guess your your your second Patreon private conversations tomorrow for the month of
+
+Bret 1:01:06
+discussion is going to be Sunday at 10 o'clock pacific time. very much looking forward to today's discussion on the coalition of the reasonable was excellent. We got some are very good. I'm very eager to continue that conversation next month. If I can ask you all a favor, I'm going to tweet the animation that we played at the beginning of this livestream. And if you want to do something to fight the power to assure the empty shirts off the stage so we can get some real leadership. You might consider re tweeting or otherwise broadcasting that animation,
+
+Heather 1:01:43
+empty shirts, sure, but decrepid clowns really makes the point more vividly.
+
+Bret 1:01:48
+I am trying to be nicer decrepid clown is something I say internally I don't vocalize it as much anymore, but nonetheless, yeah, it is still I do it for you though. Okay. I appreciate that. Okay, well, we will see you all in about 15 minutes, like subscribe, notify those sorts of things. And in the meantime, be well
+
+This transcript was generated by https://otter.ai

@@ -1,0 +1,643 @@
+Bret 0:08
+Hey folks, welcome back to the Dark Horse podcast live stream number 53 Q and A section the cats are voraciously consuming cream behind us and we are ready to go to work.
+
+Heather 0:22
+Yes, as is the dog,
+
+Bret 0:24
+as is the dog. Very lovely dog.
+
+Heather 0:28
+All right, we're gonna start with two questions from Episode 52. Pick up a question that came off the discord server that you can get access to through either our Patreon and then move right into the many excellent questions that we received last hour before moving into what I expect to be a lot of good questions from this hour. All right, first question from Episode 52. Regarding externalities, Could these not be built into the calculus of consumers as costs beyond mere dollar value, eating health food in lieu of fast food, for instance, social support often proceeds legal support, so why not boycott instead of ban?
+
+Bret 1:06
+Alright, didn't quite catch all of that. But certainly the goal of those of us who see externalities as a major source of corruption to our system, and I don't mean corruption in the way that it might sound but I mean, a distortion in our system, something that prevents it from accomplishing what we would like to do is to internalize those costs somewhere so that they are born correctly, and that the system evolves in the direction of eliminating at least the negative ones, which is what internalizing them would do so yes, they they have to come into the equation someplace. And that could be in a lot of different locations. But for example, you could recognize that the cost of using non recyclable materials, for example, to construct something that could be constructed out of recyclable materials, that the cost could be made, it could be internalized by adding it to the price of the object rather than externalizing the harm onto society for by causing it to lose those influences. So I think, anyway, not the clearest answer I've ever given. But the point is, yes, internalizing them somewhere is necessary. And I have argued elsewhere, that internalizing externalities is if it could be done well, and there are obstacles to doing it well, but if it could be done, well, it's almost the only thing government needs to do in order to cause the system to work. Obviously, you have to do things like defend the system militarily against threats, but from the point of view of the system, accomplishing the goals that we wanted to accomplish, if all of the externalities were internalized, then the market would do all the things that market fundamentalists think it does.
+
+Heather 2:59
+Perfect. The next the second of two questions from last episode I meant to have a prop for and I forgot to get one. So I will just say, it says, Would you give a tour of your studio, your knickknacks looks spectacular. And I thought we could add a feature wherein we show some object each time that is not perhaps alive? Because he shows up every time? Yes. And and say, you know, 20 seconds to two minutes, but it's history, but I did not prepare this time. So other than grabbing something that's on stage here, we will start that next time.
+
+Bret 3:34
+Yep, we will. Yeah. All right.
+
+Heather 3:37
+So the discord question this week is several questions. And so I think, you know, we're only maybe going to answer part of it, because this, this is, as usual, a lot of a lot of questions. Can we apply an evolutionary framework to corporations? Can we treat them as automatic organisms with distinct phylogenies? What regulatory pathways mitigate consumption and waste? What evolutionarily stable strategies exist? Please compare and contrast existing taxa. So yeah, it's, it's, it's too much. It's more like, you know, a couple hour discussion, really, but just the first one, can we apply an evolutionary framework to corporations? And maybe if I may just reframe that further, and say, in what way the corporations act like individuals, and can therefore be said to potentially respond to evolutionary pressures, like an individual would as opposed to, like a population?
+
+Bret 4:33
+Yep. I would say in principle, you can the problem is them mapping. So we have the temp the temptation and many people have tried this, and I don't think it ever works is to view corporations as if they were critters. Right. And the problem is, this
+
+Heather 4:50
+is to say an individual, right?
+
+Bret 4:52
+Yeah, they are not critters. And they are not critters in many different ways. For one thing, there's a Fact of them continuing on through time in a way that critters do not write the mortality of critters and the birth of new critters from them and all of that creates one set of phenomena and an indefinitely long lived critter is a different thing. Also, you have the very fact of people on boards of corporations being on multiple corporations board simultaneously, which causes the mapping of what features of the system should behave in an individual like fashion, not to fit the, the corporate entity very well.
+
+Heather 5:37
+So as you know, one of my main critiques against the idea of a corporation being like a crater, which is say, like an individual, which therefore would respond to evolutionary forces, the way an individual does, is that the members of it and you just gave the perfect example of this, the members of it do not have shared fate in the way that the individual cells or cell lines in a body do, right that even even though you know, a corporation might be said to be more like a colonial organism than a an organism like us, or timber potamus, or, or a cedar tree, even. The fact is that a cell of one cedar tree does not inhabit simultaneously a different a different body. And you know, you can talk about, you know, a sexual, you know, older stands and such, well, then we can get into a discussion of what makes an individual individual but of corporations, you know, Corporation and Corporation B are distinctly different. And yet they share two members of the board and all the rest of the board are also on other members of the board, that just puts the lie right there to the idea that they would act with, you know, with the shared with the understanding of shared fate, such that if you do wrong by the, by the body that you're in, you kill yourself along with all of those who are with
+
+Bret 6:57
+you, right. And I would also point out that it's sort of a final layer of critique is that these corporations, which one might model as critters contain critters, and the problem is that the critters that they contain, do behave like critters. And so, you know, you could,
+
+Heather 7:20
+I could make an analogy, though, to to say, you know, given what we know now about the multitudes that we do, in fact, contain Yep, that, you know, a human individual does, in fact, contain critters that are not made of human
+
+Bret 7:31
+right, but this is a little bit more like a slime mold, which behaves as a cohesive entity sometimes and as independent entities and other times. And my point is, if you were to if you were to arrive on Earth as an alien, and not know what was going on, and you mistook the automobiles for critters, you would misunderstand the automobiles, not because there aren't aspects of them that behave in a critter like fashion, but because they contain critters and those critters, you know, one critter, driving another critter to work and dropping them off is not a reproductive event. You see what I'm saying? So? Well, I take that back. It's 20. It's not inherently a reproductive event. Yeah,
+
+Heather 8:15
+it would be a very long car drive, if that all happened in the car. But yeah,
+
+Bret 8:20
+dangerous. But we digress. But the The point is, like many things, there's a question of how far does the analogy go. And the problem is, in the case of corporations, the analogy to critter goes reasonably well, but a very short distance, and then it falls apart because of all the things that go in some other direction. And there's also a question about how to map things like fitness on to corporations. And anyway, frankly, we haven't done a good enough job mapping fitness on this credit, say yes, to pull off the analogy to corporations. But anyway, yes, there's something to be done down this road. But doing it well is difficult, because the mapping is so hard. Yep.
+
+Heather 9:13
+All right. First question from last hour. Evolution is often distilled as variation, heritability and differential success. Is there a similarly small set of necessary characteristics for intelligent network behavior? As in ants, farming, fungi, corporations, again, big mammalian brains, etc?
+
+Bret 9:33
+Wow. Yes, almost certainly there is by virtue of the fact that the complex behavior that is so successful at accomplishing so much is happening in creatures with limited capacity to exchange information and things like that. So the basic answer is there have to be simple rules emerging from simple from a simple pattern like that. Causes responsive behavior meaning in effect that behavior is adaptive in a different sense than evolutionarily adaptive. Yeah, it is adaptive in both senses. But
+
+Heather 10:15
+the three examples given are interesting because they're so different from one another with regard to his aka this question of shared fate, which I invoked in the last answer, right that we have, within a brain, a neural network, all of those neurons have precisely shared fate. You know, one of them, what one one of them sends the brain into decision making that kills the body, and they all die.
+
+Bret 10:37
+And the others get very angry at it for that reason,
+
+Heather 10:40
+but it doesn't last long as farming fungi is well the ants themselves have a much closer level of relatedness than they would if they were not haploid, diploid, and all basically full sisters, and so three quarters related to one another. Thus, you have, you know, a precursor condition that would seem from those two examples to maybe be necessary if not sufficient, which is to say either identical relationship and perfect shared fate, individual components of a body, or in a payment Opteron tablet deployed situation, an aunt bee, or wasp that has this genetic situation where full sisters are actually more closely related to each other than are any other members of the population, where you can have the evolution of cooperation emerging from that. And then corporations in which there is nothing inherently binding those those ties, except perhaps the potential for future success.
+
+Bret 11:40
+Yeah, although I mean, I think the question is asking, in the case of leaf cutters, farming fungus, what are ants? The question is the behavior that results in, I don't want to say optimal foraging, because that's a bugaboo here, but rational foraging of a forest. So for example, you'll have a nest of these animals in some patch of forest and they will send out some sort of investigatory party that discovers a tree that can be harvested and then it's intensely harvested and then at some point, it stops paying at a level that would justify continuing to do it, or their colony has some interest in preserving the tree and not denuding it completely, or, I'm not sure what exactly but but the point is the ability of an entity that is basically it's not totally Sasol, because they can move in fact, I've seen it once, but
+
+Heather 12:40
+not army ants, but leaf cutters, leaf cutters on
+
+Bret 12:42
+the move I saw, yeah, who be on BCI was studying this colony and they moved their queen to start in a new place. And so you know, this big fat ant that can't walk is being transported to the new place. Totally wild, but But anyway, the the investigating and utilizing of a patch of habitat owned by a particular colony is an you know, it's an explorer mode of some kind. And so the question I think that the person is asking is, what is that explorer mode made of? What are its minimal set of necessary and sufficient conditions? It's a good question. They're gonna be analogs of the evolutionary ones because it's an analogue of that process.
+
+Heather 13:31
+Yeah, for sure. I guess just one one more elegance of correction. Exactly. But you know, the actual forming of the fungus is not exploratory. The collecting of the leaves which form the substrate for the farming is exploratory, but the actual farming happens within the colony, which is mostly soil. Yeah, that's absolutely that's a it's a different phase of the of the intelligent network behavior. You will, absolutely. Alright, next question. What came first, the primary of existence? What came first primary existence before consciousness, or the primary of consciousness, primacy of consciousness before existence? What
+
+Bret 14:14
+came first the primacy of existence. Before consciousness, the primacy of consciousness.
+
+Heather 14:22
+Oh, this is the kind of chicken and egg of knowledge versus creationism in philosophy. Do you have thoughts? Yep. So I don't want you to start telling me so I'm not sure that I quite
+
+Bret 14:33
+understand as a pan psychism question. And I would say,
+
+Heather 14:38
+oh, okay, so Pan psychism meaning is the idea that before matter itself, there is consciousness in the universe, and that matter actually evolves out of a state in which consciousness already exists.
+
+Bret 14:51
+And I think there is not one single credible reason to believe any such thing And as if that weren't enough There is a huge stack of reasons to believe that it's not the case. And so I think what it is, is a a pressure relief valve that there are certain kinds of very high quality minds, and they have a certain zone over which they accomplish great things. And at the edge of that zone, they cannot justify something necessary. In other words, what it is basically is a
+
+Heather 15:31
+get out of jail free card,
+
+Bret 15:33
+it is a get out of jail free card for faith for which one should not have to have a get out of jail free card, as I have argued to the annoyance of many high quality thinkers, the act of science requires a tiny little bit of faith, right, you have to have faith that you exist and you are interacting with the actual universe and therefore are in a position to say something about what's true about it. And if that ain't true, everything you conclude on top of it is nonsense. And if it is true, then assuming it didn't cost you anything, and there's nothing you can do about establishing it. So in that case, you have to just sort of accept this thing is not grounded in bedrock. But what if you have a worldview in which everything has to be grounded in bedrock or at suspect, and so then you have to come up with something for the suppose that hard problem of consciousness which you and I don't regard as a hard problem. But in any case, you have to explain something about what consciousness is made of, since it's very hard to describe, in fact, it may be impossible at the stage to describe an organization of matter that would be conscious. So it just happens. We all know what happens, we all experience it. So is there something more is there something imbued by the very matter that makes up the brains that experience all this consciousness? Well, no, we just haven't explained yet. It's really not. It's not that kind of mystery. But so anyway, I
+
+Heather 16:58
+would say it's yet another black box. There's lots of them.
+
+Bret 17:01
+Yeah, and this, you know, I don't I'm not arguing that consciousness isn't fascinating, and that it is not a valid question to say, How can matter to have an experience of the universe? That is a that's a good question, if not a hard problem. But But in any case, the it is like the worst possible way to answer the question are comes razor wise, it's like saying that because we can't figure out how this process works, that what fits in the gap is everything. It's like, No, you can't do don't do that. It's bad. You just threw the game. The game is to minimize the complexity of the explanation, not to totally inverted and add everything. So. All right. Excellent.
+
+Heather 17:54
+Next question. I'm having trouble accepting abortion, other than in cases of rape or incest, I put a very high value on human life, when a mature theory of consciousness even help given the dilemma of human life that could have been Yes, I have read Heather's excellent essay.
+
+Bret 18:10
+Yeah, this is a tough one. Yeah, it is. Um, well, you want to start off?
+
+Heather 18:17
+Well, I'm not actually I'm not sure how a mature theory of consciousness does help necessarily. And maybe it's because I'm not sure maybe I'm maybe I'm under estimating what a mature theory of consciousness could mean. But for me, as I as I think I say, in the essay, to which the person writing is referring on abortion explicitly. There are many of us who cherish life and do not view the sanctity of, of all things that could possibly be understood to be alive as the highest value. And so even in organisms, such as anything with human tissue that could potentially have consciousness, the sanctity of that does not strike me as the the highest value. So you know, personally, I don't think that a newly fertilized zygote is worthy of being called the baby. Nor do I think that a, an embryo one day from being born to a to a woman should be called a collection of fetal tissue that is, in fact a baby at that point. So somewhere in that vast middle ground there, there is an emergence of maybe maybe consciousness, right? So maybe that's what the question is getting at can we can we begin to get at when conscious Less emerges and and look for that as as the deem demarcation I guess I feel like that's even more complicated than what was for instance, written into into row originally, which was an attempt to basically look at viability just, you know, physical viability can can the embryo survive outside of its mother, but you know that so you know that that does seem to me like a better a better model than trying to figure out when it might be conscious? I don't know.
+
+Bret 20:36
+Well, I must say, I think viability is add there's one defense to be made of viability, which is that in some sense, it's not arbitrary. Right. On the other hand,
+
+Heather 20:47
+another sense it is arbitrary because a newborn baby isn't isn't isn't viable, viable in terms of independent right, like, you know, a kid isn't in the pet wash kit isn't pet until they're like, you know, I don't know, eight at the earliest, but you know, at the very least, you know, baby can't even turn over on its own for many, many months. So, you know, in what ways it buyable Well, you know, doesn't immediately asphyxiate, you know, upon upon outside of its mother's terminating, terminating, Yes, right.
+
+Bret 21:14
+So yeah, so this, this is what I would say is viability is arbitrary. birth is weirdly arbitrary to therefore. And so let me just say, my position on this as changed maybe more than any other important issue that's divisive. And I think what I now understand is, I think there's a lot of reason that even those of us who are pro choice, have got to empathize with people who have reached the conclusion that human intervention is not reasonable under most circumstances. And the problem is that because there are two layers of this decision, there's individually where you philosophically ended up. And then there is where we must collectively draw a line that any rational person would have to conclude is at least somewhat arbitrary. So I want to see that line drawn in a very justifiable location. In other words, I want to err in the direction of treating someone's humanity as important from long before they can assure us of anything with their, you know, their action, I want to be cautious drawing that line, partially, because it is, in some sense necessary to us living thinking humans, that we not take on the belief that we are entitled to interfere with process after process, because there's no really good argument for not doing it right. In other words, I think we have to extend the benefit of the doubt here. The problem is that not being female, and therefore not ever having been in danger of suddenly being saddled with a child that I wasn't equipped to raise or wasn't inclined to raise at that point. This is to me more abstract than it is to somebody who's been through that. And so I guess my sense is, A, there is a quadrant of pregnancy in which we can decide that at least collectively, we have to treat this as a as a choice. Right? That when you're talking about, you know, a single cell or a, a, you know, a blastocyst, right, that doesn't have a nervous system, the capacity to feel anything, then is there a moral question? Yeah. But it's so tiny, that it doesn't rise to the level that we have a justification in interfering with choice. And that doesn't mean that we should encourage people to treat it as nothing. But it means at a practical level, it's nothing and then there's a point at which I think any reasonable person would have to agree this isn't nothing. Right.
+
+Heather 24:28
+And in part, and I think what the question is getting at is, is not that point, to some degree, aligned with the moment at which we would begin to imagine that that that that embryo is beginning to develop consciousness.
+
+Bret 24:44
+I don't think consciousness is what we even mean for one thing, we don't know what consciousness is at that level, and we certainly don't know how to spot it reliably in other creatures.
+
+Heather 24:57
+It certainly isn't a match for the definition that you and I I have been using right there can be nothing, you know, packaged for exchange, at the point that you are, you know, unless you're a twin, you have no point that you are alone inside your mother's uterus,
+
+Bret 25:09
+right? So I don't think I don't think that's where it is I think they're more basic questions about a nervous system that is capable of detecting and processing, you know, pain, for example, right? That's, you know, but we are obviously not a species that has decided that causing pain to a nervous system is something beyond what we might do. So in any case, I respect the position of the person who's reached this conclusion. And I know many, many good thinkers who are given pause by this very set of issues. But remember that there is a distinction between what we collectively decide the limits of what's tolerable are and what one might personally philosophically arrive at. And there is a safe limit, where we can keep the moral compromise to a minimum, I believe, but I understand people who don't see it that way. Yep. Okay,
+
+Heather 26:17
+change, changing topics, I put those all near the top, because they were all kind of about consciousness in part. But also now we're going to move into stuff around politics. In concerned Eric's tweet that you shared on the podcast, and concerned Eric's tweet that you shared on the podcast and your sentiments towards it, it filled my heart with joy. As a conservative, I think we work better in tandem, pulling so far from the nucleus of freedom leads to disaster. So just starting there with a comment, thank you for that. Next question. Do you have any ideas for how to deal with the consequences of the proposed death and of the proposed Truth and Reconciliation Commission? I don't know about any modern Truth and Reconciliation Commission, or at least I didn't, I looked it up. And the first thing that came up was a nation article from before the election. So you can imagine what the slant is, but we're going to need a Truth and Reconciliation Commission to recover from Trump about holding an A a trumpet as an Alberta enablers accountable. So that's sort of the kind of thing I was expecting. But that's from before the election. So I don't know. Do you know anything about Yeah, I've
+
+Bret 27:27
+heard murmurs. And I think I've seen that nation article and I would just say
+
+Heather 27:31
+it again, the nation article is not what this is, like the nation articles from before the election, right?
+
+Bret 27:35
+But how far before?
+
+Heather 27:37
+Not I mean, not very.
+
+Bret 27:38
+So I think it is the same idea, okay. And my point would be, this is like everything else, a bastardization of something important in order to make political gains. So the whole point of Truth and Reconciliation, the whole point is that you have something that you cannot put right, you cannot go back and pay everybody for what they've lost, right. And so what you do is you agree to a compromise. And the compromise involves, we do not pursue a complete solution to all that has gone on in the past, because it's unthinkable and it wouldn't work. And what we do in exchange, is we get it all on the table. So we know exactly what happened, and there are no secrets. And that's the trade. So it is a negotiation. And I believe it is very viable. And for the right problem, it is the right solution. This is not that problem, because it is not like apartheid, where, you know, we all agree that it's wrong, you've got half the electorate, right, that thinks that the right thing to do is to put Trump back into office. This is no place for truth and reconciliation. This is actually a cover story for an attempt to persecute people for something that you want to declare legally bad. Right? And it just, it's appalling. So what I would say is, you know, okay, you want to take truth and reconciliation and important process like that, that is necessary for some of the most extreme atrocities that we know. And you want to kill it off by capturing it for your own political agenda, like how bad your judgment possibly be?
+
+Heather 29:14
+Yeah. Next question. US election came down to narcissistic personality disorder versus borderline personality disorder and borderline one, which is really worse to live with. So this is interesting, right? Many people, including us have suggested that Trump is fundamentally a narcissist and a troll and he's a political savant and all of us. I've never heard Biden called borderline. But if we take it a little bit more generously and say, Well, maybe the DNC who have actually won since very few people seem to even be talking about Biden having won it's like, you know, it's the bigger machine that won. If the Democrats won here is the DNC borderline effectively, you know, again, to get back to that question that came from the discord server, you can't really talk about an organization in terms of diagnoses that apply to individuals. But it's kind of a little bit.
+
+Bret 30:14
+I don't I don't get borderline off, okay? I, you know, it is a parasitic organism. It is a parasitic organism that has its own objective and it's willing to sacrifice the body politic in order to get there and, you know, it has to be removed. It has to be removed, surgically, I don't know how but so it's not it's not a it's so nakedly self interested and consistent in what it pursues that I just don't, I don't understand why we would analogize it to a mental disorder.
+
+Heather 30:54
+So maybe maybe that's the similarity is that you put Biden aside for a moment, just who even knows how well Biden
+
+Bret 31:03
+aside, but remember where you put him,
+
+Unknown 31:05
+because he won't.
+
+Heather 31:08
+We have commented maybe not on air before, but that Harris seems to be if anything, even more so than Hillary Rodham Clinton, just just nakedly ambitious and perfectly willing to take on whatever whatever costume is, she's being handed at the moment so that she will appeal most to the people who she is in front of, which makes her a you know, nakedly political ad and an arrow, when you can actually put a bunch of these moves side by side, it makes her look like she stands for nothing, which I think she may well stand for nothing. But that flipping of position rapidly and by circumstance might actually look like what a borderline person does. And I think the, the incentive, the motivation, the ideology is all very, very different. But and in fact, in some ways, yeah, you know, borderline human is impossible to interact with, right? You just there's there's no predicting it, and you and you can't you can't plan around it. But it is not actually, you know, it's not coherently out to get you whereas this this sort of naked political ambition that, you know, Harris seems to have and the DNC seems to have, which is about accumulation of power and resources only, and not apparently particularly patriotic, is focused, and it flips positions cynically, rather than because it actually holds these things to be true in the moment.
+
+Bret 32:40
+Yeah, I agree. But I mean, I just think cynicism is such a cleaner diagnosis. And that yes, it will result in a certain arbitrary position. But yeah, again, I think your cynicism so until we see something that isn't cynical, let's go with cynical
+
+Heather 32:56
+let's go cynical. I'm sorry, sir says,
+
+Unknown 32:59
+Yeah. All right.
+
+Heather 33:03
+My concern is that all of Biden's failures over the next four years will be scapegoated on Trump and the GOP The best thing they can do is sit in vote present and give Joe everything you want so if when the US burns the left can't avoid culpability. There will always be avoidance of culpability. Yeah, there's there's no there's no safe place from that.
+
+Bret 33:22
+Now, it is and I just don't think any simple rubric is going to do I think we if things aren't, as it seems that they are, we have elected the DNC and we both know what that looks like and don't know what that looks like because of the new landscape in which this horrible cynical, anti patriotic corrupt entity is going to be wielding power and delighting on tormenting its enemies. Yeah,
+
+Heather 33:50
+but it is also true that it's simply politics as usual to blame your predecessor on whatever things you don't do well, and to take full credit for those things that that seem to be doing well under your leadership but are almost certainly given the time lags in the effective policy due to someone who came before you so that you know that's that's classic standard nothing special going on their politics.
+
+Bret 34:15
+Yep. Yeah, I don't know what to say about it. I'm
+
+Bret 34:21
+in some sense, despondent watching people react to this news as if you know, we've hit bottom right.
+
+Heather 34:32
+Which that that Biden's been elected. Yeah.
+
+Bret 34:36
+That is to say, it got as bad as it's gonna get, and now, you know, it's gonna get better because something reasonable is back. And it's like, no, this is the this is the prior crime family, right. I understand that. Given the choices you preferred this, and congratulations, but for God's sakes, stop Stop pretending that we've actually solved a problem here because we didn't we traded a problem. Yeah.
+
+Heather 35:07
+This question came in early last hour, and I think we did address it. But do you think that we should take the opportunity to take a look at the security of our election equipment? A lot of our election equipment is not tested per NIS t standards, and is supplied by only three companies in the US.
+
+Bret 35:20
+Yeah.
+
+Heather 35:21
+So you address this?
+
+Bret 35:23
+Yeah, those that equipment sucks. And the idea I mean, I remember back in the day when these machines first emerged, and Diebold, a vehement Lee, part partisan, GOP aligned Corporation, said that they couldn't create a paper ballot audit mechanism, because it would be unreliable. Right? Sure. Diebold, one of the leading manufacturers of ATMs, which has a paper audit mechanism built into it, right, as if these people didn't know,
+
+Heather 36:00
+you, but that's money that actually matters.
+
+Bret 36:05
+Yes, so yeah, these machines are garbage. I frankly, couldn't tell you that they weren't designed to be garbage designed to allow people to, to influence elections. And yes, the nothing could be more important than us figuring out how these things work and making a system that, you know, again, you may not be able to make a system that is purely electronic and is completely immune. But if you think outside the box, and you're willing to combine features, you can build a system that is vastly more secure than the system that we have. Yep.
+
+Heather 36:43
+Death is the enemy, not the other side, we must understand that we are being left out in the cold on issues such as climate change, we will never shame them into letting us near the heat. Well, we will never never be able to successfully we can't use shame successfully. To let us near the actual by heat, I think you mean like the actual levers of power. And, and actually being able to address the real existential threats, which include things like energy, and yes, environment, including including climate change, with all of the questions that reasonable people have about whether or not the models are particularly reliable, but you know, habitat loss and certification and pollution of air and water and, and yes, rising temperatures.
+
+Bret 37:32
+Yeah, you're on a spaceship. And if you think the demon is the enemy, who belongs to the other party, you have not understood what really threatens us and you're actually putting us in danger.
+
+Heather 37:44
+Now. That's That's exactly right. And it's, you know, it points to the idea that the those who seek divisiveness because it furthers their own careers right now, be it Trump or AOC, or anyone else, are neither patriots nor actually interested in solving the problems they are. It's it's nakedly self interested. You know, autistic people have a hard time deciphering ad hoc social roles. And for this reason, they are at greater risk of being unintentionally offensive. Does kancil culture infringe on the rights of artists, or artists, the exception that proves the rule? I don't know what that last question means. But I actually, I actually have a big thing video out from a couple years ago that addresses exactly this, that so called neuro diversity in which people on the spectrum are included, or are both people who are neuro diverse, are both more likely to end up a creative problem solving in ways that the system hasn't seen yet. And yes, absolutely, more likely to, to, to step on the toes of people without any without noticing, and, you know, thus be called out for a fence when in fact that no, necessarily idea that that's what they were doing. And it you know, you can make this argument therefore, that kancil culture is itself non inclusive and not interested in diversity, if some of the diversity that you're interested in is the different ways that different people's brains actually work?
+
+Bret 39:14
+Yeah. So I guess the way I would put it is that there's something about the policing of thought, which is simply it's anti dynamism. And you know, we should understand that anti dynamism, whatever is it source, whether it's McCarthyism, or this woke nonsense, whatever the motivation is, is it is directly targeting the goose that lays the golden eggs, right? It's our dynamism that is our strength. It is our pluralism that allows it to flourish. And for God's sake, anybody who wants to go after that thing because they know how we're supposed to think they're going to force us to do it is placing us in danger and has to be certainly kept away from the levers of power.
+
+Heather 40:01
+Which video has the most concise and thorough explanation of Brett's Evergreen State College witch hunt experience? In high o w. h o w stands for what is the best way to share that story in an easily digestible form?
+
+Bret 40:16
+Well, it's gotta be Mike Naina. And now mike got a lot of stuff from Benjamin Boyce and they are friends and have been since they have been collaborators. But the thing about Mike's documentary,
+
+Heather 40:31
+so Benjamin Boyce has like one of the 40 part 22
+
+Bret 40:35
+parts, so 20 design much more thorough and covers everything, and it's beautiful, but you know, it's not a lot of investment. Mike's is concise, and it aligns
+
+Heather 40:47
+with it's still an hour and a half. It's three parts of a half an hour each. So it's still not that concise.
+
+Bret 40:52
+Right, but it's got such relatable victims. Sorry. So just Benjamins I bit true but the point is compared to the the hour and a half, it's anyway, I would say if you're trying to forward something to somebody so that they get a sense for what happened. It's got to be Mike's thing. If you want a deep dive, it's got to be Benjamin's thing.
+
+Heather 41:12
+And I mean, also, if you're looking for something written a lot has been written. But that includes what we wrote actually in the Washington Examiner in November, December of 2017. Yep.
+
+Bret 41:25
+That would be the best written account. Yeah, so far.
+
+Heather 41:29
+Still not not. It doesn't include everything, but it's 4500 words, which is both not that concise, but also a book length.
+
+Unknown 41:36
+Yeah. Yeah.
+
+Heather 41:40
+Please, why do teenagers spend time with their parents? Did you ask the SEC? Here's your question. Yeah, okay. Would it be different to keep the teens out on their own during these complicated years? Are there any examples in nature? Cheers, and keep doing what you're doing love from Brazil. So this, you know, this, this gets at what teenager ness is and what childhood is, and looking for examples from nature, presumably from other species suggests that anyone else really does the kind of thing that we do with our extremely long childhoods. And there are other species along child that's what we have the longest, I think at all, but certainly when you compare our childhoods to lifespan,
+
+Bret 42:26
+and we have the we have the longest Yeah.
+
+Heather 42:29
+And even in other species that do have long childhoods, in which there is a period of time when the children are, you know, sort of reproductively viable in theory, but mostly still living living with their parents. At home there is the fact is that the learning isn't done, the parenting isn't done and the childhood isn't done. And, and very often, in those cases, I'm thinking of elephants in particular and you know, also the toothed whales like dolphins. They they continue one usually one of the sexes will stay in their Natal in their Natal family, and one of them will disperse sort of an inbreeding avoidance mechanism. So, you know, do is, is being enclosed in you know, a small space with teenagers when you're the adults and you don't you're not living with extended family sometimes trying. Yes, Zack it is. But no, actually, we have marvelous teenagers and many people we know do because if you treat them like an alien life form, they're going to treat you right back like you're an alien life form. But actually, there's a lot of teaching and learning to be done on both sides.
+
+Bret 43:41
+Here. Yeah, yeah, no, it's basically right. There's an awful lot of programming to be done. That's the nature of the human mind and the lawncare learning for nothing.
+
+Heather 43:55
+Yeah. Okay, next question. Two more here, and then we'll move to the next hour. Okay, thank you. Is this Sam Harris tweet different from the AOC tweet that you talked about? And if so, have you looked up the definition of sycophants? So I assume I know which tweet it is I just pulled it up, but I have not looked at it yet. It reads, there is a needle that we really must thread successfully contempt for Trump and his enablers in government is a patriotic necessity. contempt for 70 million Trump voters is a serious error. Life is complicated. I mean, he's Sam has gotten a lot of appropriate pushback for this for this tweet. That said, What is the difference? contempt, which I like I am not siding with Sam's tweet here. I don't think he should have said it. I don't think he should have thought it. I don't think this is a a kind or unifying approach to the universe. And that is not a match for the guy that I barely know. But contempt is different from forming lists. And, and to, you know, in my reading more into ALCS intentions as an elected official, and reading less into Sam's intentions without the ability to wield political power in the same way, maybe maybe I'm being too kind to him and not kind enough to her. But it is both, you know, over the same tenor and not at the same message. Exactly. Yeah,
+
+Bret 45:24
+I think it is the same instinct. Yeah, manifesting in a more responsible and careful form,
+
+Heather 45:32
+which, without still being wholly responsible, careful, I
+
+Bret 45:36
+don't think it is responsible. I think it's, it's over the edge by quite a bit. And, you know, at some level, there's a basic agreement, that we have to be able to politically differ substantially. And, you know, look, there's something about Donald Trump that is driving Sam Harris, crazy and has
+
+Heather 45:59
+been from the beginning, right? Yeah, it
+
+Bret 46:01
+has been fun. But I, you know, I do think there's a difficulty in being objective. I mean, and you know, Sam, Sam, and I tangled on Twitter yesterday, I guess, where, you know, I was pointing out he was talking about how great it was that the firehose of bullshit that has been pointed at us for four years was just about over and I
+
+Heather 46:29
+was the one where he used the word Macaca.
+
+Bret 46:33
+I think so. But anyway, I, you know, I taunted him lightly pointing out that we were about to have the firehose of bullshit turned off and a firehose of horseshit was going to replace it. Yeah. And you know, he can't see it. And his feeling is look, you know, I you know, I think he said, I'm as afraid as woke of wokeness as anybody but and I wasn't even talking about wokeness I was talking about corruption. Yeah. And, and the fact is, we have a, there's something about Trump is almost like, he is constructed, so as to drive Sam Harris, great. If you were to create a personal hell for Sam Harris, it would involve a dinner with Trump that never ends, right, that would be it. And it makes sense to because, you know, Sam, is as dedicated to being logically consistent and rigorous as a person can be he's as articulate a person as I have ever encountered. And except
+
+Heather 47:42
+in this context, calm
+
+Bret 47:46
+right. But there's something about the thing on the other side that you know, it's it's, it's like he's drunk with alcohol
+
+Heather 47:55
+on his heart. I mean, this this, this is what people mean when they talk about Trump derangement syndrome. Yeah, this is this, this is exactly at that. You just cannot get get over the fact of who the guy is, and see anything beyond the you know, hi, I fuel emotional state that you're just in it every moment that you're thinking about him.
+
+Bret 48:16
+Right? But in this case, the you know, Sam came back at me with, let's get rid of the the deranged maniac in the White House, and then we'll deal with the influence peddling my feelings, you know, what, the influence peddling, put the deranged maniac in the White House, and it put the woke revolution into the street, because what you have is a system that is serving certain interests beautifully at the expense of the rest of us. And, you know, by placing the nation in jeopardy, and these things are all symptoms of that and so how can we deal with the real problem first and then deal with the influence peddling? If the influence peddling is what created the whole madness in the first place? So anyway, I am hoping that Sam Harris will be restored to us by the ascension of the the firehose of horseshit replacing the firehose of bullshit, but we'll see.
+
+Heather 49:13
+But I mean, even Are we going to now for the next two months get combined fire hoses? We're gonna have both fire hoses.
+
+Bret 49:24
+Yeah, in a manner of speaking, but, you know, it's only two months, or,
+
+Heather 49:28
+yeah, two months, two and a half months. One more here before we move to next hour, I think AOC suggestion of calling out trumpers by name has some merit. All 70 million of them. And likewise, let's compile a complete report of all 73 million identifiable heroic Biden folks. Oh, yeah. Wow. Yeah. Yeah. Voter lists, not voter registration lists. Who would you vote for list
+
+Bret 49:50
+listing states it's it's a Starboy thing. Yeah.
+
+Heather 49:54
+That's where we are looking here. Now all right. I've had a lot of questions this time, but we'll read some of the ones that we don't get today. Next time. All species have common ancestors. One strategy for males is to fertilize as many females as possible. When and why do most males know where to stop? Why don't all males of all species try to fertilize all females of all species?
+
+Unknown 50:22
+I think some do. Yeah.
+
+Heather 50:26
+I've also, unfortunately met those guys.
+
+Bret 50:29
+But this is great. So I mean, there is a serious because yes, versus serious question. Yes. You know, look, the point is, it is competing strategies and the search for a sweet spot between them, right? So if we just take the simple male case, we have argued males have two reproductive strategies, one being a non investment, reproductive strategy, the other being a high investment, reproductive strategy. Heather is pointing out that there are three versions of that and I wasn't going to get into that, but one of them subsumes two of these strategies, simply non investing. So if males are, a males have a very hard time turning down opportunities to reproduct reproductive reproduce, when no, it
+
+Heather 51:24
+also makes a terrible opening line. Hey, baby, you know, reproductive.
+
+Bret 51:29
+You're right, you got to be at a very specific bar before that one is likely to land so. Okay, so males are wired so that they can't ignore the opportunity to engage in reproductive behavior where they are not being required to demonstrate an interest in investment, which is why the modern environment is so deranging of males and causes them to behave so absurdly because it seems to a male who is not paying attention to the details, it seems to the somatic part of the male, that opportunities to reproduce without being forced to invest are everywhere when in fact, it's, it's, it's not happening. But in the natural environment, that would be a very rare opportunity for almost every male and the opportunity to reproduce actually would come from a willingness to invest mightily and females would be favored to force males to demonstrate that willingness ahead of time before engaging reproductive behavior with them. So in any case, all this is to say that a proper balance between different types of mating strategies requires an understanding of how commonly that strategy actually is going to succeed in the world. And so you will expect under normal circumstances for males to be biased in favor of the investment strategy because it's the only one that typically has a chance of working under normal circumstances that don't involve things like raping and pillaging during ancient wars etc but so the answer is how do males know where to stop it's a question of males having a couple of different routes forward and what causes them to stop on the route that we've identified as the fact that some other route is actually more productive and therefore more rewarding
+
+Heather 53:22
+and and males who cross species borders in their attempt to mate those you know those decisions aren't selected for it because they result in no and no kids downstream. And as for you know, why don't males just try to mate and you know, try to fertilize all females of all species? There are plenty of good and I'm going to show you quite serious pieces of research involving what like some mods and various other flying insects I think it's mostly lepidopteran smartzone butterflies. In which i think i think this is right. Butterflies can male butterflies can be induced to mate with you know, something that looks like anything as long as it smells right.
+
+Bret 54:06
+And there are hymenoptera and examples
+
+Heather 54:09
+ants, bees and wasps. Yeah,
+
+Bret 54:10
+it's actually I think it's in the bees and wasps there are certainly orchids that cause mating behavior in males that tricks them into approaching the flower just so that pollen packets get glued on a particular place and then the male makes the same mistake again because after all, he's a male and he goes and mates with some other flower from the same species and those pollen packets get distributed So anyway, that's not the same thing as everything but yes, so
+
+Heather 54:41
+the bead doesn't get off but the orchid does
+
+Bret 54:46
+well, to bees really get off I don't know. I don't know. Yeah, we don't know. But look, there's a underlying truth here.
+
+Heather 54:54
+So these are drones flying around. Yeah, yeah. Must be Yeah, yeah.
+
+Bret 55:00
+But it's we sometimes you gloss on bees which is kind of solitary but
+
+Heather 55:08
+in any case the sex ratio on the glass sciences
+
+Bret 55:10
+Yeah. In any case the thing is absent a requirement of investment in almost all but not all species reproductive behavior in males is cheap and therefore they are not selected to be highly choosy about it which will result in these systems evolving where some plants tricks a an animal a male animal into reproductive behavior that isn't all that expensive
+
+Heather 55:39
+another question from echo are viruses meta sperm? Are viruses male by intent and non binary by function. Do they exemplify toxic masculinity take care of you both plant and animal not by reflection I don't iPad I feel like I love at least the third question here do viruses exemplify toxic masculinity But I have to admit I'm not sure what it means well okay
+
+Bret 56:06
+there's a lot so difficult with you the the problem and there is something here and the something involves viruses whatever their origin talked about this before but let's say that they are sets of genes that have escaped the genome and have struck off on their own and so what they do is they borrow resources where they in fact right borrow the resources of some creature that is functioning that is in some ways like a love them and leave them male who is borrowing the reproductive effort of a female everything about a human think about some CAD human who trick some woman into going to bed with them she gets pregnant he disappears and then she has to make the massive investment in the offspring that has been produced because he's not there to invest at all right so that is that a kind of propagule parasitism toxic masculinity Yeah, not to put too fine a point on it.
+
+Heather 57:17
+The answer would appear to be yes.
+
+Bret 57:19
+Yes If Yes.
+
+Heather 57:22
+Do you have any insight regarding the antibody resistant COVID mink mutation and Denmark 12 plus people are sick and much of the country is locked down? Yeah. Oh man. Yeah, I know of it is barely is is about all point early on there is thought of zoonotic evolution I guess that's not it's not static so that I could just be transmission but maybe it is. But jumping back and forth and then back again. With something else I can't remember what but the but it's it's clearly happening in the mix. I guess it was it's been seen in some cat some house cats but hasn't been observed back yet. hasn't seen the dogs. Same with dogs. Right. So some domestic cats and I guess these minks are farm. So these are effectively domestic cats as well. Otherwise, how yours right now?
+
+Bret 58:15
+And I should have looked into this. I didn't know the question was going to come up. Yeah, one of the back in the early days of COVID, where we were discussing lab Lee hypothesis that was this year. I was very recently. But still the early days back in the day, we used to discuss the lab leak hypothesis. And the serial passage experiments that likely took place in the lab in presumably training the virus to be a better model for whatever the study was that was going on. If this was the lab leak. That's the best explanation is that somebody was building a virus that would be good for studying something like how to create vaccines, maybe vaccines that covered more than one emergent Coronavirus. But anyway, one of the questions was and I've now forgotten exactly why this question came up. But one of the questions was, could one of these serial passage experiments have been in and I think it was mustelids? It may or may not have been makes it may have been ferrets? I don't remember. But the question was, did somebody infect a colony of mustelids? That is weasels. And serially passage, the virus between them? Because I think it was that mustelids had, I can't remember whether the spike protein that was a good model for humans or I don't know. But But in any case, if it was the case that this is a lab leak, and if the lab in question serially passaged it through mustelids, then it would be highly likely that it would infect Miss Dylan's Deaf came into contact with people like wear like a mink farm. And it would not be surprising that it would then be able to go the other way, because it may already have gone the other way. Yeah, right. And so
+
+Heather 1:00:12
+so that's, that's, that's two EPS at the beginning of that. But, you know, absent that, it's hard to say, because this is actually, one part of that is something that we spent a lot of time talking about, and you spent even more time than I did. Earlier, we're talking a lot about COVID. The idea that this was an unintentional lab leak from research into the virus seems really very, very likely to both of us. So that's a not very big F in our heads. And then the bigger f just, you know, in, in part for me, because I just don't I don't remember the evidence for or against, is, were they doing serial passage experiments? Almost certainly, yes. If it was lab, but were they doing serial passage experiments with MC or with mustelids. And if mustelids, then expecting this to be able to be bobbing back and forth between banks and humans is not
+
+Bret 1:01:02
+unexpected. That's the thing. If this was a lab leak, which seems highly likely, the only really iffy question in here is did the serial, you know, almost certainly cereal passage experiments would have been part of this. In fact, they would almost have to be in order for the evidence that this is a lab leak, to be accurate. Yeah, right. But the only weak link in the chain is where mustelids involved. And certainly, again, this is you know, people say, Well, why do you need to know we've got the virus? Now? Let's fight it. No, this is why you need to know exactly right. This is exactly why you need to know is that the tissue level promiscuity of the virus, and the ability to jump between species are things that would surely have been altered by such experiments. So we need to know what they were there's just that
+
+Heather 1:01:56
+it is actually the rare thing about the epidemiology of this virus, that would have no that that would hinge in no way on what the origin of the virus was. And that's not to say that we can point to exactly what the effects would be, or why. But the idea that it doesn't matter. Now, let's just let's just fight the thing. It's like, we need to know what thing it is that we're fighting.
+
+Bret 1:02:20
+Yeah, actually, we have to.
+
+Heather 1:02:24
+In other news, Michigan, Wisconsin announced immediate hearings in committees into voter fraud this morning, just hours before the corporate media announced Biden's victory in unison, color revolution bedfords law and by conspiracy theorists now. So I had not heard that I did not know that Miss Michigan, Wisconsin announced to me it hearings, the committee's into voter fraud. What are the benefits law reference? Is someone else brought this up? is this idea that you can basically, you can see, created number patterns as opposed to ones that just happened? Because nature tends to produce numbers that have leading or in some cases, second digits that are more likely to be I think it's lower than the lower digits rather than the higher digits. But there is at least one compelling I think I did not spend a lot of time with that master's thesis that specifically looks at whether bedfords law, I think it's called bevers. law applies to to elections and whether or not you can use the expectation that certain numbers will appear more frequently than not, in order to discern whether or not there's been voter fraud or ballot fraud and elections. And at least in this master's thesis, the author concludes No, I don't know. Right. So yeah, that's that's just a lot of a lot of words for one very particular thing. Like there's benefits, there's benefits law apply here and could be, therefore use it to find evidence of voter fraud. Maybe it's not clear that we can, that's not clear. And for me not having been familiar with benefits law. I had heard it a little bit, but before before sort of this week, I go well, I want to know the why behind benefits law before I start thinking about applying it and all sorts of places, you know, this this does not seem to me like a fundamental sort of thing. Right? It's it seems like an observation of pattern that itself that that pattern itself requires explanation. Yep.
+
+Bret 1:04:24
+And presumably, those engaged in fraud would be aware of the law and could navigate around it. So it seems the
+
+Heather 1:04:32
+idea is it's hard to it's hard to cheat. It's hard to replicate the actual patterns. I don't know.
+
+Bret 1:04:36
+Okay. Yeah. All right. So color revolution. It's not clear to me why the Yeah, why the investigation in Michigan and Wisconsin would be consistent with that, but the color revolution is a basic Gli a a subterfuge used to induce a regime change in a in a nation. And basically it involves ceding discord along arbitrary lines causing people to regard each other as enemy and topple a power structure. So this is the kind of thing that seems to have happened in Ukraine, I believe. And anyway, it's the sort of thing that has been studied in places like the School of the Americas at Fort Benning. And in any case, there is a question about whether the preposterous state of discord in the US might be such a thing? And if so, who is seeding? The color revolution? Are you a conspiracy theorist? heavens, now, you are a conspiracy hypothesis, you are placing these things on the table. They are hypotheses, they make predictions. And as long as we discuss it in those terms, it's a responsible behavior as far as I'm concerned.
+
+Heather 1:06:13
+Hello from Cincinnati. So are you guys going to turn your focus back to COVID? Soon, no one wears masks here. So really, so confirmation bias is through the roof. Once seasonal protection is lost, we will be in exponential trouble here.
+
+Bret 1:06:28
+Yeah, we should talk about COVID. I do think that people being driven in new, we're all collectively lulled into a false sense of security by the fact of COVID being sort of a low level phenomenon over the summer. And it's now skyrocketing all over the place, including here in Oregon, and
+
+Heather 1:06:52
+which has always had very low rates, especially compared to our neighbors to the south and to the north California, in Washington, but is much higher now. Including daily incidence rates than it has been at any other point.
+
+Bret 1:07:04
+Yep. And so anyway, I'm debating whether or not to hold some stuff and introduce it into a stream where we talk more extensively, maybe that's the best thing to do. But yeah, we should we should be talking COVID because it's back.
+
+Heather 1:07:22
+potential solution. Trump fights in court for a couple of weeks, if no change concede, but continue legal battles to prove any fraud. If he wins, Biden is still the president, but corruption will be exposed if press reports.
+
+Bret 1:07:36
+Well, let's put it this way. I actually sort of like the scenario best. But Wow, did they screw up having the president handle these allegations and make allegations before there had been any possibility of tampering? So we're I don't want to say any possibility of tampering? Who knows, but speculating that the election was going to be stolen was an irresponsible thing to do. And to the extent that the question needed to be opened, somebody else should have done it. And to the extent that the question needed to be revisited, as the vote count was going on, somebody else should have done it. And by Trump doing it, he's complicated the matter. Spectacular spectacularly and basically, I do think he has some responsibility to stand down that dangerous dynamic. But anyway, what you suggest, I wish that thinking had been in the Trump administration from the beginning and that we haven't gotten into such a dangerous position.
+
+Heather 1:08:39
+Internet troll slash racist gets people to chat USA after giving a Nazi esque speech to Trump rally. Not sure if this is trolling, sincere, or both. Do you have thoughts see the speech at at sh pangas on Twitter? I don't know anything about it.
+
+Bret 1:08:56
+I don't know anything about it. I would say the Sacha Baron Cohen stunt in Olympia makes me think one wants to look very carefully at this video to make sure that what is being suggested occurred actually did occur. Yeah. So I was very unconvinced by the Sasha Baron Cohen stunt in Olympia, because although a few people engaged in
+
+Unknown 1:09:22
+call and response,
+
+Bret 1:09:23
+yeah, nonsense. A lot of people were booing him. And I guess the point is, he went to a rally,
+
+Heather 1:09:30
+even if not bowing just to standing there. Yeah, what are you doing? Right, right.
+
+Bret 1:09:34
+And so my sense is when somebody passes your test, you have an obligation to report that rather than focus on those people who didn't? Yes,
+
+Unknown 1:09:44
+yes, you do. Yeah.
+
+Heather 1:09:46
+We find morphological symmetry attractive and a mate but hairstyles considered attractive are often highly asymmetrical. Thank you. Men part their hair to one side, etc. hats are often worn as a jaunty angle or have fruit on one side. Haven't seen a fruit hat in a long time. What's going on here? You know, I have I have wondered about this. Because we know this concept of fluctuating asymmetries in, in morphology across, across taxa across those taxa that are bilateral, bilaterally symmetrical, which includes all vertebrates is, is pretty well studied and well understood. Well, I don't know about well understood but pretty well studied and is a real phenomenon and yet absolutely hairstyles are the most of the people who are considered most attractive, almost always have a symmetry in their hairstyles, if there's a symmetry to be had.
+
+Bret 1:10:39
+Yep. And you know, we can take this a step further to a mole off center. Right? Is Yeah, you know, a beauty mark.
+
+Heather 1:10:47
+Yeah, whereas one dead center is not that's not going to be it's terrible. It's not going to be a classic beauty At any rate, right? Yeah. And
+
+Bret 1:10:54
+you know, you know, in all of our experience, if you get a zit on center, it's way worse than having a zit somewhere, right. But, but anyway, so I think there are a couple things to say one, it may be that the asymmetrical stuff actually highlights the symmetry. Right? In other words, I dare you to try to get your hair symmetrical you may have an easier time than I do, but you won't have an easy time right it's very difficult to get it exactly symmetrical which means that to the extent that it's slightly asymmetrical and we are symmetry detectors, you know it will set stuff off and actually it fits maybe with the discussion we were having about the sensitivity of detectors as a phenomenon becomes rare
+
+Heather 1:11:40
+yeah yeah. So don't even try if you know you're not going to get close just go away off well I
+
+Bret 1:11:45
+mean you can imagine if you had some very symmetrical object against a very symmetrical background you can almost imagine your brain overheating looking at it Yeah. Whereas if you had it against a nicely modeled, you know, no pattern kind of phenomenon it wouldn't sit there and and, and the symmetry would be all the more evident.
+
+Heather 1:12:05
+No, and he would, he would find the places where it wasn't symmetrical if you've just got symmetry all the way down. Yeah.
+
+Bret 1:12:10
+Now I had a weird one, which was maybe it was the unheard podcast, which is quite good. If you haven't seen my appearance and the unaired podcast, you might check it out. It was great discussion. Or maybe it was Dr. Phil, I can't remember.
+
+Unknown 1:12:26
+Yes, but it was on Dr. Phil this week, guys, that actually happened. Very weird phenomenon. But
+
+Heather 1:12:31
+my oldest dearest friend texted me and said, I had the strangest dream. You're never gonna, you're never going to grasp what is going on in this country with the election and also prep on Dr. Phil.
+
+Bret 1:12:43
+Yes, they sprung on me last month, they invited me on, and I was not sure what to think I agreed to go on. And then at the last minute, they alerted me to what the format was who I was going to be on web, none of this had been mentioned,
+
+Heather 1:12:59
+which is to say for those of you who haven't seen I have not seen it yet. You are going to be debating a woke mother of three who's raising her kids woke was the description and antiva supporter or just lm supporter, young Tifa
+
+Bret 1:13:12
+supporter, and Piers Morgan was on. So anyway, it was Dr. Phil and Dr. Phil and Brett Weinstein and and me. But in any case, somebody I think it maybe it was even both of those events, they, you know, they filmed me here over zoom. But they reversed the direction of the video. So the horses backwards, and I'm backwards, and I have a very they did that
+
+Unknown 1:13:41
+to you.
+
+Bret 1:13:41
+I don't think they meant to. I can't and and you know, it's funny, actually,
+
+Heather 1:13:45
+that's crazy. Like that messes with everyone, even people who aren't constantly like having to deal with their own images in the world. Right.
+
+Bret 1:13:52
+And so I should have actually, you know, I think it must have been Dr. Phil, because in the they have, of course, as you as they would have to they have a crack team of people who gets the tech all in line ahead of time. And so I had one of these meetings with their tech guy, and he you know, look through our camera and listen to the sound and all of that. But he kept telling me, could you move a little to your right, I would move to my right. And he'd be like, Oh, no, no, no, your left. And this happened like three or four times. So something he was looking at had to have been reversed. Oh, man. But anyway, so my point was seeing myself reversed. Yeah, was difficult.
+
+Heather 1:14:28
+And yet what you are seeing is what we all see. All No. So are you seeing here? Are we saying here what we see in the mirror? No, no, we are not. Yeah, we are not versed for a year. We're seeing you we're seeing your mirror your actual mirror image
+
+Bret 1:14:47
+right on Dr. Phil on Dr. Phil. Yeah, sure. Anyway.
+
+Heather 1:14:51
+Yeah. So in short, we don't have a good answer to this.
+
+Bret 1:14:55
+No. I don't remember the question.
+
+Unknown 1:14:58
+Oh, no, it was about fruit.
+
+Bret 1:14:59
+We do. It was through tests which they are coming back, I promise you. And it was about a symmetry and the fact that a little bit of a symmetry like a beauty mark, or a background of a symmetry might have some sort of symmetry enhancing effect on the viewer. And we might
+
+Heather 1:15:16
+just like draw attention to the symmetry. And I actually I love the I love the hat. Part of this I hadn't I had thought about in terms of hairstyles, and like there's some hair like curly hair, you can kind of get symmetrical, tightly coiled hair, you can kind of get symmetrical bangs may be away but if any part is showing, it is the very rare modern, at least weird person who capital's weird person who puts their hair in the middle. Yeah, there's a part visible like you just it's not a thing. It's not
+
+Bret 1:15:41
+a thing now, no. You know, I haven't seen a fruit hat since fruit went organic. Right? We didn't even ask that.
+
+Heather 1:15:50
+It was rotting into people's eyes. Hmm.
+
+Bret 1:15:53
+I don't know. But, but in any case, now.
+
+Heather 1:15:59
+We're gonna answer a couple more of these. Will Trump's loss cure those with Trump derangement syndrome? Or will those with the mania continue with a new target? Both and I would say
+
+Bret 1:16:12
+both and and i gotta say, I'm, I do not want to win the lottery as the replacement. No,
+
+Heather 1:16:21
+I think Rogan
+
+Bret 1:16:21
+is going to win Rogan is gonna win. Yeah,
+
+Heather 1:16:25
+now that's that's not. There's obviously different. There's different lotteries for different domains. And there will be some. I mean, I don't know, I don't know what's going on in all of the congressional races and such, but I just I don't, you know, Trump is a one off figure, which is part of why he's so hated. And so beloved, by totally different parts of the country. I don't think there's another Trump figure. But their will but but so therefore, they will lower the bar yet further. And make even you know, innocuous conservatives who, you know, speak the way politicians are expected to sleep better asleep. Speak. into into Hitler. Yeah, into the demons. Yeah. Now that the election is over, can we've all kind of now the election is over? Can we please talk about the African American crime rate and why it is three times? Maybe that's three to five times worse than the white one. So there's not quite enough information there. I did see a question from last time that was asking this that we that, because we had so many questions that we didn't address, but I don't really know what to say about that briefly here.
+
+Bret 1:17:38
+Yeah, I don't think briefly is the way to do Yeah. I think I think it's covered to a small extent, in the black intellectual Roundtable. Those of you who are new to the podcast, you might check out the black Yeah, table. But there is something to be said here. And this really does get to the core difference between modern liberals and modern conservatives, in terms of what we think the cause of such a thing is, and what might be therefore done about it. So anyway, yeah, we should talk about that, I'd be up for that. We need to know when I send each other, a certain leading date to extend some leeway, and generosity of spirit in order to have that conversation properly. But I think it can be done.
+
+Heather 1:18:20
+And I also think that you really did talk about it pretty effectively. And I think it's one of also the drums, if I'm not mistaken, that Coleman Hughes beats that he talks about Am I wrong about
+
+Bret 1:18:32
+that? No, no, no. In fact, I would say, there are a number of folks on that podcast who allow as well, a what I think is a fairly hard line on this. And, you know, it may be that we are backed by our various positions in the world into seeing things one way or the other. But anyway, I would love to unpack it so that we can actually get to the bottom level. And I don't think we know the answer. But I do think we haven't even properly put the question on the table. And that we should, because the the way out of here involves going through there.
+
+Heather 1:19:14
+Yep. Wow, there's so many more questions. Well, we are not going to get to most of them, which I apologize. I'm worried about the court challenges leading to a house delegation vote. Each state gets one vote along party lines that ends up 26 to 24. Trump and then Inferno.
+
+Bret 1:19:38
+Ah,
+
+Heather 1:19:39
+I don't know enough about the various challenges and political routes to a resolution to know if this is correct, but it's correct, yes, that would obviously be that would, that would inflame those who those states who voted blue? Because by the States alone, the population in the blue states is far higher than that and the red states. But of course, it's not that the blue states voted 100%. For Biden, as we can tell from the popular vote, which is only a couple of million votes difference. Yep. Because it I
+
+Bret 1:20:19
+think what this is suggesting is that the result of the court battles would be to throw out some or all of the the electoral college votes from those states if the state can't certify. And then there aren't enough electoral college votes available for either of them to cross 270, which throws it to the house. I see. Now the house. Yeah, the house then has to, I think the house then chooses between the top three, vote getters. I should look into the rules before I speculate on what they are. But yeah, there's no question there's a disaster to be had there, which is why the Unity movement was so interested in creating a solution to this problem that our disaster might cause us to embrace.
+
+Heather 1:21:25
+All right, I'm looking for just like a great question to end on here. So I will, I will read the next one in line. And have you started answering a while while I look for one to end on that wraps us up neatly or nicely? You have said that a small amount of genetic transfer between groups stops genetic divergence? What explains biological differences and humans in Afro Eurasia?
+
+Bret 1:21:48
+Great question. And I just so happen to have the answer. So and whoever you are, you captured the key thing you were listening very closely. Braden Davis. So Braden, the key thing is it prevents divergence, and it prevents divergence in the case, where you do not have a selection. So this, the assumptions, and its Fisher's model that we are talking about, are that a gene frequencies are the same at the beginning. That's the key one, and the one you captured in your question. If teen frequencies are the same, a small amount of genetic transfer keeps them from diverging in the absence of selection. So the answer is the gene frequencies would never have been the same between Europe and Asia, because the selective environments and the arbitrary factors that had occurred in those distinct populations would have rendered those gainful is very different. And so you're not talking about the power of gene flow. To prevent divergence, you're talking about the power of gene flow to equalize divergence, which it has very little power to do. So. Anyway, good job. And hopefully that answer made sense to you.
+
+Heather 1:23:10
+Okay, we're going to do three more, one of which is just a comment. One, when we look at outer space, we are looking inside of the organism we call universe. Two organisms inside our bodies see a universe a horizon light?
+
+Bret 1:23:24
+I think we can be certain that they do.
+
+Heather 1:23:28
+They don't have eyes. So what In what way? Do they are they sensing the landscape that they're in? Are the organisms inside us are bacteria mostly? So now what do they do? They sense their single cell? They don't sense in any of the usual senses of the word. Still, I find it, I find it intriguing philosophical question, even if the particular instantiation here doesn't quite work.
+
+Bret 1:23:55
+Yep. Yeah, I think, unfortunately, creatures a lot more complex than bacteria. We have no reason to think that they are more than very sophisticated little robots, you know, things like insects, and things. And so, you know, you have to get to a fairly complex creature that has a reason to have a subjective experience before the question makes any sense. And most creatures do not have a reason to have a subjective experience at all. It just wouldn't serve them. Which is part of why the, the pan psychism question is so galling is that it sort of takes our experience of the universe which is very conscious, and imagines that that must be all over the place, rather than it being a really weird exception in a place where it has a strange utility, but you know, it's kind of a mixed bag too.
+
+Heather 1:24:49
+Okay, here's just a comment. Speaking of corporations as critters I wrote a fantasy series to that effect with humans accompanies engaging in Mortal Kombat. For those looking for new original anti literature I invite you to check out Phil Lima mystic Well, on Amazon All right, so Lima mystic. Well, for some
+
+Bret 1:25:07
+reason that evokes To me, the movie Brazil. Remember the character Sam doing battle with? Some sort of, it's hard to even say. Yeah, yeah.
+
+Heather 1:25:22
+Okay, final question not an easy one. But interesting. Is there an ethical difference between slaughtering a pig and a dog for food?
+
+Bret 1:25:31
+You know, I have raised this very question with people who have decried the the slaughtering of dogs in certain cuisine predictions. Now I think in some sense, there is bound to be a difference. But it is a hard one to draw because a lot of it involves understanding what goes on in the minds of dogs and pigs. So we have a deal
+
+Heather 1:26:05
+that's this is this is where I already have an answer cemented, which so far sounds almost completely opposite of yours. Opposite of mine until you got to the we have a deal part where I think you're gonna we're gonna converge we
+
+Bret 1:26:17
+have a deal with, with dogs, and we have a very different deal with pigs. Exactly. I think we are breaking our deal with pigs badly. I mean, some of the worst factory farming is pig farming, the way it's done, it's completely inhumane, and there's no defense for it. But that said, there is a way to raise pigs that doesn't violate our deal with them. And raising dogs for food it takes the pig deal and inflicts it on the dog which I think is a serious betrayal and
+
+Heather 1:26:48
+troubled by it's actually I didn't know you had raised this and I've never I've never seen these two things but next to each other, as in counterpoint slaughtering a pig for food slaughtering a dog for food. And it's really an effective way to do it because we know that both pigs and dogs are wildly intelligent and that they can have relationships with people but it's exactly it's exactly what you said that we have. We have this deal with dogs that is in almost every culture on the planet and was formulated as a friendship and ongoing reciprocal loving relationship that does not end in one one of you eating the other and that is not the relationship you know without you know a few pot bellied pig owners aside that is not the relationship that anyone who's been thinking about the domestication of animals thinks is the original deal between humans and pigs and that's not to say that pigs aren't capable of understanding their you know, horrible fate they may well be enough especially if they're in a factory farm situation but the the deal that we created with them is not itself being broken when we engage in some kind of humane slaughter with them and that you know, that sounds like justification for murder and that's not that's not what we're saying. It's that we evolved a different deal with these two species.
+
+Bret 1:28:14
+Yep. I also you know, weirdly this dovetails with the abortion question from earlier to me, which is you know, I was just out with Maddie doing some work a couple days ago and it did occur to me You know, I actually literally believe I don't think it has an implication but I literally believe we kind of own deserve the high quality partner that we got in dogs that you know, at least our dog is so interested in doing what needs to be done and being a team player and you know, and she's so earnest in this regard and I'm you know, this is a common experience with dogs rather than a rarity. But in any case, I think when you when you have you know, selected for and produced a creature that has no power over its existence and is fully on board and actually you know, not just fully on board like some you know, machine that does your bidding but you know, it's an emotional creature that actually commiserate with you and cares about you and really cares what you think and all that when you got when you created that thing. You just have an obligation to you know, to err in the direction of being decent to it and so anyway yeah, I think the deal is really built of something and we we would be wise not to take for granted the amazingly improbable thing that we've got in dogs. Yeah, because they're and they're awesome. They are I hope the cats didn't hear me say that.
+
+Heather 1:29:54
+I will defend defend you to the cat seven needs to come to that but
+
+Bret 1:29:57
+you think physically it might come to that No, but I think they might knit all talking down. All right. I don't even think they know their names.
+
+Heather 1:30:04
+I know you don't.
+
+Unknown 1:30:06
+They do. They do. They're just just not talking about it. It's just not talking to you. Yes, that's all right.
+
+Heather 1:30:14
+I think we'll stop there. We will be back. Certainly a week from now if not sooner than that. Yeah, and I would
+
+Bret 1:30:23
+just say congratulations to everybody for reaching the end of this podcast slash election cycle a major accomplishment and really right there yet but we're and you know, well, what could possibly go wrong?
+
+Heather 1:30:39
+Well, I think that we will be back in front of this camera and you guys again before there is complete resolution on the presidential election.
+
+Bret 1:30:47
+We will be unresolved with you then. Yeah, happens. All right. Well, we
+
+Heather 1:30:51
+encourage you to go to our Patreon so you can get access to discord get access to Dark Horse membership with private q&a once a month. Brett did his one of his to our monthly conversations for his patrons. They
+
+Bret 1:31:05
+love to do this very podcast. We were just cooking along we were two hours. Yeah, man. It was
+
+Bret 1:31:10
+really awesome. Yeah, and so I don't remember what it was. This is embarrassing. Terrible. Yeah. Well, if I remember it should know somehow. In the meantime, while everyone
+
+This transcript was generated by https://otter.ai

@@ -1,0 +1,343 @@
+Bret 0:09
+Hey folks, welcome back to the q&a section of the ninth live stream from the Dark Horse Podcast. I am Brett Weinstein. This is Dr. Heather hiring to my right.
+
+Heather 0:18
+And this is Madison in the background
+
+Bret 0:20
+and this is Madison walking around the room named for the founding father. Yes. Just ignore the dog behind the curtain. All right, shall we go to the questions?
+
+Heather 0:30
+Yeah, so we're gonna spend an hour answering your super chat questions. About half the time will be spent answering questions from the first live stream and half for the questions that come in during this one. Without further ado, first question. There are no adults on.gov daily brief. Last night, Burke stated the test are 5050. At at this time market 150 50 on fox news video available on YouTube, the quote is, quote, these tests are not 100% sensitive or specific. So if you have 1% of your population affected, and you have a test that is only 99%. And specific, that means that when you find a positive 50% of the time, it will be a real positive and 50% of the time it won't be. So I believe that this is picking up on. I mean, I guess in most of our live streams we've talked about they're not really being any adults. But you specifically said that again today. But this, you know, I'd had not seen this we had we still haven't we haven't gone to find this on YouTube. But this quote does not look wrong, it can easily be mis interpreted. But it's it uses the same kind of math that I walked us through some with some fictional numbers last time in the in the eighth livestream. And basically the idea is, if you have, let's just again make up some numbers if you want a population of 101 people, and 1% of the population is infected. And there you have a 99% accuracy rate on the test such that only 1% of your tests provide a false positive, you test that 101 people and one of those people who's actually positive will come out positive. And of the remaining 100 people, one of the people who are actually negative or one out of 100 will also come out positive. So you will end up with two positive tests in a population of 101 people, one of which half in this case is actually positive and one of which half in this case is actually negative. So that is true. And it changes with the actual background infection rate as the numbers I went through last time as the background infection rate climbs, the ratio of false positives to true positives, or the ratio of true positives, false false positives, changes. And as the test in this case, you have a very high specificity of test, which is higher than most tests seem to have. But the higher the specificity of the test, the fewer false positives you get, obviously, but what people misunderstand when they hear Oh, it's 99% specific, there's only 1% rate of false positives means that if you get a positive, you only have a 1% chance of it being false. That's not right. It depends on actually what the background rate of infection is. Which to know that we need more much more data than we have, which is the drum we've been beating the whole
+
+Bret 3:21
+time. And you can see this much more clearly as we discussed at dinner after our last livestream, if you use reductio ad absurdum logic if you take the example of let's say a disease that does not exist cooties, for example, let's say that we came up with a molecular test for cooties.
+
+Heather 3:42
+Now a serology test you mean
+
+Bret 3:44
+a sorority test? I mean, it's obviously a molecular test calling the antigen test molecular tests. All right, so let's say a sorority test for cooties. cooties does not exist. And the test that we generate has a 1% false positive rate and we were to a test every American there are 350 million Americans about so you would expect 3.5 million people to test positive in spite of the fact that the disease we're testing for doesn't exist. I get the math right. I think so. Yeah, yep. So anyway, that tells you why this is a problem that even a very small thought false positive rate over a large population will generate a actually large number of people who are in that category wrongly. So anyway, there it is.
+
+Heather 4:30
+Good. Wow, what happened here? We thought we'd look through all these I don't remember there just being a link to a YouTube channel. Do I didn't see this before.
+
+Heather 4:45
+The vampire bat one. No.
+
+Heather 4:47
+So Zack, if on your end, if you want to look at the Canadian 15 Paul, yep. See if there's anything more than just a link there. Okay. Next question, until unless we go back to that one. What homework assignment would you give the audience to take home with if you were tasked to challenge America to begin to become a less tribal and more pragmatic?
+
+Bret 5:12
+Yeah, I mean, this is this is almost easy, right? This just, it's a matter of generosity of spirit. And simply putting aside your priors with respect to whether or not other people are making sense. Some people don't make sense. But in general, you will find especially you know, if you talk to high quality people, if they believe in things that you are certain or false, it may well be that there's something you need to learn about it. So two things, approach other people with generosity with the expectation that they may be saying something that you do not yet understand about their position. And then the other thing would be the formalization of steel Manning, that when somebody is expressing a position that you believe is incorrect, going through the exercise of figuring out how to say what you believe their position is, so that they understand and they find your presentation sympathetic, that is a very powerful exercise in discovering what it is that's on the other side that you have yet to see. So steel Manning, at some level, at some point, you stop saying that that's what you're doing. You just say, let me see if I've got this, right. You're saying x. And then here's why I don't believe that, right?
+
+Heather 6:33
+And I guess, we actually have a few friends who are working explicitly in this realm. So please correct me if I get any of these wrong, but I think Peter Bogosian and James Lindsay's book, how to have impossible conversations, provide some good practical advice here on effectively how to have conversations across differences that seem like they may be too too far to cross. Our friend, john wood, Jr, who was associated with the organization better angels, better angels I actually work is during lockdown, but what they have been doing is going into communities and bringing together people who identify on opposite sides of usually the political divide, but I think some other divides as well. Putting them in rooms together, and through your curated conversations, bringing them to understand to see the humanity in each other. And finally, Chloe, Chloe, Valerie, who, but you've had both john and Chloe, Dark Horse podcast, in fact, Chloe's theory of enchantment, which I am not intimately familiar with, but I trust from speaking with her at some length about the work that she's doing, really does a great job of furthering the ability of people to find their own best selves and the humanity and others.
+
+Bret 7:53
+Yeah, and actually, we know a few more folks involved in various different things. I would say, Michaels, Zimmerman's clergy letter project absolutely brings together people of faith and atheists and has them writing letters to reveal the depth of their position to each other. Let's see. Why am I forgetting the name of the letter project? Is that the letter project? I don't know. Yeah. in which people are writing letters to each other online.
+
+Heather 8:25
+Oh. Oh, great. Thanks, man. Sorry. So it's it's the rathbones and the I want to say it's the letter wiki pride. It's not It's not that so it's a it's a letter wiki isn't letter wiki? Yeah. So the impossible cut that they they've got a competition that that closed that I'm supposed to be judging on, you know, people having difficult conversations with one another in writing. Yeah. So it's anyone with a letter wiki, anyone who wants to show up with someone that they have a disagreement about and have a back and forth in public with respect, I think the ground rules are basically this is going to be readable by others and you must, you must be respectful. But that's basically it.
+
+Bret 9:06
+Yep. as a general matter, shed your prejudices. It's very inexpensive and you will be overjoyed at the dividends it pays. There's just very little value in walking around making assumptions about who's reasonable. You'll find your you're happier if you don't do it. Yeah.
+
+Unknown 9:27
+There is a lot more that question for Paul and is highlighted and number three on the other. Okay,
+
+Heather 9:33
+hold on a second, then. All right. Do psychopaths face touch less IE face touching as a social empathic emotional telegraphing response versus grooming? Oh, in the video he included with vampire bat camera trap video. Cool. So again, the question is about psychopaths and whether they face touch less.
+
+Bret 9:54
+I would imagine there's data on this. I don't know if that's what you're proceeding from. You know, asking that question. I don't know that this is the case. But there does seem to be something about face touching. And you know, we've all had the experience of somebody does this and you wonder if you have a little something on your cheek or something like that. So obviously there is some sort of empathic connection that is expressed sometimes through touching one's own faces, or maybe, yeah, but I don't know.
+
+Heather 10:24
+I don't either. Correlation implies causation, if it maps on to a pre existing hypothesis confuses me. So this is something that we talked about in the last livestream that Brett said, correlation implies causation. If it maps onto a pre existing hypothesis, this question says, this confuses me, does Brett mean supports rather than mathematically implies? correlation is not mathematical proof of causality. Right? Thank you.
+
+Bret 10:48
+Right implies doesn't mean it proves it. But and, you know, there's a lot of details in terms of how strongly implied causation is, you know, a weak prediction isn't a very strong implication of causation. A very surprising prediction that turns out to be true can very strongly imply causation. But in short, what you have is, and this is really, you know, this is in the philosophy of theoretical work, that when you generate a hypothesis for how something works, you then generate predictions from that hypothesis, those predictions are often very narrow, but what is supposed to happen is if those predictions turn out to be true, especially if they are surprising in some way, that cascades back. And it says, the hypothesis I used to generate that prediction has some evidence to indicate it is right. So that hypothesis contains a model of how the world functions. And a prediction says this is a way we would know if that model might be actually functioning. And the prediction turns out to be true. Well, what is the model say? And if I can, this risks confusing some people but let's imagine for a second that somebody said, You know what, I have a crystal ball, and it works. And you'd say, Yeah, right. And it's I can prove it here. I'll show you. I'm going to look into my crystal ball, and I'm going to tell you the stock prices of six stocks for three weeks from today. Alright, guys, obviously full of crap, then those stock prices turn out to land on those numbers. Now the question is, How the hell did you do that? Write something about the model this person is using maybe it's insider information, we don't know. But to the extent that something is predicted from some mechanism, when the predictions turn out to be true, it reflects positively on the mechanisms ability to see that quadrant and so anyway, implies does not mean nails down. It means implies the degree of the strength of the implication is up for debate.
+
+Heather 12:56
+Have you seen this, quote Coronavirus has mutated into at least 30 different strains new study finds? So open this is it. Excuse me, Zack, if you want to just show the show the screen? This is the link to the Super Chat question. But not the link to the peer review paper which I have actually seen. And I think we may talk about this a little bit. We may talk about a little bit in the next, the next live stream when we talk perhaps a little bit about names. And you know what it means that this is a Coronavirus at all. But obviously at one level, I think we can we can take that down as Zack. Thank you. It is we suggested early in these live streams that this was beginning this was going to be mutating that there was already evidence that it was mutating what it means for something to be a different strain is of course, a hard to nail down definition and and there will be disagreement about how big a change mean, it takes before immunity, for instance, is no longer valid for the newly mutated strains. But it shouldn't surprise anyone that given how fast this thing is moved, and how quickly it has spread across all manner of environments that it is mutating fast. There is evidence for instance that i think i think most of the cases on the eastern seaboard of the United States are coming out of Europe, rather than coming directly from China. We can already tell that with phylogenetic analysis from the genomes of the various viruses in these various places. That tells us that this is changing very fast.
+
+Bret 14:45
+Yeah, I would say I haven't seen this paper. I haven't looked at it. But in some sense it's a very funny headline. It's undoubtedly mutated into innumerable strains, that some of these strains then take hold such that we see a large population that are downstream from some mutation that we can recognize, oh, this is the strain from over there. That's really what's being discussed, undoubtedly. So how many strains Wow, I can't imagine even how you would go about calculating it, because it's going to be some substantial fraction of the number of infections, or maybe even the number of viral particles out there. But most of those mutations will be an almost immediate dead end. Some of them for cause because they actually make the virus worse, some of them for random reasons, just because most of these infections, or at least most of these particles will fail to transmit to anyone else. So the very fact that something takes hold, tells us something interesting. And in fact, there's some hope in it, too. It's potentially frightening. But in general, as we've discussed before, these infections tend to evolve towards a benign nature. Some of the evolution is on the part of the critter being infected, and some of it is on the part of the pathogen. But nonetheless, the fact that mutations are spreading isn't inherently good or bad, doesn't it? The question is, are those infections more pathogenic? Are they more contagious? Are they more benign? That would tell you whether it was a positive or a negative thing?
+
+Heather 16:24
+Yeah, there's been some suggestion also, for instance, that I think it was L and s named strains, that the L strain was incredibly violent, and much more often deadly than the strain much, much less so. And that we should expect, we should expect to see more of that as we get more and more reliable data. Can you both possibly in future talks or now discuss how game theory and critical thinking skills could be integrated into k 12? education? From a frustrated middle school teacher trying to change a bad system? Man, I feel you.
+
+Bret 16:58
+Yeah, I would say, games, games, lots of games, games that make the kids think that the teacher has gone crazy and has just declared every day a snow day. I mean, this is really what school should look like. It should be full of games and exercises that are so much fun, that kids don't even realize that you're educating them. Yeah, we need to generate those things. Yeah, but
+
+Heather 17:21
+I mean, humor, you know, used to say to students, after you'd made them laugh for a long time. If you're laughing, you're not learning. Clearly the opposite being the case. Yeah. Right. You tend to be able to learn better when you are relaxed and easy and having a good time. being outside your outdoor games, physical games, games that integrate both your mind with your body. Yeah, we we we would often actually, you know, play ultimate with students, and occasionally take a take a time out to talk about physics,
+
+Bret 17:56
+right? Yeah, actually, you know, it's amazing. In the end, what's made of physics?
+
+Heather 18:04
+No question, I just want to thank you both ANZAC, for the opportunity to hear you both discuss the matters of the day and your evolutionary biology perspectives. Thank you, Christopher. Are there any studies measuring telomere length of human populations depending on ethnicity, breeding habits, or cultural factors? And he studies on telomere length of offspring conceived early versus late in life by the same male? Question such
+
+Bret 18:25
+a good question. I'm not prepared to discuss the state of the work on different populations. Yes, these things have been studied not as systematically as I would like maybe some stuff has happened since I was deeply tuned into that literature. I will say on the point about males early and late in life, there is this one tantalizing result that I remember from back when I originally did this work that said that the telomere length in sperm produced by males late in life had longer was longer telomere length, the later in life that a sperm was produced. And this really yeah, this makes perfect sense in a way because, as we discussed last time, environments in which you have a good chance of living longer, are ones in which your ability to basically maintain your tissues longer matter more, if you're going to die young as a result of violence, than the fact that your body is capable of remaining viable until you're 80 doesn't matter very much if your environment is purged of violence. So you're going to live longer than having a body that has those capacities is more desirable. So how do you how does selection detect how safe the environment is? Well, one in which males are producing offspring later in life is one in which those males have reached later in life and therefore this would be a very good mechanism for adjustment of telomere length on a very short timescale.
+
+Heather 20:00
+Fascinating. This is a bribe to get you to vote for Biden.
+
+Bret 20:07
+Wow. Well, here's the thing. I have heard that everybody has their price. I don't know if that's true, but I know you're nowhere near mine. May I suggest a different path? or mine? Could you possibly direct the finances that you're going to push our way to get us to vote for Biden, in the direction of Biden to get him not to run? That's what I'd like to see.
+
+Heather 20:32
+If I'm following the logical conclusion of the damage hypothesis, does this mean that working out daily, for example, weightlifting, would also accumulate damage and shorten their lifespan?
+
+Bret 20:42
+That's another great question. Yeah,
+
+Heather 20:43
+it really is actually, um, yeah. And there is, boy, I don't have access to it here. And it's only kind of vaguely in my head. But I feel like there's some evidence now that pushing yourself beyond certain, you know, close to your limits with regard to what you can possibly do, you're, I'm trying to think of it's like strength or cardiovascular capacity, or what exactly the things are that have been measured, that doing that on a regular basis, can cause at least short term decreases in immune response? And yes, you're definitely you know, what is what is recovering from a hard workout doing, it's dealing with all those micro tears in your muscles. Now, muscles are one of the fastest repairing tissues out there. So I don't know about telomere length in muscles compared to other tissues in the body, like, Well,
+
+Bret 21:34
+as I mentioned before, muscle, skeletal muscle is multinuclear. And so it's a different kind of tissue with a different spectrum of hazards and the like.
+
+Heather 21:46
+So the analysis is really hard to compare to something like cardiac muscle,
+
+Bret 21:49
+it's at least not a simple prediction. But I would say, it's not that working out is necessarily going to advance your level of damage. In fact, there is some, you know, there's some benefit up to a point, but what we're getting at here is, the question is, are you doing more damage to those tissues, then is justified by the advantages, you know, strengthening your heart, for example, takes the wear and tear off the heart muscle, as it pumps blood through a healthy body. So there's a benefit. And there's a cost. And really, you can pretty well predict that the problem is going to emerge and become critical. As you push the exercise regime to a limit up to a point the exercise is going to be positive. It's not to say that there's no wear and tear. And certainly, the type of exercise you choose has a lot to say about it. So for example, running on concrete is particularly bad because concrete is particularly unforgiving. Running on asphalt is better because as much as concrete and asphalt seems similar, they're not the asphalt is a lot more give to it. And running on a
+
+Heather 23:03
+trails is better yet, for not just because trails are more forgiving, but because you're also getting more information into your feet and up into your body about the kind of terrain you're on and what kinds of muscles need to be used.
+
+Bret 23:14
+Yeah, running on a trail would be better until you twist your ankle at which point it can be worse, but But anyway, the question is, are you doing damage and how much and doing some damage in order to make yourself physiologically healthier is obviously going to be a win, but doing lots of damage? is certain to be a loss.
+
+Heather 23:35
+Is that how much time are we at?
+
+Unknown 23:38
+You're at 25 minutes.
+
+Heather 23:40
+Oh boy. Okay, so we're going to try to get through these next few questions before skipping to the next live stream. Okay, okay. In a YouTube interview, I heard Brett say that gender differences can be observed in trees that is males or Randy and females or Koi, can you explain more?
+
+Bret 23:56
+Well, this is primarily a piece of advice for people who were dreams. Oh, no. For one thing, they don't read. They never listened. But for people who hug them, you know, if you have a strong sexuality in which you only favor males, then you want to know which treat now this is not the pathway. The point is, it's not trees, in particular, its flowering plants. And the point that we made on Rogen was that if you look inside of a plant that has both male male and female parts in the same flower and there are lots of plants that do the hermaphrodite they exhibit the same reaction to effectively casual sex that we see in humans which is to say, the boy parts of the plant are Randy are and more excited about meeting with any old plant that will have them and the girl parts put the boy parts through a test that involves a long Corolla tube. Where the pollen grains have to reach the ovaries. So it's basically like a physical manifestation of coyness. And my point is, this ain't no accident. This is a law of nature that has to do with the level of investment that follows fertilization, the pollen grain has nothing to lose it might as well try to fertilize whatever it lands on, because that's the one shot it's going to get. Whereas the OB fuel in the plant has a large investment and being picky and choosing those pollen grains that are from exactly the right species, and maybe even some subset of those that have particularly good characteristics is beneficial. So no accident. Males across the biota tend to be more enthusiastic about casual sex, and females tend to be more coy, and it has nothing to do with humans.
+
+Heather 25:52
+Okay, five more questions before we skip skip to the next one. But we were going to be quick about these Okay. Does eating a diet more native to your ancestry provide any benefit to one's health? This is a very interesting question. We could again go on for quite a long time on it. Our dog has an opinion. That was her dog groaning in the background, who does not eat a diet native to our ancestry as it tends to be kibble and the occasional banana? Yeah, quite possibly. And this is a book that I don't 100% recommend. But I do find pretty interesting food genes and culture eating right for your origins by Gary Paul knab. Han. So I saw this question that I actually own this book and know exactly where it is. So I thought I brought Bring it here. One thing that is certainly true is that there will be no universally best diet for all humans. Because we have different histories because some of our ancestors, most of our ancestors, most recently have been farmers. And therefore the idea that we are only adapted to the life of an average of an African hunter gatherer is absurd. There are very few of us who have no agriculture in our background until, say, the Industrial Revolution. But even so compare, you know, you wouldn't expect masa and Intuit to be best served by the same diet, given what their people have been eating over the last at least hundreds of years. So interesting question. Yes, probably, to some degree anyway, eating a diet more native to your ancestry will provide health benefits. Next question. If languages get simpler over time, and since we're doing fine with simpler languages, why does natural selection not select for simplicity for early humans, which would have been easier and faster? There's a problem with the premise of this question. Languages don't get simpler over time. And, in general, we see complexity evolve across all systems, and add something more
+
+Bret 27:45
+quickly to this, I'm gonna I'm going to try to rescue the meaning of this question. Okay, good. All else being equal, it is almost undoubtedly true that languages become simpler over time. That does not mean they become net simpler over time. In other words, if you take the English language, the number of things that English has to describe relative to 400 years ago, is large. And so that complexity has been borrowed from other languages, it's come from a lot of different places. But from the point of view of saying, x thing, to the extent that there is a way to make it more efficient to get there, it is likely to be weakly favored.
+
+Heather 28:26
+I so I'm gonna, I'm gonna push back, we don't, we can't do this. Now, really. But um, I would say that not not only do we end up with more redundancy over time, like you have, rather than one word for concept, you end up with, you know, eight, mostly overlapping words for a particular concept. So that's, that's some kind of complexity. But more interesting yet, is the amount of metaphorical building. So you have, you have things like talking about higher temperatures or up or higher temperatures up. So that's sort of an obvious place where metaphor exists in language. But when you really start looking at the kinds of ways that we talk, and in English, which is obviously the language that we know best, we have metaphor upon metaphor upon metaphor, and actually, some linguists have been able to track some of those. So here, I'll recommend another book that I find totally extraordinary, called the unfolding of language by a guy named guy deutscher to the book. And he takes an evolutionary approach to both the origins of and the spread of languages. And it's his point around the ubiquity and increasing embeddedness of metaphor that makes me say, with, you know, I feel pretty confident that languages do not get simpler over time.
+
+Bret 29:37
+Well, I'm not sure I'm not sure we're actually disagreeing because what I said was, that all else being equal, they will get simpler over time, but that they're accumulating the ability to say more things and therefore you will not get a net decrease necessarily, especially in modern times. Okay? All right. Nope. Okay.
+
+Heather 29:57
+If you compare the DNA of a newborn baby to the DNA, of this same person 90 years old with the DNA sequence be 100% identical or can it change over the course of a lifetime? Thanks love the stream?
+
+Bret 30:08
+In order to answer the question that I think you're trying to ask, you have to sort between what we call the soma, that is all the cells that are a dead end because they cannot produce a new person and the germline that is the tiny number of tissues that actually go on to generate new people, the gametes,
+
+Heather 30:23
+the sperm and egg. Now
+
+Bret 30:27
+100% identity between the newborn and the older person in the germline, not 100%. But the germline is many cells and a male it's spermatogenic tissue. And so you can get a mutation that will change future generations. In a cell within the germline. Things are a little different for females, amongst mammals, because females produce their eggs before birth, they produce them, but not entirely, not entirely, but almost entirely, the majority of them are produced prior to birth. And it is always fascinated me why that would be the case. But anyway, it has implications for mutations that would accrue later, in the soma, you can get all kinds of things happening mutations are what causes tumors, most mutations won't cause a tumor. But yes, there are lots of bits of cellular damage that occur in tissues in the soma, but they have no implication going forward. Because most of them have little consequence, and they have no mechanism for getting into a new person anyway.
+
+Heather 31:41
+Regarding open peer review, what kind of systems are needed? For example, Yahoo Answers versus Stock Exchange, Stock Exchange systems lead to better info, how to reward good research while minimizing negatives have good hearts law, quickly. I'm not sure it's good hearts, liars.
+
+Bret 31:57
+I'm trying to remember which of them it is. But in any case, I'm a fan of Stack Exchange. I'm a fan of Quora, I think there's a lot of room for us to tune into each other's expertise. And to use Macedon, I'm also a fan of Reddit. All of these things are flawed in their own way. But the basic premise that we can afford to have anybody weigh in on anything, and then we can promote answers that have greater currency. I think that's all to the good. And I love seeing a proliferation of these mechanisms that didn't exist in the world you and I were born into, and I think it's clearly an improvement.
+
+Heather 32:38
+Yep, very much. So good hearts law is summarized at Wikipedia, or by Marilyn strathern, is, when a measure becomes a target, it ceases to be a good measure.
+
+Bret 32:48
+That's good. Okay.
+
+Heather 32:49
+That's very good. Okay, last question that was skipped. We'll switch to the questions from the current live stream is no, in seeing and pursuing a bigger game? Is this where your explorer modes enter? Could the bigger game be accomplished with the singularity? but at the cost of humanity itself? If so, do we pull the trigger? It's a big question and on?
+
+Bret 33:09
+Yeah, you know, there's a lot of, I don't, I won't call it jargon, because that's dismissive. But there's a lot of terms in there that we would have to be careful to make sure we knew exactly what we were talking about, were we to step into the bigger game, we would very clearly be across an event horizon. In other words, one of the features of the the bigger game would be that we can't exactly tell where it would lead us. And so, in fact, a principle that I think governs whether or not we can take a particular proposal about a future world seriously, is does that proposal, pretend to understand the implications of what is being proposed? And if it's too specific, we know it's not right, because the evolutionary force will take whatever we deliver it and will modify it. And so what I want to see is proposals that outline what the objective of the change is, and propose a way to navigate towards that objective, but are sensitive to the fact that if we try to blueprint, the future, we're going to screw it up. If we try to navigate to the future, it's readily possible. So let's take on a navigation metaphor, rather than a blueprint metaphor, because for one thing, it's much more likely to work. All right.
+
+Heather 34:32
+sec. What's the time? 35 minutes? All right, so we're gonna take 25 minutes to answer the questions that have come in during this live stream in the order that they have come in. Unless something feels like we don't feel like answering cooties as a concept that is literally false. Metaphorically, true question mark. Might have arisen out of a legitimate need to social distance during some past decade epidemic. Yes.
+
+Bret 35:00
+I've wondered about this and in fact, I get a little looking into it. At one point I'm trying to rember what the outgrowth was. I think it might have been lice, that there was something, you know, there's obviously very little truth to the fact that girls carry lice that boys can catch. And boys get lice that girls can catch. I mean, one could rescue a premise out of that, but it does suggest a misunderstanding. But anyway, yeah, of course, cooties could be a trainer for some sort of distancing?
+
+Heather 35:33
+Absolutely. This person is asking if Tw Ivey podcast channels a great place to get solid info and viruses, or he says that and then he asks thoughts. I don't know it. Do. You know,
+
+Bret 35:48
+I feel like I fit but i don't i haven't encountered it yet. So now so we know that
+
+Heather 35:52
+that's what are the top frequently questioned? answers on the subject of COVID-19? What are the top frequently questioned answers, and it's subjective? COVID-19? Well, that's, that's interesting.
+
+Bret 36:09
+I don't know what it means. Well,
+
+Heather 36:11
+so what what is accepted as the truth? That turns out to to have a lot of people saying, I'm not sure that's right. So I would say from it, for instance, early on the CFR, the case fatality rate, and now people are talking about the infection fatality rate was from a lot of us getting pushed back because of the so called denominator problem, because we simply had no idea still have no idea because the tests are being done, what the actual background infection rate is. So things are moving around here. So what else that we were taught, you know, we were told was true, by the government, by the CDC, the who, you know,
+
+Bret 36:58
+yeah, there's masked nonsense, which seems to have been a cover story for redirecting medical supplies that may or may have needed to be redirected towards medical professionals. But there's that, I would say, in general, the fact that we have such bad data on what actually happens in infections is a reflection of the fact that we have not been systematic about identifying a population and testing all of the things that we would like to answer within it. So I said in the last livestream, that I thought military bases might provide a place of study, these are not a population I want to see experimented on, I would be dead set against that. But I would like to see us take a population that has a describable limit, and figure out what we can learn about the progression of this disease in that population. For example, I would like for somebody to be able to say, what is the effect on the lungs of people who have had a non symptomatic or low symptomatic infection, and then somebody else be able to bring up a database and say, you know, on this military base, these people have had a low symptomatic infection and are four weeks out from their last indication, or something like that. Let us give them x rays and see whether they show evidence of lung damage, then we could know whether or not that damage accompanies these low level infections or if these low level infections are low damage and may provide immunity. That would also be a very interesting finding.
+
+Heather 38:38
+I think we're some of the only people I've heard talking about that though. So in terms of frequently questioned answers, at this point, the dog is shaking the entire studio. At this point, almost everything has been questioned. But the questions are often just kind of scattershot, because people have begun to distrust all sources of information. What are potential evolutionary components to lucid dreaming? as one who was only lucid dreams as far as I can recall, it often feels more like an affliction than a benefit.
+
+Bret 39:09
+You know,
+
+Heather 39:10
+I talked about this a little bit last livestream is where that's coming from.
+
+Bret 39:12
+Yeah, I would just say, we have cautiously taken a, a stance in favor of hacking one's environment, and hacking oneself. lucid dreaming may not be for you. hallucinogenic drugs may not be for you. But to the extent that you are looking to explore certain things, they could potentially provide exactly the tool you're looking for. And my point would be lucid dreams happen occasionally to many people who are not trying to have them and then other people cultivate the ability to get into that lucid state. It did occur to me after our last livestream, that the most important piece advice that I found in the Stanford sleep research on lucid dreams was that the way to trigger that state more regularly involves introducing into your normal waking life the question, am I dreaming such that every time something slightly odd happens, you ask yourself that question, it becomes habitual. And then you find yourself doing it while dreaming. And it dawns on you. Yes, actually, in fact, this is a dream, at which point, the question is, can you remain asleep? Or does that instantly wake you up? So anyway, it's a technique. And I would advise those who are interested to try it. And then once you get there, ask yourself, Am I better off doing this? And I certainly found that I was better off for it. But that, you know, I'm not still doing it. Because it had a cost. It was exhausting. And I got out of it. What you know, maybe I'll go back to it someday. But I got out of it. What I got out of it. I've moved on. But it was worth my question
+
+Heather 40:57
+seems to be coming from someone who has no control. And it's your default, I think her default state is in the opposite direction for most people's default state. So being stuck in lucid dreaming territory would indeed feel like an affliction with that.
+
+Bret 41:13
+Yep, I would say final thing on this is, the most interesting thing about the state was the fact that it was not a state of total control, not even remotely. It was a state in which I had control over what I did in dreams. But I had almost no control over what the world around me did. And I found that division to be very evolutionarily significant. In other words, it says, like life, it's a little bit like life is about right. And so anyway, it's certainly worth seeing whether the dividing line is in the same place for you as it was for me, and if so, what those implications might be for the utility of dreams.
+
+Heather 41:56
+Okay. So the next question, I think, is one that we just answered from the last livestream about languages and getting morphologically similar simpler over time. So we're not going to replay that conversation. What can evolutionary biology teach us about fixing our political systems, specifically, the two party monopoly, least of two turds keeps us in hurts?
+
+Bret 42:20
+That's good. Yeah, that's good. I would say, first of all, it may not be evolutionary biology, per se. But game theory, I believe certainly tells us that first past the post voting is liable to default into two incoherent parties. And our parties are beyond incoherent. They're also deeply corrupt. But there is a lesson in building a system in which corruption is avoided based on structural protections against its evolution. It's not a simple problem, but it is a tractable problem. And anyway, I think any effort at a better society will its success or failure depends critically on whether it has nailed the question of capture and how to prevent
+
+Heather 43:13
+good. If you were in charge of the COVID-19 response for the US, what would you do right now? I think I spelled it out a little bit in my description of what if Trump did it, we should all get behind, which is to say, make happen and distribute and get tested for both types of tests, antigen and antibody testing as widely as possible as quickly as possible. And as that is happening as quickly as possible. Explain to the public, what various results will mean in terms of release of lockdown in stages and how soon it might be able to happen, you know, what kinds of base infection rates suggest that we might be moving towards herd immunity? If we've got, you know, a significant number of people who've already been infected, can we start doing track and trace on people who develop new new cases? This information that's based on a plan from our government that is based on actual information is what we need and I have seen basically nothing, no evidence that the people at the highest levels of government are doing much to get testing widespread quickly.
+
+Bret 44:36
+And for my part, I would identify populations that could be studied with respect to a couple different questions a, what is the what are the basic facts about the infection and the damage that comes with it and what is the consequence of various different lockdown ravines So, among the many things you could study in a military based context would be, you could test the effect of various relaxations of the lockdown protocol. In particular, what happens if you free people to go into the outdoor spaces, maybe you even encourage them to go to the outdoor spaces. Maybe you have provisions for how you would be expected to do it. But if it is true that these things need to be locked down, then certainly we should find that out before we unlock them down. And if it is true, that people in lockdown can be free to do those activities, and it won't cause a jump in the infection rate, and it will cause a jump in psychological health based on not being you know, cooped up in your house, then we should know that so I would just say look, there's no mystery here. This is a set of phenomena it's study bubble in the same way every other set of phenomena is study about the way you would do this properly is you would identify a population that was representative enough and then you would start taking really good thorough data so you could ask any relevant question quickly and get an answer. And then we could stop doing what we're doing now which is basically responding blindly based on our intuition. It could just be done much better with data
+
+Heather 46:25
+I will say I'm not sure this is directly apropos but as we've we've begun talking at dinner about my and our growing concerns about sort of the ongoing maintenance to people's bodies and psyches that aren't happening during lockdown that you know, medical offices are closed dental offices are closed. I don't know about therapists actually presumably some of that can happen remotely but you know we've talked a lot about about movement and being outside and such but there are lots of other things that people need you know if this were just me if this were happening two years ago, and I was still I personally was still in the physical state I was in post boat accident or I suffered a remarkable boat accident and Galapagos on our study abroad trip and I was unable to be seeing the you know the do and the couple of bodywork people who really helped me get back together, I would be falling into disrepair rather you know, at this point it hasn't been whatever five or six weeks since I've been able to see anyone and you know we're lucky that none of us is in such a state at this point we're all able to be healthy and to maintain health through the activities that we can engage in at our home and near our home but there have to be many people and it has to be at higher risk the older they are who actually need sort of maintenance work at some level and talking about the lockdown as if it's binary has the same problem is talking about the the effect of the diseases if it's binary it's not you die you're fine and it's not you don't leave your house or everything is open you know it's probably going to be a while before nightclubs are deemed safe but going to your doctor or your massage therapist or in what you know any any number of types of things in which people can be safe but do do end up in close contact should be possible much sooner.
+
+Bret 48:29
+Yeah, it occurs to me that's probably isn't the right concept but we need something like Maslow's timeline of need. There are things which you don't need on the scale of a few weeks you might need on the scale of a few months this is
+
+Heather 48:45
+reference to Maslow may 20 century psychologist ish I think Hierarchy of Needs is graphically a pyramid.
+
+Bret 48:52
+Yeah, and anyway the point is to say that something is or isn't essential, you know, is buying pants essential
+
+Heather 49:01
+on whether or not you've got pants right
+
+Bret 49:02
+exactly at the point that all your pants are no longer functional, it becomes kind of important
+
+Heather 49:07
+well on this day this is too too silly but we've got a cat that eats socks. And you and Zachary have both lost a fair number of socks to this cat. And I went to get socks for Zachary to the site that I usually get socks from when they're closed. There's they're just they're closed for business for the for the foreseeable future.
+
+Bret 49:29
+Yes, except that all the dog people in our audience are thinking the solution to this problem is obvious.
+
+Heather 49:36
+I will say we have our dog in the room. We don't have any of the cats in the room here.
+
+Bret 49:40
+Our dog does not make socks though. So that's this is a problem. Yeah, she's
+
+Heather 49:43
+looking for good work and that hasn't occurred to her yet. Anyway, there is sort of a shortage of socks in our environment and and fewer abilities, fewer routes to getting them there. I'm
+
+Bret 49:53
+actually missing more left than rights which is weird.
+
+Heather 49:59
+Do you Do you believe that infinity goes macro and micro? I'd never thought about this before. I don't think so. I think there's a there's a hard floor. 00 and nothingness are real, and. And infinity can go out and up. And
+
+Bret 50:19
+yeah, I've always thought the zero was the loneliest number. I realize I'm in the minority on that one. But anyway, yeah, zero does seem to be a hard floor. Yeah. You could go fractional, infinitely, presumably. But I think Yeah, I'm going to I'm going to avoid this question. As a non mathematician, I feel I'm going to get myself in trouble.
+
+Heather 50:40
+Yeah, well, your brother's a mathematician Mine isn't.
+
+Bret 50:42
+So that's right now,
+
+Heather 50:45
+in biological versus civilization timeframes? Do viral outbreaks discouraged real breaking or rebellious behavior is that good long term human culture?
+
+Bret 50:58
+Can't quite follow.
+
+Heather 50:59
+There's there's a lot of a lot going on in this question. If we just take the middle part, do viral outbreaks discourage rule breaking or rebellious behavior?
+
+Bret 51:14
+It's not clear to me why they would it's also not clear to me that our relationship with viruses is not largely, I want to be very careful about this. It's not like we wouldn't have had any viruses. But the number of viruses that a person encounters in a lifetime, I think has radically changed as a result of the fact that all of these things that would circulate in a small population are now going global. And so you know, there are dozens of viruses circulating every winter and things like this. So anyway, it's not clear to me what the historical circumstance would have been and what its interaction would have been therefore with personality characteristics like the ones you're talking about. Interesting question, though.
+
+Heather 52:01
+How do we approach the insidiousness and addictiveness of the sugar in our food supply? Food? holics anonymous? What's a good first step for better health for the individual and for society? It's a great question. Sugar does seem to be one of the hidden pieces of the puzzle that until pretty recently, some combination of legitimate confusion and you know, big sugar, whatever the sugar lobby is, managed to keep obscure from many people. I know salt and fat. We are not medical doctors, salt and fat do not seem to be certainly not fat. And even salt does not seem to be the enemy of human health that, that we were told it was
+
+Bret 52:45
+we're not doctors, but we are hungry.
+
+Heather 52:48
+And, and obviously, and there's a lot of different kinds of fat. So there are plenty of fats that are plenty bad for you. But plant fats, animal fats, yes, even animal fats are far better from you then again, fats that were synthesized in the lab, on average. So sugar is has been in short supply in our diet. In the past, as salt has eyes fat has which explains our cravings. But the ability to turn beets and sugarcane into crystal and form and bake them into deliciousness is quite new. And you know what? It's a few 100 years old, really? Right. So what's a good first step? I mean, I think at some level, the last five or 10 years, we've been beginning to take this step that increasingly people are aware of, of how toxic sugar actually is. But I don't off the top of my head have a better answer than that?
+
+Bret 53:48
+Yeah, I would say, I don't think all sugars are equal. They're definitely too easily accessed. And we are very tuned into their presence because of their obvious. High caloric value.
+
+Heather 54:01
+Yeah, Fritos. The sugar and maple syrup far better for you than sucrose derived from beets and cane sugar.
+
+Bret 54:10
+But the basic advice would be, you're not going to regret weaning yourself off of especially those suspect sugars and substituting other stuff.
+
+Heather 54:21
+Yep. And you know, we say that as people who eat sugar, it's not that we are we are pure in this regard. Okay, next question. Five minutes more. Okay. We'll get through as many of these as we can. Do you know if there are any studies regarding the mental health cost of the shutdown? I'm sure the effect is negative, but it's hard to quantify. We should think about it when talking about how long the shutdown will last. Yeah, I mean, I think we've, we have been talking about it. I am not aware of any studies, if anyone is maybe send send a link to one of our emails which you can find on our web pages. But I don't think any such work. has been done yet.
+
+Bret 55:02
+I read something, I'm not prepared to put any weight on it. But I would say I wouldn't leap to the conclusion that certainly it's going to be negative for some people. And over the longer At last, probably the more negative for the more for more people. But there are, some people are finding a great deal of purpose in being freed from what they were doing, and being put into service generating something new and productive to do. If this is you don't distrust it. It's important. One of the things that that modern civilization has done is it has robbed us of meaning. And yes, this is a terrible predicament. But if it has given you something to think about, and some way to reengineer your life and innovate, go with it. You know, it's this is this has been costly. If there's some upside to it, that's all to the good.
+
+Heather 55:59
+Hi, my name is john Weisberg, and I'm wondering what you think about Eric's your brother's idea on lead? Gen. That's the gated institutional narrative. And how do we break that gate? Cheers.
+
+Bret 56:10
+Yeah, I'm a fan of this idea. I've certainly encountered the gated institutional narrative more times than I can count. Yeah. And you know, is that the precise description of it? You know, obviously, it's a it's a metaphor, but it stands for something real, how the gin happens, how it functions, is up for discussion. But let's put it this way, those who have encountered it, have a pretty good idea what Eric is talking about. And if you haven't encountered it, then you ought to listen to those of us who have and say, Wow, isn't it interesting that people who, you know, don't seem crazy are talking about encounters with this. You know, glass like barrier that prevents things that need to happen from happening prevents things that need to be said from being voiced in certain places. It's real. I don't know how it came to be, but it's definitely an obstacle to progress.
+
+Heather 57:11
+Two more questions, and then we'll sign off. Is this the end of the industrial revolution? has nobody noticed that the system has failed, it is starting to look like billions of people that rely on the system will die.
+
+Bret 57:23
+Many of us have noticed that the system has failed. That said, it can get far worse. And I know many of the people who understand that the system has failed, I have a belief that basically Okay, collapse is coming, let it happen, and then we'll rebuild. No, you won't. We have to retool without collapse occurring. And that is a difficult and frightening prospect. It's the first time this has happened to humanity, that we're actually utterly dependent on the fragility of the system, not having it grind to a halt, because we are all dependent on it. Even those of us who understand it's broken us.
+
+Heather 58:03
+Okay, next one is not a question but just that you have been sent on to your website address a paper on exercise and aging. So final question, what do you guys think about states like Georgia reopening non essential businesses on the 27th? I assume that means the 27th of April, here in Oregon, there's been talk about end of May as a reopening date. I hadn't heard that it really depends on what's going on in those states. To some degree, it seems early. On the other hand, some states are far less affected. On the other hand, how is it that you're then going to patrol the borders?
+
+Bret 58:41
+I would say in addition, I am very concerned about what it is that will trigger the various races to the bottom between the states, between nations between people. And let's say, let's give Georgia the benefit of the doubt here. Let's say Georgia knows something about its own epidemiology that actually justifies it going off lockdown. But then other states start looking at Georgians behaving normally and begin to feel that Georgians are pulling away and that they need to get back into the race. The race to the bottom gets triggered all too easily. And lots of places can't afford to go off lockdown. So as I've been saying, Now for weeks, we need to think about the game theory. And we need to figure out at the moment, the world is on pause. At the point you start taking parts of the world off pause, a whole different thing unfolds. And the importance of what will unfold is would be difficult to overstate. It's really potentially a major disaster epidemiologically and in other ways as well. So let's be really careful not to rush to reopen things. And as I said earlier, let's study ways that we could relax The lockdown without triggering such a cascade.
+
+Heather 1:00:05
+So not a question. But one last thing someone writes in that he listens to a lot of streaming and that we should be asking you the listeners to all hit the like button. The likes should reflect the people in chat. So here we are asking you guys
+
+Bret 1:00:19
+yeah, could you hit the like button, the subscribe button, maybe the notify button. We would appreciate all those things. It is a an excellent way to support us. And it costs you nothing. So that's right, at least do that. Yeah.
+
+Heather 1:00:33
+So we'll be back on Saturday at 1230 at noon, 30 and noon, 30. Pacific time, which will allow some of our fans in Europe to tune in live potentially,
+
+Bret 1:00:46
+and possibly we will even deliver some of the podcast in European. Wow, I know
+
+Heather 1:00:52
+it's continental European or can we go to the UK?
+
+Bret 1:00:54
+I'm not ready to get specific but you'll find out on Saturday. All right. Thanks, everybody. And we'll see you then.
+
+This transcript was generated by https://otter.ai
